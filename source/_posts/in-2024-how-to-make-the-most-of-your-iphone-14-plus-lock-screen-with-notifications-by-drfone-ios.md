@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?
-date: 2024-04-01T06:56:57.128Z
-updated: 2024-04-02T06:56:57.128Z
+date: 2024-04-01T12:57:22.558Z
+updated: 2024-04-02T12:57:22.558Z
 tags: 
   - unlock
   - remove screen lock

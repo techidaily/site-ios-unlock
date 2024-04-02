@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking iPhone 14 Plus with a Broken Screen?
-date: 2024-04-01T06:56:57.112Z
-updated: 2024-04-02T06:56:57.112Z
+date: 2024-04-01T12:57:22.526Z
+updated: 2024-04-02T12:57:22.526Z
 tags: 
   - unlock
   - remove screen lock

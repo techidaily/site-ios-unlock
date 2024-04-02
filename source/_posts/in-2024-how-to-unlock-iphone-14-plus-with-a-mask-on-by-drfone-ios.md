@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 14 Plus with a Mask On
-date: 2024-04-01T06:56:57.168Z
-updated: 2024-04-02T06:56:57.168Z
+date: 2024-04-01T12:57:22.595Z
+updated: 2024-04-02T12:57:22.595Z
 tags: 
   - unlock
   - remove screen lock

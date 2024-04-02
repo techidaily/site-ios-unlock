@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Open Your iPhone 14 Plus Without a Home Button
-date: 2024-04-01T06:56:57.138Z
-updated: 2024-04-02T06:56:57.138Z
+date: 2024-04-01T12:57:22.570Z
+updated: 2024-04-02T12:57:22.570Z
 tags: 
   - unlock
   - remove screen lock

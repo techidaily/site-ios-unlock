@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions
-date: 2024-04-01T06:56:57.134Z
-updated: 2024-04-02T06:56:57.134Z
+date: 2024-04-01T12:57:22.566Z
+updated: 2024-04-02T12:57:22.566Z
 tags: 
   - unlock
   - remove screen lock
