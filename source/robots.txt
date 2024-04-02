@@ -1,4 +1,4 @@
-Sitemap: https://ios-unlock.techidaily.com/sitemap.txt
+Sitemap: https://ios-unlock.techidaily.com/sitemap.xml
 User-agent: Googlebot
 Disallow:
 
