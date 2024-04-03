@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-04-01T12:57:22.602Z
-updated: 2024-04-02T12:57:22.602Z
+date: 2024-04-02T00:47:57.896Z
+updated: 2024-04-03T00:47:57.896Z
 tags: 
   - unlock
   - remove screen lock

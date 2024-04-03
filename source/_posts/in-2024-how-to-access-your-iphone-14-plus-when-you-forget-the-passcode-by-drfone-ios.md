@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your iPhone 14 Plus When You Forget the Passcode?
-date: 2024-04-01T12:57:22.532Z
-updated: 2024-04-02T12:57:22.532Z
+date: 2024-04-02T00:47:57.832Z
+updated: 2024-04-03T00:47:57.832Z
 tags: 
   - unlock
   - remove screen lock

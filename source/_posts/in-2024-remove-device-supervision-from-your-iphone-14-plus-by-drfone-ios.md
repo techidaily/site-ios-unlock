@@ -1,7 +1,7 @@
 ---
 title: In 2024, Remove Device Supervision From your iPhone 14 Plus
-date: 2024-04-01T12:57:22.572Z
-updated: 2024-04-02T12:57:22.572Z
+date: 2024-04-02T00:47:57.852Z
+updated: 2024-04-03T00:47:57.852Z
 tags: 
   - unlock
   - remove screen lock
