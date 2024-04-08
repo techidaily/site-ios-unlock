@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Unlock iPhone 14 Plus without Passcode or Face ID
-date: 2024-04-02T00:47:57.899Z
-updated: 2024-04-03T00:47:57.899Z
+date: 2024-04-02T07:01:33.057Z
+updated: 2024-04-03T07:01:33.057Z
 tags: 
   - unlock
   - remove screen lock

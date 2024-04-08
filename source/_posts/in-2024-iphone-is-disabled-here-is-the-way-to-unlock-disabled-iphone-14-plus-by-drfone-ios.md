@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Plus
-date: 2024-04-02T00:47:57.840Z
-updated: 2024-04-03T00:47:57.840Z
+date: 2024-04-02T07:01:33.041Z
+updated: 2024-04-03T07:01:33.041Z
 tags: 
   - unlock
   - remove screen lock

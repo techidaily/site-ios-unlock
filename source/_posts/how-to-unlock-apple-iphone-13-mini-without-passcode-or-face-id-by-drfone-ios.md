@@ -1,0 +1,426 @@
+---
+title: How to Unlock Apple iPhone 13 mini without Passcode or Face ID
+date: 2024-03-29 11:12:10
+updated: 2024-04-01 20:33:33
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - ios
+  - iphone
+description: This article describes How to Unlock Apple iPhone 13 mini without Passcode or Face ID
+excerpt: This article describes How to Unlock Apple iPhone 13 mini without Passcode or Face ID
+keywords: open iphone without home button,doctorism unlock review,how to unlock iphone 12,how to unlock an iphone 13,how to unlock iphone to use usb accessories,get into locked iphone,unlock iphone with apple watch,reset iphone backup password
+thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+---
+
+## How to Unlock Apple iPhone 13 mini without Passcode or Face ID
+
+You can't access your Apple iPhone 13 mini because the Face ID isn't working, and you forgot your passcode? So you are considering **how to unlock iPhone without face ID or passcode**. If so, this article will walk you through how to do that.
+
+Firstly, one ought to realize that it is impossible to hack an iPhone passcode. Therefore, the primary way that attempts to unlock your device without a PIN or Face ID is to erase it. After reading this guide, you will figure out **how to unlock iPhone without passcode or face ID**. Keep reading to find out more and learn about the best tools in the business.
+
+## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
+
+### 1\. Unlock it via Find My
+
+- Go to the iCloud official site, and sign in to your iCloud account. The site will give you two or three choices when you log in. Click on "Find iPhone" to proceed.
+- You will be taken to another interface. Click "All devices" and select the Apple iPhone 13 mini on which you need to erase the passcode.
+- Click on "Erase iPhone", and afterwards affirm the decision. That's the simplest solution for **how to unlock iPhone without passcode or face ID.**
+
+![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
+
+### 2\. Via iTunes
+
+**Step 1. Go to Recovery Mode**
+
+Entering the recovery mode requires various steps, given your Apple iPhone 13 mini model or settings. Assuming you're uncertain which one you have, check the rear of your phone or the client manual you got in the first box.
+
+![enter recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-2.jpg)
+
+**iPhone 8 and Above:**
+
+- Hold the Side button used to lock your screen and both Volume buttons. The power-off slider will show up on the screen.
+- Drag the slider to one side to switch off your Apple iPhone 13 mini.
+- Use a lightning connector to plug your Apple iPhone 13 mini into a Macintosh or PC while holding the Side button.
+- Keep holding the button until the recovery screen shows up.
+
+**iPhone 7/7 Plus:**
+
+- Hold the Side button used to lock your screen until the power-off slider shows up.
+- Switch off your Apple iPhone 13 mini.
+- Connect your Apple iPhone 13 mini to a Macintosh or PC through a connector while holding the Volume (-) button.
+- Continue to press the button until you get to recovery mode.
+
+**iPhone 6 or Below:**
+
+- Hold the Side or Top button and trust that the power-off slider will appear.
+- Switch off your Apple iPhone 13 mini.
+- Connect your Apple iPhone 13 mini to a system through a connector while holding the Home button.
+- Keep the Home button held until you see the recovery screen.
+
+**Step 2. Select your Device on your System**
+
+After entering recovery mode, you'll have to continue on your Macintosh or PC. Then, contingent upon your OS, follow the aide underneath to begin unlocking your Apple iPhone 13 mini.
+
+**macOS Catalina**
+
+- Go to the Finder window.
+- Your Apple iPhone 13 mini will appear on the left half of the Finder window under Locations. You can tap on it to choose it.
+
+![macos catalina requirements](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-3.jpg)
+
+**macOS Mojave or a Windows with iTunes**
+
+If your gadget isn't running macOS Catalina or later, you'll need to involve iTunes to connect your Apple iPhone 13 mini. In the first place, download iTunes on your PC. Then, take the appropriate steps depending on which iTunes version you're running:
+
+- On iTunes 12 and newer, click on the Apple iPhone 13 mini symbol in the upper-left corner of the iTunes window.
+- On iTunes 11, click on the Apple iPhone 13 mini tab on the right half of the iTunes window.
+- On iTunes 10, the Apple iPhone 13 mini will be in the sidebar on the left.
+
+**Step 3. Pick the Choice to Restore**
+
+When you've effectively connected and chosen your Apple iPhone 13 mini on a Mac or a PC, tap on the Restore button. And that's **how to unlock iPhone without passcode or face ID.**
+
+### 3\. DNS Server
+
+The following steps explain **how to unlock iPhone without face ID or passcode** using a DNS server:
+
+**Step 1.** Pick your LANGUAGE and COUNTRY from the lock screen menu after switching on a locked device.
+
+**Step 2.** Click "Continue" to enter the WiFi settings page. Whenever requested to connect to WiFi, search for the "I" next to the WiFi tab.
+
+**Step 3.** Disconnect your current network, go to "Network/connection Settings", and click Forget.
+
+![dns bypass](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-4.jpg)
+
+**Step 4.** Click the "I" and enter a DNS server IP address to bypass the lock. IP addresses of different regions are given below:
+
+- USA: 104.154.51.7
+- South America: 35.199.88.219
+- Europe: 104.155.28.90
+- Asia: 104.155.220.58
+- Australia and Oceania: 35.189.47.23
+- Others: 78.100.17.60
+
+**Step 5.** Then, click the "Back" choice at the left half of your screen, turn the WiFi on and select your network. Enter your WiFi passcode.
+
+![activate iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-5.jpg)
+
+**Step 6.** Click Next Page > Back to enter the lock bypass screen. These are all the required steps for **how to unlock iPhone without passcode or face ID 2022.**
+
+### 4\. Dr.Fone-Screen Unlock
+
+
+This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
+
+Dr.Fone will not only remove the screen lock but also make sure to keep your identity safe. In addition, it is the easiest method and requires no prior knowledge. So if you are someone new to this technology, we suggest you follow the steps below:
+
+**Step 1. Launch the Software on your PC**
+
+After successfully installing Dr.Fone on your PC, open it and select the "Screen Unlock" tool from the main interface.
+
+![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Next, connect your locked phone to the system through a wired connection. Then go for the iOS screen unlock feature.
+
+![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 2. Recovery or DFU Mode Boot**
+
+It is necessary to first boot your locked device in recovery or DFU mode. Follow the guidelines on your screen to do so. The Recovery mode is the suggested way for iOS screen locks. If you can't actuate this mode, go for the DFU mode boot.
+
+![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+**Step 3. Select your Apple iPhone 13 mini Model**
+
+After the phone is in recovery/DFU mode, the program will show the locked device's information. Here you can see the model and iOS variant of the Apple iPhone 13 mini device. If it isn't correct, you could choose the right one from the dropdown menu next to it. After that, click the Download button to get the required firmware for your locked phone.
+
+![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+**Step 4. Remove the Screen Lock**
+
+After downloading the firmware effectively, click the "Unlock Now" button to let Dr.Fone unlock your Apple iPhone 13 mini.
+
+![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+Simply in no time, Dr.Fone will successfully unlock your device.
+
+**Note:** This unlocking process will erase everything off your Apple iPhone 13 mini and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
+
+
+## Part 2: How to Turn Off Passcode or Face ID on My Device?
+
+Face ID can be a helpful method for unlocking your Apple iPhone 13 mini - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
+
+Here's the step-by-step guide to the most effective method to switch off Face ID on the iPhone:
+
+### 1\. Open the Settings application
+
+First, tap on your Settings app to open it. That is the one on the home screen with a symbol like the mechanical gear.
+
+### 2\. Tap on Face ID and Passcode
+
+On the Settings menu, tap on the Face ID and Passcode menu.
+
+![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
+
+### 3\. Enter your passcode
+
+At this stage, you'll be approached to enter your passcode, so do this to get to the Face ID and Passcode menu.
+
+### 4\. Switch off Face ID
+
+You'll have the option to turn off the switch for Face ID across different activities, including the phone unlock.
+
+![turn off passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-7.jpg)
+
+## Part 3: Can I bypass my iPhone Face ID with a picture?
+
+As indicated by Apple, the short and obvious answer is no.
+
+FaceID isn't simply a camera snapping a picture. It utilizes an exceptional chip to filter the face with many spots. It makes a 3D contour of the look that works in low, glorious light around evening time, and your eyes must be opened. The opportunity to randomly unlock an iPhone with FaceID is 1/1 million, compared to 1/50000 with Touch ID.
+
+It doesn't work by snapping a picture of your face, but by taking a contour of your face if you utilize a camera that can see infrared. However, a photograph is a level and cannot give a dab matrix required for Face ID to work. You may be holding a clear piece of paper before the phone.
+
+### The Bottom Line
+
+That's all about our take on **how to unlock iPhone without passcode or face ID 2022.** We have worked hard to make sure you get the right solutions in hand. However, we strongly suggest Dr.Fone if you still face issues with our solutions. Even if the above methods fail, Dr.Fone will ensure you unlock your phone.
+
+## Unlock Apple iPhone 13 mini Without Passcode Easily
+
+In the ever-growing world of smartphones and the latest tech, Apple has always earned its place among the top. However, as is bound to happen with every other device, you can frequently face issues with your Apple iPhone 13 mini along the way.
+
+One of the most common troubles to arise for smartphone owners is accidentally locking your Apple iPhone 13 mini due to multiple reasons. It is a rather frequently occurring incident that can prove to be quite devastating in different scenarios. Well, now you need not fret any longer.
+
+In this article, you will find a compilation of all the best methods to unlock the Apple iPhone 13 mini without passcode and how to change or remove it easily. Let's begin!
+
+## **Part 1: How to Unlock Apple iPhone 13 mini Without Passcode?**
+
+Accidentally locking your Apple iPhone 13 mini can be very troublesome. It can prove to be a rather upsetting situation where one just doesn't know what to do. In such cases, it is important to know how to unlock Apple iPhone 13 mini without the passcode. Several third-party tools are available that do the job for you.
+
+The [Dr.Fone – Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) software by Wondershare is considered to be the best choice in this regard. It is used to remove screen locks of almost all types from a wide range of phones. Not only does the program removes screen passcodes for free, but it is also incredibly easy to use.
+
+The program also serves some amazing additional features such as:
+
+- Dr.Fone removes several different types of screen locks, including passwords, pins, patterns, and even fingerprints.
+- It is very easy to use. This serves as a great advantage to people that are not very tech-savvy. Now, you no longer need large algorithms or spend a great amount of money to unlock your Apple iPhone 13 mini.
+- The program is compatible with a large number of devices from various companies. It works for iOS, Samsung, Huawei, Xiaomi, etc.
+- It is compatible with all the latest versions of iOS 14 and Android 10.0.
+
+With a few simple steps, you can unlock your Apple iPhone 13 mini  using Dr.Fone. Firstly, download and launch the application on your computer, be it Mac or Windows. Then, proceed as mentioned below.
+
+**Step 1: Connect your Apple iPhone 13 mini to the Computer**
+
+The first step you need to connect your Apple iPhone 13 mini  to your computer. Launch Dr.Fone and among all the tools visible on the screen, click on "Screen Unlock.
+
+![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 13 mini within seconds.
+
+![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 2: Boot iPhone in DFU Mode**
+
+On the screen, you will see instructions to enter DFU mode. Follow them and boot your Apple iPhone 13 mini in DFU.
+
+![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+**Step 3: Confirmation of Model**
+
+Next, confirm the model of your device model and system version that the tool has detected. If the system has made an error in identifying your device and want to change it, simply select the right option from the dropdown menu.
+
+![ios unlock 3](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+**Step 4: Download Firmware**
+
+Once you have selected the model, click on the “Start” or “Download” button to let the program download the firmware for your device.
+
+**Step 5: Unlock iPhone**
+
+When the firmware is downloaded successfully, all you have to do is click on the "Unlock Now" button to unlock your Apple iPhone 13 mini . It is important to note that it will result in complete erasure of your phone data, but there isn't any other way of doing it at the moment.
+
+![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+## **Part 2: Remove Passcode by Restoring Apple iPhone 13 mini/Apple iPhone 13 mini Plus**
+
+If your Apple iPhone 13 mini has been accidentally locked or disabled, there is an effective method to restore it. You can erase your Apple iPhone 13 mini  data and restore it from iTunes if you have previously backed up with it. Backing up data regularly is an advisable way to avoid the trouble of losing it forever.
+
+Here are the steps to recover Apple iPhone 13 mini  via iTunes backup.
+
+1. Plug your Apple iPhone 13 mini into your computer and open iTunes.
+2. Click on "Summary," which shall be visible on the left side of the screen.
+
+    ![feasible ways to unlock Apple iPhone 13 mini 1](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-1.jpg)
+
+3. From there, look for the “Restore Backup” option and click on it. A confirmation window will pop up. Confirm your action.
+
+    ![feasible ways to unlock Apple iPhone 13 mini 2](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-2.jpg)
+
+4. You shall be asked to enter your iTunes account information. Enter the previously used account to set up the Apple iPhone 13 mini and navigate through the instructions to register.
+5. Select a suitable backup that you wish to use for the restore.
+6. The last step is to click on "Restore." iTunes will restore your Apple iPhone 13 mini's data and settings.
+
+    ![feasible ways to unlock Apple iPhone 13 mini 3](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-3.jpg)
+
+## **Part 3: How to Change Passcode on Apple iPhone 13 mini?**
+
+If you wish to know how to change the passcodes on Apple iPhone 13 mini, you are at the right place. Changing the passcode on one’s device is a rather mundane task and is not at all as laborious a task as it may seem. Various types of passcodes are available to be configured in your device, as suited by a user’s personal preference.
+
+If you wish to change the passcode on Apple iPhone 13 mini , simply follow the steps given below.
+
+1. Go to the "Settings" panel of your Apple iPhone 13 mini.
+2. Scroll down until you see the option “Touch ID & Passcode” and click on it.
+
+    ![feasible ways to unlock Apple iPhone 13 mini 4](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-4.jpg)
+
+3. Type in your current passcode to proceed.
+4. Here, click on the option "Change Passcode."
+
+    ![feasible ways to unlock Apple iPhone 13 mini 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
+
+5. Once again, enter your current password.
+6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
+
+    ![feasible ways to unlock Apple iPhone 13 mini 6](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-6.jpg)
+
+7. Select a specific passcode type, enter your new password and click on "Next."
+
+    ![feasible ways to unlock Apple iPhone 13 mini 7](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-7.jpg)
+
+8. Enter your new password once again for confirmation and conclude the process by clicking on "Done."
+
+### Closing
+
+Now you know what to do the next time you forget your passcode. Using the simple methods and techniques mentioned above, you can easily restore your Apple iPhone 13 mini the passcode, or you can unlock your Apple iPhone 13 mini without knowing the passcode, avoiding much trouble. Hopefully, this could prove to be of service to you.
+
+
+
+## How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken?
+
+In today’s world, your phone is your most important asset. Especially when you own an iPhone, you’re much more careful because it is pretty expensive than normal phones. You're always making sure to keep it safe and secure, but Apple has ways to keep you away from this hassle.
+
+Apple ensures the privacy and security of its customers. For that, it has introduced this excellent feature of Find My iPhone, which keeps track of the location of your device no matter in which part of the world you are. So, if you've lost your Apple iPhone 13 mini or it is stolen, this app is your savior.
+
+Downloading and enabling Find My iPhone can be really easy and cinch but turning it off can be an arduous task. But we have you covered through this article that shall tell you about this app in detail and guide you on how to turn off Find My iPhone even when your Apple iPhone 13 mini is broken.
+
+## Part 1: What is Find My iPhone?
+
+Find My iPhone is an application forged by Apple that keeps track of your Apple iPhone 13 mini's location protects your data. Once you enable this application, it requires your iCloud password to unlock your phone to keep your Apple iPhone 13 mini safe from the wrong hands. This application comes in handy when you accidentally lose or misplace your phone.
+
+The best part about this application is that it is free of cost. It usually comes built-in your Apple iPhone 13 mini already, but if not, you can easily download it from the app store. Sign in with your Apple ID, and it will automatically locate your Apple iPhone 13 mini no matter where you go.
+
+## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
+
+[Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+Turning Off Find My iPhone Within Second.
+
+- Maintains the security of your data and keeps it in its original form.
+- Recovers your data from damaged or broken devices.
+- Erase’s data in such a way that no other software can recover it.
+- Has great integration with iOS and macOS.
+
+**3981454** people have downloaded it
+
+Dr.Fone can also be a great solution for how to turn off Find My iPhone when your Apple iPhone 13 mini is broken.
+
+**Step 1: Install Dr. Fone**
+
+Launch Wondershare Dr.Fone on your computer and connect your Apple iPhone 13 mini with it via cable.
+
+**Step 2: Unlock Apple ID**
+
+Open Wondershare Dr.Fone and select “Screen Unlock” among the other options on the home interface. Now another interface will appear displaying four options. Click on "Unlock Apple ID."
+
+![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 3: Remove Active Lock**
+
+After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
+
+![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
+
+**Step 4: Jailbreak your Apple iPhone 13 mini**
+
+Jailbreak your Apple iPhone 13 mini by following the instructions given by the system. Once you complete them, click on "Finish Jailbreak."
+
+![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
+
+**Step 5: Confirmation Window**
+
+A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
+
+![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
+
+**Step 6: Unlock your Apple iPhone 13 mini**
+
+Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
+
+![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+**Step 7: Turn off Find My iPhone**
+
+As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
+
+![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
+
+iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone 13 mini with other iOS devices so you can share your data, documents, and location with other iCloud users.
+
+As mentioned earlier, turning off Find My iPhone can be very complex. But if your Apple iPhone 13 mini is damaged in some way, turning it off can be much more stressful. Here, iCloud can come to the rescue as it’s the most effective solution for how to turn off Find My iPhone when your phone is broken.
+
+Here we have explained to you step by step how to turn off Find My iPhone on broken iPhone using iCloud:
+
+**Step 1:** Go to the official website of iCloud.com and enter your credentials to sign in with your Apple ID.
+
+**Step 2:** Click on the "Find My iPhone" icon at the end of the page. The app will start locating your device, but as your Apple iPhone 13 mini is damaged, it might not find anything.
+
+![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
+
+**Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 13 mini, which you want to remove by clicking on "Remove from account."
+
+![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
+
+**Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
+
+![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
+
+## Part 4: Turn off Find My iPhone using Recovery Mode
+
+The recovery model of the Apple iPhone 13 mini allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone 13 mini updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
+
+However, Recovery Mode can also be useful to turn off Find My iPhone on your device. Here are the steps that will guide you on how to turn off Find My iPhone on a broken phone using Recovery Mode.
+
+**Step 1:** Connect your Apple iPhone 13 mini to your computer via cable and wait for your computer to detect your device.
+
+**Step 2:** As soon as your Apple iPhone 13 mini is detected, open iTunes and force restart your phone to activate the Recovery Mode. Activating this mode is different for different models of iPhone.
+
+- For iPhone 8 and the later: Press the Volume Down button and release is immediately. Then press the Volume Up button and release it immediately again. After that, press and hold the Power Button until you see the Apple logo.
+- For iPhone 7 and 7+: Press the Power Button and Volume Down button at the same time and hold them until the Apple logo appears on your screen.
+- For iPhone 6s, and Previous Models: Press and hold the Home Button and Power button concurrently until your Apple iPhone 13 mini shows the Apple logo.
+
+Once your Apple iPhone 13 mini shows the Apple logo, it means the Recovery Mode is activated.
+
+![wait for apple logo to appear](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-4.jpg)
+
+**Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 13 mini. Once the process is completed, you can set up your Apple iPhone 13 mini as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
+
+![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
+
+### Conclusion
+
+Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 13 mini is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 13 mini to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock iPhone 14 Plus Without Swiping Up? 6 Ways
-date: 2024-04-02T00:47:57.858Z
-updated: 2024-04-03T00:47:57.858Z
+date: 2024-04-02T07:01:33.049Z
+updated: 2024-04-03T07:01:33.049Z
 tags: 
   - unlock
   - remove screen lock

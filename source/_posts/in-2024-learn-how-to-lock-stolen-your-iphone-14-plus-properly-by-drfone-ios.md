@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your iPhone 14 Plus Properly
-date: 2024-04-02T00:47:57.850Z
-updated: 2024-04-03T00:47:57.850Z
+date: 2024-04-02T07:01:33.045Z
+updated: 2024-04-03T07:01:33.045Z
 tags: 
   - unlock
   - remove screen lock

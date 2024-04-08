@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 14 Plus Backup Password? Heres What to Do
-date: 2024-04-02T00:47:57.837Z
-updated: 2024-04-03T00:47:57.837Z
+date: 2024-04-02T07:01:33.040Z
+updated: 2024-04-03T07:01:33.040Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Flashlight From iPhone 14 Plus Lock Screen
-date: 2024-04-02T00:47:57.853Z
-updated: 2024-04-03T00:47:57.853Z
+date: 2024-04-02T07:01:33.047Z
+updated: 2024-04-03T07:01:33.047Z
 tags: 
   - unlock
   - remove screen lock

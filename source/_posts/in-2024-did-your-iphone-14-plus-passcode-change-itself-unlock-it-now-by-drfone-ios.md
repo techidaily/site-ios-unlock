@@ -1,7 +1,7 @@
 ---
 title: In 2024, Did Your iPhone 14 Plus Passcode Change Itself? Unlock It Now
-date: 2024-04-02T00:47:57.845Z
-updated: 2024-04-03T00:47:57.845Z
+date: 2024-04-02T07:01:33.043Z
+updated: 2024-04-03T07:01:33.043Z
 tags: 
   - unlock
   - remove screen lock
