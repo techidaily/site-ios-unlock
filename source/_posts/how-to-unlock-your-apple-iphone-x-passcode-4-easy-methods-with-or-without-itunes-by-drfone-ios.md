@@ -617,6 +617,12 @@ Having trouble with **swipe up not working on an iPhone** can be annoying. It st
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone X. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone X even when gestures aren't working properly.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
