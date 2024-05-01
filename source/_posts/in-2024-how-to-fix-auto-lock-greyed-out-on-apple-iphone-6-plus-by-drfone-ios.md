@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
-date: 2024-04-12T12:40:59.963Z
-updated: 2024-04-13T12:40:59.963Z
+date: 2024-04-30T17:01:56.294Z
+updated: 2024-05-01T17:01:56.294Z
 tags: 
   - unlock
   - remove screen lock
@@ -655,3 +655,4 @@ After following these solutions, you can use your Apple iPhone 6 Plus and surpas
 <li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-7-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 7 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-a14-4g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy A14 4G for Free? | Dr.fone</u></a></li>
 </ul></div>
+

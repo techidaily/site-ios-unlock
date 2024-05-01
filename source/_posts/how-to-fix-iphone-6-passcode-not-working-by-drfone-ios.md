@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 6 Passcode not Working?
-date: 2024-04-12T12:40:00.239Z
-updated: 2024-04-13T12:40:00.239Z
+date: 2024-04-30T17:01:55.570Z
+updated: 2024-05-01T17:01:55.570Z
 tags: 
   - unlock
   - remove screen lock
@@ -530,3 +530,4 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-gt-5-drfone-by-drfone-virtual-android/" ><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme GT 5 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v30-pro-drfone-by-drfone-virtual-android/" ><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V30 Pro | Dr.fone</u></a></li>
 </ul></div>
+

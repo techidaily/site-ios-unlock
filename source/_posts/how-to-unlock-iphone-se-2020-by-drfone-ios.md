@@ -531,3 +531,4 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-6-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/" ><u>How to Unlock Your Apple iPhone 6 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/" ><u>Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
 </ul></div>
+

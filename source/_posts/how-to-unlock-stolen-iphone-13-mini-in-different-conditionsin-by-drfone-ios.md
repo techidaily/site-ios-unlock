@@ -447,3 +447,4 @@ So, if you have forgotten your Apple iPhone 13 mini passcode and are looking for
 <li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6-plus-by-drfone-ios/" ><u>How Do You Remove Restricted Mode on Apple iPhone 6 Plus</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-6-plus-after-forgetting-the-passcode-by-drfone-ios/" ><u>Can You Unlock Apple iPhone 6 Plus After Forgetting the Passcode?</u></a></li>
 </ul></div>
+

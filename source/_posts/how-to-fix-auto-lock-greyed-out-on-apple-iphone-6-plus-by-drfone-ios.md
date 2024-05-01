@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
-date: 2024-04-12T12:40:33.691Z
-updated: 2024-04-13T12:40:33.691Z
+date: 2024-04-30T17:01:55.974Z
+updated: 2024-05-01T17:01:55.974Z
 tags: 
   - unlock
   - remove screen lock
@@ -506,3 +506,4 @@ So, if you have forgotten your Apple iPhone 6 Plus passcode and are looking for 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
 </ul></div>
+

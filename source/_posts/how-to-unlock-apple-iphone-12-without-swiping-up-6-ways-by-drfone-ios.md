@@ -461,3 +461,4 @@ A locked Apple iPhone 12 is never a pretty sight. Fortunately, there are a coupl
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-8-passcode-without-a-computer-by-drfone-ios/" ><u>Unlocking Apple iPhone 8 Passcode without a Computer</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xr-lock-screen-by-drfone-ios/" ><u>How To Remove Flashlight From Apple iPhone XR Lock Screen</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 6 Backup Password? Heres What to Do
-date: 2024-04-12T12:39:59.614Z
-updated: 2024-04-13T12:39:59.614Z
+date: 2024-04-30T17:01:55.460Z
+updated: 2024-05-01T17:01:55.460Z
 tags: 
   - unlock
   - remove screen lock
@@ -578,3 +578,4 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-se-2020-without-passcode-now-by-drfone-ios/" ><u>Forgot iPhone Passcode Again? Unlock iPhone SE (2020) Without Passcode Now</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-xr-properly-by-drfone-ios/" ><u>Learn How To Lock Stolen Your Apple iPhone XR Properly</u></a></li>
 </ul></div>
+

@@ -504,3 +504,4 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-11-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 11 Pro Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-z-flip-5-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy Z Flip 5 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+

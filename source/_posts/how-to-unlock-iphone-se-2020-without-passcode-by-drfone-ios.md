@@ -473,3 +473,4 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-by-drfone-ios/" ><u>Different Methods To Unlock Your iPhone 12</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-screen-by-drfone-ios/" ><u>How to Unlock Apple iPhone 12 Pro Max Passcode Screen?</u></a></li>
 </ul></div>
+

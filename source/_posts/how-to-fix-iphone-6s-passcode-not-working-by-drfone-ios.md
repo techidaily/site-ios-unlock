@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 6s Passcode not Working?
-date: 2024-04-12T12:41:34.725Z
-updated: 2024-04-13T12:41:34.725Z
+date: 2024-04-30T17:01:56.852Z
+updated: 2024-05-01T17:01:56.852Z
 tags: 
   - unlock
   - remove screen lock
@@ -612,3 +612,4 @@ After following these solutions, you can use your Apple iPhone 6s and surpass it
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-zte-nubia-z60-ultra-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from ZTE Nubia Z60 Ultra.</u></a></li>
 </ul></div>
+

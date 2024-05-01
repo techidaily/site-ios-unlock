@@ -500,3 +500,4 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://screen-mirror.techidaily.com/how-nokia-c12-plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nokia C12 Plus Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-vivo-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Vivo</u></a></li>
 </ul></div>
+

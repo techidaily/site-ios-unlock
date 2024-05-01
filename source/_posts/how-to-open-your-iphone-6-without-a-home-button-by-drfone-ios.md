@@ -1,7 +1,7 @@
 ---
 title: How To Open Your iPhone 6 Without a Home Button
-date: 2024-04-12T12:40:00.711Z
-updated: 2024-04-13T12:40:00.711Z
+date: 2024-04-30T17:01:55.630Z
+updated: 2024-05-01T17:01:55.630Z
 tags: 
   - unlock
   - remove screen lock
@@ -462,3 +462,4 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/" ><u>3 Ways to Fake GPS Without Root On ZTE Blade A73 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-15-for-free-by-drfone-ios/" ><u>In 2024, How To Unlock Cricket Apple iPhone 15 for Free</u></a></li>
 </ul></div>
+

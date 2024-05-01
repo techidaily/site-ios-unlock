@@ -595,3 +595,4 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50s-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50S Pro to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo A56s 5G | Dr.fone</u></a></li>
 </ul></div>
+

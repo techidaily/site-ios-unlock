@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 6 Backup Password? Heres What to Do
-date: 2024-04-12T12:40:00.553Z
-updated: 2024-04-13T12:40:00.553Z
+date: 2024-04-30T17:01:55.614Z
+updated: 2024-05-01T17:01:55.614Z
 tags: 
   - unlock
   - remove screen lock
@@ -523,3 +523,4 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 <li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-8-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/" ><u>3 Ways to Erase Apple iPhone 8 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-11-prevention-and-solution-drfone-by-drfone-ios/" ><u>Reset iTunes Backup Password Of Apple iPhone 11 Prevention & Solution | Dr.fone</u></a></li>
 </ul></div>
+

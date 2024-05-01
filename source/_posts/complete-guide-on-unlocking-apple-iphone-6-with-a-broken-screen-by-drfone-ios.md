@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?
-date: 2024-04-12T12:39:59.490Z
-updated: 2024-04-13T12:39:59.490Z
+date: 2024-04-30T17:01:55.450Z
+updated: 2024-05-01T17:01:55.450Z
 tags: 
   - unlock
   - remove screen lock
@@ -433,3 +433,4 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/" ><u>In 2024, Is Your Apple iPhone XS in Security Lockout? Proper Ways To Unlock</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-xs-max-after-forgetting-the-passcode-by-drfone-ios/" ><u>Can You Unlock Apple iPhone XS Max After Forgetting the Passcode?</u></a></li>
 </ul></div>
+

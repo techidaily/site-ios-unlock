@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 6s Passcode not Working?
-date: 2024-04-12T12:41:21.695Z
-updated: 2024-04-13T12:41:21.695Z
+date: 2024-04-30T17:01:56.690Z
+updated: 2024-05-01T17:01:56.690Z
 tags: 
   - unlock
   - remove screen lock
@@ -603,3 +603,4 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 11? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 11 Pro</u></a></li>
 </ul></div>
+
