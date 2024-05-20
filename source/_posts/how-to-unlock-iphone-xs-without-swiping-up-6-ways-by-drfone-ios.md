@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone XS Without Swiping Up? 6 Ways
-date: 2024-04-30T17:10:33.328Z
-updated: 2024-05-01T17:10:33.328Z
+date: 2024-05-19T07:09:53.813Z
+updated: 2024-05-20T07:09:53.813Z
 tags: 
   - unlock
   - remove screen lock
@@ -642,4 +642,5 @@ If you have any other questions or doubts about this process, feel free to ask u
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo A58 4G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-p40plus-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on P40+</u></a></li>
 </ul></div>
+
 

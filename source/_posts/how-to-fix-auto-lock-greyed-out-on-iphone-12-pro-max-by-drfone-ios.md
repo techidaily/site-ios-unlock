@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max
-date: 2024-04-30T17:19:38.268Z
-updated: 2024-05-01T17:19:38.268Z
+date: 2024-05-19T07:10:23.954Z
+updated: 2024-05-20T07:10:23.954Z
 tags: 
   - unlock
   - remove screen lock
@@ -657,4 +657,5 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Sony Xperia 10 V | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-reno-9a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo Reno 9A to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

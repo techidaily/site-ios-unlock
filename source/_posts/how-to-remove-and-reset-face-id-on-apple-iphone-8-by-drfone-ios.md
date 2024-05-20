@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 8
-date: 2024-04-30T17:09:16.156Z
-updated: 2024-05-01T17:09:16.156Z
+date: 2024-05-19T07:09:49.364Z
+updated: 2024-05-20T07:09:49.364Z
 tags: 
   - unlock
   - remove screen lock
@@ -529,4 +529,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2010-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2010 File</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-a-closer-look-at-avs-video-editor-features-pricing-and-more/"><u>In 2024, A Closer Look at AVS Video Editor Features, Pricing, and More</u></a></li>
 </ul></div>
+
 

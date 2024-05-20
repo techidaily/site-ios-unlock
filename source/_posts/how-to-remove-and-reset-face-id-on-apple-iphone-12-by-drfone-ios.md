@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12
-date: 2024-04-30T17:17:18.268Z
-updated: 2024-05-01T17:17:18.268Z
+date: 2024-05-19T07:10:16.419Z
+updated: 2024-05-20T07:10:16.419Z
 tags: 
   - unlock
   - remove screen lock
@@ -507,4 +507,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g04-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G04 Pattern Lock Screen</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

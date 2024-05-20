@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 11
-date: 2024-04-30T17:13:19.191Z
-updated: 2024-05-01T17:13:19.191Z
+date: 2024-05-19T07:10:03.040Z
+updated: 2024-05-20T07:10:03.040Z
 tags: 
   - unlock
   - remove screen lock
@@ -519,4 +519,5 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 <li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone X</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-battle-for-your-living-room-tivo-vs-comcast-dvr/"><u>2024 Approved The Battle for Your Living Room TiVo vs Comcast DVR</u></a></li>
 </ul></div>
+
 

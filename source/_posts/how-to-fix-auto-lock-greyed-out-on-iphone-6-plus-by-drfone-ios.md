@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6 Plus
-date: 2024-04-30T17:01:56.095Z
-updated: 2024-05-01T17:01:56.095Z
+date: 2024-05-19T07:09:21.574Z
+updated: 2024-05-20T07:09:21.574Z
 tags: 
   - unlock
   - remove screen lock
@@ -580,4 +580,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-14withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi 14with/without a PC</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone XS
-date: 2024-04-30T17:10:42.193Z
-updated: 2024-05-01T17:10:42.193Z
+date: 2024-05-19T07:09:54.244Z
+updated: 2024-05-20T07:09:54.244Z
 tags: 
   - unlock
   - remove screen lock
@@ -468,4 +468,5 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone XS get
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Device SIM</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
+
 

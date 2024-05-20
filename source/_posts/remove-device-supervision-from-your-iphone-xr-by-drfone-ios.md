@@ -1,7 +1,7 @@
 ---
 title: Remove Device Supervision From your iPhone XR
-date: 2024-04-30T17:12:38.856Z
-updated: 2024-05-01T17:12:38.856Z
+date: 2024-05-19T07:10:00.847Z
+updated: 2024-05-20T07:10:00.847Z
 tags: 
   - unlock
   - remove screen lock
@@ -492,4 +492,5 @@ Also, if you're looking for an easy and effective way to unlock your device, we 
 <li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-find-x6-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo Find X6 Pro Phone When You Forget the Password</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x6-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X6 Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 12 mini
-date: 2024-04-30T17:18:34.428Z
-updated: 2024-05-01T17:18:34.428Z
+date: 2024-05-19T07:10:20.402Z
+updated: 2024-05-20T07:10:20.402Z
 tags: 
   - unlock
   - remove screen lock
@@ -548,4 +548,5 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 <li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-6-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 6 IMEI Checker</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s18-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S18 for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

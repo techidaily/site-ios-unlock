@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12 Pro Max
-date: 2024-04-30T17:19:20.952Z
-updated: 2024-05-01T17:19:20.952Z
+date: 2024-05-19T07:10:23.102Z
+updated: 2024-05-20T07:10:23.102Z
 tags: 
   - unlock
   - remove screen lock
@@ -629,4 +629,5 @@ Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-40-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-p40plus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on P40+</u></a></li>
 </ul></div>
+
 

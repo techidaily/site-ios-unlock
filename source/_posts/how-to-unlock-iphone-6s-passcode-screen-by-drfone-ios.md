@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6s Passcode Screen?
-date: 2024-04-30T17:02:08.808Z
-updated: 2024-05-01T17:02:08.808Z
+date: 2024-05-19T07:09:25.829Z
+updated: 2024-05-20T07:09:25.829Z
 tags: 
   - unlock
   - remove screen lock
@@ -521,4 +521,5 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-xr-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone XR</u></a></li>
 <li><a href="https://techidaily.com/will-mov-files-play-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Motorola G54 5G ?</u></a></li>
 </ul></div>
+
 

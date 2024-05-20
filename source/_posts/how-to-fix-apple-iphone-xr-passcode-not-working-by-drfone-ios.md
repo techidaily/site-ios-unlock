@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone XR Passcode not Working?
-date: 2024-04-30T17:12:17.657Z
-updated: 2024-05-01T17:12:17.657Z
+date: 2024-05-19T07:09:59.663Z
+updated: 2024-05-20T07:09:59.663Z
 tags: 
   - unlock
   - remove screen lock
@@ -470,4 +470,5 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y28-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y28 5G</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-v30-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo V30 Lite 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

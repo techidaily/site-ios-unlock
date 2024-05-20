@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 12 mini Backup Password? Heres What to Do
-date: 2024-04-30T17:18:38.291Z
-updated: 2024-05-01T17:18:38.291Z
+date: 2024-05-19T07:10:20.600Z
+updated: 2024-05-20T07:10:20.600Z
 tags: 
   - unlock
   - remove screen lock
@@ -517,4 +517,5 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-civi-3-disney-100th-anniversary-edition-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Civi 3 Disney 100th Anniversary Edition to Protect Your Individual Information</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-15-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 15? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

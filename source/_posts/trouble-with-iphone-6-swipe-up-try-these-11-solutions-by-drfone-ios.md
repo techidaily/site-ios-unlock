@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:01:55.625Z
-updated: 2024-05-01T17:01:55.625Z
+date: 2024-05-19T07:09:17.842Z
+updated: 2024-05-20T07:09:17.842Z
 tags: 
   - unlock
   - remove screen lock
@@ -556,4 +556,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/" ><u>Quick Steps to Change Weather Location on Apple iPhone X | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-zte-nubia-z60-ultra-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, How to Migrate Android Data From ZTE Nubia Z60 Ultra to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do
-date: 2024-04-30T17:16:20.064Z
-updated: 2024-05-01T17:16:20.064Z
+date: 2024-05-19T07:10:13.213Z
+updated: 2024-05-20T07:10:13.213Z
 tags: 
   - unlock
   - remove screen lock
@@ -509,4 +509,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-12-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 12 Pro without Security Questions?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-a-slideshow-on-iphone-for-2024/"><u>Updated How to Create a Slideshow on iPhone for 2024</u></a></li>
 </ul></div>
+
 

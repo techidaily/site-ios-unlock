@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)
-date: 2024-04-30T17:16:19.816Z
-updated: 2024-05-01T17:16:19.816Z
+date: 2024-05-19T07:10:13.190Z
+updated: 2024-05-20T07:10:13.190Z
 tags: 
   - unlock
   - remove screen lock
@@ -482,4 +482,5 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-12-mini-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 12 mini Smoothly</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-video-rotator-tools-a-comprehensive-guide-for-windows-mac-and-mobile/"><u>Free Video Rotator Tools A Comprehensive Guide for Windows, Mac, and Mobile</u></a></li>
 </ul></div>
+
 

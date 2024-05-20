@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone XR
-date: 2024-04-30T17:13:04.635Z
-updated: 2024-05-01T17:13:04.635Z
+date: 2024-05-19T07:10:02.325Z
+updated: 2024-05-20T07:10:02.325Z
 tags: 
   - unlock
   - remove screen lock
@@ -491,4 +491,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C12? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-k11x-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo K11x Devices</u></a></li>
 </ul></div>
+
 

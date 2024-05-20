@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 6s Backup Password? Heres What to Do
-date: 2024-04-30T17:01:56.731Z
-updated: 2024-05-01T17:01:56.731Z
+date: 2024-05-19T07:09:24.391Z
+updated: 2024-05-20T07:09:24.391Z
 tags: 
   - unlock
   - remove screen lock
@@ -530,4 +530,5 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 <li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-12-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 12 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-x-flip-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo X Flip</u></a></li>
 </ul></div>
+
 

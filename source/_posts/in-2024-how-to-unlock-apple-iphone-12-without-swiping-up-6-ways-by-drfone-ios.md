@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Apple iPhone 12 Without Swiping Up? 6 Ways
-date: 2024-04-30T17:17:55.433Z
-updated: 2024-05-01T17:17:55.433Z
+date: 2024-05-19T07:10:18.359Z
+updated: 2024-05-20T07:10:18.359Z
 tags: 
   - unlock
   - remove screen lock
@@ -521,4 +521,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://ai-voice-clone.techidaily.com/updated-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Updated Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-11-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 11 Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

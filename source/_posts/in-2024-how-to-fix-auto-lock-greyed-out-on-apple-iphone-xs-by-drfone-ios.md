@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone XS
-date: 2024-04-30T17:10:45.778Z
-updated: 2024-05-01T17:10:45.778Z
+date: 2024-05-19T07:09:54.429Z
+updated: 2024-05-20T07:09:54.429Z
 tags: 
   - unlock
   - remove screen lock
@@ -633,4 +633,5 @@ After following these solutions, you can use your Apple iPhone XS and surpass it
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-looking-for-imovie-on-windows-here-are-10plus-great-alternatives/"><u>Updated In 2024, Looking for iMovie on Windows? Here Are 10+ Great Alternatives</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme C53 | Dr.fone</u></a></li>
 </ul></div>
+
 

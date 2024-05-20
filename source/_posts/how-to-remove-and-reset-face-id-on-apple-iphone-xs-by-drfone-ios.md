@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone XS
-date: 2024-04-30T17:10:13.993Z
-updated: 2024-05-01T17:10:13.993Z
+date: 2024-05-19T07:09:52.766Z
+updated: 2024-05-20T07:09:52.766Z
 tags: 
   - unlock
   - remove screen lock
@@ -620,4 +620,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-smart-8-hd-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Smart 8 HD Pictures  An Easy Method Explained.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oneplus-ace-2-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your OnePlus Ace 2 Pro?</u></a></li>
 </ul></div>
+
 

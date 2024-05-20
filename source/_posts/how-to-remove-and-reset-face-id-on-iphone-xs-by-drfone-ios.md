@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone XS
-date: 2024-04-30T17:10:27.059Z
-updated: 2024-05-01T17:10:27.059Z
+date: 2024-05-19T07:09:53.482Z
+updated: 2024-05-20T07:09:53.482Z
 tags: 
   - unlock
   - remove screen lock
@@ -522,4 +522,5 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme 11 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-find-x7-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Find X7 to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

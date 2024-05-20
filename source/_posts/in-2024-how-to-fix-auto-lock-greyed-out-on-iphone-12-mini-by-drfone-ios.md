@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 mini
-date: 2024-04-30T17:19:09.435Z
-updated: 2024-05-01T17:19:09.435Z
+date: 2024-05-19T07:10:22.430Z
+updated: 2024-05-20T07:10:22.430Z
 tags: 
   - unlock
   - remove screen lock
@@ -565,4 +565,5 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 <li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-dotm-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .dotm file Using DigiSigner</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a25-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy A25 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

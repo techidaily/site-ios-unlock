@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 8 Plus Passcode not Working?
-date: 2024-04-30T17:08:18.381Z
-updated: 2024-05-01T17:08:18.381Z
+date: 2024-05-19T07:09:46.377Z
+updated: 2024-05-20T07:09:46.377Z
 tags: 
   - unlock
   - remove screen lock
@@ -573,4 +573,5 @@ After following this informative guide, you would learn how to wipe a locked iPh
 <li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-motorola-edge-40-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Motorola Edge 40</u></a></li>
 <li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-xr-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone XR without Password</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone 13? 5 Ways to get into a Locked iPhone 13
-date: 2024-04-30T17:21:34.546Z
-updated: 2024-05-01T17:21:34.546Z
+date: 2024-05-19T07:10:30.314Z
+updated: 2024-05-20T07:10:30.314Z
 tags: 
   - unlock
   - remove screen lock
@@ -495,4 +495,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-lava-blaze-2-pro-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Lava Blaze 2 Pro</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nokia-c12-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

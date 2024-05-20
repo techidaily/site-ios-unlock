@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 8
-date: 2024-04-30T17:09:19.893Z
-updated: 2024-05-01T17:09:19.893Z
+date: 2024-05-19T07:09:49.534Z
+updated: 2024-05-20T07:09:49.534Z
 tags: 
   - unlock
   - remove screen lock
@@ -482,4 +482,5 @@ Luckily, we’re here to provide a series of dependable and secure solutions tha
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Passcode Screen? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-8-multi-subtitles-translators-you-can-use/"><u>New 2024 Approved Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
 </ul></div>
+
 

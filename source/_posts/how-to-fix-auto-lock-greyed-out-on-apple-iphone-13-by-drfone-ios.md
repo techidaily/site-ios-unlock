@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 13
-date: 2024-04-30T17:21:24.407Z
-updated: 2024-05-01T17:21:24.407Z
+date: 2024-05-19T07:10:29.815Z
+updated: 2024-05-20T07:10:29.815Z
 tags: 
   - unlock
   - remove screen lock
@@ -523,4 +523,5 @@ Also, if you're looking for an easy and effective way to unlock your device, we 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-8-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-pdf-to-gif-converters/"><u>Updated 2024 Approved Best PDF to GIF Converters</u></a></li>
 </ul></div>
+
 

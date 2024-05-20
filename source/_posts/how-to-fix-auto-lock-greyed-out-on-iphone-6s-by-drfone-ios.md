@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6s
-date: 2024-04-30T17:02:02.220Z
-updated: 2024-05-01T17:02:02.220Z
+date: 2024-05-19T07:09:25.267Z
+updated: 2024-05-20T07:09:25.267Z
 tags: 
   - unlock
   - remove screen lock
@@ -665,4 +665,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-s23-tactical-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy S23 Tactical EditionMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-smart-8-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Smart 8 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

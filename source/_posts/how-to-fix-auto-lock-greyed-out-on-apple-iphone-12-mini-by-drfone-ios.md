@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini
-date: 2024-04-30T17:18:23.443Z
-updated: 2024-05-01T17:18:23.443Z
+date: 2024-05-19T07:10:19.820Z
+updated: 2024-05-20T07:10:19.820Z
 tags: 
   - unlock
   - remove screen lock
@@ -593,4 +593,5 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-11r-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on 11R</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nubia-red-magic-8s-pro-lock-screen-password-by-drfone-android/"><u>How To Change Nubia Red Magic 8S Pro Lock Screen Password?</u></a></li>
 </ul></div>
+
 

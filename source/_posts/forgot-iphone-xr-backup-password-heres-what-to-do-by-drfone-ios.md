@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone XR Backup Password? Heres What to Do
-date: 2024-04-30T17:12:36.667Z
-updated: 2024-05-01T17:12:36.667Z
+date: 2024-05-19T07:10:00.722Z
+updated: 2024-05-20T07:10:00.722Z
 tags: 
   - unlock
   - remove screen lock
@@ -473,4 +473,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-15-pro-max-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 15 Pro Max from iCloud</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-motorola-moto-g13-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Motorola Moto G13 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

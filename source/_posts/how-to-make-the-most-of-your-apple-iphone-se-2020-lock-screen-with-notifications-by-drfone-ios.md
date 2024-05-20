@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone SE (2020) Lock Screen with Notifications?
-date: 2024-04-30T17:16:20.502Z
-updated: 2024-05-01T17:16:20.502Z
+date: 2024-05-19T07:10:13.236Z
+updated: 2024-05-20T07:10:13.236Z
 tags: 
   - unlock
   - remove screen lock
@@ -471,4 +471,5 @@ After following this informative guide, you would learn how to wipe a locked iPh
 <li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-12-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 12 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Open Your iPhone 6s Without a Home Button
-date: 2024-04-30T17:02:04.764Z
-updated: 2024-05-01T17:02:04.764Z
+date: 2024-05-19T07:09:25.620Z
+updated: 2024-05-20T07:09:25.620Z
 tags: 
   - unlock
   - remove screen lock
@@ -486,4 +486,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-12-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 12 for Free</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

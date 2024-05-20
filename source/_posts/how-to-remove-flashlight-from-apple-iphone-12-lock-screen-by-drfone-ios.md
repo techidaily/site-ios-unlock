@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 12 Lock Screen
-date: 2024-04-30T17:17:23.898Z
-updated: 2024-05-01T17:17:23.898Z
+date: 2024-05-19T07:10:16.739Z
+updated: 2024-05-20T07:10:16.739Z
 tags: 
   - unlock
   - remove screen lock
@@ -594,4 +594,5 @@ When **changing the App Store country on your Apple iPhone 12**, it's important 
 <li><a href="https://ai-video-translation.techidaily.com/new-must-have-apps-for-real-time-video-translation-for-2024/"><u>New Must-Have Apps for Real-Time Video Translation for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-c55-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco C55</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone X
-date: 2024-04-30T17:07:20.568Z
-updated: 2024-05-01T17:07:20.568Z
+date: 2024-05-19T07:09:43.158Z
+updated: 2024-05-20T07:09:43.158Z
 tags: 
   - unlock
   - remove screen lock
@@ -664,4 +664,5 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-6s-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 6s to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

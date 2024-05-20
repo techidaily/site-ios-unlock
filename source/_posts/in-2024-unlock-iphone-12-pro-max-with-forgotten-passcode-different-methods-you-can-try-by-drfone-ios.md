@@ -519,3 +519,4 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 Pro
 <li><a href="https://techidaily.com/how-to-reset-vivo-g2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo G2 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 12 Pro Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:20:39.674Z
-updated: 2024-05-01T17:20:39.674Z
+date: 2024-05-19T07:10:27.365Z
+updated: 2024-05-20T07:10:27.365Z
 tags: 
   - unlock
   - remove screen lock
@@ -578,4 +578,5 @@ In conclusion, several helpful methods exist for **how to unlock unavailable iPh
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-s23plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy S23+ Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

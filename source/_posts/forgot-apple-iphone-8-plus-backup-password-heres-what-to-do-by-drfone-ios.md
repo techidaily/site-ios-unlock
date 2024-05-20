@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 8 Plus Backup Password? Heres What to Do
-date: 2024-04-30T17:08:23.959Z
-updated: 2024-05-01T17:08:23.959Z
+date: 2024-05-19T07:09:46.648Z
+updated: 2024-05-20T07:09:46.648Z
 tags: 
   - unlock
   - remove screen lock
@@ -468,4 +468,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-mix-fold-3-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Mix Fold 3 Phone without PIN</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

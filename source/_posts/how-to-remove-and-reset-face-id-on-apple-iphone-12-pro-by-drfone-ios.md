@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12 Pro
-date: 2024-04-30T17:20:19.298Z
-updated: 2024-05-01T17:20:19.298Z
+date: 2024-05-19T07:10:26.322Z
+updated: 2024-05-20T07:10:26.322Z
 tags: 
   - unlock
   - remove screen lock
@@ -628,4 +628,5 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On ZTE Axon 40 Lite | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-actionable-ways-to-extract-subtitles-from-mkv-videos-without-quality-loss/"><u>New 2024 Approved 2 Actionable Ways to Extract Subtitles From MKV Videos without Quality Loss</u></a></li>
 </ul></div>
+
 

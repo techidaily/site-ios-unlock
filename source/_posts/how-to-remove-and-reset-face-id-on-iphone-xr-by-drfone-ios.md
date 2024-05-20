@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone XR
-date: 2024-04-30T17:12:33.102Z
-updated: 2024-05-01T17:12:33.102Z
+date: 2024-05-19T07:10:00.525Z
+updated: 2024-05-20T07:10:00.525Z
 tags: 
   - unlock
   - remove screen lock
@@ -591,4 +591,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://ai-editing-video.techidaily.com/new-video-maker-with-song-for-2024/"><u>New Video Maker with Song for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor Play 8T | Dr.fone</u></a></li>
 </ul></div>
+
 

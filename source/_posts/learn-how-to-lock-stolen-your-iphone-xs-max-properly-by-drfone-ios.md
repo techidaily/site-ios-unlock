@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone XS Max Properly
-date: 2024-04-30T17:11:36.684Z
-updated: 2024-05-01T17:11:36.684Z
+date: 2024-05-19T07:09:57.611Z
+updated: 2024-05-20T07:09:57.611Z
 tags: 
   - unlock
   - remove screen lock
@@ -532,4 +532,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-p40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel P40?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a38-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A38 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

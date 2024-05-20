@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 6s
-date: 2024-04-30T17:01:56.709Z
-updated: 2024-05-01T17:01:56.709Z
+date: 2024-05-19T07:09:24.190Z
+updated: 2024-05-20T07:09:24.190Z
 tags: 
   - unlock
   - remove screen lock
@@ -611,4 +611,5 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A79 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-pop-7-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Pop 7 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

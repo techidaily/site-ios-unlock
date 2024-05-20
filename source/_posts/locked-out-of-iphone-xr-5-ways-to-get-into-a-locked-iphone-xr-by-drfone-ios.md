@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR
-date: 2024-04-30T17:12:32.468Z
-updated: 2024-05-01T17:12:32.468Z
+date: 2024-05-19T07:10:00.486Z
+updated: 2024-05-20T07:10:00.486Z
 tags: 
   - unlock
   - remove screen lock
@@ -574,4 +574,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-itel-p55-easily-by-drfone-android/"><u>In 2024, How To Unlock a Itel P55 Easily?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo X Fold 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

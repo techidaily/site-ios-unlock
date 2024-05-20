@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 mini
-date: 2024-04-30T17:18:38.080Z
-updated: 2024-05-01T17:18:38.080Z
+date: 2024-05-19T07:10:20.578Z
+updated: 2024-05-20T07:10:20.578Z
 tags: 
   - unlock
   - remove screen lock
@@ -641,4 +641,5 @@ We hope we have covered every bit of this article perfectly and you have success
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y100 5G Phone Without Password?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy S24 Ultra</u></a></li>
 </ul></div>
+
 

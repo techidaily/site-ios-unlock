@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 6
-date: 2024-04-30T17:01:55.583Z
-updated: 2024-05-01T17:01:55.583Z
+date: 2024-05-19T07:09:17.562Z
+updated: 2024-05-20T07:09:17.562Z
 tags: 
   - unlock
   - remove screen lock
@@ -555,4 +555,5 @@ If you're not interested in using a third-party tool, you can try one of the met
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-htc-u23-without-them-knowing-drfone-by-drfone-virtual-android/" ><u>3 Ways to Track HTC U23 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/" ><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

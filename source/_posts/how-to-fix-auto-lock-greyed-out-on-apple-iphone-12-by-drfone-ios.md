@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12
-date: 2024-04-30T17:17:20.981Z
-updated: 2024-05-01T17:17:20.981Z
+date: 2024-05-19T07:10:16.561Z
+updated: 2024-05-20T07:10:16.561Z
 tags: 
   - unlock
   - remove screen lock
@@ -541,4 +541,5 @@ We hope we have covered every bit of this article perfectly and you have success
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a15-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A15 4G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel S23+? | Dr.fone</u></a></li>
 </ul></div>
+
 

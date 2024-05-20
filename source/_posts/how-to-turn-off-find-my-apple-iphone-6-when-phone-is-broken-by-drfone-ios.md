@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 6 when Phone is Broken?
-date: 2024-04-30T17:01:55.442Z
-updated: 2024-05-01T17:01:55.442Z
+date: 2024-05-19T07:09:16.805Z
+updated: 2024-05-20T07:09:16.805Z
 tags: 
   - unlock
   - remove screen lock
@@ -459,4 +459,5 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-by-drfone-ios/" ><u>In 2024, Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-8-plus-without-passcode-easily-by-drfone-ios/" ><u>In 2024, Unlock Apple iPhone 8 Plus Without Passcode Easily</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone SE (2020)
-date: 2024-04-30T17:16:31.985Z
-updated: 2024-05-01T17:16:31.985Z
+date: 2024-05-19T07:10:13.844Z
+updated: 2024-05-20T07:10:13.844Z
 tags: 
   - unlock
   - remove screen lock
@@ -534,4 +534,5 @@ We hope that after learning how to get in a locked Apple iPhone SE (2020) in dif
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-top-10-best-and-fast-ways-to-turn-image-into-gif/"><u>2024 Approved Top 10 Best and Fast Ways to Turn Image Into Gif</u></a></li>
 </ul></div>
+
 

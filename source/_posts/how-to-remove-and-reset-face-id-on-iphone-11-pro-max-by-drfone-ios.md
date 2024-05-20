@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 11 Pro Max
-date: 2024-04-30T17:14:32.460Z
-updated: 2024-05-01T17:14:32.460Z
+date: 2024-05-19T07:10:07.437Z
+updated: 2024-05-20T07:10:07.437Z
 tags: 
   - unlock
   - remove screen lock
@@ -561,4 +561,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://techidaily.com/remove-the-lock-of-infinix-smart-8-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Smart 8</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy A23 5G?</u></a></li>
 </ul></div>
+
 

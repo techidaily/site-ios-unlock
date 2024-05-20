@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do
-date: 2024-04-30T17:16:50.782Z
-updated: 2024-05-01T17:16:50.782Z
+date: 2024-05-19T07:10:14.756Z
+updated: 2024-05-20T07:10:14.756Z
 tags: 
   - unlock
   - remove screen lock
@@ -675,4 +675,5 @@ After following these solutions, you can use your Apple iPhone SE (2020) and sur
 <li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-se-2022-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone SE (2022) to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-alternatives-to-windows-movie-maker-10-free-and-powerful-options/"><u>2024 Approved Alternatives to Windows Movie Maker 10 Free and Powerful Options</u></a></li>
 </ul></div>
+
 

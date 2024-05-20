@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone SE
-date: 2024-04-30T17:03:51.612Z
-updated: 2024-05-01T17:03:51.612Z
+date: 2024-05-19T07:09:31.727Z
+updated: 2024-05-20T07:09:31.727Z
 tags: 
   - unlock
   - remove screen lock
@@ -569,4 +569,5 @@ By following these solutions, you would be able to learn how to lock apps on the
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Itel P40 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Lava Yuva 3 FRP</u></a></li>
 </ul></div>
+
 

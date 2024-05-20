@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with Apple iPhone 12 Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:17:53.801Z
-updated: 2024-05-01T17:17:53.801Z
+date: 2024-05-19T07:10:18.276Z
+updated: 2024-05-20T07:10:18.276Z
 tags: 
   - unlock
   - remove screen lock
@@ -582,4 +582,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nokia C210 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Samsung Galaxy S23</u></a></li>
 </ul></div>
+
 

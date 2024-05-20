@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 6
-date: 2024-04-30T17:01:55.459Z
-updated: 2024-05-01T17:01:55.459Z
+date: 2024-05-19T07:09:16.933Z
+updated: 2024-05-20T07:09:16.933Z
 tags: 
   - unlock
   - remove screen lock
@@ -493,4 +493,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-se-prevention-and-solution-by-drfone-ios/" ><u>In 2024, Reset iTunes Backup Password Of Apple iPhone SE Prevention & Solution</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-by-drfone-ios/" ><u>How to Unlock Apple iPhone 6s Without Passcode?</u></a></li>
 </ul></div>
+
 

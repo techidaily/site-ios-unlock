@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
-date: 2024-04-30T17:20:22.260Z
-updated: 2024-05-01T17:20:22.260Z
+date: 2024-05-19T07:10:26.489Z
+updated: 2024-05-20T07:10:26.489Z
 tags: 
   - unlock
   - remove screen lock
@@ -548,4 +548,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2010-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2010 free</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-15-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 15 Plus Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

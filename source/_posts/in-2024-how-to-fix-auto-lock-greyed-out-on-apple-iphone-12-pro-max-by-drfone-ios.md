@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro Max
-date: 2024-04-30T17:19:53.169Z
-updated: 2024-05-01T17:19:53.169Z
+date: 2024-05-19T07:10:24.658Z
+updated: 2024-05-20T07:10:24.658Z
 tags: 
   - unlock
   - remove screen lock
@@ -559,4 +559,5 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-a70-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel A70 to Roku | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xs-max-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XS Max to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

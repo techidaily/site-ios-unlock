@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 12 Pro
-date: 2024-04-30T17:20:33.962Z
-updated: 2024-05-01T17:20:33.962Z
+date: 2024-05-19T07:10:27.087Z
+updated: 2024-05-20T07:10:27.087Z
 tags: 
   - unlock
   - remove screen lock
@@ -537,4 +537,5 @@ So, if you have forgotten your Apple iPhone 12 Pro passcode and are looking for 
 <li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo V27? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-6-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 6 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

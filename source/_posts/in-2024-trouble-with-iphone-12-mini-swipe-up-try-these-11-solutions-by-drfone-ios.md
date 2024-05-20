@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:19:11.691Z
-updated: 2024-05-01T17:19:11.691Z
+date: 2024-05-19T07:10:22.577Z
+updated: 2024-05-20T07:10:22.577Z
 tags: 
   - unlock
   - remove screen lock
@@ -658,4 +658,5 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 <li><a href="https://ai-video-editing.techidaily.com/updated-heres-all-about-gif-keyboard-youll-ever-want-to-know-for-2024/"><u>Updated Heres All About GIF Keyboard Youll Ever Want to Know for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-tecno-camon-30-pro-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Tecno Camon 30 Pro 5G Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

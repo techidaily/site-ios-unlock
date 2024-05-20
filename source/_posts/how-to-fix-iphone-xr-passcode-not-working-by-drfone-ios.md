@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone XR Passcode not Working?
-date: 2024-04-30T17:12:31.411Z
-updated: 2024-05-01T17:12:31.411Z
+date: 2024-05-19T07:10:00.435Z
+updated: 2024-05-20T07:10:00.435Z
 tags: 
   - unlock
   - remove screen lock
@@ -587,4 +587,5 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-x6-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from X6 Pro.</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Reno 8T 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

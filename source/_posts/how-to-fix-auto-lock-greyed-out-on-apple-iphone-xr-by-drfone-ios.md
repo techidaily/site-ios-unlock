@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XR
-date: 2024-04-30T17:12:22.266Z
-updated: 2024-05-01T17:12:22.266Z
+date: 2024-05-19T07:09:59.904Z
+updated: 2024-05-20T07:09:59.904Z
 tags: 
   - unlock
   - remove screen lock
@@ -526,4 +526,5 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 <li><a href="https://howto.techidaily.com/why-your-vivo-y27-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y27 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

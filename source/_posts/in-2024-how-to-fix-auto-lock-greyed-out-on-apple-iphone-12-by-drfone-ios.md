@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12
-date: 2024-04-30T17:17:51.590Z
-updated: 2024-05-01T17:17:51.590Z
+date: 2024-05-19T07:10:18.147Z
+updated: 2024-05-20T07:10:18.147Z
 tags: 
   - unlock
   - remove screen lock
@@ -447,4 +447,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 12 without Passcode</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-x-fold-2-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo X Fold 2 Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

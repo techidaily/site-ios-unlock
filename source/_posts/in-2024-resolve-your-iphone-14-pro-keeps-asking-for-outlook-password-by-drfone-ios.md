@@ -621,3 +621,4 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-smart-8-hd-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Smart 8 HD to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

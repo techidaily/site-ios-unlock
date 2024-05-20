@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 12 mini Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:18:25.005Z
-updated: 2024-05-01T17:18:25.005Z
+date: 2024-05-19T07:10:19.904Z
+updated: 2024-05-20T07:10:19.904Z
 tags: 
   - unlock
   - remove screen lock
@@ -646,4 +646,5 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 <li><a href="https://ai-editing-video.techidaily.com/the-best-gif-editors-weve-tested-heres-what-we-learned-for-2024/"><u>The Best GIF Editors Weve Tested Heres What We Learned for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-nord-3-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus Nord 3 5G Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

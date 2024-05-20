@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone 11 Pro
-date: 2024-04-30T17:16:01.703Z
-updated: 2024-05-01T17:16:01.703Z
+date: 2024-05-19T07:10:12.316Z
+updated: 2024-05-20T07:10:12.316Z
 tags: 
   - unlock
   - remove screen lock
@@ -598,4 +598,5 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-ways-to-unlock-iphone-x-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Best ways to unlock iPhone X screen lock</u></a></li>
 </ul></div>
+
 

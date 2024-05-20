@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone 12 mini Lock Screen with Notifications?
-date: 2024-04-30T17:18:39.057Z
-updated: 2024-05-01T17:18:39.057Z
+date: 2024-05-19T07:10:20.640Z
+updated: 2024-05-20T07:10:20.640Z
 tags: 
   - unlock
   - remove screen lock
@@ -498,4 +498,5 @@ We hope that after learning how to get in a locked Apple iPhone 12 mini in diffe
 <li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-15-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 15 How to Bypass?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Poco M6 Pro 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone XS
-date: 2024-04-30T17:10:29.857Z
-updated: 2024-05-01T17:10:29.857Z
+date: 2024-05-19T07:09:53.635Z
+updated: 2024-05-20T07:09:53.635Z
 tags: 
   - unlock
   - remove screen lock
@@ -627,4 +627,5 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://ai-editing-video.techidaily.com/updated-5-tried-and-true-methods-to-gif-making/"><u>Updated 5 Tried-And-True Methods to GIF Making</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-itel-a60s-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Itel A60s</u></a></li>
 </ul></div>
+
 

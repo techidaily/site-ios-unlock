@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 8 Plus Backup Password? Heres What to Do
-date: 2024-04-30T17:08:37.685Z
-updated: 2024-05-01T17:08:37.685Z
+date: 2024-05-19T07:09:47.346Z
+updated: 2024-05-20T07:09:47.346Z
 tags: 
   - unlock
   - remove screen lock
@@ -478,4 +478,5 @@ And there you go, the five key ways you need to know when it comes to removing a
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-realme-11-proplus-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Realme 11 Pro+</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-find-x7-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo Find X7? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

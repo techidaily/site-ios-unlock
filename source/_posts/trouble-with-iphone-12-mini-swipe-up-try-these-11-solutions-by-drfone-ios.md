@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:18:40.124Z
-updated: 2024-05-01T17:18:40.124Z
+date: 2024-05-19T07:10:20.687Z
+updated: 2024-05-20T07:10:20.687Z
 tags: 
   - unlock
   - remove screen lock
@@ -585,4 +585,5 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-change-aspect-ratio-of-video/"><u>Updated 2024 Approved Change Aspect Ratio of Video</u></a></li>
 <li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-11-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 11</u></a></li>
 </ul></div>
+
 

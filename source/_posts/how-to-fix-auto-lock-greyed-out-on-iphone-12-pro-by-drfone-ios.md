@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro
-date: 2024-04-30T17:20:37.530Z
-updated: 2024-05-01T17:20:37.530Z
+date: 2024-05-19T07:10:27.280Z
+updated: 2024-05-20T07:10:27.280Z
 tags: 
   - unlock
   - remove screen lock
@@ -479,4 +479,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c210-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C210</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-note-12t-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi Note 12T Pro FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

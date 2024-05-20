@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 13 when Phone is Broken?
-date: 2024-04-30T17:21:35.380Z
-updated: 2024-05-01T17:21:35.380Z
+date: 2024-05-19T07:10:30.366Z
+updated: 2024-05-20T07:10:30.367Z
 tags: 
   - unlock
   - remove screen lock
@@ -520,4 +520,5 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 to Other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

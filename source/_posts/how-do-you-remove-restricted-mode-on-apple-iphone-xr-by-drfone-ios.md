@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on Apple iPhone XR
-date: 2024-04-30T17:12:25.879Z
-updated: 2024-05-01T17:12:25.879Z
+date: 2024-05-19T07:10:00.131Z
+updated: 2024-05-20T07:10:00.131Z
 tags: 
   - unlock
   - remove screen lock
@@ -494,4 +494,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+
 

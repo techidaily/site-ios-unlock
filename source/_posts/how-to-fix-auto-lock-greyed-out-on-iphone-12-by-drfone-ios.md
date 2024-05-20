@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12
-date: 2024-04-30T17:17:35.150Z
-updated: 2024-05-01T17:17:35.150Z
+date: 2024-05-19T07:10:17.376Z
+updated: 2024-05-20T07:10:17.376Z
 tags: 
   - unlock
   - remove screen lock
@@ -572,4 +572,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor 100 Pro? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lenovo-thinkphone-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lenovo ThinkPhone to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

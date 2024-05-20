@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone SE Lock Screen with Notifications?
-date: 2024-04-30T17:04:28.083Z
-updated: 2024-05-01T17:04:28.083Z
+date: 2024-05-19T07:09:33.586Z
+updated: 2024-05-20T07:09:33.586Z
 tags: 
   - unlock
   - remove screen lock
@@ -499,4 +499,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>The way to get back lost data from Sony Xperia 5 V</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-pova-5-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Pova 5 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

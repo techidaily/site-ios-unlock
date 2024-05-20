@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 12 mini
-date: 2024-04-30T17:18:50.508Z
-updated: 2024-05-01T17:18:50.508Z
+date: 2024-05-19T07:10:21.470Z
+updated: 2024-05-20T07:10:21.470Z
 tags: 
   - unlock
   - remove screen lock
@@ -606,4 +606,5 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-poco-f5-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Poco F5 5G Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 6
-date: 2024-04-30T17:01:55.439Z
-updated: 2024-05-01T17:01:55.439Z
+date: 2024-05-19T07:09:16.796Z
+updated: 2024-05-20T07:09:16.796Z
 tags: 
   - unlock
   - remove screen lock
@@ -563,4 +563,5 @@ All of the software that was described is accessible for both Mac and Windows op
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-by-drfone-ios/" ><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone XS</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-xs-randomly-asking-for-apple-id-password-by-drfone-ios/" ><u>Complete Fixes To Solve iPhone XS Randomly Asking for Apple ID Password</u></a></li>
 </ul></div>
+
 

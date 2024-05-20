@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone XR
-date: 2024-04-30T17:13:07.614Z
-updated: 2024-05-01T17:13:07.614Z
+date: 2024-05-19T07:10:02.431Z
+updated: 2024-05-20T07:10:02.431Z
 tags: 
   - unlock
   - remove screen lock
@@ -511,4 +511,5 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-v29e-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from V29e</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-zte-nubia-z60-ultra-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

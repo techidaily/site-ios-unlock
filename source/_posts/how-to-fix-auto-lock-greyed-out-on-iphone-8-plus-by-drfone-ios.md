@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 8 Plus
-date: 2024-04-30T17:08:37.482Z
-updated: 2024-05-01T17:08:37.482Z
+date: 2024-05-19T07:09:47.324Z
+updated: 2024-05-20T07:09:47.324Z
 tags: 
   - unlock
   - remove screen lock
@@ -575,4 +575,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y56 5G? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-6s-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 6s</u></a></li>
 </ul></div>
+
 

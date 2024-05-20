@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 13
-date: 2024-04-30T17:21:34.958Z
-updated: 2024-05-01T17:21:34.958Z
+date: 2024-05-19T07:10:30.347Z
+updated: 2024-05-20T07:10:30.347Z
 tags: 
   - unlock
   - remove screen lock
@@ -750,4 +750,5 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-gionee-f3-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Gionee F3 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-camon-20-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Camon 20 FRP Locks</u></a></li>
 </ul></div>
+
 

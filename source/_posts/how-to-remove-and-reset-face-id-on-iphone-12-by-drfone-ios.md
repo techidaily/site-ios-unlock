@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 12
-date: 2024-04-30T17:17:31.782Z
-updated: 2024-05-01T17:17:31.782Z
+date: 2024-05-19T07:10:17.208Z
+updated: 2024-05-20T07:10:17.209Z
 tags: 
   - unlock
   - remove screen lock
@@ -532,4 +532,5 @@ So, if you have forgotten your Apple iPhone 12 passcode and are looking for how 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-webm-to-gif-converters-online-and-offline-solutions/"><u>New In 2024, WebM to GIF Converters (Online and Offline Solutions)</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Asus ROG Phone 8</u></a></li>
 </ul></div>
+
 

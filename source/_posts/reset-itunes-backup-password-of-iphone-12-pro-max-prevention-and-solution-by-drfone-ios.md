@@ -649,3 +649,4 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-note-30-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Note 30 to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

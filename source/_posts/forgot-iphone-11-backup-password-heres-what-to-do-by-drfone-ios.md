@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 11 Backup Password? Heres What to Do
-date: 2024-04-30T17:13:36.994Z
-updated: 2024-05-01T17:13:36.994Z
+date: 2024-05-19T07:10:04.087Z
+updated: 2024-05-20T07:10:04.087Z
 tags: 
   - unlock
   - remove screen lock
@@ -594,4 +594,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-g2-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo G2 Users</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-se-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone SE and Android without others knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

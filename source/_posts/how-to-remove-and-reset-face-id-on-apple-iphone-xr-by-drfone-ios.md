@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone XR
-date: 2024-04-30T17:12:19.436Z
-updated: 2024-05-01T17:12:19.436Z
+date: 2024-05-19T07:09:59.742Z
+updated: 2024-05-20T07:09:59.742Z
 tags: 
   - unlock
   - remove screen lock
@@ -462,4 +462,5 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Lava Yuva 2 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
+
 

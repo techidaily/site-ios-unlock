@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12 mini
-date: 2024-04-30T17:18:20.114Z
-updated: 2024-05-01T17:18:20.114Z
+date: 2024-05-19T07:10:19.645Z
+updated: 2024-05-20T07:10:19.645Z
 tags: 
   - unlock
   - remove screen lock
@@ -634,4 +634,5 @@ In this comprehensive guide, we navigated through **how to unlock Total Wireless
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Spark 20? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-nord-3-5g-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Nord 3 5G</u></a></li>
 </ul></div>
+
 

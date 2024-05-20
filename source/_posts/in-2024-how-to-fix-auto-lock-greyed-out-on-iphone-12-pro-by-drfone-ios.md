@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro
-date: 2024-04-30T17:21:07.602Z
-updated: 2024-05-01T17:21:07.602Z
+date: 2024-05-19T07:10:28.865Z
+updated: 2024-05-20T07:10:28.865Z
 tags: 
   - unlock
   - remove screen lock
@@ -496,4 +496,5 @@ Wondershare Dr.Fone's comprehensive toolkit provides a range of options to cater
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme C53? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 12 mini without Password?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 6 Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:01:55.470Z
-updated: 2024-05-01T17:01:55.470Z
+date: 2024-05-19T07:09:17.033Z
+updated: 2024-05-20T07:09:17.033Z
 tags: 
   - unlock
   - remove screen lock
@@ -539,4 +539,5 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-x-after-forgetting-my-pin-code-by-drfone-ios/" ><u>In 2024, How Can I Unlock My iPhone X After Forgetting my PIN Code?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-6s-plus-with-a-broken-screen-by-drfone-ios/" ><u>In 2024, Complete Guide on Unlocking Apple iPhone 6s Plus with a Broken Screen?</u></a></li>
 </ul></div>
+
 

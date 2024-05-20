@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone XS Backup Password? Heres What to Do
-date: 2024-04-30T17:10:17.235Z
-updated: 2024-05-01T17:10:17.235Z
+date: 2024-05-19T07:09:52.959Z
+updated: 2024-05-20T07:09:52.959Z
 tags: 
   - unlock
   - remove screen lock
@@ -561,4 +561,5 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-honor-x9b-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor X9b Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-z-fold-5-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy Z Fold 5 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

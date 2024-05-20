@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini
-date: 2024-04-30T17:18:53.553Z
-updated: 2024-05-01T17:18:53.553Z
+date: 2024-05-19T07:10:21.590Z
+updated: 2024-05-20T07:10:21.590Z
 tags: 
   - unlock
   - remove screen lock
@@ -559,4 +559,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-nokia-c12-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Nokia C12 Pro Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y77t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y77t to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

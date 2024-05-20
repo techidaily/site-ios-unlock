@@ -505,3 +505,4 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-z-flip-5-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy Z Flip 5 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

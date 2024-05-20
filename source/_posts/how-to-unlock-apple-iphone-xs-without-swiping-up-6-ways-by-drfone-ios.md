@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
-date: 2024-04-30T17:10:20.419Z
-updated: 2024-05-01T17:10:20.419Z
+date: 2024-05-19T07:09:53.140Z
+updated: 2024-05-20T07:09:53.140Z
 tags: 
   - unlock
   - remove screen lock
@@ -550,4 +550,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 11 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/remove-the-lock-of-lava-blaze-2-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Lava Blaze 2 Pro</u></a></li>
 </ul></div>
+
 

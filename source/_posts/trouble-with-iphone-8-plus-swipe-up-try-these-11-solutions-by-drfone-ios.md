@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 8 Plus Swipe-Up? Try These 11 Solutions
-date: 2024-04-30T17:08:39.153Z
-updated: 2024-05-01T17:08:39.153Z
+date: 2024-05-19T07:09:47.434Z
+updated: 2024-05-20T07:09:47.434Z
 tags: 
   - unlock
   - remove screen lock
@@ -627,4 +627,5 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
 <li><a href="https://fix-guide.techidaily.com/itel-p55t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55T Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-13-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi 13 Ultra to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

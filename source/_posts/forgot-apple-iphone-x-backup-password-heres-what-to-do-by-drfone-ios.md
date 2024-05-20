@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone X Backup Password? Heres What to Do
-date: 2024-04-30T17:07:20.771Z
-updated: 2024-05-01T17:07:20.771Z
+date: 2024-05-19T07:09:43.181Z
+updated: 2024-05-20T07:09:43.181Z
 tags: 
   - unlock
   - remove screen lock
@@ -466,4 +466,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://ai-editing-video.techidaily.com/new-complete-how-to-tutorials-of-kapwing-collage-maker-for-2024/"><u>New Complete How-To Tutorials of Kapwing Collage Maker for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-yuva-2-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Yuva 2 Pro FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

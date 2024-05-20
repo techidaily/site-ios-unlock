@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone SE Lock Screen with Notifications?
-date: 2024-04-30T17:04:11.526Z
-updated: 2024-05-01T17:04:11.526Z
+date: 2024-05-19T07:09:32.740Z
+updated: 2024-05-20T07:09:32.740Z
 tags: 
   - unlock
   - remove screen lock
@@ -535,4 +535,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Find N3 Flip</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-c32-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia C32 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 
