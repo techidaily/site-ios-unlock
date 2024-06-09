@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone 8 Properly
-date: 2024-05-19T07:09:50.675Z
-updated: 2024-05-20T07:09:50.675Z
+date: 2024-06-08T07:48:32.100Z
+updated: 2024-06-09T07:48:32.100Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Learn How To Lock Stolen Your iPhone 8 Properly
 excerpt: This article describes Learn How To Lock Stolen Your iPhone 8 Properly
 keywords: iphone backup unlocker,unlock iphone 5 passcode without itunes,get into locked iphone,how to turn off find my iphone when phone is broken,forgot iphone pin,iphone lock screen with notifications,change apple id on ipad,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## Learn How To Lock Stolen Your Apple iPhone 8 Properly

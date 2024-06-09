@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions
-date: 2024-05-19T07:10:04.175Z
-updated: 2024-05-20T07:10:04.175Z
+date: 2024-06-08T07:46:27.189Z
+updated: 2024-06-09T07:46:27.189Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions
 keywords: iphone asking for outlook password,total wireless unlock,reset iphone backup password,change apple id password,unlock disabled iphone 13,iphone swipe up not working
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions

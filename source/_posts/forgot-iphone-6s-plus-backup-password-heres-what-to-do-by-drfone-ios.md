@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 6s Plus Backup Password? Heres What to Do
-date: 2024-05-19T07:09:29.032Z
-updated: 2024-05-20T07:09:29.032Z
+date: 2024-06-08T07:48:21.783Z
+updated: 2024-06-09T07:48:21.783Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 6s Plus Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 6s Plus Backup Password? Heres What to Do
 keywords: unlock iphone 11 12 13 without passcode,unlock iphone passcode without computer,iphone backup unlocker,how to remove face id on iphone 13,bypass apple store verification,how to unlock iphone to use usb accessories,remove device supervision from iphone,apple id not active,reset iphone backup password,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## Forgot Apple iPhone 6s Plus Backup Password? Here's What to Do

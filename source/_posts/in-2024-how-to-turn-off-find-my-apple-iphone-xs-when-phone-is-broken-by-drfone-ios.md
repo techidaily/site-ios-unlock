@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone XS when Phone is Broken?
-date: 2024-05-19T07:09:54.261Z
-updated: 2024-05-20T07:09:54.261Z
+date: 2024-06-08T07:48:02.142Z
+updated: 2024-06-09T07:48:02.142Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone XS when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone XS when Phone is Broken?
 keywords: unlock iphone screen passcode,unlock disabled iphone without computer,iphone passcode not working after update ios 13,bypass apple store verification,how to unlock iphone with broken screen,unlock disabled iphone without itunes,unlock iphone 5 passcode without itunes
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone XS when Phone is Broken?

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Open Your iPhone 6s Without a Home Button
-date: 2024-05-19T07:09:27.407Z
-updated: 2024-05-20T07:09:27.407Z
+date: 2024-06-08T07:48:16.355Z
+updated: 2024-06-09T07:48:16.355Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Open Your iPhone 6s Without a Home Button
 excerpt: This article describes How To Open Your iPhone 6s Without a Home Button
 keywords: reset iphone backup password,bypass iphone passcode,how to create new apple id,fix iphone unavailability,unlock iphone 11 12 13 without passcode,how to unlock iphone with itunes,how to remove passcode from iphone,unlock iphone xs without passcode,change country on iphone app store
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## How To Open Your Apple iPhone 6s Without a Home Button

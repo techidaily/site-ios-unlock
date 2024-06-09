@@ -1,7 +1,7 @@
 ---
 title: Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-05-19T07:10:02.928Z
-updated: 2024-05-20T07:10:02.928Z
+date: 2024-06-08T07:47:07.569Z
+updated: 2024-06-09T07:47:07.569Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix
 excerpt: This article describes iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix
 keywords: how to unlock a found iphone,forgot passcode iphone 6,unlock lost phone,how to remove passcode from iphone,how to create new apple id,unlock disabled iphone without itunes,how to turn off find my iphone when phone is broken,remove device supervision from iphone
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Apple iPhone 11 Backup Password Never Set But Still Asking? Here's the Fix

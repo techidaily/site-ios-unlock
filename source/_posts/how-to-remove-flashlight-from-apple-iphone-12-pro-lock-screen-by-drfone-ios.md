@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 12 Pro Lock Screen
-date: 2024-05-19T07:10:26.617Z
-updated: 2024-05-20T07:10:26.617Z
+date: 2024-06-08T07:47:06.567Z
+updated: 2024-06-09T07:47:06.567Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Remove Flashlight From Apple iPhone 12 Pro Lock Screen
 excerpt: This article describes How To Remove Flashlight From Apple iPhone 12 Pro Lock Screen
 keywords: how many attempts to unlock iphone,unlock iphone face id wearing mask,iphone locked to owner,swipe up to unlock iphone,unlock iphone passcode without computer,remove iphone from blacklist,how to unlock iphone with broken screen,what can jailbreak iphone do,iphone lost mode unlock
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## How To Remove Flashlight From Apple iPhone 12 Pro Lock Screen

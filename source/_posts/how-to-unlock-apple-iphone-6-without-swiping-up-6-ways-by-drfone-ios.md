@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone 6 Without Swiping Up? 6 Ways
-date: 2024-05-19T07:09:17.123Z
-updated: 2024-05-20T07:09:17.123Z
+date: 2024-06-08T07:46:25.159Z
+updated: 2024-06-09T07:46:25.159Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock Apple iPhone 6 Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock Apple iPhone 6 Without Swiping Up? 6 Ways
 keywords: iphone passcode changed itself,lock stolen iphone,how to create new apple id,how to unlock iphone without passcode,how to unlock iphone without passcode or face id,change country on iphone app store,fix iphone unavailability,forgot locked note password,iphone swipe up not working,disable parental control,iphone lost mode unlock,iphone passcode not working after update ios 13
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## How To Unlock Apple iPhone 6 Without Swiping Up? 6 Ways

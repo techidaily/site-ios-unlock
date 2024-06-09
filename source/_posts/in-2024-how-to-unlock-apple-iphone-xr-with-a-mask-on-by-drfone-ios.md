@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XR with a Mask On
-date: 2024-05-19T07:10:01.978Z
-updated: 2024-05-20T07:10:01.978Z
+date: 2024-06-08T07:47:24.026Z
+updated: 2024-06-09T07:47:24.026Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone XR with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone XR with a Mask On
 keywords: change apple id password,iphone backup password,bypass iphone passcode,unlock iphone passcode,unlock iphone 11 12 13 without passcode,iphone asking for outlook password,how to create new apple id,lock stolen iphone
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## How to Unlock Apple iPhone XR with a Mask On

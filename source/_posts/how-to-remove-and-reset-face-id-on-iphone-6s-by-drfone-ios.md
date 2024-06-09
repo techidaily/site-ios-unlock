@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 6s
-date: 2024-05-19T07:09:25.047Z
-updated: 2024-05-20T07:09:25.047Z
+date: 2024-06-08T07:47:35.239Z
+updated: 2024-06-09T07:47:35.239Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on iPhone 6s
 excerpt: This article describes How to Remove and Reset Face ID on iPhone 6s
 keywords: unlock iphone without passcode,factory reset locked iphone without itunes,change apple id email address,open iphone without home button,iphone locked to owner,unlock iphone passcode without computer,iphone lost mode unlock
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 6s

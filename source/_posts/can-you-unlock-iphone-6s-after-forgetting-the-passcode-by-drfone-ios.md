@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock iPhone 6s After Forgetting the Passcode?
-date: 2024-05-19T07:09:24.990Z
-updated: 2024-05-20T07:09:24.990Z
+date: 2024-06-08T07:47:18.045Z
+updated: 2024-06-09T07:47:18.045Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Can You Unlock iPhone 6s After Forgetting the Passcode?
 excerpt: This article describes Can You Unlock iPhone 6s After Forgetting the Passcode?
 keywords: iphone asking for outlook password,what can jailbreak iphone do,how much does unlock a phone cost,lock stolen iphone,app lock iphone,how to unlock iphone 12,get out of security lockout,total wireless unlock
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Can You Unlock Apple iPhone 6s After Forgetting the Passcode?

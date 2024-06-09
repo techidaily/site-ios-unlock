@@ -1,7 +1,7 @@
 ---
 title: Remove Device Supervision From your iPhone 6s
-date: 2024-05-19T07:09:25.642Z
-updated: 2024-05-20T07:09:25.642Z
+date: 2024-06-08T07:47:40.462Z
+updated: 2024-06-09T07:47:40.462Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Remove Device Supervision From your iPhone 6s
 excerpt: This article describes Remove Device Supervision From your iPhone 6s
 keywords: change apple id password,iphone passcode changed itself,how to unlock iphone with itunes,lock stolen iphone,disable parental control,how many attempts to unlock iphone
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Remove Device Supervision From your Apple iPhone 6s

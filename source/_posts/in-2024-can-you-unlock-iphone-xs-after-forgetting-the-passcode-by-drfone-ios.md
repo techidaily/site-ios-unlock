@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can You Unlock iPhone XS After Forgetting the Passcode?
-date: 2024-05-19T07:09:55.082Z
-updated: 2024-05-20T07:09:55.082Z
+date: 2024-06-08T07:47:45.871Z
+updated: 2024-06-09T07:47:45.871Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Can You Unlock iPhone XS After Forgetting the Passcode?
 excerpt: This article describes Can You Unlock iPhone XS After Forgetting the Passcode?
 keywords: open iphone without home button,ios 17 lock screen,doctorism unlock review,iphone x iphone xr lock screen,forgot locked note password,unlock iphone screen passcode,how to remove passcode from iphone,how to unlock iphone without passcode,how to turn off find my iphone when phone is broken,swipe up to unlock iphone
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## Can You Unlock Apple iPhone XS After Forgetting the Passcode?

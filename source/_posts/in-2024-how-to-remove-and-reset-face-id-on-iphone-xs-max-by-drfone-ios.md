@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone XS Max
-date: 2024-05-19T07:09:58.991Z
-updated: 2024-05-20T07:09:58.991Z
+date: 2024-06-08T07:46:57.841Z
+updated: 2024-06-09T07:46:57.841Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on iPhone XS Max
 excerpt: This article describes How to Remove and Reset Face ID on iPhone XS Max
 keywords: how to unlock a found iphone,reset iphone backup password,how to unlock iphone with itunes,remove iphone from blacklist,iphone swipe up not working,change apple id password,bypass apple store verification
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone XS Max

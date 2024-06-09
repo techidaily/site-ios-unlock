@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 8 Backup Password? Heres What to Do
-date: 2024-05-19T07:09:50.355Z
-updated: 2024-05-20T07:09:50.355Z
+date: 2024-06-08T07:48:11.831Z
+updated: 2024-06-09T07:48:11.831Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 8 Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 8 Backup Password? Heres What to Do
 keywords: iphone passcode not working after update ios 13,iphone is disabled,unlock disabled iphone 13,factory reset locked iphone without itunes,iphone auto lock greyed out,erase iphone when locked,how to unlock iphone 7 without passcode,total wireless unlock,how to unlock iphone with broken screen,doctorism unlock review,lock stolen iphone
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## Forgot Apple iPhone 8 Backup Password? Here's What to Do

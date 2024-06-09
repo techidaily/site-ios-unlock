@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do You Remove Restricted Mode on Apple iPhone XS
-date: 2024-05-19T07:09:54.709Z
-updated: 2024-05-20T07:09:54.709Z
+date: 2024-06-08T07:47:39.166Z
+updated: 2024-06-09T07:47:39.166Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How Do You Remove Restricted Mode on Apple iPhone XS
 excerpt: This article describes How Do You Remove Restricted Mode on Apple iPhone XS
 keywords: swipe up to unlock iphone,how to unlock iphone with broken screen,how to unlock iphone 12,how many attempts to unlock iphone,disable parental control,how to turn off find my iphone when phone is broken,forgot passcode iphone 6,unlock iphone 5 passcode without itunes,apple id not active
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## How Do You Remove Restricted Mode on Apple iPhone XS

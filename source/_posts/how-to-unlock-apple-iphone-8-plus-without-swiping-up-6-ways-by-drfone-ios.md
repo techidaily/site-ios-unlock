@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone 8 Plus Without Swiping Up? 6 Ways
-date: 2024-04-07T02:16:34.567Z
-updated: 2024-04-08T02:16:34.567Z
+date: 2024-06-08T07:47:34.218Z
+updated: 2024-06-09T07:47:34.219Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock Apple iPhone 8 Plus Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock Apple iPhone 8 Plus Without Swiping Up? 6 Ways
 keywords: how to unlock iphone with broken screen,unlock iphone face id wearing mask,what can jailbreak iphone do,remove flashlight from iphone lock screen,forgot iphone pin,fix iphone unavailability
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## How To Unlock Apple iPhone 8 Plus Without Swiping Up? 6 Ways

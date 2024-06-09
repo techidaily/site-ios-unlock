@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone XS Max
-date: 2024-05-19T07:09:57.494Z
-updated: 2024-05-20T07:09:57.494Z
+date: 2024-06-08T07:47:08.635Z
+updated: 2024-06-09T07:47:08.635Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone XS Max
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone XS Max
 keywords: iphone auto lock greyed out,how to remove face id on iphone 13,how to unlock iphone passcode without computer,how to create new apple id,lock stolen iphone,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/tPZQXZ5f5-0L_L7obmLf1Q98jIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-569944733df78cafda90169f.jpg
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone XS Max

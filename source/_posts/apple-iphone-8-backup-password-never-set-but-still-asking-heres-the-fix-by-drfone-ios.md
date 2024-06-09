@@ -1,7 +1,7 @@
 ---
 title: Apple iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-05-19T07:09:49.228Z
-updated: 2024-05-20T07:09:49.228Z
+date: 2024-06-08T07:46:33.632Z
+updated: 2024-06-09T07:46:33.632Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix
 excerpt: This article describes iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix
 keywords: forgot locked note password,turn off restricted mode,unlock lost phone,unlock iphone without passcode,unlock iphone 14,iphone auto lock greyed out,unlock iphone 5 passcode without itunes,iphone lock screen with notifications,what can jailbreak iphone do,open iphone without home button
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Apple iPhone 8 Backup Password Never Set But Still Asking? Here's the Fix

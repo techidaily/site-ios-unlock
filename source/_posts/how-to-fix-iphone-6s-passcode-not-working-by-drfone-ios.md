@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 6s Passcode not Working?
-date: 2024-05-19T07:09:24.926Z
-updated: 2024-05-20T07:09:24.926Z
+date: 2024-06-08T07:48:30.252Z
+updated: 2024-06-09T07:48:30.252Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix iPhone 6s Passcode not Working?
 excerpt: This article describes How to Fix iPhone 6s Passcode not Working?
 keywords: get into locked iphone,unlock iphone face id wearing mask,unlock disabled iphone without itunes,how to unlock iphone without passcode or face id,unlock iphone with apple watch,how to unlock iphone 7 without passcode,reset iphone backup password,fix iphone unavailability,unlock disabled iphone without computer,iphone asking for outlook password
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## How to Fix Apple iPhone 6s Passcode not Working?
