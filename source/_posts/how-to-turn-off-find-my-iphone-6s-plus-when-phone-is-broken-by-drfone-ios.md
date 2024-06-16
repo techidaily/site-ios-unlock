@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 6s Plus when Phone is Broken?
-date: 2024-05-19T07:09:28.836Z
-updated: 2024-05-20T07:09:28.836Z
+date: 2024-06-15T17:50:01.883Z
+updated: 2024-06-16T17:50:01.883Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 6s Plus when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 6s Plus when Phone is Broken?
 keywords: unlock iphone passcode,app lock iphone,ios 17 lock screen,how to unlock iphone without passcode,unlock disabled iphone without computer,unlock iphone screen passcode,how much does unlock a phone cost,iphone lock screen with notifications,apple id not active,open iphone without home button,unlock iphone 14
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 6s Plus when Phone is Broken?

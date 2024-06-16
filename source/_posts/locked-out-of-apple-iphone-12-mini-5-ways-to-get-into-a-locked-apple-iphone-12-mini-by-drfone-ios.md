@@ -1,7 +1,7 @@
 ---
 title: Locked Out of Apple iPhone 12 mini? 5 Ways to get into a Locked Apple iPhone 12 mini
-date: 2024-05-19T07:10:19.601Z
-updated: 2024-05-20T07:10:19.601Z
+date: 2024-06-15T17:48:48.554Z
+updated: 2024-06-16T17:48:48.554Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Locked Out of Apple iPhone 12 mini? 5 Ways to get into a Locked Apple iPhone 12 mini
 excerpt: This article describes Locked Out of Apple iPhone 12 mini? 5 Ways to get into a Locked Apple iPhone 12 mini
 keywords: change apple id email address,how to unlock iphone to use usb accessories,turn off restricted mode,unlock apple watch,unlock disabled iphone without computer,iphone lock screen with notifications,apple id not active,how to remove passcode from iphone,remove device supervision from iphone
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## Locked Out of Apple iPhone 12 mini? 5 Ways to get into a Locked Apple iPhone 12 mini

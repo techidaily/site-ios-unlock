@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix iPhone XR Unavailable Issue With Ease
-date: 2024-05-19T07:10:02.205Z
-updated: 2024-05-20T07:10:02.205Z
+date: 2024-06-15T17:48:15.804Z
+updated: 2024-06-16T17:48:15.804Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix iPhone XR Unavailable Issue With Ease
 excerpt: This article describes How To Fix iPhone XR Unavailable Issue With Ease
 keywords: iphone swipe up not working,fix iphone passcode not working,apple id not active,fix iphone backup password never set but still asking,unlock iphone 14,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## How To Fix Apple iPhone XR Unavailable Issue With Ease

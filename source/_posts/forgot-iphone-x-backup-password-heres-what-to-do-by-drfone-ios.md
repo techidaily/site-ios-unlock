@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone X Backup Password? Heres What to Do
-date: 2024-05-19T07:09:44.009Z
-updated: 2024-05-20T07:09:44.009Z
+date: 2024-06-15T17:50:01.863Z
+updated: 2024-06-16T17:50:01.863Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone X Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone X Backup Password? Heres What to Do
 keywords: bypass ios 14 lock screen,iphone passcode changed itself,iphone is disabled,how to unlock iphone without passcode or face id,how to unlock a found iphone,remove device supervision from iphone,iphone lock screen with notifications,change apple id on ipad,change country on iphone app store
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Forgot Apple iPhone X Backup Password? Here's What to Do

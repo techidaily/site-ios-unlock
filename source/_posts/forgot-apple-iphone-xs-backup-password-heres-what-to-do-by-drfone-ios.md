@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone XS Backup Password? Heres What to Do
-date: 2024-05-19T07:09:52.959Z
-updated: 2024-05-20T07:09:52.959Z
+date: 2024-06-15T17:48:06.680Z
+updated: 2024-06-16T17:48:06.680Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone XS Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone XS Backup Password? Heres What to Do
 keywords: change apple id on ipad,bypass apple store verification,how many attempts to unlock iphone,how to unlock iphone with itunes,remove device supervision from iphone,reset iphone backup password,lock stolen iphone,unlock iphone passcode without computer,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Forgot Apple iPhone XS Backup Password? Here's What to Do

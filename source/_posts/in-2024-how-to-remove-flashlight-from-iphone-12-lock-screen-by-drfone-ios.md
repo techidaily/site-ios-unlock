@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Flashlight From iPhone 12 Lock Screen
-date: 2024-05-19T07:10:19.158Z
-updated: 2024-05-20T07:10:19.158Z
+date: 2024-06-15T17:48:15.932Z
+updated: 2024-06-16T17:48:15.932Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Remove Flashlight From iPhone 12 Lock Screen
 excerpt: This article describes How To Remove Flashlight From iPhone 12 Lock Screen
 keywords: unlock iphone passcode,how to remove passcode from iphone,iphone passcode not working after update ios 13,change country on iphone app store,iphone backup unlocker,erase iphone when locked,change apple id on ipad,how to remove face id on iphone 13,iphone 11 passcode bypass,iphone swipe up not working,how to unlock a found iphone
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## How To Remove Flashlight From Apple iPhone 12 Lock Screen

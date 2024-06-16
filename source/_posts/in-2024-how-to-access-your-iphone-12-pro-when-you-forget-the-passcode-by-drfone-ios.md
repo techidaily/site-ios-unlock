@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your iPhone 12 Pro When You Forget the Passcode?
-date: 2024-05-19T07:10:28.826Z
-updated: 2024-05-20T07:10:28.826Z
+date: 2024-06-15T17:47:43.915Z
+updated: 2024-06-16T17:47:43.915Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your iPhone 12 Pro When You Forget the Passcode?
 excerpt: This article describes How to Access Your iPhone 12 Pro When You Forget the Passcode?
 keywords: iphone passcode not working after update ios 13,ios 17 lock screen,how to unlock a found iphone,how much does unlock a phone cost,iphone auto lock greyed out,turn off restricted mode
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## How to Access Your Apple iPhone 12 Pro When You Forget the Passcode?

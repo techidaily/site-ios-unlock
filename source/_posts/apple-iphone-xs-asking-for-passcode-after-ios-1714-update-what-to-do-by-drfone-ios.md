@@ -1,7 +1,7 @@
 ---
 title: Apple iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do?
-date: 2024-05-19T07:09:53.031Z
-updated: 2024-05-20T07:09:53.031Z
+date: 2024-06-15T17:48:02.334Z
+updated: 2024-06-16T17:48:02.334Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do?
 excerpt: This article describes iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do?
 keywords: iphone 11 passcode bypass,unlock lost phone,iphone swipe up not working,bypass ios 14 lock screen,unlock disabled iphone without itunes,how to unlock iphone 12,forgot passcode on iphone,iphone passcode not working after update ios 13
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Apple iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do?

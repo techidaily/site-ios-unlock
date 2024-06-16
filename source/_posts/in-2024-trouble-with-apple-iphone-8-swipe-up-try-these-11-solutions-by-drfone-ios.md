@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions
-date: 2024-05-19T07:09:51.484Z
-updated: 2024-05-20T07:09:51.484Z
+date: 2024-06-15T17:50:21.382Z
+updated: 2024-06-16T17:50:21.382Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions
 keywords: reset iphone backup password,unlock iphone xs without passcode,iphone 15 unlock,lock stolen iphone,iphone passcode changed itself,fix iphone passcode not working,how to unlock an iphone 13,how many attempts to unlock iphone,how to unlock iphone with broken screen,unlock iphone passcode without computer
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 12 Pro Max when Phone is Broken?
-date: 2024-05-19T07:10:23.784Z
-updated: 2024-05-20T07:10:23.784Z
+date: 2024-06-15T17:48:01.147Z
+updated: 2024-06-16T17:48:01.147Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 12 Pro Max when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 12 Pro Max when Phone is Broken?
 keywords: bypass iphone passcode,change country on iphone app store,unlock iphone with apple watch,how to turn off find my iphone when phone is broken,iphone is disabled,iphone swipe up not working,unlock iphone 11 12 13 without passcode
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken?

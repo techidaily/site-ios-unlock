@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone SE Backup Password? Heres What to Do
-date: 2024-05-19T07:09:31.920Z
-updated: 2024-05-20T07:09:31.920Z
+date: 2024-06-15T17:49:00.842Z
+updated: 2024-06-16T17:49:00.842Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone SE Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone SE Backup Password? Heres What to Do
 keywords: iphone swipe up not working,unlock disabled iphone without computer,swipe up to unlock iphone,unlock lost phone,iphone backup unlocker,iphone locked to owner,fix iphone backup password never set but still asking,unlock iphone passcode,iphone lock screen with notifications,iphone 15 unlock,solve iphone randomly asking for apple id
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## Forgot Apple iPhone SE Backup Password? Here's What to Do

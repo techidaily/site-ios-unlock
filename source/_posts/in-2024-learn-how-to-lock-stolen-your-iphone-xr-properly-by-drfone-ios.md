@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your iPhone XR Properly
-date: 2024-05-19T07:10:02.581Z
-updated: 2024-05-20T07:10:02.581Z
+date: 2024-06-15T17:48:19.174Z
+updated: 2024-06-16T17:48:19.174Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Learn How To Lock Stolen Your iPhone XR Properly
 excerpt: This article describes Learn How To Lock Stolen Your iPhone XR Properly
 keywords: ios 17 lock screen,open iphone without home button,unlock iphone 14,how to turn off find my iphone when phone is broken,fix iphone passcode not working,how much does unlock a phone cost,unlock iphone passcode without computer,unlock disabled iphone 13,unlock iphone with apple watch,how many attempts to unlock iphone
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Learn How To Lock Stolen Your Apple iPhone XR Properly

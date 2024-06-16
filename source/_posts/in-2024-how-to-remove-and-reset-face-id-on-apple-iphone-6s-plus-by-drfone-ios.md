@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 6s Plus
-date: 2024-05-19T07:09:29.669Z
-updated: 2024-05-20T07:09:29.669Z
+date: 2024-06-15T17:47:23.279Z
+updated: 2024-06-16T17:47:23.279Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone 6s Plus
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone 6s Plus
 keywords: iphone passcode changed itself,iphone x iphone xr lock screen,lock stolen iphone,how to unlock iphone with broken screen,app lock iphone,erase iphone when locked,bypass ios 14 lock screen,how to remove face id on iphone 13,ios 17 lock screen,fix iphone backup password never set but still asking,iphone lost mode unlock
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 6s Plus

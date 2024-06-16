@@ -1,7 +1,7 @@
 ---
 title: Remove Device Supervision From your Apple iPhone 6s
-date: 2024-05-19T07:09:24.525Z
-updated: 2024-05-20T07:09:24.525Z
+date: 2024-06-15T17:47:09.959Z
+updated: 2024-06-16T17:47:09.959Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Remove Device Supervision From your Apple iPhone 6s
 excerpt: This article describes Remove Device Supervision From your Apple iPhone 6s
 keywords: how to unlock iphone with broken screen,erase iphone when locked,remove iphone from blacklist,iphone x iphone xr lock screen,how many attempts to unlock iphone,turn off restricted mode
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Remove Device Supervision From your Apple iPhone 6s

@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 12 mini Lock Screen
-date: 2024-05-19T07:10:19.956Z
-updated: 2024-05-20T07:10:19.956Z
+date: 2024-06-15T17:48:17.493Z
+updated: 2024-06-16T17:48:17.493Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Remove Flashlight From Apple iPhone 12 mini Lock Screen
 excerpt: This article describes How To Remove Flashlight From Apple iPhone 12 mini Lock Screen
 keywords: forgot iphone pin,how to remove face id on iphone 13,iphone lost mode unlock,change apple id email address,iphone auto lock greyed out,how to unlock iphone with broken screen,unlock disabled iphone 13
-thumbnail: https://www.lifewire.com/thmb/36O6mR-32uZPQcZCa_oWmrz1kHY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8fb87ff4960ee8bff73c07e4.jpg
 ---
 
 ## How To Remove Flashlight From Apple iPhone 12 mini Lock Screen

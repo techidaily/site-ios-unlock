@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Flashlight From iPhone XR Lock Screen
-date: 2024-05-19T07:10:02.602Z
-updated: 2024-05-20T07:10:02.602Z
+date: 2024-06-15T17:48:06.636Z
+updated: 2024-06-16T17:48:06.636Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Remove Flashlight From iPhone XR Lock Screen
 excerpt: This article describes How To Remove Flashlight From iPhone XR Lock Screen
 keywords: what can jailbreak iphone do,open iphone without home button,get into locked iphone,forgot locked note password,fix iphone passcode not working,how to unlock iphone without passcode,change apple id password,iphone 11 passcode bypass
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## How To Remove Flashlight From Apple iPhone XR Lock Screen

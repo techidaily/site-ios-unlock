@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone SE (2020)
-date: 2024-05-19T07:10:14.056Z
-updated: 2024-05-20T07:10:14.056Z
+date: 2024-06-15T17:50:07.415Z
+updated: 2024-06-16T17:50:07.415Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone SE (2020)
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone SE (2020)
 keywords: unlock iphone face id wearing mask,total wireless unlock,turn off restricted mode,iphone lock screen with notifications,how to unlock iphone 12,iphone asking for outlook password,ios 17 lock screen,unlock iphone screen passcode,how to turn off find my iphone when phone is broken,iphone backup unlocker,how many attempts to unlock iphone
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)

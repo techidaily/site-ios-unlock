@@ -1,7 +1,7 @@
 ---
 title: Unlocking iPhone 6 Passcode without a Computer
-date: 2024-05-19T07:09:17.602Z
-updated: 2024-05-20T07:09:17.602Z
+date: 2024-06-15T17:48:12.961Z
+updated: 2024-06-16T17:48:12.961Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Unlocking iPhone 6 Passcode without a Computer
 excerpt: This article describes Unlocking iPhone 6 Passcode without a Computer
 keywords: how to unlock a found iphone,unlock iphone face id wearing mask,iphone is disabled,remove flashlight from iphone lock screen,unlock iphone 11 12 13 without passcode,reset iphone backup password,change apple id email address
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## Unlocking Apple iPhone 6 Passcode without a Computer

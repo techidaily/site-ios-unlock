@@ -1,7 +1,7 @@
 ---
 title: How To Open Your Apple iPhone X Without a Home Button
-date: 2024-05-19T07:09:43.286Z
-updated: 2024-05-20T07:09:43.286Z
+date: 2024-06-15T17:50:04.136Z
+updated: 2024-06-16T17:50:04.136Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Open Your Apple iPhone X Without a Home Button
 excerpt: This article describes How To Open Your Apple iPhone X Without a Home Button
 keywords: iphone x iphone xr lock screen,unlock iphone 14,turn off restricted mode,get out of security lockout,lock stolen iphone,change apple id password,unlock iphone without passcode,iphone passcode not working after update ios 13,apple id not active,how to unlock iphone with itunes
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## How To Open Your Apple iPhone X Without a Home Button

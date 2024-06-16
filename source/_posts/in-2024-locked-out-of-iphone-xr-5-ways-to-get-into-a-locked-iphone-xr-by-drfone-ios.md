@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR
-date: 2024-05-19T07:10:02.260Z
-updated: 2024-05-20T07:10:02.260Z
+date: 2024-06-15T17:47:51.711Z
+updated: 2024-06-16T17:47:51.711Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR
 excerpt: This article describes Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR
 keywords: app lock iphone,forgot passcode on iphone,iphone x iphone xr lock screen,fix iphone passcode not working,unlock iphone with apple watch,unlock iphone face id wearing mask,swipe up to unlock iphone,iphone backup unlocker,unlock disabled iphone without computer
-thumbnail: https://www.lifewire.com/thmb/0zAfKCPSLtJGJZ4s7ICQ5FGmSzY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Verified-badge-on-phone-658ecad4f9104dae97a969bfa2f74eb3.jpg
+thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
 
 ## Locked Out of Apple iPhone XR? 5 Ways to get into a Locked Apple iPhone XR

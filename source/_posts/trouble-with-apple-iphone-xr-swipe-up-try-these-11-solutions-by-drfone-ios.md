@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions
-date: 2024-05-19T07:09:59.997Z
-updated: 2024-05-20T07:09:59.997Z
+date: 2024-06-15T17:49:28.688Z
+updated: 2024-06-16T17:49:28.688Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions
 keywords: iphone auto lock greyed out,iphone passcode not working after update ios 13,iphone lock screen with notifications,change country on iphone app store,unlock iphone face id wearing mask,lock stolen iphone
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions

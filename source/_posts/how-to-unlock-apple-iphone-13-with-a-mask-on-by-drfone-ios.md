@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 13 with a Mask On
-date: 2024-05-19T07:10:30.050Z
-updated: 2024-05-20T07:10:30.050Z
+date: 2024-06-15T17:47:50.510Z
+updated: 2024-06-16T17:47:50.510Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 13 with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 13 with a Mask On
 keywords: fix iphone unavailability,remove flashlight from iphone lock screen,change apple id email address,iphone backup password,how to unlock iphone passcode without computer,iphone locked to owner,iphone passcode changed itself,bypass iphone passcode,unlock iphone 11 12 13 without passcode,unlock iphone passcode,unlock disabled iphone without itunes,iphone lock screen with notifications
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## How to Unlock Apple iPhone 13 with a Mask On
