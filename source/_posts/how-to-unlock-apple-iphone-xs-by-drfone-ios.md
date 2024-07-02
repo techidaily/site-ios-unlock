@@ -1,0 +1,527 @@
+---
+title: How to Unlock Apple iPhone XS?
+date: 2024-05-19T07:09:52.813Z
+updated: 2024-05-20T07:09:52.813Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - ios
+  - iphone
+description: This article describes How to Unlock Apple iPhone XS?
+excerpt: This article describes How to Unlock Apple iPhone XS?
+keywords: how to turn off find my iphone when phone is broken,lock stolen iphone,unlock disabled iphone without computer,unlock lost phone,iphone auto lock greyed out,unlock iphone with apple watch,forgot iphone pin
+thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+---
+
+## How to Unlock Apple iPhone XS?
+
+[![drfone](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
+
+Human life completely changed since the advent of technology. Today, life is not the same as it used to be. Communication and traveling became so easy. People can fly and within few hours reach the destination. The time span that was once calculated in days has now shrunk to just a few hours. In the early days, no one would have imagined that they could carry the computer in small bags, but laptops were invented to their surprise.
+
+Today, all those computer and laptop qualities are being shifted into a small phone. Something that can fit in a pocket, and a human can carry it anywhere without feeling its weight. A small device, the mobile phone has great competition in the market. Android phones are coming up with brilliant features to stand equally with iPhones, but iOS has its own customers and a powerful market value. Talking about iPhone, let's discuss how a user can unlock Apple iPhone XS without a passcode.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fn6H3w08kAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+
+## **Part 1. Unlock Apple iPhone XS without Passcode or Face ID**
+
+A problem commonly faced by all iPhone users is that they forget the password, and then they are stuck because they cannot use their phone anymore. This might seem impossible because iPhone users cannot use the phone without a passcode, but let us show you a magical application that makes this impossible.
+
+[Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), the well-known application among most iPhone users, can resolve the problem quickly. This is a very secure platform for iPhone users because it promises to safeguard user's personal information. The application is easy to use, that even a new person can use it without facing any trouble. Let us highlight its features;
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+Fix iPhone Lock Screen Password Forgot Issue
+
+- Unlock Face ID, Touch ID, Apple ID without password.
+- Bypass the iCloud activation lock without hassle.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Remove iPhone carrier restrictions for unlimited usage.
+- No tech knowledge required, Simple, click-through, process.
+
+**3,981,454** people have downloaded it
+
+This might be possible that not all iPhone users know about Dr.Fone – Screen Unlock, so, for such users, let us take you through the steps that are required to unlock iPhone 12 or 12 Pro Max using Dr.Fone – Screen Unlock without a passcode.
+
+**Step 1: Download and Install the Application**
+
+First of all, the user is supposed to download Dr.Fone – Screen Unlock and install it on your Windows or Mac system. Once it is installed, the application is all set and ready to use; launch it in the time of need and [unlock your Apple iPhone XS without a passcode](https://drfone.wondershare.com/solutions/iphone-lock-screen-password-forgot.html).
+
+After the application is launched, the Welcome Screen will appear with different options. The user is requested to select the option of 'Screen Unlock'.
+
+![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2: Connect Phone with System**
+
+In the second step, the user should connect their phone to the system and let Dr.Fone's application automatically detect it. Whenever you are ready to initiate the process, click on the button 'Unlock iOS Screen.'
+
+![drfone android ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+**Step 3: Recovery Mode Activation**
+
+Once the application has detected your Apple iPhone XS, you now need to activate the Recovery mode. A step by step illustration on how to activate Recovery mode is shared on-screen.
+
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+**Step 4: Download Firmware Update**
+
+A new window will appear now, on which the application will ask for some information regarding your iOS device. Provide the application with asked information and click on the 'Download' button to get the firmware update for your Apple iPhone XS.
+
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
+
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+**Step 5: Confirmation Code**
+
+The application will now ask for the confirmation code. Just provide the on-screen confirmation code and let the process complete itself. As soon as that is done, the application will notify you through the interface. The process can also be repeated by clicking on the 'Try Again' button.
+
+![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+## **Part 2. Unlock Locked iPhone 12 by Restoring it to Default Settings – iTunes**
+
+iPhone users make sure that they connect and sync their devices with iTunes because their data is safe. iPhone users live without the fear of losing their data because it is backed up. Taking more advantage of this, iPhone users can restore their phone to default settings and can even unlock their iPhone without using a passcode.
+
+Let us show you how to unlock Apple iPhone XS without using a passcode;
+
+1. Start the process by turning off your Apple iPhone XS.
+2. After that, plug in your phone to the computer and open iTunes.
+3. Once the phone is connected with iTunes, click on 'Summary' that will appear on the screen's left side.
+
+    ![unlock iphone 12 or 12 pro max](https://images.wondershare.com/drfone/article/2021/04/unlock-iphone-12-or-12-pro-max-1.jpg)
+
+4. After the summary screen is opened, you will see the option of 'Restore iPhone'; click on that option.
+
+    ![unlock iphone 12 or 12 pro max](https://images.wondershare.com/drfone/article/2021/04/unlock-iphone-12-or-12-pro-max-2.jpg)
+
+5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
+6. As soon as that is done and iTunes has finished the process, your Apple iPhone XS 12 will be restored to default settings.
+
+## **Part 3. Unlock Disabled iPhone 12 by Erasing iPhone in iCloud**
+
+IOS world is different from the Android world, and so, both have different and unique problems to deal with. For example, an android user can never imagine unlocking a disabled phone, but iPhone users surely know how to do it. It might be possible that someone doesn't know how they can erase the Apple iPhone XS from iCloud, so for such users, let's provide a step-by-step guideline;
+
+1. Firstly, the user is requested to visit icloud.com on your computer or any other device that is in use. Then log in by using the Apple ID and password.
+
+    ![unlock iphone 12 or 12 pro max](https://images.wondershare.com/drfone/article/2021/04/unlock-iphone-12-or-12-pro-max-3.jpg)
+
+2. If two-factor authentication is enabled on your Apple iPhone XS, then hit ‘Trust’ and enter the 6-digit verification code that will be sent to your Apple iPhone XS.
+3. Once you are logged in, choose ‘Find iPhone’ and enter your Apple ID and password again.
+4. 4\. Then, you are requested to click on ‘All Devices’ that will appear on the top of the browser and select your device's name from the list provided.
+5. When you have selected your Apple iPhone XS, click on the ‘Erase iPhone’ button visible towards the screen's right side. This will erase all the data and settings from your device. It will also wipe the password.
+
+    ![unlock iphone 12 or 12 pro max](https://images.wondershare.com/drfone/article/2021/04/unlock-iphone-12-or-12-pro-max-4.jpg)
+
+## **Part 4. Pros and Cons of Every Method**
+
+Different methods have been discussed that use different platforms regarding how a user can unlock an iPhone if a passcode is missing. The user might be confused about selecting the appropriate method, so let’s help the users by sharing some advantages and disadvantages of all the methods discussed above. This will help the user to select the best possible method;
+
+### 1\. Using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+The known and famous application among iPhone users helps them recover data, unlock a phone even if its passcode is missing, and whatnot. Let us now discuss its amazing pros;
+
+**Pros**
+
+1. The process is completed within few seconds. Users can easily handle the application because of the guidelines that are shared on the screen.
+2. The application is very convenient to use, and it works on both Windows and Mac.
+3. Dr.Fone can remove the Apple or iCloud passwords even if they do not have any account details.
+4. The application can easily unlock a 4-digit or even 6-digit screen passcode, Face ID, or Touch ID.
+
+**Cons:**
+
+1. The Apple iPhone XS in use will be updated to the latest iOS version as soon as the unlocking process is completed.
+2. The Apple iPhone XS must be in DFU mode for the process to unlock the screen.
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+### 2\. Using iTunes
+
+iPhone users can unlock the phone by using iTunes. Following are its pros and cons;
+
+**Pros:**
+
+1. Most iPhones are synced with iTunes, which benefits the user as it restores the latest backup on iPhone after removing the screen lock.
+2. iTunes is easy to understand and simple to use.
+
+**Cons:**
+
+1. The biggest drawback people face with iTunes is that the data can be erased if no latest backup is taken.
+2. Another factor that causes the problem is iTunes' slow functionality, as it consumes a lot of time to complete a process.
+
+### 3\. Using iCloud
+
+Another known platform for iPhone users is iCloud, which allows users to unlock the screen without using the passcode. Let us share its pros and cons;
+
+**Pros:**
+
+1. The biggest benefit of using iCloud is that the user doesn't have to connect the Apple iPhone XS with the system. Just login is required for iCloud.
+2. Another factor is that no technical skills are needed to use iCloud. The user needs access to their iCloud account.
+
+**Cons:**
+
+1. User requires a strong and stable internet connection to log in to iCloud and in case internet is not available, they cannot unlock the screen.
+2. Another disadvantage is that if 'Find my iPhone' is not enabled on the Apple iPhone XS device, then the user cannot unlock the screen through iCloud.
+
+## Conclusion
+
+The article aimed to provide users with maximum information and knowledge about unlock the Apple iPhone XS even if you don’t have the passcode. Several methods have been discussed alongside their pros and cons so that the user can select the best.
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+## How to Bypass Apple iPhone XS Passcode Easily [Video Inside]
+
+If you have forgotten the passcode of your Apple iPhone XS, then don’t worry! You are not the only one. It happens with plenty of iOS users every now and then. Lately, we have received lots of feedback from our readers asking for a solution to bypass Apple iPhone XS. Therefore, we thought of compiling an informative post to help you bypass the Apple iPhone XS passcode without much trouble. Go ahead and follow these hassle-free methods to perform an Apple iPhone XS bypass.
+
+## Part 1: How to bypass Apple iPhone XS passcode with Dr.Fone - Screen Unlock? (iOS 15.4)
+
+[Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an extremely secure and easy-to-use application that can help you bypass locked screens within minutes. Afterward, you can simply use your phone by resetting its lock. It provides a reliable way to update your phone’s firmware without causing any complications. The application can also be used to resolve plenty of other Apple iPhone XS-related issues. The only disadvantage you should notice is that your data will be wiped out after using this tool. So, you'd better backup it before.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qxEIOKjeNZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+Compatible with every leading iOS device, it runs on all major iOS versions. Since Dr.Fone has an easy-to-use interface, it can simply resolve your issues without much trouble. You can restore your phone and perform an Apple iPhone XS bypass with Dr.Fone - Screen Unlock by following these steps.
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+Bypass Apple iPhone XS Passcode at Ease
+
+- Remove the 4-digit/6-digit passcode, Touch ID, and Face ID.
+- A few clicks and the iOS lock screen are gone.
+- The best alternative to factory rest mode.
+- Fully compatible with all iDevice models and iOS versions.
+
+**4,395,218** people have downloaded it
+
+**Step 1**. Download Dr.Fone - Screen Unlock on your Mac or Windows system from its official website. After installing it, launch it whenever you need to bypass the Apple iPhone XS lock. Click on the option of "**Screen Unlock**" from the welcome screen.
+
+![bypass Apple iPhone XS passcode using drfone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2**. Connect your Apple iPhone XS to the system and let the application detect it automatically. Click on the “**Unlock iOS Screen**” button whenever you need to initiate the operation.
+
+![connect Apple iPhone XS to bypass Apple iPhone XS passcode](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 3**. After your phone is detected, you need to activate the DFU mode as instructed by the on-screen steps.
+
+![bypass Apple iPhone XS passcode in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg)
+
+**Step 4**. In the next window, you have to provide basic information regarding your iOS device. Here, supply relevant information related to your phone (like device model, firmware, and more). Click on the “**Download**” button to get the firmware update for your phone.
+
+![select Apple iPhone XS details to bypass Apple iPhone XS passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+**Step 5**. Wait for a while as the application will download the firmware update for your phone. Once it is done, click on the “**Unlock Now**” button.
+
+![start to actually bypass Apple iPhone XS passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+**Step 6**. Simply provide the on-screen confirmation code to initiate the process.
+
+![bypass Apple iPhone XS passcode by entering confirmation code](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
+
+**Step 7**. As soon as it is completed, you will be notified by the interface. You can also repeat the process by clicking on the “**Try Again**” button.
+
+![bypassed Apple iPhone XS passcode with success](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
+
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+## Part 2: How to bypass the Apple iPhone XS passcode with Siri? (iOS 8.0 – iOS 10.1)
+
+If you are an avid user of Apple products, then the chances are that you must have already heard of this Apple iPhone XS hack. If you are running a device on iOS 8.0 to iOS 10.1, then you can take the assistance of Siri to bypass the Apple iPhone XS lock. Even though this is not a secure way to surpass your phone’s lock screen, it doesn’t restore or erase your data in the process. You can follow these steps to bypass the Apple iPhone XS passcode with Siri.
+
+**Step 1**. Firstly, hold the Home button on our phone to activate Siri. Speak a command like “Siri, what time is it?” to ask the present time. Now, tap on the clock icon.
+
+![ask siri the time](https://images.wondershare.com/drfone/article/2017/07/14993665847305.jpg "ask siri the time")
+
+**Step 2.** It will open an interface for the world clock feature. From here, add another clock.
+
+![world clock](https://images.wondershare.com/drfone/article/2017/07/14993666502651.jpg "world clock")
+
+**Step 3.** Simply provide a textual input while searching for the city and tap on the “Select all” button.
+
+![select input text](https://images.wondershare.com/drfone/article/2017/07/14993666741575.jpg "select input text")
+
+**Step 4.** From all the provided features, select the option of “Share” to continue.
+
+![share text](https://images.wondershare.com/drfone/article/2017/07/14993667175344.jpg "share text")
+
+**Step 5.** Tap on the message icon to draft a new message.
+
+![add to message](https://images.wondershare.com/drfone/article/2017/07/14993667996531.jpg "add to message")
+
+**Step 6.** A new interface for message draft would be opened. In the “To” field, type something and tap the return button on the keyboard.
+
+![add new message](https://images.wondershare.com/drfone/article/2017/07/14993668505901.jpg "add new message")
+
+**Step 7.** As your text will turn green, tap on the add icon again.
+
+![add contact](https://images.wondershare.com/drfone/article/2017/07/14993668977221.jpg "add contact")
+
+**Step 8.** From the next interface, select the option of “Create New Contact”.
+
+![Create new Contact](https://images.wondershare.com/drfone/article/2017/07/14993669187170.jpg "Create new Contact")
+
+**Step 9.** While adding a new contact, tap on the contact photo icon and choose “Add Photo”.
+
+![add photo](https://images.wondershare.com/drfone/article/2017/07/14993669619890.jpg "add photo")
+
+**Step 10.** From the photo library, browse your albums.
+
+![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14993669795676.jpg "iphone photo library")
+
+**Step 11.** Wait for 3-5 seconds before pressing the home button again. This will lead you to the home screen of your device.
+
+![iphone home](https://images.wondershare.com/drfone/article/2017/07/14993670049869.jpg "iphone home")
+
+## Part 3: How to bypass the Apple iPhone XS passcode with iTunes?
+
+Another popular way to restore your Apple iPhone XS is by taking the assistance of iTunes. Needless to say, even though you would be able to bypass the Apple iPhone XS passcode, the technique will wipe the data on your device. Though, if you have already taken a backup of your data, then you can choose to restore it after performing an Apple iPhone XS bypass. Do it by following these instructions.
+
+**Step 1.** Launch iTunes on your system and connect it with a USB/lightning cable.
+
+**Step 2.** Hold the Home button on your Apple iPhone XS and while pressing it, connect it to your system. This will display a connect-to-iTunes symbol.
+
+![connect to itunes](https://images.wondershare.com/drfone/article/2017/07/14993663711652.jpg "connect to itunes")
+
+**Step 3.** After connecting your phone to the system, iTunes will automatically recognize it and display the following message. Simply click on the “Restore” button.
+
+![restore](https://images.wondershare.com/drfone/article/2017/07/14993664805676.jpg "restore")
+
+**Step 4.** Furthermore, you can choose to restore content from a previous backup as well. Go to iTunes Summary section and click on the “Restore Backup” button.
+
+![restore backup](https://images.wondershare.com/drfone/article/2017/07/14993665043433.jpg "restore backup")
+
+**Step 5.** Agree with the pop-up message and erase all the previous content on your phone.
+
+![erase content](https://images.wondershare.com/drfone/article/2017/07/14993665401648.jpg "erase content")
+
+## Part 4: How to bypass Apple iPhone XS passcode with Elcomsoft iOS Forensic Toolkit?
+
+This might be new to you, but there are a few forensic toolkits in the market that can help you perform Apple iPhone XS bypass without much trouble. One of the most reliable options is the Elcomsoft iOS Forensic Toolkit. Though, in order to use it, you need to download [its licensed version](https://www.elcomsoft.com/) from its website right.
+
+Later, you can simply connect your phone to the system and run the forensic tool. From the welcome screen, select the option of “Get Passcode”. This will run an encrypted command and provide a passcode to your phone that can be used to unlock it.
+
+![elcomsoft iso toolkit](https://images.wondershare.com/drfone/article/2017/07/14993665593982.jpg "drfone toolkit")
+
+### Wrap it up
+
+After following these solutions, you would be able to bypass the Apple iPhone XS lock without any trouble. You can simply choose your preferred option and perform an Apple iPhone XS bypass. If you are not able to unlock your phone with Siri, then use Dr.Fone - Screen Unlock. It is an extremely safe option to help you bypass the Apple iPhone XS passcode and overcome various iOS-related problems.
+
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+## How to Unlock Your Apple iPhone XS Passcode: 4 Easy Methods (With or Without iTunes)
+
+_“How to unlock iPhone passcode without iTunes? I have been locked out of my iPhone and can’t remember its passcode. Is there an easy solution to learn how to unlock iPhone 6 passcode?”_
+
+If you are having a similar experience with your Apple iPhone XS, then you have certainly come to the right place. There are times when iPhone users don’t remember the passcode of their device and are locked out of it. Even though you can learn how to unlock iPhone 5 passcode in different ways, you might have to suffer from some unwanted data loss. In this guide, we will make you familiar with different solutions to do the same. Read on and learn how to unlock iPhone 6 without password using different techniques.
+
+## Part 1: How to unlock iPhone passcode with iTunes?
+
+If you have already synced your Apple iPhone XS with iTunes, then you can follow this technique and learn how to unlock iPhone passcode effortlessly. Since it will restore your device, you can later use a backup file to get your data back.
+
+1\. Launch iTunes on your system and make sure that it is an updated version which is compatible with your Apple iPhone XS.
+
+2\. Now, connect your Apple iPhone XS to your system and wait for it to detect it.
+
+3\. Go to the Apple iPhone XS devices section to select your Apple iPhone XS and visit its Summary page.
+
+4\. From here, click on the “Restore iPhone” button on the right.
+
+![Unlock iPhone Passcode  with iTunes](https://images.wondershare.com/drfone/article/2017/10/15081778657085.jpg)
+
+## Part 2: How to unlock iPhone passcode with Dr.Fone - Screen Unlock (iOS)?
+
+Too many times, users don’t get the desired results with iTunes. Therefore, we recommend using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool to learn [how to unlock iPhone 6 without a passcode](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html). The tool is compatible with all the leading iOS versions and devices. It provides a seamless solution to fix all the major issues related to an iOS device and that too within minutes. You can learn how to unlock iPhone 5 passcode by following these instructions. Though, the same steps would work with other iOS versions as well.
+
+Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlock.
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+Unlock iPhone/iPad Lock Screen Without Hassle.
+
+- Remove Apple ID on iOS devices without Password.
+- Support removing 4-digit/6-digit passcode, Touch ID & Face ID.
+- Easy to use it, with no technology background required.
+- Compatible with the latest iPhone XS, X, iPhone 8 (Plus) and iOS 12.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+**3981454** people have downloaded it
+
+<iframe src="https://www.youtube.com/embed/SG-KuuduzaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+1\. Install Dr.Fone - Screen Unlock (iOS) from its website right [here](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) and launch it on your system. Select the "Screen Unlock" option from its homepage.
+
+![Unlock iPhone Passcode with Dr.Fone - Screen Unlock  (iOS)-lauch Dr.Fone - Screen Unlock  (iOS)](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+2\. You can attach your Apple iPhone XS to a computer and the "Start" button at the interface at the same moment.
+
+3\. When the system detects your Apple iPhone XS, it displays a prompt to trust the computer. Don't accept it, and instead close it.
+
+![Unlock iPhone Passcode with Dr.Fone - Screen Unlock  (iOS)-trust the computer](https://images.wondershare.com/drfone/drfone/unlock-iphone-win-02.jpg)
+
+4\. Now you have to provide a few important information about your Apple iPhone XS on the next window.
+
+5\. To update your firmware, click on the "Download" button. Wait for a while to finish the download.
+
+![Unlock iPhone Passcode with Dr.Fone-complete the download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+6\. You will get the following interface once the firmware update is downloaded. Click "Unlock Now" to determine the option "Contain Native Data."
+
+![Unlock iPhone Passcode with Dr.Fone-ScreenUnlock Now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+7\. In addition, by typing the on-screen code you need to verify your choice.
+
+![Unlock iPhone Passcode-confirm your choice](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
+
+8\. After agreeing with the confirmation message, the application will start fixing your Apple iPhone XS. You might need to wait for a few minutes.
+
+9\. You will be notified by showing the following window once the process is effectively finished.
+
+![Unlock iPhone Passcode-process is completed](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
+
+Now when you know how to unlock iPhone 6 without password, you can disconnect your Apple iPhone XS and use it as per your needs.
+
+## Part 3: How to unlock iPhone passcode without iTunes using iCloud?
+
+If your Apple iPhone XS is already in sync with iCloud and you have enabled the Find My iPhone feature, then you can easily learn how to unlock iPhone passcode remotely. The service was originally introduced to locate a lost iPhone. Though, it can also erase an iPhone entirely without much trouble. To learn how to unlock iPhone 6 passcode using iCloud, follow these steps:
+
+1\. Visit the official website of iCloud and sign-in using your account credentials. This should be the same account that is in sync with your Apple iPhone XS.
+
+2\. On the home page, you will find various options. Click on “Find iPhone” to learn how to unlock iPhone 5 passcode.
+
+![Unlock iPhone Passcode using iCloud-Click on “Find iPhone”](https://images.wondershare.com/drfone/article/2017/10/15081779795839.jpg)
+
+3\. If you have linked several devices with your iCloud account, then simply click on the “All Devices” option and select your Apple iPhone XS.
+
+![Unlock iPhone Passcode using iCloud-select your Apple iPhone XS](https://images.wondershare.com/drfone/article/2017/10/15081779999401.jpg)
+
+4\. This will provide various options related to your Apple iPhone XS. Simply click on the “Erase iPhone” button and confirm your choice.
+
+![Unlock iPhone Passcode-Erase iPhone](https://images.wondershare.com/drfone/article/2017/10/15081780218355.jpg)
+
+This will restart your Apple iPhone XS while wiping it entirely. You need to set up your Apple iPhone XS as a new device without any lock screen.
+
+## Part 4: How to unlock iPhone passcode by tricking Siri?
+
+As you can see, in all the above-stated solutions, your Apple iPhone XS data would be lost. Therefore, we recommend trying this technique beforehand. For iOS 8.0 to iOS 10.1 versions, it has been observed that Siri has a loophole which can be exploited to unlock the iOS device. It might be a little tricky and doesn’t provide guaranteed results. Nevertheless, you can give it a try and learn how to unlock iPhone 6 without a password by following these steps:
+
+1\. Unlock your Apple iPhone XS and press the Home button to activate Siri.
+
+2\. Provide a command like “What time is it” to get the current time with the display of the clock icon.
+
+![Unlock iPhone Passcode by tricking Siri-get the current time](https://images.wondershare.com/drfone/article/2017/10/15081780467773.jpg)
+
+3\. Tap on the clock icon to open the world clock interface.
+
+4\. Here, you need to add another clock. Tap on the “+” icon to do it.
+
+![Unlock iPhone Passcode-add another clock](https://images.wondershare.com/drfone/article/2017/10/15081781011341.jpg)
+
+5\. To add another city, simply provide any text and tap on it. Choose the “Select all” option.
+
+![Unlock iPhone Passcode-Select all](https://images.wondershare.com/drfone/article/2017/10/15081781269275.jpg)
+
+6\. As the entire text would be selected, you will get various options. Choose the “Share” option to proceed.
+
+![Unlock iPhone Passcode-Choose the “Share” option](https://images.wondershare.com/drfone/article/2017/10/15081781446881.jpg)
+
+7\. This will provide different ways to share the selected text. Go with the message option.
+
+![Unlock iPhone Passcode-Go with the message option](https://images.wondershare.com/drfone/article/2017/10/15081781746988.jpg)
+
+8\. A new interface will be opened to draft a message. Type something in the “To” field.
+
+9\. After typing, tap on the Return button.
+
+![Unlock iPhone Passcode-tap on the Return button](https://images.wondershare.com/drfone/article/2017/10/15081782154662.jpg)
+
+10\. This will turn the text in green colour. Now, you need to tap on the add icon beside it.
+
+![Unlock iPhone Passcode-tap on the add icon](https://images.wondershare.com/drfone/article/2017/10/15081782429835.jpg)
+
+11\. As it will launch a new interface, you can just select the “Create new contact” option.
+
+![Unlock iPhone Passcode-Create new contact](https://images.wondershare.com/drfone/article/2017/10/15081782605959.jpg)
+
+12\. This will again provide a new interface to add new content. Tap on the “Add Photo” option and select to choose an existing photo instead.
+
+![Unlock iPhone Passcode-Add Photo](https://images.wondershare.com/drfone/article/2017/10/15081782816984.jpg)
+
+13\. The photo library on your phone will be launched. You can simply tap on any album you wish to open.
+
+![Unlock iPhone Passcode-tap on any album](https://images.wondershare.com/drfone/article/2017/10/15081783271944.jpg)
+
+14\. After waiting for a while, slightly press the home button. If you are lucky, you will land on the home screen on your Apple iPhone XS and can access it without any trouble.
+
+![Unlock iPhone Passcode-press the home button](https://images.wondershare.com/drfone/article/2017/10/15081780874189.jpg)
+
+As you can see, there are plenty of ways to learn how to unlock iPhone passcode without much trouble. Ideally, you should go with Dr.Fone - Screen Unlock (iOS) to resolve any kind of issue related to your Apple iPhone XS. Easy to use, the application provides highly reliable results and will certainly come handy to you on numerous occasions. Now when you know how to unlock iPhone 6 passcode, you can share this guide with your friends and family as well and help them resolve this issue.
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-mini-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-13-mini-5-ways-to-get-into-a-locked-iphone-13-mini-by-drfone-ios/"><u>Locked Out of iPhone 13 mini? 5 Ways to get into a Locked iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-12-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 12 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-13-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 13 Pro Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XS Max Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-6s-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 6s with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 6 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-13-mini-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 13 mini Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-13-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 Pro Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-7-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 7 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xs-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XS Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-14-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-12-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2v-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2V to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-itel-p55plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel P55+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-z60-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock ZTE Nubia Z60 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-11-proipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 11 Pro/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-a18-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Oppo A18 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-g24-power-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola G24 Power Phone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/slow-down-or-speed-up-videos-easily-on-pc-online-and-phone/"><u>Slow Down or Speed Up Videos Easily on PC, Online, and Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-x-flip-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo X Flip Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-motorola-edge-40-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Motorola Edge 40 Device SIM</u></a></li>
+</ul></div>
+
+

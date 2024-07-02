@@ -1,0 +1,550 @@
+---
+title: In 2024, How to Unlock Apple iPhone 6s With an Apple Watch & What to Do if It Doesnt Work
+date: 2024-05-19T07:09:26.723Z
+updated: 2024-05-20T07:09:26.723Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - ios
+  - iphone
+description: This article describes How to Unlock Apple iPhone 6s With an Apple Watch & What to Do if It Doesnt Work
+excerpt: This article describes How to Unlock Apple iPhone 6s With an Apple Watch & What to Do if It Doesnt Work
+keywords: unlock iphone xs without passcode,fix iphone unavailability,forgot iphone pin,get into locked iphone,bypass apple store verification,iphone 11 passcode bypass
+thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+---
+
+## How to Unlock Apple iPhone 6s With an Apple Watch & What to Do if It Doesn't Work
+
+![man wearing apple watch with Apple iPhone 6s by him](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch.jpg)
+
+There are plenty of reasons why Apple devices are in such high demand. The quality of the products is unquestionable – few can argue the superior quality of the Apple iPhone 6s’s camera, for instance. Almost all devices are long-lasting. They have a great resale value. They offer cutting-edge features.
+
+However, perhaps the greatest advantage of Apple products is just how well they integrate with one another and work together.
+
+With a quick little tap, you can have your Apple iPhone 6s’s camera working as your Mac’s webcam. You can use your iPad as a second Mac display. Take calls using any device.
+
+Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone 6s**.
+
+Now, you cannot just **unlock any Apple iPhone 6s with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
+
+
+## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 6s?
+
+![phone, earphones, and apple watch on a table](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-2.jpg)
+
+The Apple iPhone 6s face ID is one of the simplest, most practical ways to unlock your phone. While you’ll need a passcode just as another security layer, you won’t have to worry about someone else breaking in if they know it, going through your messages, or collecting your private information.
+
+With face ID, only you can unlock your phone, sign in to your favorite apps, and even authenticate purchases.
+
+The problem is that neither face ID nor traditional passcodes aren’t always the most convenient option. If you wear sunglasses, safety goggles, a face mask, or other face coverings and can’t take them off for some reason, face ID won’t work. If you have gloves on and can’t type in your passcode, your passcodes won’t work.
+
+What could work is your Apple Watch.
+
+Depending on the Apple Watch version you own and your Apple iPhone 6s model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
+
+## Part 2. Requirements for Unlocking Apple iPhone 6s With Apple Watch
+
+![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
+
+Unfortunately, not every Apple iPhone 6s can be unlocked with your Apple Watch, and not every Apple Watch can unlock your Apple iPhone 6s. Both devices must meet some requirements before you can adjust your settings to enable this option.
+
+To be able to use your Apple Watch to unlock your phone with the utmost ease, you’ll need:
+
+- An Apple iPhone 6s with Face ID – Apple iPhone 6s X and newer models;
+- iOS 14.5 and newer versions;
+- An Apple Watch series 3 and newer models;
+- watchOS 7.4 and newer versions.
+
+Additional requirements you’ll need to meet include:
+
+- Your Apple iPhone 6s and Apple Watch need to be paired;
+- Both devices need to have WiFi and Bluetooth turned on (but a connection to a WiFi network isn’t necessary);
+- You need to have a passcode on your Apple Watch;
+- Wrist detection on your watch needs to be turned on;
+- The watch needs to be on your wrist and unlocked.
+
+You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 6s Face ID.
+
+## Part 3. How To Unlock Apple iPhone 6s With an Apple Watch
+
+![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
+
+If you meet all the aforementioned criteria, setting up the feature to unlock your Apple iPhone 6s using an Apple Watch is easy. You’ll just have to follow a few steps:
+
+- **Step 1:** Go to **Settings > Face ID & Passcode**on your Apple iPhone 6s;
+
+![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
+
+- **Step 2:** Type in your passcode;
+- **Step 3:** Find and enable **Unlock with Apple Watch**.
+
+Remember that your Apple Watch’s wrist detection must be turned on for this option to work. When you tap to enable **Unlock with Apple Watch**, if your wrist detection isn’t turned on, you’ll get a prompt on your phone asking you to turn it on.
+
+You can turn on wrist detection on your watch by following these steps:
+
+- **Step 4:** Go to **Settings**on your Apple Watch;
+- **Step 5:** Tap on the **Passcode**;
+- **Step 6:** Toggle **Wrist Detection**
+
+![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
+
+Now that you’ve enabled the option to unlock your Apple iPhone 6s using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
+
+- Have your Apple Watch on your wrist, unlocked;
+- Tap on your Apple iPhone 6s or raise it to your face to activate it;
+- Glance at your phone while wearing a face mask, sunglasses, or another item that’s preventing you from using Face ID;
+- Swipe up on your phone’s screen.
+
+Your Apple Watch will send an alert when you’ve used it to unlock your Apple iPhone 6s. If you accidentally unlock your phone, simply tap on the **Lock Apple iPhone 6s** on the screen of your watch to lock it.
+
+However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone 6s, you’ll first need to type in your passcode.
+
+## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 6s With a Watch
+
+![person wearing face mask unlocking their Apple iPhone 6s](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
+
+Generally speaking, unlocking your Apple iPhone 6s with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
+
+### 1. Check All Settings & Reconfigure
+
+As mentioned earlier, there are a few requirements that your devices need to meet to unlock your Apple iPhone 6s with your Apple Watch.
+
+If you’re using the correct versions of Apple iPhone 6s (iPhone X, iOS 14.5 and newer) and Apple Watch (series 3, watchOS 7.4 and newer), try to reconfigure your settings.
+
+Make sure that you have:
+
+- A passcode on your watch;
+- Wrist detection turned on;
+- Feature **Unlock with Apple Watch**turned on on your Apple iPhone 6s.
+
+If all the settings are correct, try one of the following options.
+
+### 2. Restart Your WiFi/Bluetooth Connection
+
+Your Apple iPhone 6s and your Apple Watch need to have both WiFi and Bluetooth turned on. If they’re turned on on both devices, try turning them off and back on again to restart the connection.
+
+Remember, you only need WiFi and Bluetooth on but don’t need to be connected to a WiFi network.
+
+If the problem persists, you could also restart your devices and try again.
+
+### 3. Reset Your Face ID
+
+In some instances, it’s the Face ID feature that’s causing trouble, so you might want to try and reset it. It’s much easier than it may sound, you just need to follow the next few steps:
+
+- **Step 1:** Go to your Apple iPhone 6s’s **Settings**;
+- **Step 2:** Select **Face ID & Passcode**;
+- **Step 3:** Tap **Reset Face ID**.
+
+When you tap on this, you’ll need to go through the process of setting your Face ID as usual. You’ll need to type in your passcode, hold your Apple iPhone 6s in front of you (in portrait orientation), tap to get started, and put your face in the provided frame.
+
+Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
+
+### 4. Do a System Repair on Your Apple iPhone 6s
+
+If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
+
+[<u>Dr.Fone Apple iPhone 6s system repair</u>](https://drfone.wondershare.com/guide/ios-system-recovery.html) is designed to be fast, efficient, and safe. It can repair virtually any system glitch in less than five minutes, ensuring your phone operates seamlessly.
+
+To perform a standard system repair with Dr.Fone, follow the next few steps:
+
+- **Step 1:** Download and launch Dr.Fone on your computer;
+- **Step 2:** From the **Toolbox**on your left-hand side, select **System Repair**;
+
+![unlock-iphone-with-watch-8.jpg](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+- **Step 3:** Connect your Apple iPhone 6s to your PC using a cable connection;
+- **Step 4:** Select your device type in the new window that opens;
+- **Step 5:** Select **iOS repair**;
+
+![dr.fone ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
+
+- **Step 6:** Select **Standard Repair Mode**;
+- **Step 7:** Follow the on-screen instructions and select **Enter Recovery Mode**;
+- (Alternatively, select **Guide**if your phone is unresponsive);
+- **Step 8:** Select the iOS firmware you want to download and install on your device;
+- **Step 9:** Wait for the download to finish, then select **Repair Now**;
+- **Step 10:** Wait until the process is complete, then select **Done**.
+
+![dr.fone finishing ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
+
+If it was a system mistake preventing you from unlocking your Apple iPhone 6s with your Apple Watch, the option should be functioning well after the Dr.Fone iOS repair.
+
+### 5. Reset Network Settings
+
+If the problem wasn’t due to a system glitch, you should try resetting your Apple iPhone 6s’s network settings. The process is simple, just:
+
+- **Step 1:** Go to **Settings > General > Reset > Reset Network**;
+- **Step 2:** Type in your passcode.
+
+Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
+
+### 6. Reset Your Watch and Pair It Again
+
+Finally, if you’re still experiencing issues, you might need to reset your Apple Watch and pair it with your Apple iPhone 6s again.
+
+It’s all quite simple:
+
+- **Step 1:** Press and hold the power button;
+- **Step 2:** Drag the slider under **Power off**to the right;
+- **Step 3:** Press and hold the power button to turn the Apple iPhone 6s device back on.
+
+To perform a hard reset, simultaneously press and hold the power button and digital crown.
+
+## Conclusion
+
+Using your Apple Watch to unlock your Apple iPhone 6s is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
+
+Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
+
+## Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password
+
+Apple ID is a crucial part of the Apple ecosystem that enables users to access a wide range of services and applications. It is a unique identifier that links all Apple devices, services, and applications together.
+
+However, sometimes iPhone users may encounter an annoying issue where their **iPhone randomly asks for an Apple ID password** without any apparent reason. This problem can be frustrating and disruptive! It can interrupt your workflow and prevent you from using your phone normally.
+
+Fortunately, we have comprehensive solutions to help you resolve this persistent issue once and for all. Let's dive in and return your device to its happy, non-nagging self!
+
+## **Part 1: Common Causes for Random Apple ID Verification Pop Up**
+
+The **random Apple ID verification pop-up** can be caused by a range of factors, from simple settings misconfigurations to more complex account-related issues. So it's important to identify the root cause to find the appropriate solution that addresses the underlying issue.
+
+Take a closer look at these common reasons why your Apple iPhone 6s may be **randomly asking for your Apple ID password**:
+
+- **iOS Software Update****：**
+
+One of the most frequent causes of the Apple ID password prompts is when your Apple iPhone 6s has undergone a software update. The update may require you to re-verify your Apple ID credentials to ensure security and privacy.
+
+- **iCloud Account Settings****：**
+
+If the settings are not in sync with your Apple ID credentials or if there are inconsistencies, it can trigger repeated password prompts.
+
+- **App Store/iTunes Purchase****：**
+
+If there was an issue when you purchased or downloaded something, your Apple iPhone 6s might prompt you to verify your Apple ID to complete the purchase.
+
+- **iCloud Keychain****：**
+
+The iCloud Keychain is a feature that stores your passwords and other sensitive information across your Apple devices. If there are inconsistencies or conflicts with the iCloud Keychain data, it may prompt you to verify your Apple ID password.
+
+- **Network Connectivity****：**
+
+Sometimes, network connectivity issues can cause the Apple ID password prompts to appear repeatedly. If your Apple iPhone 6s is struggling to establish a stable internet connection, it may trigger verification prompts.
+
+These are some of the common causes that can trigger the **random Apple ID verification pop-up** on your Apple iPhone 6s. Now, we'll delve into the solutions to help you resolve this matter.
+
+![Apple ID pop up on iPhone](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-1.jpg)
+
+## **Part 2: Solutions To Stop iPhone Randomly Asking for Apple ID Password**
+
+After we've concluded the **“Why does my iPhone keep asking for my apple ID”** question, let's explore solutions to help you end this annoyance. Here are eight methods that you can try to stop your Apple iPhone 6s from repeatedly asking for your Apple ID password:
+
+**Method 1: Update iOS.**
+
+Ensure that your Apple iPhone 6s is operating on the most up-to-date iOS version. Software updates usually incorporate bug fixes and security improvements that can address the problem effectively.
+
+![Check for iPhone’s software updates](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-2.jpg)
+
+**Method 2: Sign Out and Sign In to Apple ID.**
+
+Sign out and then sign back in your Apple ID. This method can refresh the credentials and resolve any authentication issues.
+
+![Sign in and sign out Apple ID](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-3.jpg)
+
+**Method 3: Remove Apple ID with Wondershare Dr. Fone**
+
+If you forget your Apple ID and cannot access your device, Wondershare Dr. Fone's Screen Unlock tool can help. This powerful tool lets you remove your Apple ID from your device, even if Find My Service is enabled.
+
+Before we begin, it's crucial to remember that this process will erase all data from the Apple iPhone 6s device. Now, follow the steps below if your **iPhone keeps asking for an Apple ID password**:
+
+- **Step 1:** Launch the Dr. Fone Screen Unlock
+
+Open Wondershare Dr. Fone on your computer and navigate to the Toolbox > Screen Unlock to activate the feature.
+
+- **Step 2:** Choose Remove Apple ID
+
+In the next window, select the option to Remove Apple ID to initiate the process of removing your Apple ID.
+
+![Choose Remove Apple ID on Dr.Fone](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+- **Step 3:** Connect Your Device
+
+Link up your iOS device to the computer using a USB cable. The software will display the connectivity status on the next screen. Click the Unlock Now button to proceed.
+
+![Connect the Apple iPhone 6s device to your computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+- **Step 4:** Confirm Screen Lock and Two-Factor Authentication
+
+The software will ask if your device has a screen lock. Confirm whether you have a screen lock enabled on your device by clicking Yes. Then, it will also confirm if your device has Two-Factor Authentication enabled.
+
+- **Step 5:** Put Device in Recovery Mode
+
+The program will display on-screen guidelines to help you put your device in Recovery Mode. Follow the instructions that match your iOS model. If it doesn't work, you can also try DFU Mode by clicking Try DFU Mode on the bottom-left of the screen. Then, follow the instructions.
+
+![Put device in recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+- **Step 6:** Recognize the Apple iPhone 6s device Model and Select System Version
+
+Once your device is in Recovery Mode, you can see its details on the next screen. Then, select the System Version and Start to proceed. You can manually set the details if there are any differences in recognition.
+
+![Select system version according to your device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+- **Step 7:** Download iOS Firmware
+
+The software will start downloading the corresponding iOS firmware. If the firmware download is slow, you can copy the link and download the iOS firmware.
+
+- **Step 8:** Confirm the Prompt to Unlock
+
+Once you download the firmware, it will be verified by the software. Click Unlock Now until a prompt window appears. It will ask you to enter a code to continue. Enter the code and click Unlock to start the process.
+
+![Input the code to unlock the Apple ID](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+- **Step 9:** Monitor Apple ID Removal Progress
+
+Keep your device connected and avoid any disconnections. Once the Apple ID is unlocked, the software will prompt the completion. Click Done to conclude the process. If the Apple ID is not unlocked, you can click Try Again.
+
+![Apple ID has been unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
+
+**Method 4: Reset iCloud Account Settings**Resetting your iCloud account settings can help clear any inconsistencies or conflicts that may be triggering the password prompts. Open Settings, and navigate to General > Transfer or Reset Phone > Reset.
+
+![Reset iCloud account setting](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-10.jpg)
+
+**Method 5: Check App Store/iTunes Purchase**
+
+Verify and complete any pending app purchases or downloads from the App Store or iTunes. If there was an issue with a previous transaction, resolving it can stop the password prompts.
+
+![Check the purchased history](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-11.jpg)
+
+**Method 6: Disable iCloud Keychain**
+
+Turning off iCloud Keychain and then turning it back on can help refresh the data and resolve any syncing issues. Go to Settings > \[Your Name\] > iCloud > Keychain > Toggle off and on.
+
+![Disable your iCloud keychain](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-12.jpg)
+
+**Method 7: Check Network Connectivity**
+
+Make sure that your Apple iPhone 6s has a reliable internet connection. Weak or unstable networks can trigger password prompts. Try to switch between different Wi-Fi networks or use cellular data.
+
+![Check your network connection](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-13.jpg)
+
+**Method 8: Contact Apple Support**
+
+If none of the above methods work, contacting Apple Support can be a viable option. They can provide further assistance and guidance in resolving the issue.
+
+These are some of the methods that can help you stop your Apple iPhone 6s from randomly asking for your Apple ID password. Don't forget to always back up your data before changing your Apple iPhone 6s settings.
+
+If the issue persists, it's recommended to visit an authorized Apple service center.
+
+
+## **Bonus Part: How To Get Your Apple ID Password Back if You Forget It**
+
+It's not uncommon for people to forget their Apple ID password at times, especially with the ever-increasing number of online accounts we manage. But fret not! There are reliable password manager tools available, such as Dr.Fone Password Manager. It can help you handle this issue seamlessly and regain access to your Apple ID.
+
+Let's explore some of the Dr.Fone Password Manager tool:
+
+- **Password Recovery:**
+
+Allows you to recover your Apple ID password quickly and easily, even if you've forgotten it. With its intuitive interface and step-by-step guidance, you can reset your Apple ID password hassle-free.
+
+- **Data Security:**
+
+It prioritizes data security, ensuring that your Apple ID password and other credentials are securely stored and encrypted. It provides a safe and reliable way to manage passwords without compromising privacy.
+
+- **iCloud Backup and Restore:**
+
+It enables you to create a backup of your iCloud data, including your Apple ID password, and restore it whenever needed. This feature can be handy if you need to retrieve your password from a previous backup.
+
+- **Cross-Platform Compatibility:**
+
+It is compatible with various platforms, including iOS, Android, Windows, and Mac, making it a versatile password management solution that you can use across different devices.
+
+If you forget your Apple ID password, Wondershare Dr.Fone can be a valuable tool to help you retrieve it and manage your passwords securely. Its features make it a comprehensive solution for handling password-related issues.
+
+It’s essential to use secure and unique passwords for your accounts. Then, consider using a reliable password manager like Dr.Fone Password Manager to simplify your password management process.
+
+## 4 Ways to Unlock Apple iPhone 6s to Use USB Accessories Without Passcode
+
+_How do I unlock my Apple iPhone 6s? I know you're supposed to connect it to the computer and put it in recovery mode but when I do, it says “unlock Apple iPhone 6s to use accessories.”_
+
+![unlock-iPhone-to-use-accessories](https://images.wondershare.com/drfone/unlock-new/unlock-usb/unlock-iPhone-to-use-accessories.png)
+
+You may have had the experience of connecting your Apple iPhone 6s to a computer with USB accessories. Usually, "**Unlock Apple iPhone 6s to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
+
+## Part 1: Why You Need to "Unlock Apple iPhone 6s to Use Accessories"?
+
+The command comes from Apple’s significant privacy safeguard **“USB Restricted Mode”**. It means after an hour of your iOS device is unlocked, the system cuts off the lightning port and limits it to charging only. Simply put, when your Apple iPhone 6s is locked for more than an hour, it needs to be unlocked to allow the connection of USB accessories. Sometimes, when you unlock your Apple iPhone 6s screen to use USB accessories, it can’t charge anymore.
+
+In 2017, a password cracking tool called GrayKey was launched, which can bypass any iPhone screen lock passcode. The FBI, the police, and some government agencies have all become GrayKey customers. To combat hackers including GrayKey and protect iOS users' data security, the USB Restricted Mode feature arrived with iOS 11.4.1 in July 2018 and be improved in iOS12.
+
+## Part 2: How to Disable USB Restricted Mode?
+
+If you find this warning annoying or your Apple iPhone 6s not charging when using USB accessories, disabling USB Restricted Mode is an optional solution. However, you have to remember the unlock passcode. All the steps will be presented to you next.
+
+- **Step 1:** Open **Settings** on your Apple iPhone 6s.
+- **Step 2:** Click on **Face ID & Passcode** (or **Touch ID & Passcode**), and then input your screen passcode.
+- **Step 3:** Scroll to the bottom of the page and find "**USB accessories**" in the "**Allow access when locked**" column.
+- **Step 4:** Click **the toggle button on the right** to disable this feature.
+
+After completing all the steps, your Apple iPhone 6s can connect USB accessories anytime, anywhere. However, it is very common to forget to unlock the passcode. Next, we will recommend four solutions to help you use USB accessories without a passcode.
+
+![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
+
+## Part 3: How to Unlock Apple iPhone 6s to Use USB Accessories without Passcode via Dr.Fone?
+
+Now, here comes an amazing App with many benefits to solving the problem for you.  This is Dr.Fone-Screen Unlock, which is very convenient and fast to use. You must be curious about it. More of its advantages will be introduced to you.
+
+- The application is available on both Mac and Windows.
+- No technical skills are required.
+- It fully supports iPhone X, iPhone 11, and the latest iPhone models.
+- Dr.Fone - Screen Unlock can easily unlock 4-digit or even 6-digit screen passcode, Face ID, or Touch ID.
+- No Apple ID and password are needed.
+
+**Step 1:** The first step, of course, is to download Dr.Fone to your computer and click on “Screen Unlock”.
+
+![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+**Step 2:** Connect your Apple iPhone 6s to the computer with a lightning cable, and choose “Unlock iOS Screen".
+
+![start to remove iphone lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+**Step 3:** Follow the guides to boot your device in Recovery or DFU mode. The Recovery mode is recommended for iOS lock screen removal by default. If you fail to turn on recovery mode, you can turn to activate DFU mode. DFU means Device Firmware Upgrade, and the operation is more mandatory.
+
+![boot device in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+**Step 4:** Click "Start" to download the firmware. After the download is successful, select "Unlock now" and wait a few minutes, the passcode will be removed from your device.
+
+![download iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+After that, you could set up your Apple iPhone 6s as a new one and unlock your screen to use USB accessories without a passcode.
+
+![download iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+There is no doubt that you may worry about losing all your data while bypassing the Apple iPhone 6s lock screen. But honestly, there is no tool on the market today that can preserve data to unlock an iPhone. Therefore, it is necessary to back up data in your daily life. [Dr.Fone-Phone Backup](https://drfone.wondershare.com/iphone-backup-and-restore.html) provides you with a full range of data backup solutions, you can click the link below to learn more.
+
+**This guide will teach you about how to unlock iphone using 5 feasible ways.**
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
+
+
+## Part 4: How to Unlock Apple iPhone 6s to Use USB Accessories without Passcode via iCloud?
+
+With iCloud, you can quickly clean up your Apple iPhone 6s, remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone 6s has the "Find My iPhone" function enabled, otherwise your device will be offline.
+
+**Step 1:** Open your computer or another iOS device, and sign in with your Apple account.
+
+![find-my-iphone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/find-my-iphone.png)
+
+**Step 2:** Click on “All Devices”, choose your Apple iPhone 6s, and then “Erase iPhone”.
+
+![icloud-erase-phone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/icloud-erase-phone.jpg)
+
+Now, your Apple iPhone 6s will reboot without a passcode. Then, you can unlock Apple iPhone 6s to use accessories and bypass the passcode.
+
+## Part 5: How to Unlock Apple iPhone 6s to Use USB Accessories without Passcode via iTunes?
+
+There is currently no way to unlock an iPhone without erasing all data. Luckily, iTunes can help back up your data before removing it. Please note that this way is **only possible if the Apple iPhone 6s device has synced data in iTunes before.**
+
+- **Step 1:** Connect Apple iPhone 6s to a computer with a USB accessory and turn on iTunes. Then iTunes will make a backup for your phone.
+- **Step 2:** Choose “Restore iPhone”.
+
+![itunes-restore](https://images.wondershare.com/drfone/unlock-new/unlock-usb/itunes-restore.jpg)
+
+Wait for a while and you could unlock the screen to use USB accessories. However, in step one, you may need to enter your passcode to get stuck during the process. Therefore, this method is not the most efficient.
+
+## Part 6: How to Unlock Apple iPhone 6s to Use USB Accessories without Passcode via Recovery Mode?
+
+If you have forgotten your Apple ID or password and have not synced iCloud and iTunes, you can choose recovery mode. It will remove all your passcode and data as well.
+
+- **Step 1:** You need to prepare a Mac or PC (Windows 8 or later).
+- **Step 2:** Turn off your Apple iPhone 6s.
+- **Step 3:** Put your device in recovery mode. This step might be a little complicated, but don't worry, we'll walk you through it step by step.
+
+1\. Find the button on your device, it will be useful then.
+
+- iPhone SE (1st generation), iPhone 6s, and earlier: The Home button.
+- iPhone 7 and iPhone 7 Plus: The Volume down button.
+- iPhone SE (2nd and 3rd generation), iPhone 8, iPhone 8 Plus, iPhone X, and later devices: The side button.
+
+2\. Quickly press and hold the button while connecting your phone and computer until the recovery mode appears.
+
+![recovery-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/recovery-mode.png)
+
+**Step 4:** Find your tool in iTunes on the computer. Choose Restore and this process will take a few minutes.
+
+**Step 5:** Unplug your tool and use your Apple iPhone 6s without a passcode.
+
+Now, you'll get an iPhone which is like being factory reset. And you could unlock the screen to use USB accessories when you forget the passcode.
+
+## Part 7: Hot FAQ about USB Accessories on iPhone
+
+### Q1: What is the feature of USB Accessories on iPhone?
+
+From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
+
+### Q2: Why does My iPhone Think My Charger is a USB Accessory?
+
+It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
+
+### Q3: What to Do If My iPhone Not Charging after Unlock to Use Accessories?
+
+- **Step 1**: Disconnect your tool from the accessory.
+- **Step 2**: Unlock your device.
+- **Step 3**: Connect the USB accessory again.
+
+If it doesn’t work, please contact customer service of Apple.
+
+### Conclusion
+
+It is very common to use USB accessories to connect iPhone and computer. Sometimes, we may forget the password, or cannot unlock the screen due to system failure. There are many ways to unlock Apple iPhone 6s to use the accessories in the article. Finally, we recommend everyone to use Dr.Fone - Screen Unlock, a helpful and convenient tool.
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-7-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 7 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2022-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE (2022) Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-pro-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-2022-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE (2022) After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-6-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 6 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone XS Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-x-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone X Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-14-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-x-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone X Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-se-2020-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE (2020) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-15-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 15 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-12-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-12-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 12 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-google-meet-green-screen/"><u>New Google Meet Green Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y200-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y200 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oneplus-ace-3-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Ace 3 Fingerprint Lock</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-forward-to-backward-a-comprehensive-guide-to-reversing-tiktok-videos/"><u>New From Forward to Backward A Comprehensive Guide to Reversing TikTok Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-xcover-6-pro-tactical-edition-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy XCover 6 Pro Tactical Edition to Mac? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-make-a-bokeh-effect/"><u>Updated 2024 Approved How to Make a Bokeh Effect</u></a></li>
+</ul></div>
+
+
