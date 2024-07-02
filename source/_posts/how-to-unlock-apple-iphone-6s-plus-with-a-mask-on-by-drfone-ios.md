@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 6s Plus with a Mask On
-date: 2024-05-19T07:09:28.465Z
-updated: 2024-05-20T07:09:28.465Z
+date: 2024-07-01T12:03:26.138Z
+updated: 2024-07-02T12:03:26.138Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 6s Plus with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 6s Plus with a Mask On
 keywords: iphone backup password,how many attempts to unlock iphone,how to unlock iphone to use usb accessories,how to remove face id on iphone 13,get out of security lockout,remove iphone from blacklist,iphone asking for outlook password,unlock iphone without passcode
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## How to Unlock Apple iPhone 6s Plus with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 6s Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 6s Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -260,7 +260,7 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 

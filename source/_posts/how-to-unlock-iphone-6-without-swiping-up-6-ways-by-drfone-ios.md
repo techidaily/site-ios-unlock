@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone 6 Without Swiping Up? 6 Ways
-date: 2024-05-19T07:09:17.951Z
-updated: 2024-05-20T07:09:17.951Z
+date: 2024-07-01T12:04:16.811Z
+updated: 2024-07-02T12:04:16.811Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock iPhone 6 Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock iPhone 6 Without Swiping Up? 6 Ways
 keywords: iphone auto lock greyed out,unlock disabled iphone without computer,fix iphone passcode not working,unlock iphone passcode,iphone asking for outlook password,bypass ios 14 lock screen,ios 17 lock screen,unlock iphone xs without passcode,how to remove face id on iphone 13,unlock disabled iphone without itunes,how to unlock an iphone 13
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## How To Unlock Apple iPhone 6 Without Swiping Up? 6 Ways
@@ -64,7 +64,7 @@ If you've forgotten the passcode for your Apple iPhone 6 and are unable to acces
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -391,7 +391,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 6 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 6 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -427,7 +427,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

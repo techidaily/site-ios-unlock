@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 13 Backup Password? Heres What to Do
-date: 2024-05-19T07:10:29.836Z
-updated: 2024-05-20T07:10:29.836Z
+date: 2024-07-01T12:04:26.541Z
+updated: 2024-07-02T12:04:26.541Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone 13 Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone 13 Backup Password? Heres What to Do
 keywords: iphone auto lock greyed out,unlock iphone 11 12 13 without passcode,erase iphone when locked,solve iphone randomly asking for apple id,open iphone without home button,how to unlock an iphone 13,how to unlock iphone passcode without computer,bypass iphone passcode,remove device supervision from iphone,how to unlock iphone without passcode,iphone passcode not working after update ios 13,total wireless unlock
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Forgot Apple iPhone 13 Backup Password? Here's What to Do
@@ -214,7 +214,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 13 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 13 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -250,7 +250,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

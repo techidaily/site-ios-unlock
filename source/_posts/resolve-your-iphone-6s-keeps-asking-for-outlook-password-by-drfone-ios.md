@@ -1,7 +1,7 @@
 ---
 title: Resolve Your iPhone 6s Keeps Asking for Outlook Password
-date: 2024-05-19T07:09:25.254Z
-updated: 2024-05-20T07:09:25.254Z
+date: 2024-07-01T12:05:10.043Z
+updated: 2024-07-02T12:05:10.043Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Resolve Your iPhone 6s Keeps Asking for Outlook Password
 excerpt: This article describes Resolve Your iPhone 6s Keeps Asking for Outlook Password
 keywords: iphone swipe up not working,how much does unlock a phone cost,unlock disabled iphone 13,iphone lock screen with notifications,how to unlock iphone passcode without computer,iphone backup password,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## Resolve Your Apple iPhone 6s Keeps Asking for Outlook Password
@@ -405,7 +405,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 6s to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 6s device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -441,7 +441,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XR with a Mask On
-date: 2024-06-08T07:47:24.026Z
-updated: 2024-06-09T07:47:24.026Z
+date: 2024-07-01T12:03:37.934Z
+updated: 2024-07-02T12:03:37.934Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone XR to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone XR device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -180,7 +180,7 @@ It can be a trouble if you forget your Apple iPhone XR passcode since there are 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
 
@@ -242,7 +242,7 @@ Get FamiSafe from the App Store and log in using your Wondershare ID or your App
 
 Now, activate Accessibility for FamiSafe by accessing "Settings," tapping "FamiSafe," and enabling "Location." Then, grant access to the Apple iPhone XR device's photos, microphone, and motion & fitness activity. Now, use a computer and connect your child's device with a USB cable. Activate content blockers in Safari to prevent kids from accessing inappropriate content.
 
-![ enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
+![enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
 
 **Step 3: Connect the Kid's Device to the Computer**
 

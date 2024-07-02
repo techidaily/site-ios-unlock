@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro
-date: 2024-05-19T07:10:28.865Z
-updated: 2024-05-20T07:10:28.865Z
+date: 2024-07-01T12:04:58.974Z
+updated: 2024-07-02T12:04:58.974Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro
 keywords: fix iphone unavailability,change apple id email address,apple id not active,app lock iphone,iphone backup password,unlock iphone passcode without computer,remove device supervision from iphone,unlock lost phone,how many attempts to unlock iphone,get out of security lockout,unlock iphone 11 12 13 without passcode
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
@@ -197,7 +197,7 @@ It offers an absolute way to regain access to your notes and device if you **for
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
-2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your iOS device if you have forgotten its credentials.
+2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
 
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone SE with a Mask On
-date: 2024-05-19T07:09:34.896Z
-updated: 2024-05-20T07:09:34.896Z
+date: 2024-07-01T12:04:41.214Z
+updated: 2024-07-02T12:04:41.214Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone SE with a Mask On
 excerpt: This article describes How to Unlock iPhone SE with a Mask On
 keywords: iphone passcode not working after update ios 13,how to create new apple id,forgot passcode on iphone,how to unlock a found iphone,unlock iphone xs without passcode,lock stolen iphone,how many attempts to unlock iphone
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## How to Unlock Apple iPhone SE with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone SE to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone SE device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -122,7 +122,7 @@ We understand how frustrating it can be when your newly purchased Apple iPhone S
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

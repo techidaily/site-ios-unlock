@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone XR Lock Screen with Notifications?
-date: 2024-05-19T07:10:00.765Z
-updated: 2024-05-20T07:10:00.765Z
+date: 2024-07-01T12:04:15.722Z
+updated: 2024-07-02T12:04:15.722Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Make the Most of Your iPhone XR Lock Screen with Notifications?
 excerpt: This article describes How to Make the Most of Your iPhone XR Lock Screen with Notifications?
 keywords: unlock disabled iphone without computer,how to unlock an iphone 13,unlock iphone with apple watch,unlock iphone 11 12 13 without passcode,fix iphone unavailability,fix iphone backup password never set but still asking,forgot passcode on iphone,unlock iphone without passcode
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## How to Make the Most of Your Apple iPhone XR Lock Screen with Notifications?
