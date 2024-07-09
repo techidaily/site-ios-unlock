@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6
-date: 2024-05-19T07:09:17.723Z
-updated: 2024-05-20T07:09:17.723Z
+date: 2024-07-08T12:34:17.955Z
+updated: 2024-07-09T12:34:17.955Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 6
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 6
 keywords: unlock iphone face id wearing mask,unlock iphone screen passcode,how many attempts to unlock iphone,iphone lock screen with notifications,turn off restricted mode,how to unlock an iphone 13,unlock iphone with apple watch
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6

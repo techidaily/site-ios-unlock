@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 8 Backup Password? Heres What to Do
-date: 2024-05-19T07:09:52.132Z
-updated: 2024-05-20T07:09:52.132Z
+date: 2024-07-08T12:35:07.916Z
+updated: 2024-07-09T12:35:07.916Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 8 Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 8 Backup Password? Heres What to Do
 keywords: unlock iphone without passcode,how to unlock iphone with broken screen,iphone locked to owner,lock stolen iphone,iphone is disabled,disable parental control,iphone 15 unlock,unlock disabled iphone without computer,ios 17 lock screen,change apple id on ipad,unlock lost phone,iphone lost mode unlock
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Forgot Apple iPhone 8 Backup Password? Here's What to Do

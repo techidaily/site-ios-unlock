@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen?
-date: 2024-05-19T07:10:09.086Z
-updated: 2024-05-20T07:10:09.086Z
+date: 2024-07-08T12:34:37.480Z
+updated: 2024-07-09T12:34:37.480Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen?
 keywords: how much does unlock a phone cost,forgot passcode iphone 6,lock stolen iphone,unlock lost phone,how to turn off find my iphone when phone is broken,forgot passcode on iphone,unlock iphone xs without passcode,how many attempts to unlock iphone,how to unlock iphone without passcode or face id
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 11 Pro Max with a Broken Screen?
@@ -197,7 +197,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 11 Pro Max to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 11 Pro Max device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -233,7 +233,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

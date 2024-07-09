@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 6s Plus with a Mask On
-date: 2024-05-19T07:09:31.370Z
-updated: 2024-05-20T07:09:31.370Z
+date: 2024-07-08T12:36:04.455Z
+updated: 2024-07-09T12:36:04.455Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 6s Plus with a Mask On
 excerpt: This article describes How to Unlock iPhone 6s Plus with a Mask On
 keywords: app lock iphone,iphone 15 unlock,iphone backup unlocker,factory reset locked iphone without itunes,reset iphone backup password,iphone swipe up not working,how to unlock iphone without passcode or face id,how to unlock an iphone 13
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## How to Unlock Apple iPhone 6s Plus with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 6s Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 6s Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

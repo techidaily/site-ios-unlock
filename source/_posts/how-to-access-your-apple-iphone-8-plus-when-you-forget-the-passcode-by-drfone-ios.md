@@ -1,7 +1,7 @@
 ---
 title: How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?
-date: 2024-05-19T07:09:46.591Z
-updated: 2024-05-20T07:09:46.591Z
+date: 2024-07-08T12:35:48.268Z
+updated: 2024-07-09T12:35:48.268Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?
 excerpt: This article describes How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?
 keywords: how to unlock iphone with broken screen,how much does unlock a phone cost,unlock iphone face id wearing mask,how to create new apple id,unlock iphone passcode without computer,what can jailbreak iphone do
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 8 Plus
 
