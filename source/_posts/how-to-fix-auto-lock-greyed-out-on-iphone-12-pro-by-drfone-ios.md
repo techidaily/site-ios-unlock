@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro
-date: 2024-05-19T07:10:27.280Z
-updated: 2024-05-20T07:10:27.280Z
+date: 2024-07-15T01:41:38.624Z
+updated: 2024-07-16T01:41:38.624Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro
 keywords: get out of security lockout,iphone 11 passcode bypass,iphone swipe up not working,bypass ios 14 lock screen,open iphone without home button,how to unlock a found iphone
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
@@ -137,6 +137,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
@@ -158,6 +161,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -309,7 +315,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 12 Pro Without iTunes/ iCloud.
 
@@ -334,6 +340,9 @@ Do note that all methods that unlock your Apple iPhone 12 Pro will necessarily w
 
 **Step 4:** Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click "Start" to download the specific firmware file for your particular Apple iPhone 12 Pro model.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5:** After the download completes, please click Unlock Now to start unlocking the disabled Apple iPhone 12 Pro.
@@ -342,7 +351,19 @@ Do note that all methods that unlock your Apple iPhone 12 Pro will necessarily w
 
 Your Apple iPhone 12 Pro will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 12 Pro device. When you set the Apple iPhone 12 Pro device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 12 Pro prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 12 Pro device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 12 Pro Using iTunes or macOS Finder
 
@@ -386,7 +407,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 12 Pro from the Apple iPhone 12 Pro devices from the left pane, click/ tap your disabled Apple iPhone 12 Pro and click/ tap Erase This Device
 
@@ -406,7 +427,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 12 Pro easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -427,7 +448,10 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 12 Pro, so 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 12 Pro disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 12 Pro device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -448,3 +472,53 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-13-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 13 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/enhancing-virtual-presence-the-ultimate-tutorial-on-using-morphvox-for-gamers-vocal-transformation-for-2024/"><u>Enhancing Virtual Presence The Ultimate Tutorial on Using Morphvox for Gamers Vocal Transformation for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-windows-10-hacks-and-insights/"><u>Essential WINDOWS 10 Hacks & Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-spectrum-assessment-dji-phantom-4-unveiled-for-2024/"><u>Full Spectrum Assessment  DJI Phantom 4 Unveiled for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-13-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 13 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-13-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-13-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 13 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-enhancing-audio-production-integrating-and-leveraging-audacitys-autotune-feature/"><u>New 2024 Approved Enhancing Audio Production Integrating and Leveraging Audacitys Autotune Feature</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-13-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 13 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-capitalize-on-sonys-subscriptions-for-games/"><u>How to Capitalize on Sony's Subscriptions for Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-different-perspective-6-arguments-against-mac-for-gaming/"><u>A Different Perspective: 6 Arguments Against Mac for Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfecting-your-rl-game-captures/"><u>Perfecting Your RL Game Captures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-overview-how-to-navigate-telegram-web/"><u>2024 Approved  Complete Overview  How To Navigate Telegram Web</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-13-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 13 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-4-effective-methods-for-slide-embedding-from-youtube/"><u>In 2024, 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-13-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-social-media-tags-leading-tools-reviewed-fbtwitterinsta/"><u>In 2024, Mastering Social Media Tags  Leading Tools Reviewed (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/1716169136059-2024-approved-how-to-reverse-image-search-instagram/"><u>2024 Approved  How to Reverse Image Search Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sharing-tunes-instagram-copyright-edicts/"><u>2024 Approved  Sharing Tunes  Instagram Copyright Edicts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-the-details-of-how-to-replace-sky-in-lightroom/"><u>New 2024 Approved Learning The Details Of How To Replace Sky in Lightroom</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-13-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 13 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-editing-removing-out-of-place-backgrounds-for-2024/"><u>Seamless Editing  Removing Out-of-Place Backgrounds for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-s-best-time-lapse-video-editing-tools-a-comprehensive-review/"><u>2024 Approved S Best Time-Lapse Video Editing Tools A Comprehensive Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Pro Max Properly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-13-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 13 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-13-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 13 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-13-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 13 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/how-to-make-an-explainer-video-step-by-step-guide-for-2024/"><u>How to Make an Explainer Video Step by Step Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Pro Max Lock Screen</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes
-date: 2024-03-31 18:42:19
-updated: 2024-04-01 10:14:51
+date: 2024-07-15T02:58:30.823Z
+updated: 2024-07-16T02:58:30.823Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes
 keywords: unlock iphone passcode without computer,remove iphone from blacklist,iphone asking for outlook password,bypass iphone passcode,how to create new apple id,unlock disabled iphone without itunes,how to unlock iphone with broken screen,iphone is disabled,how much does unlock a phone cost
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes
@@ -39,6 +39,9 @@ First, download Dr.Fone-Screen Unlock on your computer or Mac. Once the software
 
 On the main interface of Dr.Fone, you need to select " Screen Unlock. " You may see many options, but you will have to choose Screen Unlock because it will allow you to remove the passcode from your locked iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset without itunes](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #3: Get your Apple iPhone 11 in Recovery Mode and Make it connected to the Computer:**
@@ -47,6 +50,9 @@ You must put your Apple iPhone 11 in recovery mode and then connect it to the co
 
 Once Dr. Fone detects your device, you will see the following screen.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step #4: Choose the Appropriate Firmware and Download it:**
@@ -184,7 +190,7 @@ It offers an absolute way to regain access to your notes and device if you **for
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
-2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your iOS device if you have forgotten its credentials.
+2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
 
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone
@@ -276,7 +282,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 11 Without iTunes/ iCloud.
 
@@ -297,6 +303,9 @@ Do note that all methods that unlock your Apple iPhone 11 will necessarily wipe 
 
 **Step 3:** Follow the provided instructions to start the disabled Apple iPhone 11 in Recovery Mode to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called DFU mode.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![device page](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4:** Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click "Start" to download the specific firmware file for your particular Apple iPhone 11 model.
@@ -309,7 +318,7 @@ Do note that all methods that unlock your Apple iPhone 11 will necessarily wipe 
 
 Your Apple iPhone 11 will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 11 device. When you set the Apple iPhone 11 device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 11 prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 11 device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 11 Using iTunes or macOS Finder
 
@@ -325,6 +334,9 @@ Step 2: Pick your Apple iPhone 11 and do the following:
 
 (2.3) Press the Side Button (power button, on the right side of your Apple iPhone 11) and keep it pressed till Finder or iTunes detects the phone in Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-6.jpg)
 
 Step 3: Choose Restore to download and reinstall the latest iOS on your Apple iPhone 11 and unlock your Apple iPhone 11.
@@ -353,7 +365,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 11 from the Apple iPhone 11 devices from the left pane, click/ tap your disabled Apple iPhone 11 and click/ tap Erase This Device
 
@@ -373,7 +385,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 11 easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -386,6 +398,9 @@ After all this to get access back, you might think let's go passcode-less and pr
 - 1.3 Never use repeating numbers.
 - 1.4 Do not use your ATM PIN as your phone passcode either. Think of some digits or combination that makes sense to you and only you. And then use it.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Tip 2: Use Face ID
 
 Along with Passcode comes the option of Face ID on your Apple iPhone 11, so use that. That will minimize instances for you to enter your passcode, and may make you forget it again, though. So, make sure that the passcode you set does make sense to you and you can remember it always without effort.
@@ -394,7 +409,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 11, so use 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 11 disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 11 device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -411,3 +426,53 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc/"><u>Updated 2024 Approved Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-8-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 8 Plus Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone X/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-8-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-x-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone X Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-x-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-fast-format-transformation-youtube-for-mac-ratio-for-2024/"><u>[New] Fast Format Transformation  YouTube for Mac Ratio for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-8-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-x-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone X i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-x-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone X Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-x-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-8-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 8 Plus With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snappy-secrets-learn-screen-recording-with-ease-on-smartphones/"><u>[Updated] Snappy Secrets  Learn Screen Recording with Ease on Smartphones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-art-of-rapid-navigation-fast-forwarding-made-simple-for-tiktokers-for-2024/"><u>[New] The Art of Rapid Navigation  Fast Forwarding Made Simple for TikTokers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/simplified-tech-livestreaming-of-facebook-using-obs-studio-for-2024/"><u>Simplified Tech Livestreaming of Facebook Using OBS Studio for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone X Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-8-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 8 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/seek-out-percussive-gestures-soundtrack/"><u>Seek Out Percussive Gestures Soundtrack</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-8-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 8 Plus With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-mcb-logo-designs-and-templates/"><u>In 2024, Exclusive MCB Logo Designs and Templates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-x-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-x-how-to-unlock-a-disabled-iphone-x-by-drfone-ios/"><u>In 2024, Disabled iPhone X How to Unlock a Disabled iPhone X?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-70-lite-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor 70 Lite 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-8-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 8 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-choosing-the-best-audio-converter-software-for-2024/"><u>The Ultimate Guide to Choosing the Best Audio Converter Software for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-x-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone X Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-article-is-a-guide-about-the-split-of-the-videos-in-vlc-there-is-also-a-particular-description-of-its-alternative-wondershare-filmora-it/"><u>Updated In 2024, The Article Is a Guide About the Split of the Videos in VLC. There Is Also a Particular Description of Its Alternative Wondershare Filmora. It Is Suitable as Well as Reasonable</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-x-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone X Without a Home Button</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-guide-to-high-speed-pc-controller-extensions/"><u>Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-x-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone X Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone X Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-text-temporal-tinkering-tools/"><u>[Updated] Text Temporal Tinkering Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ideal-replacements-for-obs-in-broadcasting/"><u>2024 Approved  Ideal Replacements for OBS in Broadcasting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-x-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone X Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-8-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-must-try-snap-filters-the-ultimate-guide-to-creativity/"><u>[Updated] 2024 Approved  Must-Try Snap Filters  The Ultimate Guide to Creativity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-8-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>[Updated] Fluidity in Filming  A Deep Dive Into Inshot's Transition Features</u></a></li>
+</ul></div>

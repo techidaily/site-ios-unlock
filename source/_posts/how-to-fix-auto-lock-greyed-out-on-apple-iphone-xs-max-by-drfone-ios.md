@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XS Max
-date: 2024-05-19T07:09:56.771Z
-updated: 2024-05-20T07:09:56.771Z
+date: 2024-07-15T00:52:37.871Z
+updated: 2024-07-16T00:52:37.871Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone XS Max
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone XS Max
 keywords: bypass apple store verification,bypass ios 14 lock screen,open iphone without home button,change apple id password,how to create new apple id,how to unlock iphone without passcode,disable parental control,iphone auto lock greyed out,fix iphone unavailability
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone XS Max
@@ -141,6 +141,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
 
 Fix No.6: Check and Adjust Auto-Lock Settings
@@ -198,7 +201,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone XS Max Without iTunes/ iCloud.
 
@@ -231,7 +234,7 @@ Do note that all methods that unlock your Apple iPhone XS Max will necessarily w
 
 Your Apple iPhone XS Max will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone XS Max device. When you set the Apple iPhone XS Max device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone XS Max prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone XS Max device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone XS Max Using iTunes or macOS Finder
 
@@ -275,7 +278,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone XS Max from the Apple iPhone XS Max devices from the left pane, click/ tap your disabled Apple iPhone XS Max and click/ tap Erase This Device
 
@@ -295,7 +298,10 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone XS Max easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -316,7 +322,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone XS Max, so 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone XS Max disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone XS Max device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Resolve Your Apple iPhone XS Max Keeps Asking for Outlook Password
 
@@ -334,6 +340,9 @@ The **iPhone asking for Outlook password** arises from a combination of factors.
 
 Users might unknowingly enter the wrong password. They may have changed their Outlook password without updating it on their iPhones. This mismatch can trigger continuous password prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Outdated Mail App
 
 An outdated Outlook mail app on your Apple iPhone XS Max may struggle to communicate with its latest security protocols. This can lead to performance issues like the Apple iPhone XS Max keeps asking for passwords.
@@ -374,6 +383,9 @@ If your Apple iPhone XS Max continuously prompts you for the Outlook password, a
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2. Change the Password to Your Outlook Mail
 
 Sometimes, the email service provider may force users to change their passwords for security reasons. There is a chance that it is why your **iPhone asks for an Outlook password**. To modify your Outlook password from the desktop platform, adhere to the following steps:
@@ -424,6 +436,9 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 
 - **Step 1.** After accessing the "Mail" tab within the Settings app, tap "Accounts." Here, find and choose the "Fetch New Data" option, followed by selecting the "Outlook" account.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![manage outlook fetch data](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-11.jpg)
 
 - **Step 2.** Confirm that the "Push" or "Fetch" settings are configured to your preference. "Push" enables real-time updates, while "Fetch" allows you to set specific intervals for email updates.
@@ -572,3 +587,44 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-10-essential-webcam-recording-tools-for-windows-10/"><u>Updated In 2024, 10 Essential Webcam Recording Tools for Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-tiktok-presence-with-powerful-slow-motion-techniques-for-2024/"><u>[New] Elevate Your TikTok Presence with Powerful Slow Motion Techniques for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 7 without Passcode or Face ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-a05s-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-as-a-film-studio-tutorials-and-competitive-choices-for-2024/"><u>YouTube as a Film Studio  Tutorials & Competitive Choices for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-plating-perfection-tips-for-shooting-culinary-content/"><u>In 2024, Plating Perfection  Tips for Shooting Culinary Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-marketing/"><u>In 2024, What Is AI Marketing?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[New] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-turning-insta-vids-into-songs/"><u>[Updated] 2024 Approved  The Ultimate Guide to Turning Insta Vids Into Songs</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>2024 Approved  Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-designing-an-easy-access-subscribe-link-to-channels/"><u>In 2024, Designing an Easy Access Subscribe Link to Channels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 7 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-natures-chirp-collection-in-mp3-format/"><u>Updated In 2024, Natures Chirp Collection in MP3 Format</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nubia-red-magic-9-proplus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nubia Red Magic 9 Pro+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>2024 Approved  Unleashing the Power of Voice  MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-discovering-the-best-vocal-enhancement-tools-an-examination-and-comparison-for-2024/"><u>Updated Discovering the Best Vocal Enhancement Tools An Examination & Comparison for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unveiling-the-process-of-making-a-twitter-account-for-2024/"><u>Unveiling the Process of Making a Twitter Account for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-6-android-video-capture-apps-for-screen-recording-for-2024/"><u>[New] Best 6 Android Video Capture Apps for Screen Recording for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XS Max without Passcode or Face ID</u></a></li>
+</ul></div>

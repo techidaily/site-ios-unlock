@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone XS
-date: 2024-05-19T07:09:54.244Z
-updated: 2024-05-20T07:09:54.244Z
+date: 2024-07-15T00:49:27.738Z
+updated: 2024-07-16T00:49:27.738Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone XS
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone XS
 keywords: how to unlock iphone without passcode,forgot iphone pin,unlock iphone 5 passcode without itunes,how to unlock iphone with itunes,how to unlock iphone with broken screen,get into locked iphone
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone XS
@@ -172,13 +172,16 @@ There are a few things you can try to resolve this, you can try to update your A
 
 If this does not resolve it, you need to take the Apple iPhone XS device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part V: The Bottom Line
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone XS (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone XS can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone XS with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -219,6 +222,9 @@ Besides interacting with widgets and apps, you can also search for something on 
 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
 Sometimes, people can access our private information just by looking at our notifications. In this way, they can get read your crucial information and that too without unlocking your device. By simply visiting your device’s settings, you can customize iPhone lock screen with notifications. In this way, you can turn on or off iPhone lock screen notifications for the apps of your choice.
@@ -257,6 +263,9 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 After turning the option off, you can exit from the Settings interface. In this way, your device won’t display the notification view.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Changes on iPhone lock screen notifications on iOS 18
 
 With the new update of iOS 18, we can see a drastic change in the Apple iPhone XS lock screen notifications as well. Since the Apple iPhone XS lock screen with notifications have been integrated into one, it becomes quite easier for users to access it.
@@ -275,6 +284,9 @@ Nevertheless, you can swipe from the top to access the cover sheet.
 
 This is undoubtedly one of the most evident new features of the Apple iPhone XS notification lock screen of iOS 18. Now, you can swipe left or right to access various features. By swiping left, you can access the Camera on your device and by swiping right, you can access your Today View.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-ios 18 notification new feature](https://images.wondershare.com/drfone/article/2017/09/15063941093235.jpg)
 
 If you want to click pictures instantly, then simply swipe left the lock screen. This will launch the Camera on your device, letting you click pictures on the go. Similarly, by swiping right, you can access your Today View. This includes vital data from apps and widgets that your smartphone assumes is important for you regarding the day.
@@ -312,6 +324,9 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 
 **Step 3:** Onscreen instructions guide you to put your device in Recovery Mode:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode instructions in drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4:** Software version and device model are detected automatically when the Apple iPhone XS device is in Recovery Mode. If the automatic detection is incorrect, set it correctly before proceeding. Click Start.
@@ -422,3 +437,58 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone XS get
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-mini-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 mini Without Passcode Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nubia-red-magic-8s-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nubia Red Magic 8S Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-streamlining-video-production-leveraging-siri-features-in-tiktok-filmmaking/"><u>2024 Approved  Streamlining Video Production  Leveraging Siri Features in TikTok Filmmaking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-users-manual-for-fcp-power-users/"><u>In 2024, The Complete User's Manual for FCP Power Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-use-filters-on-instagram-2023/"><u>[New] In 2024, How to Use Filters on Instagram 2023?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-by-drfone-ios/"><u>How to Unlock iPhone 12 mini?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-v30-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme V30 Phone Now with These Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crafting-content-gold-youtube-studios-path-to-perfection/"><u>2024 Approved  Crafting Content Gold  YouTube Studio's Path to Perfection</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ps4-live-recording-made-simple-with-obs-tutorial/"><u>[Updated] 2024 Approved  PS4 Live Recording Made Simple with OBS Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-samsung-galaxy-f14-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-mini-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12 mini</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-15-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 15 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-android-tricks-changing-video-ordering/"><u>In 2024, Android Tricks  Changing Video Ordering</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-12-mini-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 12 mini When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-12-mini-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 12 mini After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-12-mini-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-mini-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 mini</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/exploring-isprings-screencap-capabilities-for-2024/"><u>Exploring iSpring's Screencap Capabilities for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 12 mini Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-mini-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-mini-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-mini-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 mini when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 12 mini, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-mini-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-mini-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12 mini? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-12-mini-5-ways-to-get-into-a-locked-iphone-12-mini-by-drfone-ios/"><u>Locked Out of iPhone 12 mini? 5 Ways to get into a Locked iPhone 12 mini</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-mini-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 12 mini Passcode without a Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-mini-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 mini Lock Screen with Notifications?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premium-desktop-and-mobile-video-call-platforms-zoom-replacements-for-2024/"><u>[Updated] Premium Desktop & Mobile Video Call Platforms (Zoom Replacements) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 12 mini With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-12-mini-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 12 mini After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fast-and-easy-online-video-reversal-2023s-best-options/"><u>Updated In 2024, Fast and Easy Online Video Reversal 2023S Best Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-esl-english-as-second-language-for-vr/"><u>2024 Approved  The ESL (English as Second Language) for VR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-12-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 12 mini with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-mini-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-12-mini-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 12 mini Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screenflow-showdown-the-top-video-editing-software-for-macos-users/"><u>[New] 2024 Approved  ScreenFlow Showdown  The Top Video Editing Software for macOS Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-translating-trust-the-importance-of-client-endorsements/"><u>2024 Approved  Translating Trust  The Importance of Client Endorsements</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-mini-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 mini?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-12-mini-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 12 mini Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-skyrocket-fb-engagement-enhancing-page-rankings-for-2024/"><u>[New] Skyrocket FB Engagement  Enhancing Page Rankings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-success-the-leading-25-tagging-tactics/"><u>[Updated] 2024 Approved  Instagram Success  The Leading 25 Tagging Tactics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-goovision-pro-high-quality-chromecasting/"><u>[New] In 2024, GooVision Pro  High-Quality Chromecasting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-12-mini-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 12 mini to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-video-placement-upright-or-flat-angle/"><u>[Updated] FB Video Placement - Upright or Flat Angle?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 12 mini Backup Password? Heres What to Do</u></a></li>
+</ul></div>

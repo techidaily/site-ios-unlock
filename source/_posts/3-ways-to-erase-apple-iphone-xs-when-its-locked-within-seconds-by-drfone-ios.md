@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone XS When Its Locked Within Seconds
-date: 2024-04-02T06:31:22.742Z
-updated: 2024-04-03T06:31:22.742Z
+date: 2024-07-15T03:00:10.025Z
+updated: 2024-07-16T03:00:10.025Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Erase Apple iPhone XS When Its Locked Within Seconds
 excerpt: This article describes 3 Ways to Erase Apple iPhone XS When Its Locked Within Seconds
 keywords: how to remove passcode from iphone,forgot passcode iphone 6,iphone x iphone xr lock screen,erase iphone when locked,unlock iphone with apple watch,lock stolen iphone,ios 17 lock screen,remove flashlight from iphone lock screen,unlock iphone 5 passcode without itunes,how to turn off find my iphone when phone is broken,factory reset locked iphone without itunes,unlock iphone passcode without computer
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## 3 Ways to Erase Apple iPhone XS When It's Locked Within Seconds
@@ -24,7 +24,10 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 
@@ -41,6 +44,18 @@ To learn how to erase iPhone when locked, follow these steps:
 
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone XS to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
 
 **Step 2. Click Start button.**
@@ -209,6 +224,9 @@ The disabled iPhone will be wiped and restored to factory defaults. The setup wi
 
 Now, as we know, if Find My does not show the disabled iPhone for any reason, you will necessarily have to gain access to a computer. The other option is to visit an Apple Store and get them to do the needful.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III: FAQs
 
 Here are helpful frequently asked questions for you.
@@ -247,7 +265,7 @@ If you have been locked out of your iOS device and would like to know how to unl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXbqfC7JTKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 1: How to unlock Apple iPhone XS passcode with Dr.Fone - Screen Unlock (iOS)?
 
@@ -257,7 +275,7 @@ It is compatible with all the leading iOS versions and devices. All you need to 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Screen Without Password
 
@@ -292,11 +310,14 @@ Unlock iPhone Screen Without Password
 
 8\. In a matter of a few seconds, your device will be reset, and its passcode would also be removed. You will get the following message once the process is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock Apple iPhone XS passcode without itunes-unlock Apple iPhone XS successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 In the end, you can simply disconnect your Apple iPhone XS safely from the system and restart it. It would be restarted without any passcode, letting you access it in a trouble-free manner.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 #### **You may also be interested in:**
 
@@ -325,6 +346,9 @@ Apple also allows its users to remotely locate, lock, and erase their devices. T
 
 5\. Agree with the pop-up message and choose to restore your device. Once it is done, your phone will be restarted without any lock.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to unlock Apple iPhone XS passcode in Recovery Mode?
 
 If none of the above-mentioned solutions would work, then you can always choose to put your Apple iPhone XS in recovery mode and restore it. After when your Apple iPhone XS would be restored, you can access it without any lock. It can be done by following these steps:
@@ -355,7 +379,7 @@ Even though lots of users have complained about this issue, Apple hasn’t come 
 
 Now when you know how to unlock Apple iPhone XS passcode without iTunes, you can easily access your device. Ideally, you can simply take the assistance of [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device. It can also be used to resolve any other problem related to your Apple iPhone XS/iPad as well. Feel free to give it a try and let us know if you face any problems while using it.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -374,3 +398,54 @@ Now when you know how to unlock Apple iPhone XS passcode without iTunes, you can
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-12-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 12 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 With or Without Password</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-to-stardom-secrets-to-viral-video-success/"><u>In 2024, Rise to Stardom  Secrets to Viral Video Success</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-12ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 12/iPad Without Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-psp-emulator-ios-top-5-picks-on-2023/"><u>In 2024, PSP Emulator iOS  Top 5 Picks on 2023</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 12 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://win11.techidaily.com/a-stepwise-approach-to-win11s-hyper-v-activation/"><u>A Stepwise Approach to Win11's Hyper-V Activation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 12 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-best-free-image-hosting-sites/"><u>2024 Approved  10 Best Free Image Hosting Sites</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-delete-messages-on-discord-for-2024/"><u>How To Delete Messages On Discord for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-12-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 12 In Different Conditionsin</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-and-easy-guide-to-exquisite-collage-artistry/"><u>Quick & Easy Guide to Exquisite Collage Artistry</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-12-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 12</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-easy-video-joining-solutions-top-alternatives-to-popular-software/"><u>Updated In 2024, Easy Video Joining Solutions Top Alternatives to Popular Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/penning-powerful-stories-with-a-camera-lens-for-2024/"><u>Penning Powerful Stories with a Camera Lens for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-6-minecraft-village-house-ideas/"><u>[Updated] 2024 Approved  Top 6 Minecraft Village House Ideas</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nokia-c12-plus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nokia C12 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 12 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-film-experience-photography-plus-music/"><u>In 2024, Immersive Film Experience  Photography + Music</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-in-depth-guide-to-full-transcription-and-archiving-of-fb-messages/"><u>2024 Approved  In-Depth Guide to Full Transcription & Archiving of FB Messages</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-12-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 12? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Without a Passcode</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeted-timeline-capture-securing-your-social-media-videos/"><u>[Updated] 2024 Approved  Tweeted Timeline Capture  Securing Your Social Media Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-gems-of-humor-your-guide-to-free-memes/"><u>2024 Approved  Gratuitous Gems of Humor – Your Guide to FREE Memes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 with a Mask On</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-link-trimming-winners-select-the-top-5-apps/"><u>2024 Approved  Youtube's Link-Trimming Winners  Select the Top 5 Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/stealthy-content-consumption-top-5-apps-for-2024/"><u>Stealthy Content Consumption - Top 5 Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-12-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-12-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 12 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-12-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 12 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-capture-igtv-media-step-by-step-guide-for-pc-and-mac-devices/"><u>2024 Approved  Capture IGTV Media  Step-by-Step Guide for PC & Mac Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-easy-download-geforce-gtx-drivers/"><u>Fast & Easy: Download GeForce GTX Drivers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 12 With 7 Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-8plus-free-easy-to-use-downloader-apps-for-instagrams-creative-videos-for-2024/"><u>[Updated] 8+ Free, Easy-to-Use Downloader Apps for Instagram's Creative Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-12-how-to-unlock-a-disabled-apple-iphone-12-by-drfone-ios/"><u>Disabled Apple iPhone 12 How to Unlock a Disabled Apple iPhone 12?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 and iPad Securely</u></a></li>
+</ul></div>

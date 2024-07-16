@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 11 Pro
-date: 2024-05-19T07:10:12.475Z
-updated: 2024-05-20T07:10:12.475Z
+date: 2024-07-15T01:18:02.190Z
+updated: 2024-07-16T01:18:02.190Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 11 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 11 Pro
 keywords: get into locked iphone,solve iphone randomly asking for apple id,ios 17 lock screen,unlock iphone passcode without computer,forgot iphone pin,forgot passcode iphone 6,how much does unlock a phone cost,iphone passcode not working after update ios 13,bypass apple store verification
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
@@ -36,6 +36,9 @@ Screen Time Restrictions
 
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
 MDM Profile Restrictions
@@ -158,6 +161,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -208,6 +214,9 @@ However, this method can help you only when you know your Passcode. In case you 
 
 This is another popular method that people use to remove Passcode from iPhones. However, it will delete all your data from the Apple iPhone 11 Pro device. So, if you want this method, make sure you have taken a backup of your data first.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove passcode from iphone via itunes](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-2.jpg)
 
 You can follow these steps:
@@ -302,6 +311,9 @@ Besides, all the methods discussed in this article work fine with most iPhones, 
 
 We know there might be lots of questions running through your mind about this process. So, we have tried responding to frequently asked questions about this process.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Can I remove the passcode from my iPhone without data loss?
 
 No, removing the Passcode from iPhone without data loss is impossible. But we recommend you use iTunes. You can connect your Apple iPhone 11 Pro to iTunes and then create a backup of your device. After that, you can restore your device from the backup, and your device will be unlocked without any data loss.
@@ -359,6 +371,9 @@ Next move that you need to perform is to opt for the correct mode, i.e. “Unloc
 
 On the upcoming screen, you’ll be displayed the “Device Model” and most recent “System Version” which is compatible with your Apple iPhone 11 Pro. Simply, hit the “Start” button here.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS firmware version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4: Perform Apple iPhone 11 Pro passcode removal**
@@ -367,7 +382,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 11 Pro
 
@@ -454,3 +469,79 @@ Now, in case you know the Apple iPhone 11 Pro restrictions passcode and just wis
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-oppo-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Oppo .</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compelling-mp4-player-selections-reviewed/"><u>2024 Approved  Compelling MP4 Player Selections Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-11-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 11 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y100t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y100t</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-importance-of-tracking-igtv-conversion-rates/"><u>[Updated] 2024 Approved  The Importance of Tracking IGTV Conversion Rates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-tips-for-turning-gopro-into-professionals-best-work/"><u>Step-by-Step Tips for Turning GoPro Into Professionals' Best Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-11-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 11 Pro when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-11-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 11 Pro Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-11-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 11 Pro to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-11-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 11 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-desktop-broadcasting-tools-face-off-obs-vs-shadowplay/"><u>[Updated] In 2024, Desktop Broadcasting Tools Face-Off  OBS vs ShadowPlay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-m6-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Poco M6 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-temporal-trials-inverting-and-rewinding-your-vids-on-iphone/"><u>[New] 2024 Approved  Temporal Trials  Inverting and Rewinding Your Vids on iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-11-pro-by-drfone-ios/"><u>How To Unlock A Found iPhone 11 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 11 Pro With 7 Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-complex-world-of-lipos-for-drones/"><u>In 2024, Navigating the Complex World of LiPos for Drones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-11-pro-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 11 Pro Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-vs-2-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic Vs 2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-11-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 11 Pro with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-11-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 11 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-top-ranked-windows-edition-for-silentizing-videography-for-2024/"><u>Updated Top-Ranked Windows Edition for Silentizing Videography for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/gif-mastery-28-top-video-to-gif-converter-recommendations/"><u>GIF Mastery 28 Top Video to GIF Converter Recommendations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-media-spotlight-top-tiktok-tweets/"><u>[New] Social Media Spotlight  Top TikTok Tweets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-30-catchy-disco-handles-for-quick-attention/"><u>Top 30 Catchy Disco Handles for Quick Attention</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimize-single-browsing-seamless-multiclip-engagement-for-2024/"><u>Optimize Single Browsing  Seamless Multiclip Engagement for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-comprehensive-tips-for-youtube-video-capture/"><u>[Updated] 2024 Approved  Comprehensive Tips for YouTube Video Capture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-11-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 11 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-tailored-fit-videos-the-key-to-great-instagram-posts/"><u>[Updated] In 2024, Tailored-Fit Videos  The Key to Great Instagram Posts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-transforming-youtube-content-for-igtv-success-for-2024/"><u>[Updated] Transforming YouTube Content for IGTV Success for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-beginners-guide-to-ios-screen-recording-for-2024/"><u>A Beginner's Guide to iOS Screen Recording for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-comprehensive-guide-to-injecting-vimeo-videos-into-decks/"><u>[New] Comprehensive Guide to Injecting Vimeo Videos Into Decks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-11-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 11 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-11-pro-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 11 Pro Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-11-pro-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-11-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-pro-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-m6-pro-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco M6 Pro 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-11-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 11 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-11-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 11 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-advanced-web-tools-for-optimizing-audio-fidelity/"><u>2024 Approved Advanced Web Tools for Optimizing Audio Fidelity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-11-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 11 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-11-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-11-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 11 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-10-battle-royale-games/"><u>Best 10 Battle Royale Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-pro-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 Pro With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 11 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 11 Pro Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-11-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 11 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-11-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 11 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-11-pro-5-ways-to-get-into-a-locked-iphone-11-pro-by-drfone-ios/"><u>Locked Out of iPhone 11 Pro? 5 Ways to get into a Locked iPhone 11 Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-digital-mastery-top-10-instagram-enhancers/"><u>[New] 2024 Approved  Digital Mastery  Top 10 Instagram Enhancers</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-a-valid-temp-directory-in-windows-11-os/"><u>Ensuring a Valid Temp Directory in Windows 11 OS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-increase-or-decrease-audio-volume-in-audacity-in-2024/"><u>New How to Increase or Decrease Audio Volume in Audacity, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-11-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 11 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-tips-for-easy-video-capture-of-youtube-content/"><u>[Updated] In 2024, Tips for Easy Video Capture of YouTube Content</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-m6-pro-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco M6 Pro 4G?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhance-your-videos-call-to-action-a-step-by-step-filmora-guide/"><u>[Updated] Enhance Your Video's Call-to-Action  A Step-by-Step Filmora Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6 Plus
-date: 2024-05-19T07:09:22.001Z
-updated: 2024-05-20T07:09:22.001Z
+date: 2024-07-14T23:56:34.156Z
+updated: 2024-07-15T23:56:34.156Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6 Plus
 excerpt: This article describes 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6 Plus
 keywords: how to turn off find my iphone when phone is broken,how to unlock iphone with broken screen,bypass iphone passcode,open iphone without home button,iphone backup unlocker,iphone asking for outlook password,what can jailbreak iphone do,iphone locked to owner,fix iphone unavailability,iphone auto lock greyed out,iphone x iphone xr lock screen,change apple id password
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6 Plus
@@ -79,6 +79,9 @@ Afterward, the platform will prompt you with inquiries before advancing. Firstly
 
 To initiate Recovery Mode for your iDevice, follow the on-screen instructions. Once in “Recovery Mode,” the Apple iPhone 6 Plus device's information will display on the subsequent screen. Upon recognizing the “Device Model,” you'll be prompted to select the “System Version.” The iOS firmware download commences on clicking “Start,” and its progress is visible on the next screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start apple id unlock process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 4. Verifying Firmware and Confirming Apple ID Unlock**
@@ -99,6 +102,9 @@ An inactive Apple ID issue might sometimes stem from a temporary glitch within t
 
 **Instructions.** Begin by pressing the "Side" button along with any volume button at the same time. It will lead to the appearance of the “Power” slider, which you need to slide right to turn off the Apple iPhone 6 Plus device. Once it is turned off, press and hold the "Side" buttons to turn on your Apple iPhone 6 Plus.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart your ios device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-6.jpg)
 
 ### Way 2. Try Changing Wi-Fi or Mobile Data
@@ -227,6 +233,9 @@ Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment meth
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![attention aware features](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-6.jpg)
 
 Setting up and using Attention Aware features is easy:
@@ -319,7 +328,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -348,7 +357,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 6 Plus Without iTunes/ iCloud.
 
@@ -381,8 +390,11 @@ Do note that all methods that unlock your Apple iPhone 6 Plus will necessarily w
 
 Your Apple iPhone 6 Plus will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 6 Plus device. When you set the Apple iPhone 6 Plus device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 6 Plus prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 6 Plus device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Unlock Disabled Apple iPhone 6 Plus Using iTunes or macOS Finder
 
 Of course, there is an official way that Apple provides for users to restore device firmware using iTunes or macOS Finder. For this, iPhone is put under Recovery Mode manually and Finder or iTunes is used to reinstall software on it directly from Apple. This process is fine for people who are conversant in tech, since this process can throw up a lot of errors that are just numbers, and people can get confused as to what they mean, resulting in frustration.
@@ -425,7 +437,10 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 6 Plus from the Apple iPhone 6 Plus devices from the left pane, click/ tap your disabled Apple iPhone 6 Plus and click/ tap Erase This Device
 
@@ -445,7 +460,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 6 Plus easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -466,7 +481,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 6 Plus, so 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 6 Plus disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 6 Plus device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -485,3 +500,42 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-8-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-8-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 8 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-8-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-8-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-8-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 8 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-8-plus-by-drfone-ios/"><u>How To Unlock A Found iPhone 8 Plus?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-a05s-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy A05s for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-8-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 8 Plus Without Passcode Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastery-in-motion-in-depth-review-of-video-editing-software/"><u>[Updated] 2024 Approved  Mastery in Motion  In-Depth Review of Video Editing Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-8-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 8 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/bring-your-cartoons-to-life-top-mobile-animation-apps/"><u>Bring Your Cartoons to Life Top Mobile Animation Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>[New] The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-analyzing-online-video-discussions/"><u>[New] 2024 Approved  Analyzing Online Video Discussions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x50-gt-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X50 GT FRP Locks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10-for-2024/"><u>In-Device Recorder Activation  Huawei's Mate 10/20 & P Series Phones (P20, P10) for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/explore-and-understand-what-does-pfp-mean-on-tiktok/"><u>Explore and Understand  What Does PFP Mean on TikTok?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unleash-your-podcast-potential-the-ultimate-guide-to-seo-excellence/"><u>[New] In 2024, Unleash Your Podcast Potential  The Ultimate Guide to SEO Excellence</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 8 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-8-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 8 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-reddit-submissions-practical-steps-unveiled-for-2024/"><u>[New] Navigating Reddit Submissions  Practical Steps Unveiled for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-8-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 8 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-8-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 8 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-8-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-editors-edge-exploring-the-best-of-youtube-video-tools/"><u>[Updated] In 2024, The Editor's Edge  Exploring the Best of YouTube Video Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-8-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-8-plus-5-ways-to-get-into-a-locked-iphone-8-plus-by-drfone-ios/"><u>Locked Out of iPhone 8 Plus? 5 Ways to get into a Locked iPhone 8 Plus</u></a></li>
+</ul></div>

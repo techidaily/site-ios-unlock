@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes
-date: 2024-05-19T07:09:26.912Z
-updated: 2024-05-20T07:09:26.912Z
+date: 2024-07-15T00:04:24.642Z
+updated: 2024-07-16T00:04:24.642Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes
 keywords: iphone swipe up not working,iphone backup unlocker,lock stolen iphone,iphone auto lock greyed out,change country on iphone app store,unlock disabled iphone without itunes,how to unlock iphone without passcode or face id,fix iphone passcode not working,bypass apple store verification,ios 17 lock screen
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes
@@ -53,6 +53,9 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 After your Apple iPhone 6s is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step #5: Reset your Apple iPhone 6s:**
@@ -93,6 +96,9 @@ Now that your device has been erased, you can reset it as a new one.
 
 This is another method you can use if you have the " Find My iPhone " feature on your device. You can use this method to remotely factory reset your locked iPhone without iTunes by using another iOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the find my iphone on another device](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-2.jpg)
 
 To do this, you need to follow these steps:
@@ -207,6 +213,9 @@ Sometimes, people can access our private information just by looking at our noti
 
 2\. From here, you can view a list of all the apps that can access notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off iphone lock screen notification](https://images.wondershare.com/drfone/article/2017/09/15063939102971.jpg)
 
 3\. Simply tap on the app of your choice (Mail, Message, Photos, iTunes, etc).
@@ -245,6 +254,9 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 6
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -305,6 +317,9 @@ After establishing the password, all your previous backups will immediately unde
 
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Try all passwords you used on your Apple iPhone 6s
 
 The typical method that each individual attempts for the first time is to input all of the available passcodes. Even if it is the most straightforward technique, there is still a possibility that you miss one of them. Therefore, think about all of the passwords you may input, which are listed below.
@@ -437,3 +452,45 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-down-chromes-multi-tasking-the-pip-experience/"><u>[New] Breaking Down Chrome's Multi-Tasking  The PIP Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-xs-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone XS i Do? Get Answers here</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xs-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone XS Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlining-screenshot-tasks-in-minutes/"><u>In 2024, Streamlining Screenshot Tasks in Minutes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-5-ways-to-get-into-a-locked-iphone-xs-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS? 5 Ways to get into a Locked iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-xs-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone XS and iPad Securely</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-measure-the-performance-of-igtv-videos/"><u>[New] In 2024, How to Measure the Performance of IGTV Videos?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-xs-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone XS In Different Conditionsin</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-speed-up-secrets-eliminating-unwanted-sound-waves/"><u>New In 2024, Speed-Up Secrets Eliminating Unwanted Sound Waves</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-flash-moments-10-explosive-videos/"><u>2024 Approved  Twitter's Flash Moments  10 Explosive Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/txt-to-srt-3-effective-ways-to-convert-txt-to-srt-for-2024/"><u>TXT to SRT 3 Effective Ways to Convert TXT to SRT for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlocking-igtvs-potential-5-ways-to-surge-follower-count/"><u>2024 Approved  Unlocking IGTV's Potential  5 Ways to Surge Follower Count</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>2024 Approved  Perfect Your Pics  Ideal Apps List for iPhones/Androids</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xs-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone XS Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-xs-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone XS Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/sonicarchive-pro-downloads-and-analysis-for-2024/"><u>SonicArchive Pro Downloads & Analysis for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-xs-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone XS With 7 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-xs-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone XS Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-gionee-f3-pro-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Gionee F3 Pro has been deleted.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-xs-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone XS After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-xs-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone XS When Its Locked Within Seconds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-mac-tools-beyond-bandicam/"><u>[New] 2024 Approved  Premier Mac Tools Beyond Bandicam</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-xs-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone XS After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-xs-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-xs-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone XS Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-xs-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone XS After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-xs-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-xs-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone XS With or Without Password</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-10-trendy-and-stylish-free-logo-animation-templates/"><u>New 2024 Approved 10 Trendy & Stylish Free Logo Animation Templates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-xs-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone XS Parental Restrictions With/Without Password</u></a></li>
+</ul></div>

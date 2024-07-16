@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12 Pro
-date: 2024-05-19T07:10:26.322Z
-updated: 2024-05-20T07:10:26.322Z
+date: 2024-07-15T01:40:02.871Z
+updated: 2024-07-16T01:40:02.871Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone 12 Pro
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone 12 Pro
 keywords: iphone swipe up not working,how much does unlock a phone cost,how to unlock iphone without passcode,forgot passcode on iphone,fix iphone unavailability,disable parental control,what can jailbreak iphone do,erase iphone when locked,iphone lock screen with notifications,how to create new apple id,unlock iphone 14
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 12 Pro
@@ -178,7 +178,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -340,7 +340,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 12 Pro can be
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -419,8 +419,14 @@ If your Apple iPhone 12 Pro swipe-up gesture isn't working specifically on the l
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -429,6 +435,9 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7. Update to the Latest iOS Version
 
 Running an outdated iOS version can sometimes lead to various software issues. These include unresponsive gestures like the swipe-up function on your Apple iPhone 12 Pro. Updating your device to the latest iOS version can often resolve such problems. Here's how to check for and update your Apple iPhone 12 Pro to the latest iOS version:
@@ -477,12 +486,18 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 12 Pro can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
 
 **Step 1.** Go to your device's "General" settings and scroll down to tap the second last option, "Transfer or Reset iPhone." On the following screen, press "Reset" from the available two options.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 12 Pro is restored to its original settings.
@@ -495,7 +510,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -560,3 +575,58 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-game-capturing-titans-for-2024/"><u>[New] In-Game Capturing Titans for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-11-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 11 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-11-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 11 Pro Lock Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23FRP Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-11-pro-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 11 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-11-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 11 Pro Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 11 Pro With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 11 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-6s-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 6s Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-srt-modification-strategies-for-pc-and-macos/"><u>Advanced SRT Modification Strategies for PC and macOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-adopt-the-best-practices-of-live-streaming-with-google-meet-youtube/"><u>[New] In 2024, Adopt the Best Practices of Live Streaming with Google Meet Youtube</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-11-pro-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 11 Pro Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-11-pro-how-to-unlock-a-disabled-iphone-11-pro-by-drfone-ios/"><u>Disabled iPhone 11 Pro How to Unlock a Disabled iPhone 11 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-pro-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 Pro and iPad Securely</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-techniques-for-simplifying-screen-capture-in-os-x/"><u>[New] Advanced Techniques for Simplifying Screen Capture in OS X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Passcode not Working?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-streaming-platforms-for-authors/"><u>[New] Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-11-proipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 11 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Pro Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-11-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 11 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-11-pro-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 Pro When Its Locked Within Seconds</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-novices-roadmap-to-picking-powerful-hip-hop-accompaniments/"><u>New The Novices Roadmap to Picking Powerful Hip-Hop Accompaniments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>2024 Approved  Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-for-text-in-after-effects-top-10-plans/"><u>Best Practices for Text in After Effects (Top 10 Plans)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 Pro With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-11-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 11 Pro Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro</u></a></li>
+</ul></div>

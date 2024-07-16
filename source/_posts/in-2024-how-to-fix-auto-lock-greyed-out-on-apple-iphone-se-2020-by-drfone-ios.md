@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)
-date: 2024-05-19T07:10:14.742Z
-updated: 2024-05-20T07:10:14.742Z
+date: 2024-07-15T01:21:59.251Z
+updated: 2024-07-16T01:21:59.251Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)
 keywords: how to unlock iphone 7 without passcode,how to create new apple id,unlock iphone xs without passcode,factory reset locked iphone without itunes,app lock iphone,how much does unlock a phone cost,remove flashlight from iphone lock screen,how to unlock iphone with itunes,unlock iphone passcode without computer
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)
@@ -154,6 +154,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 - **Step 1:** Within the **Settings** app, scroll down the list on the left-hand side and tap **Display & Brightness**.
 - **Step 2:** On the right-hand side of the **Display & Brightness** screen, tap the **Auto-Lock** option.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
@@ -292,6 +295,9 @@ If none of the methods work or Dr.Fone is unavailable to you for some reason, th
 
 When faced with a broken iPhone Home button, several quick fixes and solutions can sometimes help. Here are some effective measures before considering professional assistance:
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![broken iphone home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-14.jpg)
 
 **Recalibrate the Home Button**
@@ -352,7 +358,7 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -387,6 +393,9 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 7\. In addition, by typing the on-screen code you need to verify your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-confirm your choice](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
 8\. After agreeing with the confirmation message, the application will start fixing your Apple iPhone SE (2020). You might need to wait for a few minutes.
@@ -413,6 +422,9 @@ If your Apple iPhone SE (2020) is already in sync with iCloud and you have enabl
 
 4\. This will provide various options related to your Apple iPhone SE (2020). Simply click on the “Erase iPhone” button and confirm your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-Erase iPhone](https://images.wondershare.com/drfone/article/2017/10/15081780218355.jpg)
 
 This will restart your Apple iPhone SE (2020) while wiping it entirely. You need to set up your Apple iPhone SE (2020) as a new device without any lock screen.
@@ -453,6 +465,9 @@ As you can see, in all the above-stated solutions, your Apple iPhone SE (2020) d
 
 10\. This will turn the text in green colour. Now, you need to tap on the add icon beside it.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-tap on the add icon](https://images.wondershare.com/drfone/article/2017/10/15081782429835.jpg)
 
 11\. As it will launch a new interface, you can just select the “Create new contact” option.
@@ -490,3 +505,49 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-asus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Asus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-13-mini-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 13 mini In Different Conditionsin</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-capturing-cultures-a-step-by-step-guide-for-aspiring-travel-vloggers/"><u>In 2024, Capturing Cultures  A Step-by-Step Guide for Aspiring Travel Vloggers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-stream-setup-best-equipment-to-take-your-youtube-streams-to-the-next-level/"><u>2024 Approved  Pro Stream Setup  Best Equipment to Take Your Youtube Streams to the Next Level</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone XS Passcode Screen?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-a-mark-on-youtube-proven-techniques-from-creator-studio-experts-for-2024/"><u>Making a Mark on YouTube  Proven Techniques From Creator Studio Experts for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-11-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 11 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-14-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 14 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-12-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 12 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>2024 Approved  Secrets Encased  Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) Without Passcode?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-professional-tips-for-superior-screen-capture-footage/"><u>[New] 2024 Approved  Professional Tips for Superior Screen Capture Footage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-se-2020-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone SE (2020) When Its Locked Within Seconds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/activate-windows-11s-automatic-high-dynamic-range-auto-hdr-for-2024/"><u>Activate Windows 11'S Automatic High Dynamic Range (Auto HDR) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-by-drfone-ios/"><u>How to Unlock iPhone XS?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-pairing-finding-top-beats-for-unwrapping-videos-for-2024/"><u>[New] Perfect Pairing  Finding Top Beats for Unwrapping Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-xr-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone XR In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-xs-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone XS Max In Different Conditionsin</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-beyond-cyberlink-top-screen-capture-software-reviewed/"><u>[New] In 2024, Beyond Cyberlink  Top Screen Capture Software Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-whats-the-best-orientation-horizontalvertical-on-facebook/"><u>[Updated] 2024 Approved  What's The Best Orientation  Horizontal/Vertical on Facebook?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone SE (2022) Without Passcode?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>In 2024, Subscription Sensation  Top 10 YouTube Personalities by Counts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-12-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 12 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone XS Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-se-2020-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone SE (2020) In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2020-by-drfone-ios/"><u>How to Unlock iPhone SE (2020)?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-animation-mastery-8-elite-software-options-for-mac-and-windows-users/"><u>In 2024, Animation Mastery 8 Elite Software Options for Mac and Windows Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-listing-top-5-free-vector-graphics-online-hubs/"><u>2024 Approved  Premier Listing  Top 5 FREE Vector Graphics Online Hubs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-expertly-curated-top-10-tiktok-editors-on-pc/"><u>[Updated] 2024 Approved  Expertly Curated Top 10 TikTok Editors on PC</u></a></li>
+</ul></div>

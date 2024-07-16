@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 with a Mask On
-date: 2024-05-19T07:09:52.475Z
-updated: 2024-05-20T07:09:52.475Z
+date: 2024-07-15T00:46:24.613Z
+updated: 2024-07-16T00:46:24.613Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 8 with a Mask On
 excerpt: This article describes How to Unlock iPhone 8 with a Mask On
 keywords: fix iphone unavailability,turn off restricted mode,iphone swipe up not working,unlock lost phone,remove flashlight from iphone lock screen,how to unlock a found iphone,total wireless unlock,iphone auto lock greyed out,change apple id password,doctorism unlock review,open iphone without home button
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## How to Unlock Apple iPhone 8 with a Mask On
@@ -22,6 +22,9 @@ Only iPhone 12 and the latest models can use Face ID with a mask on, which refle
 
 Once you meet these requirements, you can easily unlock your Apple iPhone 8 while wearing a mask and get further details by reading this article.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Unlock iPhone Face ID with a Mask on
 
 Are you excited to unlock your Apple iPhone 8 while wearing a face mask? This section will give you detailed steps to unlock your Apple iPhone 8 with a mask on, but before proceeding, make sure that you have updated your phone's model to iPhone 12 or iPhone 13. This iOS 15.4 version feature is only available on:
@@ -45,6 +48,9 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone 8. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
@@ -53,7 +59,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +95,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -225,6 +231,9 @@ Moreover, Dr.Fone will keep your data from being exposed to threats. It is a fas
 
 Click the "Screen Unlock" option from the main homepage and connect your iDevice to your computer. Then go for the "Unlock iOS Screen" option on the program.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2. Access the Recovery or DFU mode**
@@ -252,6 +261,9 @@ In almost no time, the software will unlock your Apple iPhone 8 effectively. How
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications?
 
 The Apple iPhone 8 lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone 8 device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
@@ -314,6 +326,9 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 3\. This will provide a list of features related to your passcode. Go to the section of “Allow Access When Locked”.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
 
 4\. From here, make sure that the option of “Notification View” is turned off.
@@ -363,3 +378,72 @@ We hope that after following this guide, you would be able to gain in-depth info
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6s-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6s with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-6s-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 6s Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6s-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6s Lock Screen with Notifications?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/preserve-and-organize-transforming-snaps-into-gallery-photos/"><u>Preserve and Organize  Transforming Snaps Into Gallery Photos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-6s-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 6s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-top-6-head-mount-options-for-dynamic-camera-use-for-2024/"><u>Unveiling the Top 6 Head Mount Options for Dynamic Camera Use for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-elevating-audio-standards-top-10-sound-upgraders-for-smartphones-androidios/"><u>New In 2024, Elevating Audio Standards Top 10 Sound Upgraders for Smartphones (Android/iOS)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-6s-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 6s to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6sipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6s/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-mac-basic-sound-recording-in-audacity/"><u>[New] Mastering Mac  Basic Sound Recording in Audacity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-6s-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 6s When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-proplus-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro+ 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nurturing-nature-in-valheim-top-seed-selection-tips/"><u>Nurturing Nature in Valheim  Top Seed Selection Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6s-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6s</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-discovering-comical-noise-sounds-digitally/"><u>2024 Approved Discovering Comical Noise Sounds Digitally</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-stabilizing-handheld-gopro-videos/"><u>In 2024, Mastering the Art of Stabilizing Handheld GoPro Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6s-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-6s-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 6s Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6s-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 6s</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-key-role-of-youtube-trailers-in-enhancing-revenue/"><u>In 2024, The Key Role of YouTube Trailers in Enhancing Revenue</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-youtube-video-trailers-with-filmoras-guide/"><u>Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-png-alterations-guide/"><u>In 2024, Ultimate PNG Alterations Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6s-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6s? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-6s-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 6s Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6s-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6s Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6s-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6s</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/best-tools-to-create-stunning-igtv-video-edits-for-2024/"><u>Best Tools to Create Stunning IGTV Video Edits for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-6s-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 6s Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6s-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/camera-quest-gopro-hero5-b-vs-session-edition-for-2024/"><u>Camera Quest – GoPro Hero5 B vs Session Edition for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Without Passcode?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-8-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Smart 8 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-art-of-warmth-in-winter-top-5-video-backdrop-choices/"><u>The Art of Warmth in Winter  Top 5 Video Backdrop Choices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/must-have-programs-for-youtube-video-downloads/"><u>Must-Have Programs for YouTube Video Downloads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-6s-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 6s Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-seamless-video-transition-tweeting-plus-tumbling-for-2024/"><u>[New] Seamless Video Transition  Tweeting + Tumbling for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-6s-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 6s Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-6s-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 6s Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6s-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6s with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-6s-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 6s in Lost Mode</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unidentified-user-strategies-for-accessing-instagram-stories-on-desktopmobile-for-2024/"><u>[Updated] Unidentified User Strategies for Accessing Instagram Stories on Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-enhance-your-musical-journey-on-discord-with-top-audio-aids/"><u>[Updated] Enhance Your Musical Journey on Discord with Top Audio Aids</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-6s-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 6s Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-mod-video-editing-software-top-picks/"><u>New 2024 Approved Free MOD Video Editing Software Top Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-6s-how-to-unlock-a-disabled-apple-iphone-6s-by-drfone-ios/"><u>Disabled Apple iPhone 6s How to Unlock a Disabled Apple iPhone 6s?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sh-creativity-exclusive-free-youtube-banner-templates/"><u>Unleash Creativity - Exclusive Free YouTube Banner Templates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-6s-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 6s Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-brand-potential-with-essential-phrases/"><u>[New] Unleashing Brand Potential with Essential Phrases</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-6s-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-6s-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 6 3 Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6s-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6s-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6s Properly</u></a></li>
+</ul></div>

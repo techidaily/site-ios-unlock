@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
-date: 2024-05-19T07:09:53.140Z
-updated: 2024-05-20T07:09:53.140Z
+date: 2024-07-15T00:47:31.301Z
+updated: 2024-07-16T00:47:31.301Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
 keywords: remove flashlight from iphone lock screen,how to unlock iphone 7 without passcode,unlock disabled iphone without computer,app lock iphone,iphone x iphone xr lock screen,iphone lock screen with notifications,fix iphone passcode not working,change apple id on ipad,forgot passcode iphone 6,how to unlock iphone with broken screen
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
@@ -64,7 +64,10 @@ If you've forgotten the passcode for your Apple iPhone XS and are unable to acce
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -97,6 +100,9 @@ Download and install Wondershare Dr.Fone on your computer. Go to "Toolbox," tap 
 
 After this step, enter Recovery Mode on your iDevice by following the specific on-screen instructions. Once your iDevice is in Recovery Mode, the system automatically identifies and displays the "Device Model." You can make adjustments to the model if necessary and choose the "System Version" as per your needs. When finished, click on "Start" to initiate the unlocking process for your device's screen.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![follow on-screen instructions](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Successfully Unlock Your Locked iPhone**
@@ -177,6 +183,9 @@ Utilizing Voice Control to unlock your Apple iPhone XS offers a hands-free appro
 
 ![toggle on voice control option](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Unlock iPhone Without Swiping Up with Switch Control
 
 Utilizing Switch Control is an excellent accessibility feature on iOS devices. It allows users to interact with their iPhones using adaptive switches or the Apple iPhone XS device's screen itself. Moreover, it can provide an alternative way to navigate the Apple iPhone XS and access the Home screen. You no longer have to rely solely on the conventional swipe gesture. Here is how you can set up switch control to **iPhone swipe to unlock**:
@@ -300,6 +309,9 @@ The benefit of Apple iPhone Unlock is that they keep themselves updated with the
 
 ## Bonus Tips: How to Unlock Our iPhone Screen?
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone-Screen Unlock
 
 An expert unlocking tool comes in handy when no other method works. In this case, we strongly suggest you use the Dr.Fone-Screen Unlock tool by Wondershare. Dr.Fone is a reliable tool and has been in the market for a long time. Professional unlock service providers use it because of its ease of use and clean interface.
@@ -354,7 +366,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone XS Without iTunes/ iCloud.
 
@@ -387,7 +399,7 @@ Do note that all methods that unlock your Apple iPhone XS will necessarily wipe 
 
 Your Apple iPhone XS will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone XS device. When you set the Apple iPhone XS device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone XS prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone XS device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone XS Using iTunes or macOS Finder
 
@@ -431,7 +443,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone XS from the Apple iPhone XS devices from the left pane, click/ tap your disabled Apple iPhone XS and click/ tap Erase This Device
 
@@ -451,7 +463,10 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone XS easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -472,7 +487,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone XS, so use 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone XS disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone XS device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -491,3 +506,51 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone X Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-x-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone X With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-x-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone X Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-x-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone X After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-oppo-find-x6-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Oppo Find X6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-facial-capture-tips-for-top-notch-videos/"><u>The Art of Facial Capture  Tips for Top-Notch Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-streamers-the-creme-de-la-cuisine/"><u>Savory Streamers  The Crème De La Cuisine</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-x-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone X i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone X Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-x-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone X Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-x-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone X Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone X</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blending-images-for-a-captivating-visual-journey/"><u>2024 Approved  Blending Images for a Captivating Visual Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-x-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone X and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/change-video-speed-with-ffmpeg/"><u>Change Video Speed with FFmpeg</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-subtitles-that-shine-discover-the-best-free-online-tools/"><u>In 2024, Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-schedule-and-record-a-meeting-on-slack-wondershare-filmora/"><u>[Updated] How to Schedule and Record a Meeting on Slack-Wondershare Filmora</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone X with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-x-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone X With 7 Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/detecting-invisible-interactions-on-snapchat-for-2024/"><u>Detecting Invisible Interactions on Snapchat for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-x-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone X When Its Locked Within Seconds</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Sony Xperia 5 V</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capturing-the-essence-streamlined-guide-to-phonescreen-recording-on-snapchat/"><u>[Updated] In 2024, Capturing the Essence  Streamlined Guide to Phonescreen Recording on Snapchat</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-x-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone X Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-strategies-for-expanding-your-tiktok-influence-via-hashtags-for-2024/"><u>[New] Strategies for Expanding Your TikTok Influence via Hashtags for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-x-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone X Passcode not Working?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prolonged-sky-journeys-the-ultimate-drone-lineup/"><u>Prolonged Sky Journeys  The Ultimate Drone Lineup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-visual-storytelling-with-premiere-text-styles/"><u>Enhancing Visual Storytelling with Premiere Text Styles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c53-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C53 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-photo-deformation-software/"><u>Exploring Photo Deformation Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone X Passcode Screen?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-revolutionize-your-instagram-content-with-these-4-loopy-techniques/"><u>[New] 2024 Approved  Revolutionize Your Instagram Content with These 4 Loopy Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone X</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-complete-checklist-for-youtube-metrics-mastery-views-and-dollars/"><u>2024 Approved  The Complete Checklist for YouTube Metrics Mastery  Views & Dollars</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-x-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone X Passcode Easily Video Inside</u></a></li>
+</ul></div>

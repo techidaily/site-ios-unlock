@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone XR with a Broken Screen?
-date: 2024-05-19T07:09:59.816Z
-updated: 2024-05-20T07:09:59.816Z
+date: 2024-07-15T00:57:59.538Z
+updated: 2024-07-16T00:57:59.538Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking Apple iPhone XR with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking Apple iPhone XR with a Broken Screen?
 keywords: iphone auto lock greyed out,get out of security lockout,unlock iphone screen passcode,remove flashlight from iphone lock screen,forgot passcode iphone 6,how to remove passcode from iphone,what can jailbreak iphone do
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone XR with a Broken Screen?
@@ -143,6 +143,9 @@ Removing the lock screen requires you to boot your Apple iPhone XR in Recovery o
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone XR.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Screen Now**
@@ -187,7 +190,7 @@ iTunes is another great way to bypass the activation screen without a SIM card. 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Passcode.
 
@@ -226,7 +229,7 @@ Once your Apple iPhone XR is in DFU mode, another window will be displayed on th
 
 After downloading the firmware, select “Unlock Now” to unlock your Apple iPhone XR.
 
-![unlock iphone passcode successfully ](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+![unlock iphone passcode successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
@@ -350,7 +353,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XR can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -384,6 +387,9 @@ After successfully downloading Dr.Fone on your device, navigate towards the left
 
 Select the Apple iPhone XR device type from the available options and select "iPhone." From the new window, select "iOS Repair," and following that, select "Standard Repair." Now, follow the instructions available and enable recovery mode for your iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose to repair ios](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
 **Step 3: Select iOS Firmware to Initiate the Repair Process**
@@ -425,6 +431,9 @@ If your Apple iPhone XR swipe-up gesture isn't working specifically on the lock 
 
 **Step 1.** On your iOS device, access the “Settings” app and launch it. Now scroll down to find and tap "Face ID & Passcode."
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
@@ -451,6 +460,9 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8. Turn Off VoiceOver
 
 VoiceOver is an accessibility feature on iPhones. It assists users with visual impairments by providing spoken feedback for actions on the Apple iPhone XR device. Sometimes, VoiceOver settings can interfere with normal touchscreen gestures like the swipe-up function. Here's how to turn off VoiceOver to resolve **iPhone 13 won’t swipe up to unlock**:
@@ -469,6 +481,9 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 **Step 1.** Move to the "Accessibility" settings of your Apple iPhone XR and select "Touch." On the following screen, scroll down and tap "Touch Accommodations."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access touch accommodations within accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-12.jpg)
 
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
@@ -505,7 +520,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -570,3 +585,61 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-breaking-the-loop-fixing-frozen-photo-booth-videos/"><u>[New] Breaking the Loop  Fixing Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cinematic-converter-turn-humble-footage-into-breathtaking-films-for-2024/"><u>Updated Cinematic Converter Turn Humble Footage Into Breathtaking Films for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 Pro Max Properly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-yuva-3-by-drfone-android/"><u>How to Bypass FRP from Lava Yuva 3?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-the-search-for-spotless-stock-visuals-for-2024/"><u>Streamlining the Search for Spotless Stock Visuals for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-13-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 13 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-pro-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-essential-websites-for-accessing-lofi-artwork-and-soundtracks-for-2024/"><u>New Essential Websites for Accessing Lofi Artwork and Soundtracks for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 Pro Max</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-stock-tutorials-channel-roundup/"><u>[Updated] Leading Stock Tutorials  Channel Roundup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-mac-studio-with-state-of-the-art-screen-and-voice-logging/"><u>[Updated] Top Mac Studio with State-of-the-Art Screen and Voice Logging</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-rid-of-tiktok-watermarks-best-free-online-removers/"><u>New 2024 Approved Get Rid of TikTok Watermarks Best Free Online Removers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-expert-tips-for-high-quality-minecraft-saves/"><u>In 2024, Expert Tips for High-Quality Minecraft Saves</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-studio-lights-for-online-filmmakers-for-2024/"><u>[Updated] Cutting-Edge Studio Lights for Online Filmmakers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-engaging-youtube-stays-strategies-to-shine-without-thousand-supporters/"><u>In 2024, Craft Engaging YouTube Stays  Strategies to Shine without Thousand Supporters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unleashing-the-power-of-playback-turning-youtube-content-into-engaging-gifs-pcmobile/"><u>[Updated] In 2024, Unleashing the Power of Playback  Turning YouTube Content Into Engaging GIFs (PC/Mobile)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-13-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 13 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-s-best-movie-making-software-for-windows-pcs/"><u>2024 Approved S Best Movie Making Software for Windows PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-13-pro-max-how-to-unlock-a-disabled-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Disabled iPhone 13 Pro Max How to Unlock a Disabled iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-13-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-pc-mastering-controller-commands/"><u>From PlayStation to PC: Mastering Controller Commands</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-13-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 13 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-13-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 13 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-elevate-your-invitations-top-video-creation-apps-for-mobile-devices/"><u>New In 2024, Elevate Your Invitations Top Video Creation Apps for Mobile Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-video-guide-to-hairstyles/"><u>Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-bringing-text-to-life-a-guide-to-dynamic-animation-methods-for-2024/"><u>[Updated] Bringing Text to Life  A Guide to Dynamic Animation Methods for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-13-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 13 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-pro-enhancing-photo-clarity-details-and-composition/"><u>[New] IPhone Pro  Enhancing Photo Clarity, Details & Composition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 13 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-face-editing-tools-for-iphones-and-samsungs/"><u>In 2024, Prime Face-Editing Tools for iPhones and Samsungs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Pro Max Lock Screen</u></a></li>
+</ul></div>

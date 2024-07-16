@@ -1,7 +1,7 @@
 ---
 title: Remove Device Supervision From your iPhone 8 Plus
-date: 2024-06-08T07:47:43.916Z
-updated: 2024-06-09T07:47:43.916Z
+date: 2024-07-15T00:38:04.806Z
+updated: 2024-07-16T00:38:04.806Z
 tags: 
   - unlock
   - remove screen lock
@@ -148,6 +148,9 @@ Before we get started, you should know that there are three ways to have a custo
 
 ![ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How to select your favorite wallpaper
 
 The first way is to use a pre-made wallpaper from the Apple Wallpaper Gallery.
@@ -160,12 +163,18 @@ The second way to have a customized lock screen is to use a Live Photo. To do th
 
 **Note:** You can only use Live Photos for your lock screen if your Apple iPhone 8 Plus is unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to manage notifications
 
 If you want to manage notifications on the iOS 17 lock screen, there are two ways to do it.
 
 At first, you can go to Settings > Notifications. Here, you can choose how many notifications you want to see on your lock screen and which apps can send you notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock screen notification setting](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-3.jpg)
 
 The Do Not Disturb feature is the second way to manage notifications. To do this, go to Settings > Do Not Disturb and enable the feature. You can also schedule when Do Not should turn on and off. This feature work like a charm if you want to silence all notifications at night.
@@ -286,6 +295,9 @@ There are various ways to fix the lock screen bugs in iOS 17. You can try resett
 
 If none of these methods work, you can try using a third-party tool like Dr.Fone-Screen Unlock to bypass the lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How do you unlock a locked iPhone iOS 17?
 
 There are various ways to unlock a locked iPhone running on iOS 17. You can try the feature of Find My iPhone, or you can also use a third-party tool like Dr.Fone-Screen Unlock.
@@ -339,6 +351,9 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone 8 Plus. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
@@ -347,7 +362,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -383,7 +398,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -419,3 +434,43 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Max Without iTunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-curated-selection-of-top-6-nft-maker-applications/"><u>In 2024, A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-8-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-8-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Max Without iTunes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-a-comprehensive-overview-of-discord-stickers-for-2024/"><u>[New] A Comprehensive Overview of Discord Stickers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Plus Without iTunes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[New] How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-android-and-ios-best-ps2-emulator-comparisons/"><u>[Updated] Android & iOS  Best PS2 Emulator Comparisons</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-how-to-liven-up-your-animate-website-on-scroll-for-2024/"><u>Updated How to Liven Up Your Animate Website on Scroll for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-mini-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 mini Without iTunes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-transforming-mac-screenshot-file-extensions-for-2024/"><u>[New] Transforming Mac Screenshot File Extensions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/harvest-heartbeats-top-farming-games-for-togetherness-for-2024/"><u>Harvest Heartbeats  Top Farming Games for Togetherness for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-free-online-srt-translators-1-8-rankings/"><u>Essential Guide to Free Online SRT Translators – #1-#8 Rankings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-shooting-top-10-high-definition-dslr-stands/"><u>[Updated] In 2024, Ultimate Shooting  Top 10 High-Definition DSLR Stands</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-thriving-giveaways-a-facebook-marketers-blueprint/"><u>Creating Thriving Giveaways  A Facebook Marketer's Blueprint</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-selection-of-win-11-camcorders-and-webcam-devices-for-2024/"><u>[Updated] Expert Selection of Win 11 Camcorders & Webcam Devices for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Without iTunes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-blending-audio-with-video-in-premiere-pro/"><u>In 2024, The Art of Blending Audio with Video in Premiere Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-mini-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 mini Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-oppo-a58-4g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Oppo A58 4G.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-itel-p55-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Itel P55 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-y28-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y28 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c55-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C55 to PC? | Dr.fone</u></a></li>
+</ul></div>

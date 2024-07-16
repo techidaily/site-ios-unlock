@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking iPhone 12 Pro with a Broken Screen?
-date: 2024-06-15T17:50:04.183Z
-updated: 2024-06-16T17:50:04.183Z
+date: 2024-07-15T01:44:02.976Z
+updated: 2024-07-16T01:44:02.976Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,18 @@ Locking an iPhone with a passcode is a great way to prevent it from getting into
 
 In this detailed guide, we will elaborate on the best possible methods you can employ to **unlock iPhone with broken screen.** Moreover, we will introduce you to the best unlocking tools available for your situation. So stay with us till the end.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Use the Feature "Find My iPhone" to Unlock an iPhone with Broken Screen
 
 Find My is a famous component in Apple devices that allows you to find your lost devices through GPS. The option has been revitalized much from that point forward. Presently it can be utilized to erase your Apple iPhone 12 Pro from a distance. You can erase your information without a password) to save its data.
@@ -45,6 +57,9 @@ Also, if your Apple iPhone 12 Pro screen is broken, you can use this feature to 
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
@@ -106,6 +121,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 12 Pro device and let you pick a photo.
@@ -137,6 +155,9 @@ Click the "Screen Unlock" option from the main homepage and connect your iDevice
 
 Removing the lock screen requires you to boot your Apple iPhone 12 Pro in Recovery or DFU mode. The Recuperation mode is suggested for iOS devices. But if you can't, you can go for the DFU mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3. Confirm your Phone Model**
@@ -164,7 +185,7 @@ If you have been locked out of your iOS device and would like to know how to unl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXbqfC7JTKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 1: How to unlock Apple iPhone 12 Pro passcode with Dr.Fone - Screen Unlock (iOS)?
 
@@ -174,7 +195,7 @@ It is compatible with all the leading iOS versions and devices. All you need to 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Screen Without Password
 
@@ -189,6 +210,9 @@ Unlock iPhone Screen Without Password
 
 2\. Now, connect your Apple iPhone 12 Pro to your system and wait for a while as Dr.Fone will detect it automatically. Click on the “Unlock iOS Screen” button to initiate the process.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock Apple iPhone 12 Pro passcode without itunes-start to unlock Apple iPhone 12 Pro](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 3\. As you would connect your Apple iPhone 12 Pro to your system, you will get a “Trust this Computer” prompt. Make sure that you close this window by tapping on the “x” button. Once connected, Dr.Fone will ask you to follow some steps to set your device in Recovery mode, allowing it to be detected.
@@ -213,7 +237,7 @@ Unlock iPhone Screen Without Password
 
 In the end, you can simply disconnect your Apple iPhone 12 Pro safely from the system and restart it. It would be restarted without any passcode, letting you access it in a trouble-free manner.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 #### **You may also be interested in:**
 
@@ -272,7 +296,7 @@ Even though lots of users have complained about this issue, Apple hasn’t come 
 
 Now when you know how to unlock Apple iPhone 12 Pro passcode without iTunes, you can easily access your device. Ideally, you can simply take the assistance of [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device. It can also be used to resolve any other problem related to your Apple iPhone 12 Pro/iPad as well. Feel free to give it a try and let us know if you face any problems while using it.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## How To Unlock Stolen Apple iPhone 12 Pro In Different Conditionsin
 
@@ -388,3 +412,56 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-resisting-insta-imposters-protect-your-profiles-prestige-for-2024/"><u>[Updated] Resisting Insta Imposters  Protect Your Profile's Prestige for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Pro Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-12-pro-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 12 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-8-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 8 In Different Conditionsin</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y27-4g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y27 4G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-battle-of-broadcasting-is-obs-or-twitch-studio-superior/"><u>[New] 2024 Approved  Battle of Broadcasting  Is OBS or Twitch Studio Superior?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-itel-p55plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Itel P55+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-x-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone X in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-reasons-why-gamers-should-buy-a-retro-handheld/"><u>5 Reasons Why Gamers Should Buy a Retro Handheld</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-xr-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone XR Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-se-2020-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone SE (2020) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-sub4sub-skills-start-with-these-key-guidelines/"><u>[Updated] Elevate Your Sub4sub Skills  Start With These Key Guidelines</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-11-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 11 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-13-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 13 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-12-pro-max-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 12 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 mini</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-12plus-5g-easily-by-drfone-android/"><u>How To Unlock a Realme 12+ 5G Easily?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-12-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 12 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>[New] The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brighten-and-balance-photos-with-easy-ps-tips/"><u>2024 Approved  Brighten and Balance Photos with Easy PS Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a15-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A15 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Pro Max Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-xs-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone XS Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-pitch-perfect-techniques-for-integrating-tunes-into-vimeo-videos/"><u>[Updated] Pitch Perfect  Techniques for Integrating Tunes Into Vimeo Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-11-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-12-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 12 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-12-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 12 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ver-efficient-methods-for-compiling-songs-on-youtube-for-2024/"><u>Discover Efficient Methods for Compiling Songs on YouTube for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-13-mini-5-ways-to-get-into-a-locked-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 13 mini? 5 Ways to get into a Locked Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-12-pro-max-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 12 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-8-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 8 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-8-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 8 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-13-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 13 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-8-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 8 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-se-2022-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone SE (2022) In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-xr-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone XR Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ghostly-movie-editing-hacks/"><u>In 2024, Ghostly Movie Editing Hacks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-11-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 11 Pro Max Properly</u></a></li>
+</ul></div>

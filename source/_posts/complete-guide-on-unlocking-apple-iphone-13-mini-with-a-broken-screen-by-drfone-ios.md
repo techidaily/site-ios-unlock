@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 13 mini with a Broken Screen?
-date: 2024-07-08T12:34:52.669Z
-updated: 2024-07-09T12:34:52.669Z
+date: 2024-07-15T01:50:48.183Z
+updated: 2024-07-16T01:50:48.183Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,6 +49,9 @@ Also, if your Apple iPhone 13 mini screen is broken, you can use this feature to
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
 
 **Step 6.** Enter the password to proceed.
@@ -106,6 +109,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 13 mini device and let you pick a photo.
@@ -118,6 +124,9 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone-Screen Unlock
 
 
@@ -289,6 +298,9 @@ Before deleting the Apple iPhone 13 mini screen, it is necessary to boot it in R
 
 After turning the DFU mode on, the program will show your phone information. In addition, it will show its model and software version. You can choose the correct data from the dropdown menu if it isn't accurate. Then, it is time to download the firmware required for your phone model.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Remove the Lock**
@@ -417,6 +429,9 @@ Remember, you only need WiFi and Bluetooth on but don’t need to be connected t
 
 If the problem persists, you could also restart your devices and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3. Reset Your Face ID
 
 In some instances, it’s the Face ID feature that’s causing trouble, so you might want to try and reset it. It’s much easier than it may sound, you just need to follow the next few steps:
@@ -503,3 +518,76 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XS Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x6-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X6 Phone FRP Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 6 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-pioneering-platform-potential-the-10-most-effective-igtv-strategies-for-brands/"><u>[New] Pioneering Platform Potential  The 10 Most Effective IGTV Strategies for Brands</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c12-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-your-pics-with-facetune-a-full-guide/"><u>In 2024, Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-swiftly-slide-through-content-advanced-techniques-to-accelerate-video-viewing-on-tiktok/"><u>[New] Swiftly Slide Through Content  Advanced Techniques to Accelerate Video Viewing on TikTok</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 13 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-compre-written-guide-on-incorporating-markup-features-in-youtube/"><u>In 2024, Compre Written Guide on Incorporating Markup Features in YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-non-standard-windows-media-processors/"><u>In 2024, Non-Standard Windows Media Processors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6 without Passcode or Face ID</u></a></li>
+<li><a href="https://article-helps.techidaily.com/beginners-booklet-on-backdrops-and-blending/"><u>Beginner's Booklet on Backdrops & Blending</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 12 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-approach-to-exceptional-gopro-footage/"><u>[Updated] Stepwise Approach to Exceptional GoPro Footage</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-auditory-supplements-for-tranquil-soundscapes/"><u>New 2024 Approved Top Auditory Supplements for Tranquil Soundscapes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-x50-gt-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor X50 GT Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-xbox-graphics-with-an-additional-laptop-screen/"><u>Elevate Xbox Graphics with an Additional Laptop Screen</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ious-ideas-top-30-creative-recipe-show-titles/"><u>Delicious Ideas  Top 30 Creative Recipe Show Titles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-maximizing-screen-space-the-art-of-close-up-views/"><u>[New] Maximizing Screen Space  The Art of Close Up Views</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6s-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6s Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[Updated] In 2024, Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 7 without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-youtube-success-with-tubebuddy/"><u>In 2024, The Ultimate Guide to YouTube Success with TubeBuddy</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-13-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 13 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-clearing-digital-photo-borders-for-2024/"><u>[Updated] The Ultimate Guide to Clearing Digital Photo Borders for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-joining-the-global-game-how-to-zoom-on-xbox-one/"><u>2024 Approved  Joining the Global Game  How to Zoom on Xbox One</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-blaze-curve-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Blaze Curve 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 7 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-engaging-youtube-thumbnails-a-step-by-step-guide-for-2024/"><u>Crafting Engaging YouTube Thumbnails  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-monitor-selection-mastery-ultrawide-versus-uhd-4k/"><u>2024 Approved  Monitor Selection Mastery  UltraWide Versus UHD 4K</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pc-and-macs-finest-in-screencasting-tech/"><u>[New] PC & Mac's Finest in Screencasting Tech</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/purity-in-production-leading-watermark-erasers-for-2024/"><u>Purity in Production  Leading Watermark Erasers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-8-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 8 Plus If Youve Tried Everything</u></a></li>
+</ul></div>

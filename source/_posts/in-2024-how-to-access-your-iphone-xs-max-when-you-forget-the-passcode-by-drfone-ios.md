@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your iPhone XS Max When You Forget the Passcode?
-date: 2024-05-19T07:09:59.115Z
-updated: 2024-05-20T07:09:59.115Z
+date: 2024-07-15T00:56:48.579Z
+updated: 2024-07-16T00:56:48.579Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your iPhone XS Max When You Forget the Passcode?
 excerpt: This article describes How to Access Your iPhone XS Max When You Forget the Passcode?
 keywords: unlock iphone screen passcode,unlock iphone 5 passcode without itunes,ios 17 lock screen,unlock iphone passcode,iphone backup password,iphone 15 unlock,factory reset locked iphone without itunes,remove flashlight from iphone lock screen
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## How to Access Your Apple iPhone XS Max When You Forget the Passcode?
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone XS Max
 
@@ -69,6 +69,9 @@ If somehow, the above solution fails and you’re just not able to get Apple iPh
 - Next, connect your Apple iPhone XS Max and your computer firmly with the help of an authentic cable. Please make sure to press and hold the “Side” button meanwhile.
 - Ensure not to let go the Side button till the recovery mode screen appears over your Apple iPhone XS Max.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2019/09/iphone11-recovery-mode.jpg)
 
 - Once the Apple iPhone XS Max device is booted in recovery mode, iTunes will throw a pop up message that “iTunes has detected an iPhone in recovery mode”. Simply, hit the “OK” button over the message and then push the “Restore iPhone” button followed by confirming your actions.
@@ -197,6 +200,9 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 - You will now get new choices, including cut, copy, and so on. Tap on the "Share" button to proceed. You will get options for sharing the text. Click on the Message icon. Your device will open another window. Now, you begin drafting another message. Go to the "To" field, and type any text. Click back to proceed with opening an iPhone without a PC.
 - The text will become green. Yet again, now that your text is chosen, click on "+" to add a symbol. When you tap it, another window will open. Click on "Create new contact" to proceed. You will now see a window where you can add another contact. Tap on "Add Photo" to move.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-4.jpg)
 
 - Click the "Select/Pick Photo" button to choose a photograph from your library. When the library opens, you can see the collections. Do not click anywhere. Wait for a couple of moments, and afterward, tap on the Home button. You will then access the Home screen. That's **how to unlock disabled iPhones without computer.**
@@ -224,6 +230,18 @@ Use a connector to connect your Apple iPhone XS Max to the PC. After this, click
 
 Before the Apple iPhone XS Max lock screen removal, we need to boot the phone in Recovery or DFU. If you have to do so, follow the steps given in the image below:
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 We suggest you open the recovery mode to remove the iOS screen lock. However, if you can't figure out how to do so, go for the DFU mode.
@@ -267,6 +285,9 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
@@ -325,6 +346,9 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone X
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -360,3 +384,53 @@ We hope that after following this guide, you would be able to gain in-depth info
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-12-mini-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 12 mini Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-12-mini-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 12 mini Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-efficiency-in-managing-swarms-of-tiktok-saves-through-editing/"><u>[New] In 2024, Efficiency in Managing Swarms of TikTok Saves Through Editing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-12-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 12 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-12-mini-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 12 mini Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-mini-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 mini Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-12-mini-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 12 mini With 7 Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-understanding-and-controlling-safaris-pip-feature/"><u>[Updated] 2024 Approved  Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-12-mini-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-12-mini-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 12 mini In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-12-mini-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 12 mini to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-triple-caption-magic-for-compelling-ig-videographies/"><u>[Updated] In 2024, Triple Caption Magic for Compelling IG Videographies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 12 mini</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/ultimate-guide-enjoy-tweets-in-stunning-hd-quality/"><u>Ultimate Guide  Enjoy Tweets in Stunning HD Quality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 12 mini With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini, Apples New iPhone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/diving-into-the-world-of-youtube-search-engine-rankings-for-2024/"><u>Diving Into the World of YouTube Search Engine Rankings for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 12 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-mini-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 12 mini Passcode not Working?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/youtubes-buzzing-titles-roundup-1-8/"><u>YouTube's Buzzing Titles Roundup  #1-#8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-mini-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 mini and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-12-mini-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 12 mini After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-flavorful-footage-the-ultimate-guide-to-delicious-food-vids/"><u>[New] 2024 Approved  Flavorful Footage  The Ultimate Guide to Delicious Food Vids</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-mini-5-ways-to-get-into-a-locked-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 mini? 5 Ways to get into a Locked Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-12-mini-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 12 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-mini-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 mini Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-mini-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 mini Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/start-streaming-sports-a-mac-based-channel-guide/"><u>Start Streaming Sports  A Mac-Based Channel Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 mini</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-immediate-insta-friendship-status-check/"><u>[New] In 2024, Immediate Insta Friendship Status Check</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/convert-video-voice-to-text-online-for-free-fast-and-easy-ways-for-2024/"><u>Convert Video Voice to Text Online for Free Fast and Easy Ways for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-12-mini-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 12 mini in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-12-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 mini With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-mini-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 mini Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-12-mini-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 12 mini? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-mini-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 mini Without Passcode Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-step-by-step-youtube-traffic-and-revenue-assessment-guide/"><u>[New] 2024 Approved  A Step-by-Step Youtube Traffic & Revenue Assessment Guide</u></a></li>
+</ul></div>

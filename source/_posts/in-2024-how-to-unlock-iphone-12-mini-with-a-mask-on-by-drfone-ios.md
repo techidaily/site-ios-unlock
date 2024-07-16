@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 12 mini with a Mask On
-date: 2024-05-19T07:10:22.820Z
-updated: 2024-05-20T07:10:22.820Z
+date: 2024-07-15T01:34:29.165Z
+updated: 2024-07-16T01:34:29.165Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 12 mini with a Mask On
 excerpt: This article describes How to Unlock iPhone 12 mini with a Mask On
 keywords: iphone backup password,forgot passcode iphone 6,fix iphone backup password never set but still asking,unlock iphone 5 passcode without itunes,reset iphone backup password,unlock disabled iphone without computer,how to unlock a found iphone,erase iphone when locked,iphone lock screen with notifications,iphone passcode changed itself
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## How to Unlock Apple iPhone 12 mini with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 mini to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 mini device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -160,7 +160,7 @@ If you've forgotten the passcode for your Apple iPhone 12 mini and are unable to
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -187,6 +187,9 @@ Here is how to **open your Apple iPhone 12 mini without swiping up** with the he
 
 Download and install Wondershare Dr.Fone on your computer. Go to "Toolbox," tap "Screen Unlock," and finally choose "iOS" to access the screen unlock tools. Once the window appears, choose the “Unlock iOS Screen” button to proceed with unlocking your iOS device's screen. In the following screen, click “Start” to begin the process of unlocking your iOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access screen unlock within toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Initiate the iDevice into Recovery Mode**
@@ -319,6 +322,9 @@ Face ID is not a new and advanced version of Touch ID, but a completely differen
 
 Most of us know that we can unlock iPhone with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your Apple iPhone 12 mini 13/12/11 with Face ID:
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.I Unlock Your Apple iPhone 12 mini
 
 As an authentication mechanism, Face ID enables you to [unlock your Apple iPhone 12 mini 13](https://drfone.wondershare.com/unlock/how-to-unlock-an-iphone-13.html)/iPhone 12/iPhone 11 with a look. How to do that? Here are the steps:
@@ -367,6 +373,9 @@ Step 5: When paying at retail outlets, hold your Apple iPhone 12 mini (top being
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone 12 mini, and wait for the Done message and checkmark to finish the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
@@ -407,6 +416,9 @@ Step 1: Open a message conversation in the Messages app.
 
 Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to select the desired Animoji/ Memoji you want to send.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recording a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-8.jpg)
 
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
@@ -431,6 +443,9 @@ Step 1: Go to Settings > Face ID and Passcode.
 
 Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Apple iPhone 12 mini 13/12/11.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 12 mini
@@ -463,7 +478,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -491,3 +506,42 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-editing-video.techidaily.com/a-review-of-efectum-app-making-slow-motion-video-for-2024/"><u>A Review of Efectum App Making Slow Motion Video for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-se-2022-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone SE (2022) Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-se-2022-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone SE (2022) Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-se-2022-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2022-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2022) when Phone is Broken?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-12-free-animation-tools-for-windows-and-macos/"><u>New In 2024, Top 12 Free Animation Tools for Windows and macOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-gt-5-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme GT 5 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-se-2022-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone SE (2022) with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-se-2022-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone SE (2022) Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-se-2022-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone SE (2022) to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-2022-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2022-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips/"><u>Uncover the Power of Sound  No-Cost Voice Effects at Your Fingertips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-compatibility-issue/"><u>Updating Compatibility Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-se-2022-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone SE (2022) When You Forget the Passcode?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-picshot-avoiding-hassles-notching-up-creativity/"><u>Why Picshot? Avoiding Hassles, Notching Up Creativity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-boosting-your-instagram-aesthetics-implementing-borders-on-photos-for-2024/"><u>[New] Boosting Your Instagram Aesthetics  Implementing Borders on Photos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-techniques-for-securing-ps4-gameplay-moments/"><u>2024 Approved  Essential Techniques for Securing PS4 Gameplay Moments</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022), Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-se-2022-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone SE (2022) with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-se-2022-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone SE (2022) Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-se-2022-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone SE (2022) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-se-2022-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-twenty-techniques-for-rewinding-livestreams-online/"><u>Top Twenty Techniques for Rewinding Livestreams Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-se-2022-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone SE (2022)? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-convincing-audiences-to-join-a-positive-approach/"><u>In 2024, Convincing Audiences to Join  A Positive Approach</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-presentation-mastery-8-top-screen-record-comparisons-for-2024/"><u>[Updated] Presentation Mastery 8  Top Screen Record Comparisons for 2024</u></a></li>
+</ul></div>

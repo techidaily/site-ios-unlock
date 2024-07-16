@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Unlock Apple iPhone XS without Passcode or Face ID
-date: 2024-04-02T07:01:32.513Z
-updated: 2024-04-03T07:01:32.513Z
+date: 2024-07-15T03:01:18.476Z
+updated: 2024-07-16T03:01:18.476Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Unlock Apple iPhone XS without Passcode or Face ID
 excerpt: This article describes 3 Ways to Unlock Apple iPhone XS without Passcode or Face ID
 keywords: how to unlock iphone to use usb accessories,unlock iphone 5 passcode without itunes,how to unlock iphone without passcode,remove flashlight from iphone lock screen,remove device supervision from iphone,how to unlock iphone without passcode or face id,unlock iphone 11 12 13 without passcode,how to unlock iphone with broken screen,apple id not active,change apple id email address
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## 3 Ways to Unlock Apple iPhone XS without Passcode or Face ID
@@ -38,7 +38,7 @@ It is compatible with all the leading iOS devices, including the latest models l
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -59,6 +59,9 @@ Follow these steps to learn how to unlock Apple iPhone XS without a passcode.
 
 Download Dr.Fone - Screen Unlock (iOS) on your Mac or Windows PC and launch the application. Then go to Toolbox > Screen Unlock > iOS > Unlock iOS Screen to launch the specific tool on a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 Using a lightning cable, connect your Apple iPhone XS to the system. Once your Apple iPhone XS is detected, click on the “Start” button to commence the process.
@@ -89,7 +92,7 @@ Sit back and wait for a while as the application will restart your device. There
 
 In this way, you can learn how to [unlock iPhone without a passcode](https://drfone.wondershare.com/solutions/iphone-lock-screen-password-forgot.html) or Face ID. Though, you should know that the existing data on your phone would be erased. Sadly, there is no solution to unlock an iOS device without deleting its existing data. Therefore, this is a risk you need to take if you wish to unlock your iOS device.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: How to unlock Apple iPhone XS with iTunes?
 
@@ -173,7 +176,7 @@ Go to Settings > Face ID & Passcode and turn on the “Erase Data” option. Tho
 
 When you know how to unlock Apple iPhone XS without the passcode, you can easily fulfill your requirements. Out of all the provided options, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended. This is because using the Dr.Fone toolkit is extremely easy. You won’t face any compatibility issues or need to have the technical experience to use this reliable tool. Try it for free and download it on your system to bypass a locked Apple iPhone XS right away.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -249,6 +252,18 @@ You can also get rid of the password for the last backup without deleting any ot
 
 Use a USB cable to link your Apple iPhone XS to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
@@ -297,6 +312,9 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Don't open iTunes while doing this.
 - Your device will reboot
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
@@ -308,6 +326,9 @@ Before you click **Remove Now**, please carefully read the following three notes
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -439,6 +460,9 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlocking finished window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
@@ -500,3 +524,63 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-8-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 8 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Without Passcode?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-enhance-your-chat-with-direct-spotify-streaming-in-discord/"><u>[New] In 2024, Enhance Your Chat with Direct Spotify Streaming in Discord</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-13-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 13 Pro Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-13-pro-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 13 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-13-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-13-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 13 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-budget-friendly-asmr-solutions-premium-quality-mics-awaiting-you/"><u>In 2024, Budget-Friendly ASMR Solutions  Premium Quality Mics Awaiting You</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-13-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 13 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unlock-creative-potential-the-ultimate-list-of-10-free-tiktok-edits-on-macos/"><u>2024 Approved  Unlock Creative Potential  The Ultimate List of 10 Free TikTok Edits on MacOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-computing-mini-pc-versus-full-sized-desktops/"><u>Compact Computing: Mini PC Versus Full-Sized Desktops</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-13-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 13 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-13-pro-how-to-unlock-a-disabled-iphone-13-pro-by-drfone-ios/"><u>Disabled iPhone 13 Pro How to Unlock a Disabled iPhone 13 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-30plus-metaverse-quotes-to-inspire-you-ar-and-vr-included/"><u>In 2024, 30+ Metaverse Quotes to Inspire You [AR & VR Included]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-13-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 13 Pro Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-13-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 13 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-your-xiaomi-experience-with-easy-record-screens/"><u>Enhance Your Xiaomi Experience with Easy Record Screens</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-sweet-screen-snatcher-examination-in-depth/"><u>[Updated] In 2024, Sweet Screen Snatcher Examination In-Depth</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-extracting-audio-from-videos-is-a-key-to-better-storytelling-learn-how-filmoras-audio-removal-feature-can-enhance-your-video-stories/"><u>2024 Approved Extracting Audio From Videos Is a Key to Better Storytelling. Learn How Filmoras Audio Removal Feature Can Enhance Your Video Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-simulations-on-android-rankings-of-the-best-15/"><u>[Updated] In 2024, Mastering Simulations on Android  Rankings of the Best 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-13-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 13 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-13-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-13-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 13 Pro Without a Home Button</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>[Updated] In 2024, Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-13-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 13 Pro Properly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-xr-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone XR to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-beginners-guide-to-making-audio-integrated-movies-without-costs/"><u>Updated In 2024, Beginners Guide to Making Audio-Integrated Movies Without Costs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-pro-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-13-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 13 Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tackling-the-challenge-of-video-not-broadcasting-via-fb-messenger-for-2024/"><u>Tackling the Challenge of Video Not Broadcasting via FB Messenger for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-pro-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 Pro in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-13-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 13 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-quality-evaluating-luminances-performance-for-2024/"><u>HDR Quality  Evaluating Luminance's Performance for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-13-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 13 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-13-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 13 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ormula-for-youtube-money-decoding-revenue-and-cpm-rates-for-2024/"><u>The Formula for YouTube Money  Decoding Revenue and CPM Rates for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-your-gaming-moments-xbox-one-screenshots-made-simple/"><u>Capture Your Gaming Moments  Xbox One Screenshots Made Simple</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/decoding-the-complexities-of-discord-spoilers-for-gamers-for-2024/"><u>Decoding the Complexities of Discord Spoilers for Gamers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode Screen?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-innovating-for-success-crafting-an-effective-instagram-video-marketing-blueprint/"><u>[New] In 2024, Innovating for Success  Crafting an Effective Instagram Video Marketing Blueprint</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-10-hilarious-and-emotional-instagram-memes-journey/"><u>[New] 2024 Approved  Top 10 Hilarious & Emotional Instagram Memes Journey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ice-cream-video-recorder-exploration-in-depth/"><u>[New] Ice Cream Video Recorder Exploration in Depth</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 6s without Passcode or Face ID
-date: 2024-05-19T07:09:26.246Z
-updated: 2024-05-20T07:09:26.246Z
+date: 2024-07-15T00:03:18.508Z
+updated: 2024-07-16T00:03:18.508Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 6s without Passcode or Face ID
 excerpt: This article describes How to Unlock Apple iPhone 6s without Passcode or Face ID
 keywords: fix iphone passcode not working,forgot passcode iphone 6,iphone 11 passcode bypass,iphone locked to owner,get into locked iphone,iphone x iphone xr lock screen,iphone passcode changed itself,iphone backup password,forgot passcode on iphone
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## How to Unlock Apple iPhone 6s without Passcode or Face ID
@@ -28,6 +28,9 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 - You will be taken to another interface. Click "All devices" and select the Apple iPhone 6s on which you need to erase the passcode.
 - Click on "Erase iPhone", and afterwards affirm the decision. That's the simplest solution for **how to unlock iPhone without passcode or face ID.**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
 
 ### 2\. Via iTunes
@@ -159,6 +162,9 @@ Here's the step-by-step guide to the most effective method to switch off Face ID
 
 First, tap on your Settings app to open it. That is the one on the home screen with a symbol like the mechanical gear.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Tap on Face ID and Passcode
 
 On the Settings menu, tap on the Face ID and Passcode menu.
@@ -187,6 +193,9 @@ It doesn't work by snapping a picture of your face, but by taking a contour of y
 
 That's all about our take on **how to unlock iPhone without passcode or face ID 2022.** We have worked hard to make sure you get the right solutions in hand. However, we strongly suggest Dr.Fone if you still face issues with our solutions. Even if the above methods fail, Dr.Fone will ensure you unlock your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple iPhone 6s Asking for Passcode after iOS 17/14 Update, What to Do?
 
 If you’ve recently updated your iOS iPhone and iPad to the iOS 17/14 operating system, you may notice a bit of a bug where the Apple iPhone 6s displays the passcode lock, even if you haven’t got a security code in place.
@@ -227,17 +236,17 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5.** Once everything has been confirmed and you’re happy to continue, press the Unlock option. The program will do its thing, and when it’s done, the software will say you’re able to disconnect your Apple iPhone 6s and use it without a lock screen!
 
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
-![ drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -318,6 +327,9 @@ To erase the passcode using the Find My feature on iCloud:
 
 ![find my](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Use Recovery Mode with iTunes
 
 How to bypass the Apple iPhone 6s passcode or eliminate the passcode? The method is to utilize iTunes. However, using iTunes to restore the Apple iPhone 6s in recovery mode will erase all data from the Apple iPhone 6s device.
@@ -339,6 +351,9 @@ After connecting your Apple iPhone 6s to the PC, you will see a popup window in 
 
 Hang tight for the process to wrap up. Then, a short time later, go to your Apple iPhone 6s and follow the on-screen directions to set up and utilize your phone again.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-2.jpg)
 
 ### 3\. "Erase iPhone" Option
@@ -442,3 +457,42 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-tweaking.techidaily.com/how-to-add-and-edit-background-music-to-video-with-filmora/"><u>How to Add & Edit Background Music to Video with Filmora</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-7-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 7 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-7-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 7? Learn All 4 Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-s-best-mts-video-editing-tools-expert-reviews-and-ratings/"><u>2024 Approved S Best MTS Video Editing Tools Expert Reviews and Ratings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-7-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 7 in Lost Mode</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-essential-discord-spoiler-tag-knowledge-for-gamers/"><u>In 2024, Essential Discord Spoiler Tag Knowledge for Gamers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-7-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-7-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 7 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-7-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 7 Lock Screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-best-gaming-intro-makers-for-pc-and-mac-for-2024/"><u>Updated Unleash Your Creativity Best Gaming Intro Makers for PC and Mac for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-7-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 7 Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-7-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 7 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-7-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-7-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 7 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-40c-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 40C to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-digital-content-broadcast-via-microsoft-streamer/"><u>[Updated] Digital Content Broadcast via Microsoft Streamer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-7-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-7ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 7/iPad Without Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>[New] Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-online-photo-grid-creators-for-enhanced-clarity/"><u>[New] Top Online Photo Grid Creators for Enhanced Clarity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-7-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 7 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-7-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 7 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-7-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Without Passcode?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-guide-to-identifying-recent-instagram-leavers/"><u>In 2024, Guide to Identifying Recent Instagram Leavers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-iphone-filming-software-list/"><u>2024 Approved  Exclusive iPhone Filming Software List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-7-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 7 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-7-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 7 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-users-guide-to-picture-softening-four-ways/"><u>[New] IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-psd-borderline-elegance-for-2024/"><u>Expert PSD Borderline Elegance for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-7-how-to-unlock-a-disabled-apple-iphone-7-by-drfone-ios/"><u>Disabled Apple iPhone 7 How to Unlock a Disabled Apple iPhone 7?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-top-templates-for-youtube-previews/"><u>[New] In 2024, Guide to Top Templates for YouTube Previews</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mixing-tunes-with-videos-on-vimeo-platform/"><u>[New] 2024 Approved  Mixing Tunes with Videos on Vimeo Platform</u></a></li>
+</ul></div>

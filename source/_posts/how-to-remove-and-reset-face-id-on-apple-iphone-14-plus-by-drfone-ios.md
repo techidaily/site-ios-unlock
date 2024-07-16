@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 14 Plus
-date: 2024-03-31 13:30:10
-updated: 2024-04-01 13:32:32
+date: 2024-07-15T02:22:28.785Z
+updated: 2024-07-16T02:22:28.785Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,11 +11,14 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone 14 Plus
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone 14 Plus
 keywords: how to unlock iphone 7 without passcode,how to turn off find my iphone when phone is broken,erase iphone when locked,fix iphone unavailability,get into locked iphone,total wireless unlock,change apple id email address,iphone backup password
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 14 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
 
 Did you go wrong when you set the Face ID the first time? Or are you tired to put off the mask to use Face ID to unlock your Apple iPhone 14 Plus? And now, you want to disable the Face ID. Whatever your reasons are, read this article to learn **how to remove Face ID** on your Apple iPhone 14 Plus X, iPhone XS, iPhone XR or iPhone 11, iPhone 12, iPhone 13, iPhone 14, anmd iPhone 15.
@@ -108,6 +111,9 @@ Step 2: Now, when you use Safari to open a website that requires a login, tappin
 
 Step 3: Look at your Apple iPhone 14 Plus to authenticate yourself with Face ID and Safari will autofill the credentials for you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### II.V Animojis and Memojis
 
 Up until now, we saw how Face ID enables productivity features and how convenient it is to use it. Now, we come to the fun part - Animojis. Apple launched Face ID in 2017 on the Apple iPhone 14 Plus X with much fanfare and a huge part of that fanfare was Animojis. Over time, Apple brought new capabilities to the Apple iPhone 14 Plus and added Memojis alongside Animojis.
@@ -166,6 +172,9 @@ Step 5: When done, tap Done.
 
 In case you are getting the following error:
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![face id error](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-12.jpg)
 
 There are a few things you can try to resolve this, you can try to update your Apple iPhone 14 Plus 13/12/11 to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
@@ -178,7 +187,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -213,7 +222,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 14 Plus, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -225,7 +234,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -325,6 +334,9 @@ You can perform the steps from your Apple iPhone 14 Plus directly to turn on "Fi
 
 - **Step 1:** Use your computer or someone else's iOS device, visit icloud.com/find, and sign in with your Apple credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in to cloud](https://images.wondershare.com/drfone/article/2017/10/15090391142788.jpg)
 
 - **Step 2:** Then, you need to choose the option "All Devices". _If my iPhone_ is already enabled on your device, you will see your Apple iPhone 14 Plus listed. Simply click on it and choose the option "Erase iPhone." Then all the data, including the passcode, will be removed from your Apple iPhone 14 Plus. Thus, this process unlocks the Apple iPhone 14 Plus without Siri.
@@ -399,6 +411,9 @@ You will see that you can now access your Apple iPhone 14 Plus without the passc
 _**Tips:** This is only used for iOS 10.3.2 and 10.3.3. If you have updated your iOS system, we recommend you try the previous methods. To make it easier, just use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)._
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs about iPhone Unlock Issues
 
 ### 1\. How to unlock iPhone without the Home button?
@@ -438,7 +453,7 @@ We understand how frustrating it can be when your newly purchased Apple iPhone 1
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -554,3 +569,71 @@ A locked Apple iPhone 14 Plus is never a pretty sight. Fortunately, there are a 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/clear-cut-content-how-to-minimize-unwanted-elements-in-video-for-2024/"><u>Clear Cut Content  How to Minimize Unwanted Elements in Video for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-from-free-to-paid-an-introduction-to-disconitro-benefits/"><u>[New] 2024 Approved  From Free to Paid  An Introduction to DiscoNitro Benefits</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-8-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 8 Plus Prevention & Solution</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization/"><u>[Updated] 2024 Approved  Maximizing YouTube Gains  A Comprehensive Approach for Mobile Monetization</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 8 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-8-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 8 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-downloading-the-latest-insta-reels-two-ways-to-go/"><u>[New] 2024 Approved  Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-guide-to-creating-popularity-with-youtube-opens/"><u>2024 Approved  Essential Guide to Creating Popularity with YouTube Opens</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-key-insights-from-the-best-ogg-conversion-tools-for-2024/"><u>New Key Insights From the Best OGG Conversion Tools for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-8-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 8 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-powerdirector-guide/"><u>Ultimate PowerDirector Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-8-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 8 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-8-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 8 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-8-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 8 Plus Without a Home Button</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-v30-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo V30 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-masterclass-in-adding-song-layers-to-imovie-videos-for-professional-results/"><u>Updated Masterclass in Adding Song Layers to iMovie Videos for Professional Results</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-8-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 8 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-x5-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from X5 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-8-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 8 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-12-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 12 Pro Max Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-8-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 8 Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-seamlessly-add-song-tracks-to-enhance-imovie-cinematics/"><u>Updated 2024 Approved How to Seamlessly Add Song Tracks to Enhance iMovie Cinematics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-8-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 8 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-15-creative-strategies-for-free-capture-of-online-workshops/"><u>[New] 15 Creative Strategies for Free Capture of Online Workshops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-precise-techniques-for-shifting-macscreenshot-filetype/"><u>[Updated] In 2024, Precise Techniques for Shifting MacScreenshot Filetype</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-transforming-images-via-look-up-table-techniques-in-adobes-image-editor/"><u>2024 Approved  Transforming Images via Look-Up Table Techniques in Adobe's Image Editor</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-best-free-video-compression-tools-for-ios-devices/"><u>New In 2024, The Best Free Video Compression Tools for iOS Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-8-plus-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 8 Plus? Complete Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-13-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-role-and-significance-of-blue-icons-in-fb-chats/"><u>In 2024, The Role and Significance of Blue Icons in FB Chats</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-8-plus-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-8-plus-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 8 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-steps-to-personalize-your-in-game-sonic-presence-in-pubg-for-2024/"><u>Swift Steps to Personalize Your In-Game Sonic Presence in PUBG for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-podcast-animation-software/"><u>Essential Podcast Animation Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-8-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8 Plus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-masterclass-crafting-youtube-trailers-using-filmora/"><u>2024 Approved  Video Masterclass  Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 8 Plus</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-nubia-red-magic-9-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nubia Red Magic 9 Pro FRP Bypass</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-8-plus-how-to-unlock-a-disabled-iphone-8-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 8 Plus How to Unlock a Disabled iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-angular-adjustments-in-vlc-player/"><u>In 2024, Mastering Angular Adjustments in VLC Player</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-look-at-huawei-p10-innovation-in-smartphone-technology/"><u>2024 Approved  A Look at Huawei P10 Innovation in Smartphone Technology</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-beginners-bonanza-affordable-profitable-channel-options/"><u>In 2024, Beginner's Bonanza  Affordable, Profitable Channel Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-8-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 8 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-make-ninja-jump-effect/"><u>In 2024, How To Make Ninja Jump Effect</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+</ul></div>

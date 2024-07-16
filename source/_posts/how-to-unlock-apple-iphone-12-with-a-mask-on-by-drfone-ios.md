@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 12 with a Mask On
-date: 2024-05-19T07:10:16.871Z
-updated: 2024-05-20T07:10:16.872Z
+date: 2024-07-15T01:25:05.198Z
+updated: 2024-07-16T01:25:05.198Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 12 with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 12 with a Mask On
 keywords: unlock iphone screen passcode,how to unlock a found iphone,unlock disabled iphone 13,remove flashlight from iphone lock screen,unlock iphone passcode,how to unlock iphone 12,iphone lock screen with notifications
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## How to Unlock Apple iPhone 12 with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -75,6 +75,9 @@ To enable the feature of unlocking the Apple iPhone 12 with an Apple Watch, the 
 
 **Step** **1:** Head to the " Settings " app and choose "Face ID & Passcode." Give your passcode for authenticity and proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
@@ -89,7 +92,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -165,6 +168,9 @@ When you exceed ten unsuccessful passcode entries, the Apple iPhone 12 device ta
 
 To turn this mode on or off, follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Enable Erase Data Mode
 
 Safeguard your personal information with these simple steps to remotely wipe your device in case of loss or theft.
@@ -186,13 +192,25 @@ Here are the steps to disable Erase Data Mode on your Apple iPhone 12, ensuring 
 
 When wondering **how many tries to unlock an iPhone**, consider the following methods to restore functionality. The section below explores the most effective ways to regain access to your device. Let's start with the use of a dedicated screen unlock tool.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Using a Dedicated Screen Unlock Tool
 
 When facing a disabled iPhone, [<u>Wondershare Dr.Fone - Screen Unlock (iOS) </u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) stands out as a reliable solution. It's a comprehensive platform that unlocks iOS devices without a passcode. Here are some of the tool's key features to help you get started:
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-- **Removes all types of lock screens.** Fone Screen Unlock tackles various lock screen types, like[<u>pattern lock</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), etc. It offers a comprehensive solution for different scenarios.
+- **Removes all types of lock screens.** Fone Screen Unlock tackles various lock screen types, like [<u>pattern lock</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), etc. It offers a comprehensive solution for different scenarios.
 - **Unlock Apple ID without a password.** The tool provides a secure method to [<u>unlock Apple ID without needing a password</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html).
 - **No data loss.** Users can regain access without losing data, a crucial aspect of dealing with a disabled iPhone.
 - **High success rate**.Fone Screen Unlock boasts a high success rate, instilling confidence in users seeking a swift and effective solution.
@@ -231,6 +249,9 @@ Activating Recovery mode is another useful method for accessing a locked phone. 
 - **Step 1:** Download and Launch iTunes on your computer. Connect your Apple iPhone 12 with a USB cable.
 - **Step 2**: For iPhone 8 models or newer, press and release the volume up button, followed by the volume down button. Next, press and hold the power button. If executed, the iTunes connect screen will appear. For earlier iPhone models, you can refer to [<u>here</u>](https://support.apple.com/en-ph/guide/iphone/iph8903c3ee6/15.0).
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone hard reset](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-11.jpg)
 
 - **Step 3:** iTunes will prompt you to either restore or update your Apple iPhone 12. Choose the **Restore iPhone** option to reset your device to its factory settings. If the restoration process extends beyond 15 minutes and your Apple iPhone 12 exits recovery mode, you'll need to repeat the steps.
@@ -285,6 +306,9 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -440,3 +464,42 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sonic-startups-where-to-find-music-that-kicks-off-your-podcast/"><u>2024 Approved  Sonic Startups  Where to Find Music that Kicks Off Your Podcast</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-11-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 11 Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-11ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 11/iPad Without Computer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-skype-talk-improvement-silence-the-surroundings-for-2024/"><u>[Updated] Skype Talk Improvement  Silence the Surroundings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-free-limit-breakers-for-every-story-lover/"><u>[New] In 2024, Free Limit Breakers for Every Story Lover</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-mobile-thumbnail-creation-for-compelling-youtube-content/"><u>[Updated] Step by Step Mobile Thumbnail Creation for Compelling YouTube Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-11-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 11 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[New] 2024 Approved  Ideal Choices  Our Exclusive Top 10 GoPro Case Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-11-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/strategies-for-efficient-business-teleconferencing/"><u>Strategies for Efficient Business Teleconferencing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-11-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-11-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-11-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 11 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-11-how-to-unlock-a-disabled-iphone-11-by-drfone-ios/"><u>In 2024, Disabled iPhone 11 How to Unlock a Disabled iPhone 11?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark/"><u>[Updated] From Sky to Framing  A Compreenasive Review of the Drone DJI Spark</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-webinar-capture-straightforward-steps-for-os-xwindows-for-2024/"><u>[Updated] Mastering Webinar Capture  Straightforward Steps for OS X/Windows for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-essential-chromes-leading-fb-video-grabs/"><u>[Updated] In 2024, Essential Chromes  Leading FB Video Grabs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-soundscapes-unleashed-a-guide-to-professional-audio-recording/"><u>2024 Approved  Soundscapes Unleashed  A Guide to Professional Audio Recording</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-11-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-xiaomi-11-series-a-visual-journey-through-precision-recording/"><u>2024 Approved  Xiaomi 11 Series  A Visual Journey Through Precision Recording</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-instagram-video-sizes-and-aspect-ratios/"><u>New In 2024, The Ultimate Guide to Instagram Video Sizes and Aspect Ratios</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-the-art-of-sniping-on-mac-with-these-tools-for-2024/"><u>[New] Mastering the Art of Sniping on Mac with These Tools for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-11-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 11 Lock Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 with a Mask On</u></a></li>
+</ul></div>

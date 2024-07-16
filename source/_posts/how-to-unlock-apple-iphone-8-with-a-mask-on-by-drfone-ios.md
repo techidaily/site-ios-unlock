@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 8 with a Mask On
-date: 2024-05-19T07:09:49.847Z
-updated: 2024-05-20T07:09:49.847Z
+date: 2024-07-15T00:42:19.352Z
+updated: 2024-07-16T00:42:19.352Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 8 with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 8 with a Mask On
 keywords: iphone passcode not working after update ios 13,change apple id password,iphone backup unlocker,erase iphone when locked,iphone locked to owner,unlock iphone passcode,how to unlock a found iphone,lock stolen iphone,iphone auto lock greyed out
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## How to Unlock Apple iPhone 8 with a Mask On
@@ -53,10 +53,13 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
@@ -79,6 +82,9 @@ To enable the feature of unlocking the Apple iPhone 8 with an Apple Watch, the s
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
 
 After enabling this feature, you can unlock your Apple iPhone 8 with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 8 has been unlocked.
@@ -89,7 +95,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -263,6 +269,9 @@ One of the most common reasons for the verification prompt is a problem with you
 
 Sometimes, unpaid subscriptions can trigger the verification prompt. Tap the App Store > your profile icon, and select **Subscriptions**. Here, you can view all your subscriptions, active or expired. Check if there are any unpaid ones and clear any outstanding payments.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![subscriptions page app store](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-03.jpg)
 
 ### Don’t Require Password for Purchases
@@ -294,6 +303,9 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** In the next window, choose **Remove Apple ID** to proceed.
@@ -310,6 +322,9 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 6:** Follow the on-screen instructions to put your iOS device in Recovery Mode. If necessary, you can also opt for [<u>DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) by following the provided instructions. Once in Recovery Mode, the tool will recognize your device model. You’ll need to select the correct system version to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode instructions](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 - **Step 7:** The tool will download the appropriate iOS firmware for your device. After the download, it will verify the firmware.
@@ -353,3 +368,44 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-advanced-tactics-for-maximizing-the-use-of-virtual-boards-during-zoom-sessions-desktopiosandroid-for-2024/"><u>[Updated] Advanced Tactics for Maximizing the Use of Virtual Boards During Zoom Sessions (Desktop/iOS/Android) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-the-airwaves-pc-tv-transmission/"><u>[New] In 2024, Capturing the Airwaves  PC TV Transmission</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-discord-pfps-crafting-impressive-virtual-portraits-for-2024/"><u>[New] Mastering Discord PFPs  Crafting Impressive Virtual Portraits for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 mini Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-mini-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-12-mini-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Without Passcode?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-best-tips-for-effortless-unity-3d-animation-for-2024/"><u>New Best Tips for Effortless Unity 3D Animation for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-mini-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-mini-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 12 mini Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 12 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-digital-illustration-turning-your-favorite-vimeo-videos-into-gifs/"><u>[Updated] In 2024, Digital Illustration  Turning Your Favorite Vimeo Videos Into GIFs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-12-mini-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 12 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-5-excellent-free-options-to-rotate-mov-files/"><u>Updated In 2024, 5 Excellent Free Options to Rotate MOV Files</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-12-mini-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 12 mini Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-12-mini-how-to-unlock-a-disabled-iphone-12-mini-by-drfone-ios/"><u>Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-masterful-bot-networks-on-discord-for-2024/"><u>[New] Masterful Bot Networks on Discord for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-mini-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-mini-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 mini in Lost Mode</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-imovie-equivalent-apps-for-android-top-picks/"><u>2024 Approved Best iMovie Equivalent Apps for Android Top Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 12 mini Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-mini-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 mini Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/innovative-tiktok-techniques-to-change-backdrops-in-a-flash-for-2024/"><u>Innovative TikTok Techniques to Change Backdrops in a Flash for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail/"><u>2024 Approved Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 mini Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-12-mini-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-12-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 12 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-mini-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-12-mini-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-ultimate-list-of-free-subtitle-software-for-video-editing/"><u>2024 Approved The Ultimate List of Free Subtitle Software for Video Editing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-mini-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-x50iplus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor X50i+ Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>

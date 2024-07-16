@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 11 Pro Max when Phone is Broken?
-date: 2024-05-19T07:10:06.648Z
-updated: 2024-05-20T07:10:06.648Z
+date: 2024-07-15T01:08:32.287Z
+updated: 2024-07-16T01:08:32.287Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 11 Pro Max when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 11 Pro Max when Phone is Broken?
 keywords: iphone asking for outlook password,unlock iphone with apple watch,get out of security lockout,remove device supervision from iphone,iphone 11 passcode bypass,what can jailbreak iphone do,unlock apple watch,how much does unlock a phone cost,forgot passcode iphone 6,iphone passcode changed itself
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 11 Pro Max when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -109,6 +109,9 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone 11 Pro Max allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone 11 Pro Max updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -170,6 +173,9 @@ Also, if your Apple iPhone 11 Pro Max screen is broken, you can use this feature
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
 
 **Step 6.** Enter the password to proceed.
@@ -194,6 +200,9 @@ Again, iPhone will show the Apple iPhone 11 Pro Max locked message. You then nee
 
 **Step 2.** Connect your Apple iPhone 11 Pro Max and your system and open iTunes. After clicking, force restarts it by holding down both the volume and power buttons. You'll then get an option to Restore. Select this choice, and your Apple iPhone 11 Pro Max will download the required software. When done, you can set up and use your Apple iPhone 11 Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-4.jpg)
 
 **Use iTunes**
@@ -239,6 +248,9 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Dr.Fone-Screen Unlock
 
 
@@ -275,6 +287,9 @@ After the firmware is downloaded effectively, click Unlock Now.
 In almost no time, the software will unlock your Apple iPhone 11 Pro Max effectively. However, note that this unlocking will likewise wipe your user data.
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
@@ -329,7 +344,7 @@ If you've forgotten the passcode for your Apple iPhone 11 Pro Max and are unable
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -487,3 +502,40 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>In 2024, Capturing the Moment  A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6s-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6s Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6s Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-6s-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 6s Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6s-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-6s-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 6s Plus With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-6s-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 6s Plus Without a Passcode</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mobile-harmony-6-essential-free-apps-to-download-youtube-tracks/"><u>In 2024, Mobile Harmony  6 Essential Free Apps to Download YouTube Tracks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-6s-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 6s Plus and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode without Computer?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-techniques-for-saving-roblox-playback-on-mac/"><u>2024 Approved  Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6s-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6s Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6s Plus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode Screen?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-scaling-up-youtube-media/"><u>2024 Approved  Comprehensive Guide  Scaling Up YouTube Media</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 6s Plus</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-gionee-f3-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Gionee F3 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-6s-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 6s Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-6s-plus-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 6s Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6s Plus</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/pc-video-clipper-top-10-picks/"><u>PC Video Clipper Top 10 Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-game-changing-ways-for-designing-cover-art/"><u>[New] 10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-6s-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6s Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-apex-legends-crossplay-how-to-turn-it-off-and-platform-choosing-guide/"><u>[New] In 2024, Apex Legends Crossplay  How to Turn It Off & Platform Choosing Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/do-paid-subscribers-truly-influence-content-reach-in-2024/"><u>Do Paid Subscribers Truly Influence Content Reach, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-6s-plus-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 6s Plus With or Without Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-cultivate-your-circle-grow-your-instagram-flock-to-1k-every-month-for-2024/"><u>[New] Cultivate Your Circle  Grow Your Instagram Flock to 1K Every Month for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-essential-adjustments-to-boost-ps4/"><u>Level Up: Essential Adjustments to Boost PS4</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-audio-problems-on-windows-10-install-driver/"><u>Addressing Audio Problems on Windows 10, Install Driver</u></a></li>
+</ul></div>

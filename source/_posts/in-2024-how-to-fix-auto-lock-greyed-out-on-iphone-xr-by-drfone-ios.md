@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone XR
-date: 2024-05-19T07:10:02.431Z
-updated: 2024-05-20T07:10:02.431Z
+date: 2024-07-15T01:02:00.640Z
+updated: 2024-07-16T01:02:00.640Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone XR
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone XR
 keywords: total wireless unlock,how many attempts to unlock iphone,how to unlock iphone with itunes,swipe up to unlock iphone,turn off restricted mode,iphone x iphone xr lock screen,lock stolen iphone,how to unlock iphone without passcode
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone XR
@@ -82,6 +82,9 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
 Fix No.4: Remove Network Settings Installed by MDM
@@ -96,6 +99,9 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -154,6 +160,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 - **Step 1:** Within the **Settings** app, scroll down the list on the left-hand side and tap **Display & Brightness**.
 - **Step 2:** On the right-hand side of the **Display & Brightness** screen, tap the **Auto-Lock** option.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
@@ -344,6 +353,9 @@ Now that you know what it means for an Apple iPhone XR to be blacklisted and the
 
 ![iphone blacklist removal](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What Is iPhone Blacklisted Removal?
 
 Going through a **blacklist removal service for your Apple iPhone XR** is like giving your device a second chance. It's taking your Apple iPhone XR off the "naughty list" and making it work like it should again. And the best part? You can do it without spending a dime.
@@ -400,6 +412,9 @@ By following these simple preventive measures, you can keep your device clear an
 
 So, this article has talked a lot about **iPhone blacklist removal**, but what about your trusty SIM card? A little chip plays a significant role in keeping you connected. Sometimes, SIM cards encounter issues, too, and they need a helping hand. Enter [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – Sim Unlock, your go-to solution for all SIM-related issues like SIMs not supported, [locked or invalid SIMs](https://drfone.wondershare.com/unlock/free-for-samsung-galaxy-sim-unlock.html), and SIMs without network service.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone v13 home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 
@@ -461,3 +476,65 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-x-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone X Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone X Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-screencast-cheat-sheet-must-knows/"><u>[New] The Complete Screencast Cheat Sheet  Must-Knows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-shorts-to-mp4-a-comprehensive-video-processor-guide-for-2024/"><u>[New] From Shorts to Mp4  A Comprehensive Video Processor Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-x-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone X Properly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/introducing-amds-updated-6950-windows-drivers/"><u>Introducing AMD's Updated 6950 Windows Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premium-free-template-pack-top-titles-for-ae-dreamers/"><u>[New] Premium FREE Template Pack  Top Titles for AE Dreamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-art-of-fbx-filming-preserving-your-playthroughs-for-2024/"><u>[New] The Art of FBX Filming  Preserving Your Playthroughs for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-xipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone X/iPad Without Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-create-enhance-and-share-with-top-10-free-drawing-programs-on-mac/"><u>In 2024, Create, Enhance & Share With Top 10 Free Drawing Programs on Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-x-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone X Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-imagery-a-podcasters-guide-to-logos/"><u>Captivating Imagery  A Podcaster's Guide to Logos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-youtube-success-through-strategic-studio-use-for-2024/"><u>Navigating YouTube Success Through Strategic Studio Use for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-cutting-edge-tips-elevating-content-with-tags/"><u>[New] 2024 Approved  Cutting-Edge Tips  Elevating Content with Tags</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-x-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone X Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-vip-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 VIP Bootloader Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finest-frequencies-elite-episodes-from-googloud/"><u>2024 Approved  Finest Frequencies  Elite Episodes From GooGloud</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-x-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone X Lock Screen with Notifications?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-engagement-amplify-audience-youtube-marketing/"><u>[Updated] In 2024, Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-cultivating-productive-collaboration-a-pathway-to-effective-collab-videos/"><u>[Updated] 2024 Approved  Cultivating Productive Collaboration  A Pathway to Effective Collab Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069520108-updated-in-2024-capture-your-screen-on-chromebook-methods-4-you/"><u>[Updated] In 2024, Capture Your Screen on Chromebook  Methods 4 You!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-x-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones-for-2024/"><u>Innovating Messaging Sounds  A Guide to Downloading & Personalizing WhatsApp Ringtones for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-x-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone X Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-x-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-x-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-x-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-x-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone X</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g34-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G34 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-x-how-to-unlock-a-disabled-apple-iphone-x-by-drfone-ios/"><u>Disabled Apple iPhone X How to Unlock a Disabled Apple iPhone X?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-x-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone X Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone X? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-x-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone X Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-navigating-roku-tv-facebook-live-broadcasting-tips-for-2024/"><u>[New] Navigating Roku TV  Facebook Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1716270691573-how-to-add-fonts-to-after-effects/"><u>How to Add Fonts to After Effects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-x-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone X Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-frame-wins-fundamental-cinematography-for-newcomers-for-2024/"><u>First Frame Wins  Fundamental Cinematography for Newcomers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone X with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone X Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-x-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone X in Lost Mode</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-15-no-cost-image-editing-apps-top-picks-of-2023/"><u>[Updated] Leading 15 No-Cost Image Editing Apps - Top Picks of 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-blueprint-for-building-a-youtube-empire-in-quick-time/"><u>The Blueprint for Building a YouTube Empire in Quick Time</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-expand-your-igtv-reach-the-top-5-methods-to-attract-more-viewers/"><u>2024 Approved  Expand Your IGTV Reach  The Top 5 Methods to Attract More Viewers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone X Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone X Passcode Screen?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-split-videos-33-best-video-splitter-recommend/"><u>In 2024, How to Split Videos - 33 Best Video Splitter Recommend</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-x-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone X</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-drowsy-documentaries-film-reviews/"><u>2024 Approved  Drowsy Documentaries  Film Reviews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>[New] 2024 Approved  How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-x-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone X Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone X Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone X Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reawaken-your-dormant-asus-video-device/"><u>Reawaken Your Dormant ASUS Video Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone X Without Passcode?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-counterview-commentary-review/"><u>In 2024, CounterView Commentary Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-x-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone X Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-x-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone X Without a Home Button</u></a></li>
+</ul></div>

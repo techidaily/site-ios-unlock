@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes
-date: 2024-04-02T00:47:57.552Z
-updated: 2024-04-03T00:47:57.552Z
+date: 2024-07-15T02:59:27.300Z
+updated: 2024-07-16T02:59:27.300Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes
 keywords: fix iphone unavailability,bypass apple store verification,reset iphone backup password,unlock iphone 5 passcode without itunes,iphone asking for outlook password,open iphone without home button,lock stolen iphone,how to remove passcode from iphone,iphone auto lock greyed out
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes
@@ -197,6 +197,9 @@ Besides interacting with widgets and apps, you can also search for something on 
 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
 Sometimes, people can access our private information just by looking at our notifications. In this way, they can get read your crucial information and that too without unlocking your device. By simply visiting your device’s settings, you can customize iPhone lock screen with notifications. In this way, you can turn on or off iPhone lock screen notifications for the apps of your choice.
@@ -223,6 +226,9 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 1\. Firstly, unlock your device and got to its Settings > Touch ID & Passcode option.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
 
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
@@ -243,6 +249,9 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 8
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -281,6 +290,9 @@ If you have already synced your Apple iPhone 8 with iTunes, then you can follow 
 
 ![Unlock iPhone Passcode  with iTunes](https://images.wondershare.com/drfone/article/2017/10/15081778657085.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to unlock iPhone passcode with Dr.Fone - Screen Unlock (iOS)?
 
 Too many times, users don’t get the desired results with iTunes. Therefore, we recommend using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool to learn [how to unlock iPhone 6 without a passcode](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html). The tool is compatible with all the leading iOS versions and devices. It provides a seamless solution to fix all the major issues related to an iOS device and that too within minutes. You can learn how to unlock iPhone 5 passcode by following these instructions. Though, the same steps would work with other iOS versions as well.
@@ -289,7 +301,7 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -362,6 +374,9 @@ As you can see, in all the above-stated solutions, your Apple iPhone 8 data woul
 
 2\. Provide a command like “What time is it” to get the current time with the display of the clock icon.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode by tricking Siri-get the current time](https://images.wondershare.com/drfone/article/2017/10/15081780467773.jpg)
 
 3\. Tap on the clock icon to open the world clock interface.
@@ -425,3 +440,67 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-11-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-go-live-with-google-meet-youtube-broadcasting-steps/"><u>[Updated] Go Live with Google Meet  YouTube Broadcasting Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deconstructing-mondlys-instructional-strategy/"><u>Deconstructing Mondly’s Instructional Strategy</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 11 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media-for-2024/"><u>[Updated] A Detailed Walkthrough for Integrating Instagram Effects on Archive Media for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-to-superior-websites-for-tamil-ringtone-saves/"><u>Navigating to Superior Websites for Tamil Ringtone Saves</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android-for-2024/"><u>A Detailed Guidance  How To Add Custom Ringtones And Sounds To Your Android for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 11</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-c53-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-xr-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone XR i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-xr-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone XR In Different Conditionsin</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-revolutionize-facebook-ads-creative-video-tactics-revealed-for-2024/"><u>[New] Revolutionize Facebook Ads  Creative Video Tactics Revealed for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-beginners-pathway-to-proper-spanish-accent-and-typography/"><u>A Beginner's Pathway to Proper Spanish Accent and Typography</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xr-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XR Without a Passcode</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-secrets-to-successfully-obtain-windows-movie-maker-6/"><u>[Updated] 2024 Approved  Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-c51-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco C51 Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-top-5-concealed-story-viewers-apps/"><u>[New] The Top 5 Concealed Story Viewers' Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-11-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 11 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-xr-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone XR</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XR Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR with a Mask On</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>[Updated] 2024 Approved  Capturing Screenshots Like a Pro  The Best Recorder Reviews</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/next-gen-webcams-a-deep-dive-into-live-videography-gear-for-2024/"><u>Next-Gen WebCams  A Deep Dive Into Live Videography Gear for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g-5g-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Moto G 5G (2023) to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-list-mastering-youtubes-best-music-reaction-videos-for-2024/"><u>The Ultimate List  Mastering YouTube's Best Music Reaction Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-in-depth-analysis-of-the-nero-waveshaper-toolkit/"><u>New 2024 Approved In-Depth Analysis of the Nero WaveShaper Toolkit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-videography-with-top-instagram-techniques/"><u>2024 Approved  Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-11-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/jotting-down-just-a-minute-movie-for-2024/"><u>Jotting Down Just a Minute Movie for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-srs-tuning-methods-for-macwin-users-for-2024/"><u>Leading SRS Tuning Methods for Mac/Win Users for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-11-5-ways-to-get-into-a-locked-apple-iphone-11-by-drfone-ios/"><u>Locked Out of Apple iPhone 11? 5 Ways to get into a Locked Apple iPhone 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[Updated] In 2024, Inside Scoop on ShareX  Scrutiny & Comparisons</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-11-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 11 when Phone is Broken?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-practices-to-speed-up-or-slow-down-music-in-spotify-for-2024/"><u>[New] Best Practices to Speed Up or Slow Down Music in Spotify for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-complete-blueprint-for-implementing-and-analyzing-fb-in-stream-ads/"><u>[Updated] In 2024, The Complete Blueprint for Implementing & Analyzing FB In-Stream Ads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-how-to-meet-twitters-video-standards-aspect-ratio-matters/"><u>2024 Approved  How to Meet Twitter's Video Standards  Aspect Ratio Matters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-11-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 11 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Poco F5 5G Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-itel-p55-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Itel P55 5G Face Lock?</u></a></li>
+</ul></div>

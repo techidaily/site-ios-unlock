@@ -1,7 +1,7 @@
 ---
 title: What Does Jailbreaking iPhone 12 mini i Do? Get Answers here
-date: 2024-06-08T07:46:33.746Z
-updated: 2024-06-09T07:46:33.746Z
+date: 2024-07-15T01:31:50.835Z
+updated: 2024-07-16T01:31:50.835Z
 tags: 
   - unlock
   - remove screen lock
@@ -196,6 +196,9 @@ Besides interacting with widgets and apps, you can also search for something on 
 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
 Sometimes, people can access our private information just by looking at our notifications. In this way, they can get read your crucial information and that too without unlocking your device. By simply visiting your device’s settings, you can customize iPhone lock screen with notifications. In this way, you can turn on or off iPhone lock screen notifications for the apps of your choice.
@@ -234,6 +237,9 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 After turning the option off, you can exit from the Settings interface. In this way, your device won’t display the notification view.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Changes on iPhone lock screen notifications on iOS 18
 
 With the new update of iOS 18, we can see a drastic change in the Apple iPhone 12 mini lock screen notifications as well. Since the Apple iPhone 12 mini lock screen with notifications have been integrated into one, it becomes quite easier for users to access it.
@@ -242,6 +248,9 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 1
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -260,6 +269,9 @@ We hope that after following this guide, you would be able to gain in-depth info
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reset iTunes Backup Password Of Apple iPhone 12 mini: Prevention & Solution
 
 When you back up the data from your Apple iPhone 12 mini, iPad, or iPod touch, you will have a copy of the information stored on those devices. It's free to use iTunes, iCloud, or both to back up your device.
@@ -304,6 +316,9 @@ Follow on to learn how to reset your Apple iPhone 12 mini backup password now!
 
 Get into **Settings** on your iOS device, then choose **General**, and **Reset.**
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-3.jpg)
 
 Now, go to **Reset All Settings** and confirm by entering the security passcode. Your phone will reset to the default setting. Get rid of the password for the last backup without deleting any other apps or data.
@@ -421,3 +436,46 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-differentiate-with-style-on-snapchat-top-120plus-narratives-for-your-private-stories/"><u>[Updated] Differentiate with Style on Snapchat  Top 120+ Narratives for Your Private Stories</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-sparkle-sounds-standout-background-scores-for-yt-shorts/"><u>In 2024, Sparkle Sounds  Standout Background Scores For YT Shorts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>[New] Ultimate Selection  Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-7-faqs-about-youtube-shorts-thumbnail-not-showing-problem/"><u>[Updated] In 2024, 7 FAQs About YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone XS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>In 2024, The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-xs-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone XS with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS Without Passcode Easily</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-civi-3-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Civi 3 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-xs-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-xs-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone XS When You Forget the Passcode?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras/"><u>[New] In 2024, Elevating Your Vlogs  A List of the Top 12 Professional Cameras</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a14-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy A14 5G Phone Network-Ready</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-effortless-memes-using-kinemaster-101-for-2024/"><u>[New] Effortless Memes Using KineMaster 101 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-flipping-the-script-how-to-invert-snapchat-movements/"><u>[Updated] Flipping the Script  How to Invert Snapchat Movements</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-xs-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone XS when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xs-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-complete-guide-to-toolwiz-photography-software/"><u>[New] Complete Guide to Toolwiz Photography Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-apex-10-royale-showdowns-for-2024/"><u>[Updated] Apex 10 Royale Showdowns for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-xs-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone XS Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleashing-creativity-secrets-of-unique-yt-short-content/"><u>[New] Unleashing Creativity  Secrets of Unique YT Short Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xs-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XS Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-xs-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone XS with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone XS?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-xs-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone XS Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-xs-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone XS Lock Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone XS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-3080-takedown-fixing-game-failures/"><u>RTX 3080 Takedown: Fixing Game Failures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-reviving-the-hidden-watch-icon-on-facebook/"><u>[Updated] In 2024, Reviving the Hidden Watch Icon on Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-favorites-list-top-mac-software-for-video-recording/"><u>[Updated] 2024 Approved  Favorites List  Top Mac Software for Video Recording</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-xs-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone XS? Complete Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rhythmic-instagrams-a-step-by-step-music-guide/"><u>[Updated] 2024 Approved  Rhythmic Instagrams  A Step-by-Step Music Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID
-date: 2024-04-07T02:16:41.099Z
-updated: 2024-04-08T02:16:41.099Z
+date: 2024-07-15T03:08:22.118Z
+updated: 2024-07-16T03:08:22.118Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID
 excerpt: This article describes 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID
 keywords: unlock iphone 11 12 13 without passcode,iphone backup password,change country on iphone app store,how to unlock iphone with broken screen,change apple id password,doctorism unlock review,disable parental control,iphone passcode not working after update ios 13
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID
@@ -38,7 +38,7 @@ It is compatible with all the leading iOS devices, including the latest models l
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -83,13 +83,16 @@ After proving the relevant information, click on the “Download” button and w
 
 Once the respective firmware update has been downloaded, you will be notified. To fix your Apple iPhone 8 Plus won’t unlock, click on the “Unlock Now” button.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock iphone xs](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Sit back and wait for a while as the application will restart your device. There won’t be any lock on the Apple iPhone 8 Plus device now, and you can access it without any trouble.
 
 In this way, you can learn how to [unlock iPhone without a passcode](https://drfone.wondershare.com/solutions/iphone-lock-screen-password-forgot.html) or Face ID. Though, you should know that the existing data on your phone would be erased. Sadly, there is no solution to unlock an iOS device without deleting its existing data. Therefore, this is a risk you need to take if you wish to unlock your iOS device.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: How to unlock Apple iPhone 8 Plus with iTunes?
 
@@ -131,6 +134,9 @@ Another way to learn how to unlock Apple iPhone 8 Plus without a passcode or Fac
 3. It will provide a list of all the Apple iPhone 8 Plus devices linked to your Apple account. Select your Apple iPhone 8 Plus.
 4. Click on the “Erase” button and answer the security question correctly to confirm your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock iphone xs without passcode in icloud](https://images.wondershare.com/drfone/article/2018/unlock-iphone-x-without-passcode-3.jpg)
 
 If you get a prompt on your phone regarding the respective actions, agree to it and wait for a while as your phone would be restarted. Since this will erase all the existing data on your phone, you can later use a backup file to restore the lost content.
@@ -173,7 +179,10 @@ Go to Settings > Face ID & Passcode and turn on the “Erase Data” option. Tho
 
 When you know how to unlock Apple iPhone 8 Plus without the passcode, you can easily fulfill your requirements. Out of all the provided options, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended. This is because using the Dr.Fone toolkit is extremely easy. You won’t face any compatibility issues or need to have the technical experience to use this reliable tool. Try it for free and download it on your system to bypass a locked Apple iPhone 8 Plus right away.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -329,6 +338,9 @@ _Apple iPhone 8 Plus Disabled?_
 
 Because of using face masks, [Face ID](https://drfone.wondershare.com/unlock/how-to-remove-face-id-on-iphone-13.html) on iPhone does not always work correctly, and we are entering our passcodes more than before. If we enter it incorrectly a few times in succession, the phone will disable itself to prevent unauthorized access. It can seem like the end of the world because in so many ways smartphones have become our world. Here are ways you can unlock your Apple iPhone 8 Plus disabled due to too many incorrect passcode attempts.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Unlock Disabled Apple iPhone 8 Plus Without iTunes/ iCloud Using Dr.Fone - Screen Unlock (iOS)
 
 We know and understand that the word troubleshooting can remind you of long telephone calls with support or making appointments and driving down to specialists and spending obscene amounts of money to get solutions. You do not want that. How about a way you could [unlock your Apple iPhone 8 Plus](https://drfone.wondershare.com/unlock/how-to-unlock-an-iphone-13.html) in a simple, 1-click way instead?
@@ -337,7 +349,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 8 Plus Without iTunes/ iCloud.
 
@@ -362,6 +374,9 @@ Do note that all methods that unlock your Apple iPhone 8 Plus will necessarily w
 
 **Step 4:** Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click "Start" to download the specific firmware file for your particular Apple iPhone 8 Plus model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5:** After the download completes, please click Unlock Now to start unlocking the disabled Apple iPhone 8 Plus.
@@ -370,7 +385,7 @@ Do note that all methods that unlock your Apple iPhone 8 Plus will necessarily w
 
 Your Apple iPhone 8 Plus will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 8 Plus device. When you set the Apple iPhone 8 Plus device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 8 Plus prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 8 Plus device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 8 Plus Using iTunes or macOS Finder
 
@@ -414,7 +429,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 8 Plus from the Apple iPhone 8 Plus devices from the left pane, click/ tap your disabled Apple iPhone 8 Plus and click/ tap Erase This Device
 
@@ -434,7 +449,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 8 Plus easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -455,7 +470,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 8 Plus, so 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 8 Plus disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 8 Plus device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -474,3 +489,47 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/start-now-best-online-learning-for-new-youtubers-for-2024/"><u>Start Now  Best Online Learning for New YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-total-view-team-up-choosing-the-right-mcn/"><u>2024 Approved  Total View Team-Up  Choosing the Right MCN</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-11-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus 11 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-create-messenger-rooms-for-2024/"><u>[New] How to Create Messenger Rooms for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-discover-the-power-of-sonic-content-for-insta-stories/"><u>2024 Approved  Discover the Power of Sonic Content for Insta Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spotlight-on-windows-11-innovations/"><u>[Updated] Spotlight on Windows 11 Innovations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-13-mini-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 13 mini Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 13 mini with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-13-mini-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 13 mini Without a Passcode</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-perfecting-the-art-of-mi-11-screen-recording-for-2024/"><u>Step-by-Step  Perfecting the Art of Mi 11 Screen Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-of-sony-bdp-s6700-a-closer-look/"><u>[Updated] Innovations of Sony BDP-S6700  A Closer Look</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-13-mini-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 13 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-13-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 13 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c02-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C02 Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/picture-pieces-proposals-radiate-positivity-and-creativity/"><u>Picture Pieces Proposals  Radiate Positivity and Creativity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-mini-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 mini and iPad Securely</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30i-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Note 30i to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-mini-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 mini</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-tech-titans-triumph-best-online-tools-to-record-your-screen/"><u>[New] Tech Titans Triumph  Best Online Tools to Record Your Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-realme-c67-4g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C67 4G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-mini-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 mini Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-13-mini-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 13 mini Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-mini-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 13 mini Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nubia-red-magic-8s-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nubia Red Magic 8S Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 mini</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-plotting-the-perfect-tiktok-outro-journey-for-2024/"><u>[Updated] Plotting the Perfect TikTok Outro Journey for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-post-twitter-video-on-instagram/"><u>[Updated] How to Post Twitter Video on Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-13-mini-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 13 mini With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-13-mini-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 13 mini With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-mini-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 13 mini Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-13-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+</ul></div>

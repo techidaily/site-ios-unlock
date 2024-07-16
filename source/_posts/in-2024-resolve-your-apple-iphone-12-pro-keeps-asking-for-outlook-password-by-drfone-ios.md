@@ -1,7 +1,7 @@
 ---
 title: In 2024, Resolve Your Apple iPhone 12 Pro Keeps Asking for Outlook Password
-date: 2024-05-19T07:10:28.019Z
-updated: 2024-05-20T07:10:28.019Z
+date: 2024-07-15T01:42:55.396Z
+updated: 2024-07-16T01:42:55.396Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Resolve Your Apple iPhone 12 Pro Keeps Asking for Outlook Password
 excerpt: This article describes Resolve Your Apple iPhone 12 Pro Keeps Asking for Outlook Password
 keywords: fix iphone backup password never set but still asking,iphone 11 passcode bypass,forgot iphone pin,iphone backup password,total wireless unlock,unlock iphone face id wearing mask,unlock iphone 11 12 13 without passcode,change apple id email address,how to unlock an iphone 13,how to unlock iphone with broken screen
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## Resolve Your Apple iPhone 12 Pro Keeps Asking for Outlook Password
@@ -112,6 +112,9 @@ Deleting and re-inserting your Outlook account on your Apple iPhone 12 Pro can p
 
 - **Step 2.** Once you have deleted the account, return to the "Accounts" tab. Select "Outlook.com" after tapping on "Add Account." Now, follow the on-screen instructions to re-enter your account details.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
 
 ### Fix 6. Re-Check Sync Settings
@@ -180,6 +183,9 @@ In some cases, switching the account type to IMAP during the setup process can h
 
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add new imap mail account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-20.jpg)
 
 - **Step 3.** Utilize the specified settings for the "Incoming Mail Server" and "Outgoing Mail Server" sections under the “IMAP” tab:
@@ -259,6 +265,9 @@ _Apple iPhone 12 Pro Disabled?_
 
 Because of using face masks, [Face ID](https://drfone.wondershare.com/unlock/how-to-remove-face-id-on-iphone-13.html) on iPhone does not always work correctly, and we are entering our passcodes more than before. If we enter it incorrectly a few times in succession, the phone will disable itself to prevent unauthorized access. It can seem like the end of the world because in so many ways smartphones have become our world. Here are ways you can unlock your Apple iPhone 12 Pro disabled due to too many incorrect passcode attempts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Unlock Disabled Apple iPhone 12 Pro Without iTunes/ iCloud Using Dr.Fone - Screen Unlock (iOS)
 
 We know and understand that the word troubleshooting can remind you of long telephone calls with support or making appointments and driving down to specialists and spending obscene amounts of money to get solutions. You do not want that. How about a way you could [unlock your Apple iPhone 12 Pro](https://drfone.wondershare.com/unlock/how-to-unlock-an-iphone-13.html) in a simple, 1-click way instead?
@@ -267,7 +276,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 12 Pro Without iTunes/ iCloud.
 
@@ -296,11 +305,14 @@ Do note that all methods that unlock your Apple iPhone 12 Pro will necessarily w
 
 **Step 5:** After the download completes, please click Unlock Now to start unlocking the disabled Apple iPhone 12 Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Your Apple iPhone 12 Pro will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 12 Pro device. When you set the Apple iPhone 12 Pro device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 12 Pro prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 12 Pro device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 12 Pro Using iTunes or macOS Finder
 
@@ -344,7 +356,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 12 Pro from the Apple iPhone 12 Pro devices from the left pane, click/ tap your disabled Apple iPhone 12 Pro and click/ tap Erase This Device
 
@@ -364,7 +376,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 12 Pro easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -377,6 +389,9 @@ After all this to get access back, you might think let's go passcode-less and pr
 - 1.3 Never use repeating numbers.
 - 1.4 Do not use your ATM PIN as your phone passcode either. Think of some digits or combination that makes sense to you and only you. And then use it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 2: Use Face ID
 
 Along with Passcode comes the option of Face ID on your Apple iPhone 12 Pro, so use that. That will minimize instances for you to enter your passcode, and may make you forget it again, though. So, make sure that the passcode you set does make sense to you and you can remember it always without effort.
@@ -385,7 +400,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 12 Pro, so 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 12 Pro disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 12 Pro device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Different Methods To Unlock Your Apple iPhone 12 Pro
 
@@ -476,7 +491,7 @@ You will come across many methods when looking for how to unlock iPhone 14. Howe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Fix iPad, iPod Touch, and iPhone Lock Screen Password Forgot Issue
 
@@ -499,7 +514,7 @@ Launch Wondershare Dr.Fone on your computer and select "Screen Unlock" from the 
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 - **Step 2. Enable Recovery Mode on Your Apple iPhone 12 Pro**
 
@@ -522,7 +537,7 @@ If the detected details are correct, click on "Start" to initiate the firmware d
 
 - When using Wondershare Dr.Fone to unlock your Apple iPhone 12 Pro, you will lose your data.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: Tips for Successful Apple iPhone 12 Pro Unlocking
 
@@ -562,7 +577,7 @@ To summarize, unlocking your Apple iPhone 12 Pro can be daunting when you've for
 
 After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to [unlock your Apple iPhone 12 Pro](https://drfone.wondershare.com/solutions/iphone-lock-screen-password-forgot.html). It provides comprehensive features to unlock your device efficiently. Moreover, it offers a local backup option, ensuring that your data is safeguarded.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -583,3 +598,38 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-15-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-15-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 15 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-organize-your-fb-content-access-to-free-downloaders-online/"><u>[New] 2024 Approved  Organize Your FB Content  Access to Free Downloaders Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-social-snippets-showcase-twitters-trending-threads/"><u>In 2024, Social Snippets Showcase  Twitter’s Trending Threads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-15-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 15 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-15-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 15 Plus Lock Screen</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-voicemod-enhancing-your-skype-call-with-personalized-accents-for-2024/"><u>Updated VoiceMod Enhancing Your Skype Call with Personalized Accents for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-15-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 15 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-15-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 15 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-plus-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-15-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 15 Plus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-craft-standout-videos-with-professional-free-banner-samples/"><u>[Updated] Craft Standout Videos with Professional, Free Banner Samples</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-best-of-the-best-ultimate-tiktok-video-savers-for-2024/"><u>[Updated] Best of the Best  Ultimate TikTok Video Savers for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-hunt-for-chuckling-sonic-elements/"><u>In 2024, Hunt for Chuckling Sonic Elements</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-15-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 15 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-15-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-15-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Plus</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-10-youtube-download-apps-best-in-class-compatibility/"><u>2024 Approved  Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-resolve-0x80072efd-on-windows-devices/"><u>Quick Guide to Resolve 0X80072EFD on Windows Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-15-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 15 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Plus</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-non-game-console-apps-excelling-at-game-recordings/"><u>[New] In 2024, Non-Game Console Apps Excelling at Game Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Plus in Lost Mode</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+</ul></div>

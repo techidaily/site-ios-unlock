@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-05-19T07:09:48.346Z
-updated: 2024-05-20T07:09:48.346Z
+date: 2024-07-15T00:39:41.118Z
+updated: 2024-07-16T00:39:41.118Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work
 excerpt: This article describes How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work
 keywords: unlock iphone face id wearing mask,app lock iphone,how to unlock a found iphone,how to unlock iphone without passcode or face id,unlock apple watch,how to unlock iphone with itunes,unlock iphone passcode without computer,forgot locked note password,unlock disabled iphone without computer,reset iphone backup password
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesn't Work
@@ -43,6 +43,9 @@ What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone 8 Plus model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Requirements for Unlocking Apple iPhone 8 Plus With Apple Watch
 
 ![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
@@ -74,6 +77,9 @@ If you meet all the aforementioned criteria, setting up the feature to unlock yo
 
 - **Step 1:** Go to **Settings > Face ID & Passcode**on your Apple iPhone 8 Plus;
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
 
 - **Step 2:** Type in your passcode;
@@ -100,6 +106,9 @@ Your Apple Watch will send an alert when you’ve used it to unlock your Apple i
 
 However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone 8 Plus, you’ll first need to type in your passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 8 Plus With a Watch
 
 ![person wearing face mask unlocking their Apple iPhone 8 Plus](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
@@ -151,6 +160,9 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 1:** Download and launch Dr.Fone on your computer;
 - **Step 2:** From the **Toolbox**on your left-hand side, select **System Repair**;
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock-iphone-with-watch-8.jpg](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Connect your Apple iPhone 8 Plus to your PC using a cable connection;
@@ -261,6 +273,9 @@ The typical method that each individual attempts for the first time is to input 
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-3.jpg)
 
 You may now go to **Reset All Settings** and confirm by entering the security passcode when prompted. Then, your phone will automatically go through the process of resetting and returning to its default settings.
@@ -510,3 +525,53 @@ Wondershare Dr.Fone's comprehensive toolkit provides a range of options to cater
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-se-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone SE Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone SE Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-speed-for-vimeo-playback/"><u>[New] Enhancing Speed for Vimeo Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/framemaster-hd-recording-suite/"><u>FrameMaster HD Recording Suite</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-se-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone SE Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-echo-archives-digital-sound-recording-for-2024/"><u>[New] Echo Archives  Digital Sound Recording for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-in-2024/"><u>Computational Photography  What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes, In 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-your-complete-guide-to-using-telegram-web-interface/"><u>[New] In 2024, Your Complete Guide to Using Telegram Web Interface</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-visual-marking-in-youtube-posts-with-watermarks-and-logos/"><u>2024 Approved  Streamline Visual Marking in Youtube Posts with Watermarks & Logos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-se-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone SE Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-the-best-15-youtube-sources-for-sci-education/"><u>[New] 2024 Approved  Explore the Best 15 YouTube Sources for Sci-Education</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-se-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone SE? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-se-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone SE Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/from-behind-the-screen-to-in-front-masterful-guide-on-tiktok-username-transformation/"><u>From Behind the Screen to In Front  Masterful Guide on TikTok Username Transformation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-se-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone SE Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-for-educators-maximizing-its-classroom-potential/"><u>YouTube for Educators  Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-se-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone SE When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-se-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone SE Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneering-sound-showcase-on-youtube-space/"><u>2024 Approved  Pioneering Sound Showcase on YouTube Space</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-11-best-video-editing-apps-for-iphone/"><u>New Top 11 Best Video Editing Apps for iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-se-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone SE Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-se-how-to-unlock-a-disabled-iphone-se-by-drfone-ios/"><u>Disabled iPhone SE How to Unlock a Disabled iPhone SE?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone SE Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-se-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone SE Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-se-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone SE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-earnings-average-income-per-video-ad/"><u>[Updated] YouTube Earnings  Average Income per Video Ad?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-se-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone SE Properly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beats-and-moves-creating-music-infused-instagram-content-for-2024/"><u>Beats & Moves  Creating Music-Infused Instagram Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-edge-of-screen-innovation-with-benq-sw320/"><u>In 2024, Exploring the Edge of Screen Innovation with BenQ SW320</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-se-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone SE</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-final-cut-pro-x-on-steroids-top-plugins-to-boost-productivity/"><u>New 2024 Approved Final Cut Pro X on Steroids Top Plugins to Boost Productivity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-se-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone SE Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-se-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unseen-wealth-the-underground-auction-of-elusive-artifacts-2023-edition/"><u>[Updated] In 2024, Unseen Wealth  The Underground Auction of Elusive Artifacts, 2023 Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-se-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone SE Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-se-by-drfone-ios/"><u>Remove Device Supervision From your iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-seipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone SE/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-se-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone SE Without a Home Button</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 12 when Phone is Broken?
-date: 2024-05-19T07:10:17.220Z
-updated: 2024-05-20T07:10:17.220Z
+date: 2024-07-15T01:25:37.787Z
+updated: 2024-07-16T01:25:37.787Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 12 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 12 when Phone is Broken?
 keywords: unlock disabled iphone 13,disable parental control,how to remove face id on iphone 13,how many attempts to unlock iphone,ios 17 lock screen,solve iphone randomly asking for apple id
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -79,6 +79,9 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
 **Step 7: Turn off Find My iPhone**
@@ -135,6 +138,9 @@ Once your Apple iPhone 12 shows the Apple logo, it means the Recovery Mode is ac
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 12 is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 12 to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes
 
 There are a few causes that you might need to factory reset your locked iPhone without iTunes. Perhaps you forgot your passcode and can't seem to remember it, no matter how many times you try. Maybe you're selling your Apple iPhone 12 and want to ensure that all your data is wiped from the Apple iPhone 12 device before handing it over to someone else.
@@ -256,6 +262,9 @@ No. If you want a factory reset, all your data will be erased, so make a backup 
 
 But if you want your Apple iPhone 12 set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
@@ -308,6 +317,9 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 2.** Tap on the Add (plus) icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994463891817.jpg)
 
 **Step 3.** From here, you can search for a city. Just type anything you want and tap again to get various options. Choose the “Select all” button to get more options.
@@ -362,6 +374,9 @@ After implementing this solution, your iOS device will reset, and your data woul
 
 **Step 3.** Select the feature of the Erase device and confirm your choice. Wait for a while as your Apple iPhone 12 or iPad would be restored remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![erase Apple iPhone 12](https://images.wondershare.com/drfone/article/2017/07/14994466099482.jpg "erase Apple iPhone 12")
 
 By following this method, you can learn how to unlock the iPad passcode without a computer remotely.
@@ -438,3 +453,44 @@ By implementing the above suggestions, you can easily make your iOS device more 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-infinix-smart-8-hd-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Smart 8 HD Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-se-2020-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone SE (2020) With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-se-2020-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone SE (2020) Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-10-apps-for-creating-spectacular-instagram-reels/"><u>[New] 2024 Approved  Top 10 Apps for Creating Spectacular Instagram Reels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-se-2020-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone SE (2020) and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-se-2020-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone SE (2020) With 7 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-t2-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo T2 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cant-miss-these-buzzing-tiktok-trials-for-2024/"><u>Can't Miss These Buzzing TikTok Trials for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-2020-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-se-2020-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone SE (2020) Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2020-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2020) With or Without Password</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-nero-waveedit-a-thorough-examination-updates-for-2024/"><u>New Nero WaveEdit A Thorough Examination Updates for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/layering-and-shifting-photo-letters-for-2024/"><u>Layering & Shifting Photo Letters for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tidy-up-video-borders-with-smart-edit-techniques/"><u>[Updated] In 2024, Tidy Up Video Borders with Smart Edit Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/make-your-photos-shine-5-leading-slideshow-software-options-for-2024/"><u>Make Your Photos Shine 5 Leading Slideshow Software Options for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-se-2020-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE (2020) Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-se-2020-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone SE (2020) Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-se-2020-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone SE (2020) After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2020-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone SE (2020) Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-se-2020-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone SE (2020) When Its Locked Within Seconds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-nova-y91-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Nova Y91</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone SE (2020)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>2024 Approved  Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-mix-fold-3-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Mix Fold 3 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2020-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE (2020) Unavailable Issue With Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-vr-travel-adventures/"><u>A Comprehensive Guide to VR Travel Adventures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-2020-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE (2020) After Forgetting the Passcode?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-to-procure-perfect-photographic-archives/"><u>[Updated] Strategies to Procure Perfect Photographic Archives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-definition-hardware-unveiled-by-gamers-for-2024/"><u>[New] High-Definition Hardware Unveiled by Gamers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-se-2020-5-ways-to-get-into-a-locked-iphone-se-2020-by-drfone-ios/"><u>In 2024, Locked Out of iPhone SE (2020)? 5 Ways to get into a Locked iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone SE (2020)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-windows-methods-to-identify-system-gadgets/"><u>Proven Windows Methods to Identify System Gadgets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-dji-flyer-x20s-flying-high-vision-headset-breakdown/"><u>2024 Approved  DJi Flyer X20's Flying High Vision Headset Breakdown</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-se-2020-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone SE (2020)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-recording-webinars/"><u>In 2024, Recording Webinars</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
-date: 2024-05-19T07:09:46.497Z
-updated: 2024-05-20T07:09:46.497Z
+date: 2024-07-15T00:36:19.319Z
+updated: 2024-07-16T00:36:19.319Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
 keywords: unlock lost phone,how to unlock iphone to use usb accessories,how to unlock iphone with itunes,total wireless unlock,change country on iphone app store,lock stolen iphone,iphone backup password,unlock iphone screen passcode,unlock disabled iphone 13,change apple id on ipad,unlock iphone without passcode,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -135,12 +135,18 @@ Once your Apple iPhone 8 Plus shows the Apple logo, it means the Recovery Mode i
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 8 Plus is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 8 Plus to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Change Your Apple ID on Apple iPhone 8 Plus With or Without Password
 
 The Apple ID is a unique identifier used to log in to all Apple services, including iCloud, the App Store, Apple Music, and more. You can track purchases and manage your account settings through your Apple ID. But what if you need a new one for security or moving to a new location?
 
 Whatever the reason, learning **how to change your Apple ID on your iPad** is straightforward. And this guide will show the steps and provide some tips at the end.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![browsing on an ipad pro](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-01.jpg)
 
 ## Part 1: Reasons Why You Might Need To Change Your Apple ID
@@ -238,7 +244,7 @@ If you've addressed these issues and still can't change your Apple ID, don't wor
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
 
-## Part 4: Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) To Remove Apple ID Without Password
+## Part 4: Using <u>Wondershare Dr.Fone</u>
 
 Dr.Fone Screen Unlock (iOS) tool is your go-to solution for unlocking iOS devices without a passcode. The best part? It is easy to use for users of all technical backgrounds. With Dr.Fone, you can unlock iOS screens protected by 4 to 6-digit passcodes, Face ID, Touch ID, and more.
 
@@ -329,6 +335,9 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Apple iPhone 8 Plus with a Mask On
 
 Are you tired of wearing a mask in this pandemic? Apple introduced a new feature through which people can unlock **iPhone face ID while wearing a mask**. Before this, people either had to use other types of passwords or put off the mask to use Face ID. However, this feature is only available on iOS 15.4, depicting that iPhones containing earlier iOS versions won’t be able to enjoy this feature.
@@ -368,10 +377,22 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
@@ -404,7 +425,10 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -440,3 +464,55 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-celebrating-the-10-best-moba-games-on-android/"><u>[Updated] Celebrating the #10 Best MOBA Games on Android</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-se-2022-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone SE (2022) With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-2022-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE (2022) when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-se-2022-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone SE (2022) In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-se-2022-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone SE (2022) Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-se-2022-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone SE (2022) in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-se-2022-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone SE (2022) After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-soundtracking-whatsapp-statues/"><u>2024 Approved  Soundtracking WhatsApp Statues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-se-2022-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone SE (2022)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-spinning-photos-iphone-videography-tips/"><u>[New] The Art of Spinning Photos  IPhone Videography Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-2022-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-by-drfone-ios/"><u>How to Unlock iPhone SE (2022)?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-raw-footage-to-social-stardom-the-art-of-video-cropping-on-instagram/"><u>In 2024, From Raw Footage to Social Stardom  The Art of Video Cropping on Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-se-2022-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone SE (2022) Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-unlock-your-mp4-tracks-2024s-effortless-audio-extraction-processes/"><u>Updated Unlock Your MP4 Tracks 2024S Effortless Audio Extraction Processes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-se-2022-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone SE (2022)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[Updated] Upgrading IGTV Thumbnails  A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-se-2022-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone SE (2022) with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-se-2022-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone SE (2022) and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-se-2022-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone SE (2022) Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2022-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone SE (2022)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-voice-clarity-overcoming-skype-noise-issues/"><u>[New] 2024 Approved  Voice Clarity  Overcoming Skype Noise Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-se-2022-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone SE (2022) After Forgetting the Passcode?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-se-2022-by-drfone-ios/"><u>How To Unlock A Found iPhone SE (2022)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-se-2022-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone SE (2022) to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-se-2022-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone SE (2022) Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-se-2022-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone SE (2022) With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-se-2022-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone SE (2022) Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-se-2022-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone SE (2022) Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-se-2022-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE (2022) with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone SE (2022), Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-2022-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-se-2022-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone SE (2022) Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-se-2022-5-ways-to-get-into-a-locked-iphone-se-2022-by-drfone-ios/"><u>Locked Out of iPhone SE (2022)? 5 Ways to get into a Locked iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone SE (2022) Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-se-2022-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone SE (2022)? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-se-2022-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone SE (2022)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-play-8tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Play 8TFRP Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-2022-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE (2022) i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-se-2022-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone SE (2022) With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-se-2022-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone SE (2022) Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-se-2022-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone SE (2022) Lock Screen</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mac-video-creator-the-ultimate-guide-to-making-professional-looking-videos-for-2024/"><u>Mac Video Creator The Ultimate Guide to Making Professional-Looking Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-se-2022-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone SE (2022) Without Passcode Easily</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-best-selections-for-youtube-ringtone-downloads/"><u>[New] In 2024, Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
+</ul></div>

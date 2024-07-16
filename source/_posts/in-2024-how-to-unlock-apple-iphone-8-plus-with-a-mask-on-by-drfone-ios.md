@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 Plus with a Mask On
-date: 2024-05-19T07:09:48.332Z
-updated: 2024-05-20T07:09:48.332Z
+date: 2024-07-15T00:39:36.444Z
+updated: 2024-07-16T00:39:36.444Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 8 Plus with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 8 Plus with a Mask On
 keywords: fix iphone backup password never set but still asking,unlock iphone 11 12 13 without passcode,how to unlock iphone without passcode,unlock apple watch,bypass ios 14 lock screen,how much does unlock a phone cost,lock stolen iphone,iphone x iphone xr lock screen,iphone asking for outlook password
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## How to Unlock Apple iPhone 8 Plus with a Mask On
@@ -53,7 +53,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +92,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -198,6 +201,9 @@ The disabled iPhone will be wiped and restored to factory defaults. The setup wi
 
 Now, as we know, if Find My does not show the disabled iPhone for any reason, you will necessarily have to gain access to a computer. The other option is to visit an Apple Store and get them to do the needful.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III: FAQs
 
 Here are helpful frequently asked questions for you.
@@ -206,6 +212,9 @@ Here are helpful frequently asked questions for you.
 
 iPhone is disabled most commonly when an incorrect password is entered too many times.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### FAQ 2: Can I unlock disabled iPhone without data loss?
 
 Unlocking a disabled iPhone requires erasing the Apple iPhone 8 Plus device. All data on the Apple iPhone 8 Plus device will be deleted in the process. There is currently no way to unlock disabled iPhone without data loss.
@@ -238,6 +247,9 @@ If your device is gone, you can use the Find My application on your other Apple 
 
 If your Apple iPhone 8 Plus is in Lost Mode and you don't have the foggiest idea of how to restore it, relax. This guide will cover every one of the techniques that you can use for **iPhone Lost Mode unlock**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Will Happen When iPhone Is in Lost Mode?
 
 The Apple iPhone 8 Plus Lock feature permits remotely locking a lost Apple iPhone 8 Plus to prevent people from using its data. If you set a password for a device before enabling the Lost Mode, you will need this password to unlock the Apple iPhone 8 Plus once it has returned to its proprietor.
@@ -260,6 +272,9 @@ The most straightforward method for unlocking the Apple iPhone 8 Plus in Lost Mo
 
 If your device had no password while placing it in Lost Mode and you've entered it into iCloud while placing your Apple iPhone 8 Plus into Lost Mode, utilize this password. That will help you **unlock lost iPhone**, and you can start operating your Apple iPhone 8 Plus again.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Remove it from Find My in iCloud
 
 One more method for unlocking the Lost Mode on your Apple iPhone 8 Plus is to utilize the Find My iPhone application on the official iCloud site. Follow the steps underneath to do so:
@@ -382,3 +397,36 @@ Luckily, we’re here to provide a series of dependable and secure solutions tha
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-se-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone SE Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-se-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone SE Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-se-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone SE With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-se-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone SE Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlock-retro-classics-on-android-choose-the-best-ps2-emulators/"><u>Unlock Retro Classics on Android – Choose the Best PS2 Emulators</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone SE Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-se-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone SE Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-se-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone SE After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-se-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-se-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone SE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-creator-studio-your-expert-manual/"><u>[New] Navigating Creator Studio  Your Expert Manual</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-12-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 12 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-xr21-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia XR21 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 6s Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x50-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X50 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone SE Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-se-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone SE and iPad Securely</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>In 2024, The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-channel-mastery-leverage-customizable-description-templates-for-more-followers/"><u>[New] Channel Mastery  Leverage Customizable Description Templates for More Followers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-se-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-se-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone SE With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-visualloger-12-professional-for-2024/"><u>[New] VisualLoger 12 Professional for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-se-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone SE With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-se-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone SE After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-se-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone SE Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-s24plus-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy S24+ and Browser | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-ensuring-realness-in-your-instagram-photos/"><u>[New] 2024 Approved  Ensuring Realness in Your Instagram Photos</u></a></li>
+</ul></div>

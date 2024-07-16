@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone X
-date: 2024-05-19T07:09:43.158Z
-updated: 2024-05-20T07:09:43.158Z
+date: 2024-07-15T00:30:54.291Z
+updated: 2024-07-16T00:30:54.291Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone X
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone X
 keywords: lock stolen iphone,unlock iphone screen passcode,unlock iphone xs without passcode,how to unlock an iphone 13,how much does unlock a phone cost,apple id not active,iphone backup password
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone X
@@ -82,6 +82,9 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
 Fix No.4: Remove Network Settings Installed by MDM
@@ -141,6 +144,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
 
 Fix No.6: Check and Adjust Auto-Lock Settings
@@ -186,6 +192,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 The iPhone's swipe-up gesture serves as a fundamental navigation tool. It allows users to access various functions and features swiftly. Yet, when this functionality encounters issues, it can be perplexing and disruptive. That's why learning the reasons behind **I can’t swipe up on my iPhone** is essential. Summarized below are some of the common reasons behind frozen swipe-up issues:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Software Glitches
 
 Updates or software bugs can occasionally interfere with the swipe-up gesture. It leads to unresponsiveness or delays.
@@ -216,7 +225,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone X can be exas
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -244,6 +253,9 @@ Here's how to use Wondershare Dr.Fone to address the **swipe-up not working on i
 
 After successfully downloading Dr.Fone on your device, navigate towards the left side panel and click "Toolbox." From the many options appearing on the main window, select "System Repair." Then, establish a connection between your iOS and your current device.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![repair system using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Opt for iOS Restoration and Enable Recovery Mode**
@@ -339,6 +351,9 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
 ### Fix 10. Turn Off Reduce Motion
@@ -371,7 +386,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -570,3 +585,55 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-15-best-free-youtube-introduction-tools/"><u>[Updated] In 2024, 15 Best Free YouTube Introduction Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-erratic-print-device-in-os/"><u>Troubleshooting Erratic Print Device in OS</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-youtube-channel-url-in-minutes-for-2024/"><u>Transform Your YouTube Channel URL in Minutes for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/android-internal-sound-record-without-root-access/"><u>Android Internal Sound Record Without Root Access</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 mini</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-precision-in-presentation-finalizing-videos-on-vimeo-effectively/"><u>[New] In 2024, Precision in Presentation  Finalizing Videos on Vimeo Effectively</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone XS Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2020-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-8-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 8 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unparalleled-window-watchers-top-video-player-picks-for-2024/"><u>Unparalleled Window Watchers  Top Video Player Picks for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-11-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 11 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-17-best-lights-and-lighting-equipment-for-youtube/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-foremost-sound-amplifiers-for-smartphones-androidios-updated-list/"><u>New The Foremost Sound Amplifiers for Smartphones (Android/iOS, Updated List)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-13-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 13 Pro with iTunes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixels-into-panoramas-cutting-edge-edits-for-exceptional-results/"><u>[New] Pixels Into Panoramas  Cutting-Edge Edits for Exceptional Results</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-media-snipping-an-easy-method-for-capturing-twitters-gifs/"><u>[New] 2024 Approved  Social Media Snipping  An Easy Method for Capturing Twitter’s GIFs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-art-of-kinemaster-use-top-10-alternative-online-games-ranked/"><u>[Updated] Unveiling the Art of KineMaster Use  Top 10 Alternative Online Games Ranked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-13-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 13 mini with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-xr-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone XR Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>[Updated] Unlock the Potential of YouTube Videos  The Ultimate Chapter Addition Technique</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-xs-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone XS? Learn All 4 Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-poco-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Poco FRP Bypass</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-a-look-inside-vidmas-screen-recording-mechanics/"><u>[Updated] 2024 Approved  A Look Inside Vidma's Screen Recording Mechanics</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unparalleled-audio-file-reader-free-top-quality-mp3-creation-from-professional-mpa-soundtracks/"><u>Unparalleled Audio File Reader Free, Top Quality MP3 Creation From Professional MPA Soundtracks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>2024 Approved  From Camera to Chrome  YouTube Shorts Video Upload Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-xr-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone XR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensible-guide-to-efficient-zoom-capturing-for-2024/"><u>Comprehensible Guide to Efficient Zoom Capturing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-learn-to-craft-eye-catching-youtube-thumbnails-using-your-phone/"><u>[Updated] In 2024, Learn to Craft Eye-Catching YouTube Thumbnails Using Your Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-g54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on G54 5G ?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-unlimited-video-merging-7-best-watermark-free-solutions/"><u>2024 Approved Unlimited Video Merging 7 Best Watermark-Free Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone XS Max After Forgetting my PIN Code?</u></a></li>
+</ul></div>

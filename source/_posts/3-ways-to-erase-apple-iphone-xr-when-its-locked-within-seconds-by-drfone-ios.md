@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds
-date: 2024-04-02T06:31:22.722Z
-updated: 2024-04-03T06:31:22.722Z
+date: 2024-07-15T03:00:07.785Z
+updated: 2024-07-16T03:00:07.785Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds
 excerpt: This article describes 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds
 keywords: iphone 15 unlock,unlock iphone without passcode,how to unlock iphone 12,how to create new apple id,how to remove face id on iphone 13,bypass apple store verification,iphone swipe up not working,unlock iphone 14
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## 3 Ways to Erase Apple iPhone XR When It's Locked Within Seconds
@@ -24,7 +24,10 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 
@@ -63,6 +66,9 @@ After putting your device into the DFU mode, the application will automatically 
 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
 
 **Step 5. Start to unlock.**
@@ -241,6 +247,9 @@ Verify and complete any pending app purchases or downloads from the App Store or
 
 Turning off iCloud Keychain and then turning it back on can help refresh the data and resolve any syncing issues. Go to Settings > \[Your Name\] > iCloud > Keychain > Toggle off and on.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Disable your iCloud keychain](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-12.jpg)
 
 **Method 7: Check Network Connectivity**
@@ -361,6 +370,9 @@ To do this, you need to follow these steps:
 
 Now that your device has been erased, you can reset it as a new one.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
 This is another method you can use if you have the " Find My iPhone " feature on your device. You can use this method to remotely factory reset your locked iPhone without iTunes by using another iOS device.
@@ -415,6 +427,9 @@ A soft reset is when you restart your device, and a hard reset is when you facto
 
 To force your Apple iPhone XR to factory reset with buttons, you need to follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
 
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
@@ -454,3 +469,48 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-12-5-ways-to-get-into-a-locked-apple-iphone-12-by-drfone-ios/"><u>Locked Out of Apple iPhone 12? 5 Ways to get into a Locked Apple iPhone 12</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-sizzle-smile-and-savor-top-15-culinary-adventures-on-tiktok/"><u>[New] In 2024, Sizzle, Smile, and Savor  Top 15 Culinary Adventures on TikTok</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/olyx-zones-the-creme-de-la-snowspeedcross-for-2024/"><u>OlyX-Zones  The Crème De La Snowspeedcross for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-brief-basslines-video-music-mosaics/"><u>[Updated] In 2024, Brief Basslines  Video Music Mosaics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-brush-up-your-skills-and-inspire-creativity-top-10-freeware-for-mac/"><u>2024 Approved  Brush Up Your Skills & Inspire Creativity - Top 10 Freeware for Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-12-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-by-drfone-ios/"><u>How to Unlock Apple iPhone 12?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-asmr-apps-for-android-and-ios-you-should-know/"><u>[New] Best ASMR Apps for Android and iOS You Should Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 12 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 12 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-100-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor 100 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-se-2020-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone SE (2020) In Different Conditionsin</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-video-downloader-pro-mp4-archive-now-available/"><u>2024 Approved  FB Video Downloader Pro  MP4 Archive Now Available</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-2020-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE (2020) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 12 Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-12-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 12 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-video-revenue-potential-the-facebook-marketing-playbook/"><u>[Updated] Unlocking Video Revenue Potential  The Facebook Marketing Playbook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-2020-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE (2020) i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-12-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 12 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-12-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 With 7 Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/simplicity-in-code-constructing-a-streamlined-youtube-sign-up-for-2024/"><u>Simplicity in Code  Constructing a Streamlined YouTube Sign-Up for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-se-2020-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone SE (2020) Without a Passcode</u></a></li>
+</ul></div>

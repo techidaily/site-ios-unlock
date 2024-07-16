@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-05-19T07:09:47.749Z
-updated: 2024-05-20T07:09:47.749Z
+date: 2024-07-15T00:38:40.239Z
+updated: 2024-07-16T00:38:40.239Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix
 excerpt: This article describes Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix
 keywords: iphone passcode changed itself,how to unlock iphone with itunes,get into locked iphone,how to unlock iphone without passcode or face id,swipe up to unlock iphone,iphone is disabled,iphone locked to owner,iphone passcode not working after update ios 13,ios 17 lock screen,fix iphone passcode not working,remove flashlight from iphone lock screen,forgot passcode iphone 6
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Here's the Fix
@@ -114,6 +114,9 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone 8 Plus backup never set in the first place!
@@ -121,12 +124,18 @@ Please read the following three notes carefully before clicking the **"Remove No
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 8 Plus backup password. The first method is to try all the passwords you use on your Apple iPhone 8 Plus. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 8 Plus.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Apple iPhone 8 Plus?
 
 [![drfone](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -146,7 +155,7 @@ A problem commonly faced by all iPhone users is that they forget the password, a
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Fix iPhone Lock Screen Password Forgot Issue
 
@@ -195,7 +204,7 @@ The application will now ask for the confirmation code. Just provide the on-scre
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## **Part 2. Unlock Locked iPhone 12 by Restoring it to Default Settings – iTunes**
 
@@ -207,6 +216,9 @@ Let us show you how to unlock Apple iPhone 8 Plus without using a passcode;
 2. After that, plug in your phone to the computer and open iTunes.
 3. Once the phone is connected with iTunes, click on 'Summary' that will appear on the screen's left side.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
     ![unlock iphone 12 or 12 pro max](https://images.wondershare.com/drfone/article/2021/04/unlock-iphone-12-or-12-pro-max-1.jpg)
 
 4. After the summary screen is opened, you will see the option of 'Restore iPhone'; click on that option.
@@ -235,7 +247,7 @@ IOS world is different from the Android world, and so, both have different and u
 
 Different methods have been discussed that use different platforms regarding how a user can unlock an iPhone if a passcode is missing. The user might be confused about selecting the appropriate method, so let’s help the users by sharing some advantages and disadvantages of all the methods discussed above. This will help the user to select the best possible method;
 
-### 1\. Using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### 1\. Using Dr.Fone - Screen Unlock (iOS)
 
 The known and famous application among iPhone users helps them recover data, unlock a phone even if its passcode is missing, and whatnot. Let us now discuss its amazing pros;
 
@@ -251,7 +263,7 @@ The known and famous application among iPhone users helps them recover data, unl
 1. The Apple iPhone 8 Plus in use will be updated to the latest iOS version as soon as the unlocking process is completed.
 2. The Apple iPhone 8 Plus must be in DFU mode for the process to unlock the screen.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 2\. Using iTunes
 
@@ -285,7 +297,7 @@ Another known platform for iPhone users is iCloud, which allows users to unlock 
 
 The article aimed to provide users with maximum information and knowledge about unlock the Apple iPhone 8 Plus even if you don’t have the passcode. Several methods have been discussed alongside their pros and cons so that the user can select the best.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Unlocking Apple iPhone 8 Plus Passcode without a Computer
 
@@ -304,6 +316,9 @@ Moreover, there are more than a few simple methods for doing such. Also, you don
 
 Dr.Fone-Screen Unlock by Wondershare is an expert tool to remove such issues. It is a safe method for everyone new to the technical world. The process is basic, assuming you follow the step-by-step guide below.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 3 Methods to Unlock Disabled iPhone without a computer?
 
 ### 1\. "Erase iPhone" Option
@@ -438,3 +453,51 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-14-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-12-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-2020-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE (2020) Passcode without a Computer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-present-day-drones-and-their-upcoming-role-evolution/"><u>In 2024, Present-Day Drones and Their Upcoming Role Evolution</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-class-accessing-elite-visual-content-without-expense/"><u>[Updated] Master Class  Accessing Elite Visual Content Without Expense</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-11-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-14-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 14 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-interactivity-tips-for-hosting-splitting-screen-events-on-facebook/"><u>[Updated] 2024 Approved  Enhancing Interactivity  Tips for Hosting Splitting-Screen Events on Facebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-visuals-snap-camera-for-team-discussions-for-2024/"><u>[New] Leveraging Visuals  Snap Camera for Team Discussions for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2020-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-online-video-editing-made-easy-trimming-with-kapwing-editor/"><u>New 2024 Approved Online Video Editing Made Easy Trimming with Kapwing Editor</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-x-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone X?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-13-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 13 i Do? Get Answers here</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-can-i-post-a-video-between-twitter-and-tumblr/"><u>[Updated] How Can I Post a Video Between Twitter and Tumblr?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elevating-your-webinar-footage-with-best-practices/"><u>2024 Approved  Elevating Your Webinar Footage with Best Practices</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-hot-40-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Hot 40 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-12-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 Passcode without a Computer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-into-the-world-of-expressive-snapchat-lenses/"><u>In 2024, Step Into the World of Expressive Snapchat Lenses</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-14-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y17s-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y17s Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-k11x-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo K11x via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-smooth-operator-top-video-stabilizer-apps/"><u>New 2024 Approved Smooth Operator Top Video Stabilizer Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-se-2020-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE (2020) Passcode without a Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/icy-inspirations-top-olympic-triumphs/"><u>Icy Inspirations  Top Olympic Triumphs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/apidly-evolving-yt-spaces-enhancing-cerebral-growth-for-2024/"><u>[New] Rapidly Evolving YT Spaces Enhancing Cerebral Growth for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-avi-video-rotation-solutions-16-best-options-for-multiple-operating-systems/"><u>2024 Approved Free AVI Video Rotation Solutions 16 Best Options for Multiple Operating Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-must-have-essentials-for-a-starry-drive-with-your-sj4000/"><u>2024 Approved  Must-Have Essentials for a Starry Drive with Your SJ4000</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 14 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-mini-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-8-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 8 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-8-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-top-12-tycoon-games-worthy-of-every-business-strategists-time/"><u>[Updated] The Top 12 Tycoon Games Worthy of Every Business Strategist's Time</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-z-flip-5-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy Z Flip 5 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-8-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 8 i Do? Get Answers here</u></a></li>
+</ul></div>

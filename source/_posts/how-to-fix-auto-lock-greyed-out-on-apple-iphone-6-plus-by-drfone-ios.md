@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
-date: 2024-05-19T07:09:20.750Z
-updated: 2024-05-20T07:09:20.750Z
+date: 2024-07-14T23:54:20.675Z
+updated: 2024-07-15T23:54:20.675Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
 keywords: solve iphone randomly asking for apple id,how to unlock iphone without passcode or face id,open iphone without home button,fix iphone passcode not working,unlock iphone with apple watch,what can jailbreak iphone do,forgot locked note password,unlock iphone passcode,iphone backup password,doctorism unlock review
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
@@ -22,6 +22,9 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 6 Plus or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -180,6 +183,9 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Most Effective Methods to Unlock Apple iPhone 6 Plus in Lost Mode
 
 Numerous security features make all Mac devices like iPhones, iPads, and Macs stand apart from the opposition in terms of user data safety. Lost Mode is one feature that locks your lost iPhone or other Apple devices so nobody can get to them.
@@ -246,6 +252,9 @@ Australia and Oceania: 35.189.47.23
 - Clean old DNS server off of ISP modem, select and connect to a WiFi network. Click the Back button when a popup says that the Apple iPhone 6 Plus device is attempting to connect to the Apple servers.
 - You will now be on the DNS bypass screen. Pick the applications from the list to keep using your device. However, only a handful of applications are available through this.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Use Emergency Call
 
 This technique is the most widely recognized one. You can bypass your iCloud activation by settling on a fake Emergency call. Nonetheless, it is accounted for that this strategy probably won't work for everyone.
@@ -286,6 +295,9 @@ So, without looking any further, download this tool for a remarkable unlocking e
 
 Open the Dr.Fone software and tap the "Unlock iOS Screen."
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2. Boot iPhone in Recovery/DFU mode**
@@ -399,6 +411,9 @@ If the Apple iPhone 6 Plus had Find My enabled before it got locked, and you hav
 
 iPhone will be unlocked and restored to factory settings. Fresh setup will be required.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### I.IV: Unlock Apple iPhone 6 Plus Without A Computer (Find My App)
 
 What to do if there is no computer nearby and all you have is another iPad or iPhone? Please do not panic, as you can use Find My on any Apple device to erase and unlock the Apple iPhone 6 Plus provided the same Apple ID as the locked iPhone is used.
@@ -462,3 +477,81 @@ So, if you have forgotten your Apple iPhone 6 Plus passcode and are looking for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-12-mini-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 mini with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-14-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 14 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-xr-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone XR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quick-shake-reduction-companion-for-cams-for-2024/"><u>[New] Quick Shake Reduction Companion for Cams for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-12-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 12 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/high-definition-capturing-for-switch-gamers-for-2024/"><u>High Definition Capturing for Switch Gamers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a23-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A23 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-8-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 8 with a Broken Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s23-fe-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy S23 FE support MKV video files?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ace-your-fb-video-campaigns-with-these-powerful-tricks/"><u>[New] In 2024, Ace Your FB Video Campaigns with These Powerful Tricks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-m6-pro-4g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco M6 Pro 4G Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-13-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 13 with a Broken Screen?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world-for-2024/"><u>Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-6-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-xs-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone XS Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/firefox-pip-simplified-for-the-everyday-user-for-2024/"><u>Firefox PIP  Simplified for the Everyday User for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xs-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-mini-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 mini Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-choice-avi-player-with-multiplatform-support-for-2024/"><u>Best Choice Avi Player with Multiplatform Support for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-huawei-nova-y91-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Huawei Nova Y91</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-prolific-producers-of-profits-online/"><u>[Updated] Prolific Producers of Profits Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-12-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 12</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elevate-your-audio-skills-integrating-autotune-into-audacitys-toolkit/"><u>Updated Elevate Your Audio Skills Integrating Autotune Into Audacitys Toolkit</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-unlock-your-creativity-microsoft-video-editor-for-windows-10-8-and-7/"><u>New In 2024, Unlock Your Creativity Microsoft Video Editor for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/meet-the-seven-star-voice-alteration-apps-dominating-the-android-marketplace-for-2024/"><u>Meet the Seven Star Voice Alteration Apps Dominating the Android Marketplace for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-methods-for-screening-and-archiving-tv-broadcasts-on-laptops/"><u>[Updated] 2024 Approved  Expert Methods for Screening and Archiving TV Broadcasts on Laptops</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-11-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 11 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-f04-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy F04 Phones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-8-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 8 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-13-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 13 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-8-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 8 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-12-mini-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-selection-of-text-plugins-in-ae/"><u>In 2024, Unveiling the Ultimate Selection of Text Plugins in AE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-xs-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone XS Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-2020-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE (2020) Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-huion-h420-interactions-windows-driver-tweaks/"><u>Enhance Huion H420 Interactions: Windows Driver Tweaks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-asmrs-hidden-layers/"><u>In 2024, Unlocking ASMR's Hidden Layers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xr-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone XR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-editing-sportscasts/"><u>In 2024, The Ultimate Guide to Editing Sportscasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-a-corrupted-excel-ext-file-the-everything-guide-by-stellar-guide/"><u>How to Fix a Corrupted {{excel-ext}} File? The Everything Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-13-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 13 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-learn-about-some-of-the-best-photo-collage-with-music-tools/"><u>New In 2024, Learn About some of the Best Photo Collage with Music Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-11-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 11 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-markup-mastery-iosandroid-leaders/"><u>2024 Approved  Mobile Markup Mastery  IOS/Android Leaders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-witness-youtube-techniques-for-rapid-rendering/"><u>2024 Approved  Quick-Witness YouTube Techniques for Rapid Rendering</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skys-new-choreographer-gopro-karma-takes-center-stage/"><u>[New] Sky's New Choreographer  GoPro Karma Takes Center Stage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-8-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 8 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-xs-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-mini-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-artistry-top-5-trailblazers-blending-visuals-plus-music-into-masterpieces-for-2024/"><u>Pioneering Artistry  Top 5 Trailblazers Blending Visuals + Music Into Masterpieces for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-break-free-from-small-viewing-mastering-facebooks-full-screen-function/"><u>2024 Approved  Break Free From Small Viewing  Mastering Facebook's Full-Screen Function</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-compreranly-assessing-ustream-with-equivalent-sites/"><u>2024 Approved  Compreranly Assessing Ustream with Equivalent Sites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/apex-10-royale-showdowns-for-2024/"><u>Apex 10 Royale Showdowns for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-14-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 14 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>[Updated] 2024 Approved  Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-12-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 12 Pro Max Lock Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-video-broadcast-software-choice/"><u>[Updated] Prime Video Broadcast Software Choice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-14-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 14 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/detailed-process-for-creating-professional-voice-recordings/"><u>Detailed Process for Creating Professional Voice Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-filmmakers-guide-to-accompanying-unboxings-with-tunes/"><u>In 2024, The Filmmaker's Guide to Accompanying Unboxings with Tunes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-audiophiles-roadmap-the-seventh-generation-of-acoustic-modifications/"><u>New In 2024, Audiophiles Roadmap The Seventh Generation of Acoustic Modifications</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-8-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-13-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 13 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-14-pro-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 14 Pro</u></a></li>
+</ul></div>

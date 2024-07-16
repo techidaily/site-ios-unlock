@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 6s when Phone is Broken?
-date: 2024-05-19T07:09:27.083Z
-updated: 2024-05-20T07:09:27.083Z
+date: 2024-07-15T00:04:41.090Z
+updated: 2024-07-16T00:04:41.090Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 6s when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 6s when Phone is Broken?
 keywords: swipe up to unlock iphone,fix iphone passcode not working,iphone 15 unlock,iphone auto lock greyed out,iphone backup password,get out of security lockout,change apple id email address,how to unlock iphone passcode without computer,unlock iphone 11 12 13 without passcode,turn off restricted mode
-thumbnail: https://www.lifewire.com/thmb/WOQtH1Yeu3Y77xTI-f6-N4Xb6Kc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SetaLiveWallpaperinWindows11-b8ca3913592d4a5790808131bf8f34e1.jpg
+thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f1455915fe3cbbbf65ceba836d3f9e.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 6s when Phone is Broken?
@@ -34,7 +34,10 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -327,10 +330,16 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 **Step 2.** Now, tap "Choose" in front of the "App" and select the app you want to lock. Now, move down and select "Is Opened," then move further down to choose "Run Immediately." Here, leave "Notify when Run" deactivated.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search for lock screen option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-6.jpg)
 
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone 6s to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
@@ -353,13 +362,16 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone 6s passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
 
@@ -421,7 +433,7 @@ Get FamiSafe from the App Store and log in using your Wondershare ID or your App
 
 Now, activate Accessibility for FamiSafe by accessing "Settings," tapping "FamiSafe," and enabling "Location." Then, grant access to the Apple iPhone 6s device's photos, microphone, and motion & fitness activity. Now, use a computer and connect your child's device with a USB cable. Activate content blockers in Safari to prevent kids from accessing inappropriate content.
 
-![ enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
+![enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
 
 **Step 3: Connect the Kid's Device to the Computer**
 
@@ -445,6 +457,9 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 **Step 2.** After installing the tweak, you can go to Settings > Applocker to access it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone applocker](https://images.wondershare.com/drfone/article/2017/09/15060136509845.jpg)
 
 **Step 3.** To access the feature, make sure that you have “**Enabled**” it (by turning it on).
@@ -508,3 +523,58 @@ By following these solutions, you would be able to learn how to lock apps on the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-xr-how-to-unlock-a-disabled-apple-iphone-xr-by-drfone-ios/"><u>Disabled Apple iPhone XR How to Unlock a Disabled Apple iPhone XR?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone XR Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-xr-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone XR Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-xr-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone XR Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-bumper-bliss-kids-car-games-galore/"><u>[Updated] Bumper Bliss  Kids Car Games Galore</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pivotal-understanding-of-internet-fables/"><u>2024 Approved  Pivotal Understanding of Internet Fables</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-elite-gamers-top-10-on-tiktok-unleashed-for-2024/"><u>[Updated] Elite Gamers  Top 10 on TikTok Unleashed for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xr-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-xr-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone XR Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone XR Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-xr-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone XR Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic-5-lite-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic 5 Lite? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-time-lapse-techniques-and-tools-5/"><u>[Updated] 2024 Approved  Top Time-Lapse Techniques & Tools #5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-find-x6-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Find X6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xr-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XR with iTunes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-and-paid-video-game-opening-mastery-rank-the-best-of-yt-makers-for-2024/"><u>Free & Paid Video Game Opening Mastery  Rank the Best of YT Makers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-xr-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone XR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>[Updated] Streamlining Your Figma Project  Eliminate the Unwanted Background</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-xr-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-xr-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone XR Properly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-efficient-translation-the-top-8-best-apps-reviewed-for-2024/"><u>Free, Efficient Translation  The Top 8 Best Apps Reviewed for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-apex-legends-mastery-exploring-single-platform-potential/"><u>[Updated] In 2024, Apex Legends Mastery  Exploring Single Platform Potential</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-xr-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone XR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-av-media-collective/"><u>2024 Approved  Interactive AV Media Collective</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-xr-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone XR with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-xr-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone XR</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leading-10-views-unmasked-story-watchers/"><u>[New] Leading 10 Views  Unmasked Story Watchers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-music-without-boundaries-enjoy-pristine-audio-for-zero-cost/"><u>2024 Approved Music Without Boundaries Enjoy Pristine Audio for ZERO Cost</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-rapid-process-converting-images-into-engaging-youtube-desktop-pics-for-2024/"><u>[Updated] Rapid Process  Converting Images Into Engaging YouTube Desktop Pics for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-broadcast-mastery-mobile-livestraning-on-facebook-unveiled/"><u>[New] In 2024, Broadcast Mastery  Mobile Livestraning on Facebook Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-xr-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone XR Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-inside-the-videography-realm-xstudio-study/"><u>[Updated] In 2024, Inside the Videography Realm  XStudio Study</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-xr-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone XR Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xr-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XR Lock Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-m34-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy M34 Location | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xr-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-xr-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone XR? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-xr-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone XR Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-xr-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone XR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-into-the-world-of-expressive-snapchat-lenses/"><u>In 2024, Step Into the World of Expressive Snapchat Lenses</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-xr-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone XR Lock Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-meme-mechanic-generating-online-engagement-through-videos/"><u>[New] In 2024, The Meme Mechanic  Generating Online Engagement Through Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-discover-9-affordable-online-editors-for-youtube/"><u>[New] 2024 Approved  Discover 9 Affordable Online Editors for YouTube</u></a></li>
+</ul></div>

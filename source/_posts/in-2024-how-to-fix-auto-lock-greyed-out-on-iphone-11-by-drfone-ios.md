@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 11
-date: 2024-05-19T07:10:05.758Z
-updated: 2024-05-20T07:10:05.758Z
+date: 2024-07-15T01:07:30.924Z
+updated: 2024-07-16T01:07:30.924Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 11
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 11
 keywords: iphone passcode changed itself,iphone is disabled,iphone 11 passcode bypass,how to unlock iphone to use usb accessories,unlock iphone xs without passcode,iphone passcode not working after update ios 13,how much does unlock a phone cost,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11
@@ -207,7 +207,10 @@ iTunes is another great way to bypass the activation screen without a SIM card. 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Passcode.
 
@@ -246,7 +249,7 @@ Once your Apple iPhone 11 is in DFU mode, another window will be displayed on th
 
 After downloading the firmware, select “Unlock Now” to unlock your Apple iPhone 11.
 
-![unlock iphone passcode successfully ](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+![unlock iphone passcode successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
@@ -270,6 +273,9 @@ Now open iTunes. If it asks for a passcode, try another computer that you've syn
 
 Once your device is synced with iTunes, a "Set Up" window will pop up on the screen displaying two options, "Restore" or "Update." Select "Restore" to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore iphone with itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-1.jpg)
 
 **Step 5: Reset Passcode**
@@ -334,6 +340,9 @@ This article has provided you the reasons and best possible ways to fix the issu
 
 We hope we have covered every bit of this article perfectly and you have successfully unlocked your Apple iPhone 11 without any hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?
 
 If you’ve recently updated your iOS iPhone and iPad to the iOS 17/14 operating system, you may notice a bit of a bug where the Apple iPhone 11 displays the passcode lock, even if you haven’t got a security code in place.
@@ -374,17 +383,20 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5.** Once everything has been confirmed and you’re happy to continue, press the Unlock option. The program will do its thing, and when it’s done, the software will say you’re able to disconnect your Apple iPhone 11 and use it without a lock screen!
 
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
-![ drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -410,6 +422,9 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 
 **Step 1.** Press and hold the volume up button for about one second, and then switch and press the Volume Down button for the same amount of time. You can then hold the side button (on devices without a home button), and the following screen should appear after a few seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
 
 **Step 2.** Now connect your Apple iPhone 11 to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
@@ -457,3 +472,45 @@ And there you go, the five key ways you need to know when it comes to removing a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Pro Without a Home Button</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-superior-on-screen-moment-documentation/"><u>[New] 2024 Approved  Superior On-Screen Moment Documentation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 13 Pro Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-c65-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Poco C65.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-12-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 12 Pro With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-mini-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 mini Without a Home Button</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-insider-guide-to-gopro-wizardry/"><u>[New] Insider Guide to GoPro Wizardry</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-11-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 13 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-11-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 11 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-8-plus-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 8 Plus With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 12 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-8-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 8 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 8 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-20-must-have-tools-and-effects-for-your-tiktok-edits/"><u>Top 20 Must-Have Tools & Effects for Your TikTok Edits</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transform-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9/"><u>Transform Your Media  A Curated List of the Best Free Video Editing Software (Top 9)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Pro Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-se-2022-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone SE (2022) Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 Pro Max With or Without Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turbulence-tamer-for-mobile-cinematography/"><u>[New] Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-x-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone X Lock Screen with Notifications?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo-for-2024/"><u>[Updated] Picking Perfect  Your Path Through Basic, Plus & Pro in Vimeo for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-11-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 11 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-12-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-pan-and-tilt-for-clearer-captures/"><u>[Updated] Perfect Pan & Tilt for Clearer Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/soundsnatcher-free-guide-and-assessment/"><u>SoundSnatcher Free Guide & Assessment</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-se-2022-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone SE (2022) Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme 12 Pro+ 5G</u></a></li>
+</ul></div>

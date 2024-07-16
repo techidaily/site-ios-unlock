@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Plus Without iTunes
-date: 2024-04-01T12:57:22.062Z
-updated: 2024-04-02T12:57:22.062Z
+date: 2024-07-15T02:58:51.338Z
+updated: 2024-07-16T02:58:51.338Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Plus Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Plus Without iTunes
 keywords: how many attempts to unlock iphone,iphone asking for outlook password,unlock iphone 5 passcode without itunes,reset iphone backup password,unlock iphone passcode,app lock iphone,open iphone without home button,forgot passcode iphone 6,forgot passcode on iphone
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Plus Without iTunes
@@ -71,6 +71,18 @@ Besides the above-given method, other methods can also help you factory reset yo
 
 These methods are as follows:
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method #1: Factory reset via the Find My feature on your device
 
 Resetting your locked iPhone without iTunes is one of the most effective methods. You can use this method if you have set up the " Find My iPhone " function on your device.
@@ -143,6 +155,9 @@ A soft reset is when you restart your device, and a hard reset is when you facto
 
 To force your Apple iPhone 8 Plus to factory reset with buttons, you need to follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
 
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
@@ -189,7 +204,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 8 Plus, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -201,7 +216,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -364,6 +379,9 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 3:** From that option, you will see the tab "buy more tunes" which straight away informs you to reach the iTunes store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click buy more tunes](https://images.wondershare.com/drfone/article/2017/10/15090666562470.jpg)
 
 - **Step 4:** Just click on the home button to go to the phone's main screen.
@@ -435,6 +453,9 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 
 **Step 4:** Software version and device model are detected automatically when the Apple iPhone 8 Plus device is in Recovery Mode. If the automatic detection is incorrect, set it correctly before proceeding. Click Start.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![automatic detection of device and software drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5:** When Dr.Fone is ready to unlock disabled iPhone, click Unlock Now and wait until the notification of a successful unlock is shown.
@@ -442,6 +463,9 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 ![unlock disabled iphone with drfone screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.II: Unlock Disabled iPhone With iTunes/ macOS Finder
 
 The above was a fast, intuitive, step-by-step way to get you through the unlock disabled iPhone process. This was an aftermarket app to help you through the process. However, if you want to achieve the same result the Apple way, do the following:
@@ -539,3 +563,45 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 8 Plus
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-sonically-superior-best-replacements-for-audacity-on-cross-platform-operating-systems/"><u>Updated 2024 Approved Sonically Superior Best Replacements for Audacity on Cross-Platform Operating Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tips-the-fastest-5-diy-filmmaking-tricks-at-home/"><u>In 2024, Pro Tips  The Fastest 5 DIY Filmmaking Tricks at Home</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-8-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 8 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-8-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 8 Lock Screen</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-auditory-appeal-modifying-voices-in-instagrams-storytelling-for-2024/"><u>[Updated] Auditory Appeal  Modifying Voices in Instagram's Storytelling for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revealing-the-top-notch-free-srt-translators-for-your-needs/"><u>2024 Approved  Revealing the Top-Notch FREE SRT Translators for Your Needs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-15-tools-for-windows-11-video-capture/"><u>In 2024, Essential 15 Tools for Windows 11 Video Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/securing-privacy-encryption-and-security-tips-in-zoom-for-windows-11/"><u>Securing Privacy  Encryption and Security Tips in Zoom for Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-8-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-8-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 8 with iTunes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>In 2024, Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-8-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tips-for-using-snap-camera-for-remote-team-collaboration/"><u>[New] In 2024, Tips for Using Snap Camera for Remote Team Collaboration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-8-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 8 When You Forget the Passcode?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-pova-6-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pova 6 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-talking-avatar-for-2024/"><u>New What Is Talking Avatar for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>[Updated] Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8, Apples New iPhone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-sound-of-facts-decoding-digital-audio-workstation-concepts-for-2024/"><u>The Sound of Facts Decoding Digital Audio Workstation Concepts for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-8-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 8 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-art-of-aerial-broadcasting-a-dji-drone-guide-for-facebook-for-2024/"><u>The Art of Aerial Broadcasting  A DJI Drone Guide for Facebook for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-8-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 8 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-8-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 8 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-8-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 8 Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-8-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 8 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-transform-concepts-to-successful-youtube-titles/"><u>[New] 2024 Approved  Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-8-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 8 with a Broken Screen?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-best-rock-songs-list/"><u>New The Best Rock Songs List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-tricky-feed-functions-more-vids-please-for-2024/"><u>[Updated] Unveiling Tricky Feed Functions  More Vids Please for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-final-cut-pro-x-not-responding-heres-how-to-fix-it/"><u>New 2024 Approved Final Cut Pro X Not Responding? Heres How to Fix It</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12
-date: 2024-05-19T07:10:16.561Z
-updated: 2024-05-20T07:10:16.561Z
+date: 2024-07-15T01:24:37.016Z
+updated: 2024-07-16T01:24:37.016Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 keywords: how many attempts to unlock iphone,apple id not active,iphone 15 unlock,remove flashlight from iphone lock screen,what can jailbreak iphone do,how much does unlock a phone cost,unlock iphone without passcode,how to unlock iphone without passcode or face id
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12
@@ -36,6 +36,9 @@ Screen Time Restrictions
 
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
 MDM Profile Restrictions
@@ -96,6 +99,9 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -190,6 +196,9 @@ So let's get started.
 
 Your iPhone passcode can be reset in a variety of ways, depending on whether you have a backup. Below, we'll go over the three most common methods for resetting an iPhone passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Use Find My iPhone
 
 If you've activated Find My iPhone, you can use it to reset your passcode. Resetting your passcode this way is probably the simplest method, as it doesn't require any technical knowledge or special tools.
@@ -239,7 +248,7 @@ If none of the above-mentioned methods works for you, or you don't want to use t
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode
 
@@ -260,6 +269,18 @@ Unlock iPhone Without Passcode
 
 **Step 3:** Follow the instructions below to put your device in DFU or Recovery mode.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4:** Once your device enters into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone 12 6.
@@ -298,7 +319,7 @@ Now you will need to connect your Apple iPhone 12 6 to the computer with a light
 
 Once it's finished, you can safely disconnect your Apple iPhone 12 and keep the backup file safe. So that is how you can safely back up your Apple iPhone 12 without losing any data.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## FAQs
 
@@ -306,6 +327,9 @@ Once it's finished, you can safely disconnect your Apple iPhone 12 and keep the 
 
 If your Apple iPhone 12 is disabled, restoring your device using above mentioned methods is the only way to fix it. However, this will erase all your data, so ensure you have a backup before proceeding.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How can I reset my iPhone if I forget my passcode without losing any data?
 
 As we mentioned before, there is no way to reset your device without losing your data unless you have a backup. So, ensure you have a backup before proceeding with the reset process.
@@ -351,7 +375,7 @@ iTunes is another great way to bypass the activation screen without a SIM card. 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Passcode.
 
@@ -390,7 +414,7 @@ Once your Apple iPhone 12 is in DFU mode, another window will be displayed on th
 
 After downloading the firmware, select “Unlock Now” to unlock your Apple iPhone 12.
 
-![unlock iphone passcode successfully ](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+![unlock iphone passcode successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
@@ -497,3 +521,53 @@ We hope we have covered every bit of this article perfectly and you have success
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xs-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone XS Max? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-xs-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone XS Max Without Passcode Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-apple-video-editors-for-unbeatable-results/"><u>New 2024 Approved Top Apple Video Editors for Unbeatable Results</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XS Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-acquainted-with-picsarts-latest-a-comprehensive-guide-and-review-for-2024/"><u>Getting Acquainted with PicsArt's Latest - A Comprehensive Guide and Review for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-best-mac-video-captures-compilation-under-156-characters/"><u>[Updated] 2024 Approved  Best Mac Video Captures Compilation (Under 156 Characters)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-xs-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone XS Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-xs-max-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone XS Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-xs-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone XS Max Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-xs-max-by-drfone-ios/"><u>How To Unlock A Found iPhone XS Max?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/8-most-reliable-screen-snappers-for-2024/"><u>8 Most Reliable Screen Snappers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-max-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Max Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-xs-max-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone XS Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-xs-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone XS Max with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-xs-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone XS Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-xs-max-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-xs-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone XS Max with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-xs-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone XS Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>2024 Approved  Building Your Dream 4K Video Editing Studio  A DIY Blueprint</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone XS Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-xs-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone XS Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-xs-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone XS Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitta-videos-new-audio-formats/"><u>2024 Approved  Twitta Videos  New Audio Formats</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-xs-max-5-ways-to-get-into-a-locked-iphone-xs-max-by-drfone-ios/"><u>Locked Out of iPhone XS Max? 5 Ways to get into a Locked iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone XS Max</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stepping-up-your-game-understanding-mcns-and-their-impact-on-creators/"><u>Stepping Up Your Game  Understanding MCNs and Their Impact on Creators</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-gt-10-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix GT 10 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xs-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone XS Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-read-only-documents-by-stellar-guide/"><u>Solutions to open Excel Read Only Documents</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone XS Max, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-xs-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone XS Max Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-by-drfone-ios/"><u>How to Unlock iPhone XS Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone XS Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-xs-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone XS Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-xs-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone XS Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xs-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone XS Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xs-max-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-xs-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone XS Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+</ul></div>

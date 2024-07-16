@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XR with a Mask On
-date: 2024-05-19T07:10:02.764Z
-updated: 2024-05-20T07:10:02.764Z
+date: 2024-07-15T01:02:31.725Z
+updated: 2024-07-16T01:02:31.725Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone XR with a Mask On
 excerpt: This article describes How to Unlock iPhone XR with a Mask On
 keywords: disable parental control,change apple id on ipad,unlock disabled iphone without itunes,how to turn off find my iphone when phone is broken,iphone asking for outlook password,how to unlock an iphone 13,how to unlock iphone 7 without passcode,swipe up to unlock iphone,iphone auto lock greyed out,forgot passcode iphone 6,remove flashlight from iphone lock screen,how to unlock iphone with itunes
-thumbnail: https://www.lifewire.com/thmb/36O6mR-32uZPQcZCa_oWmrz1kHY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8fb87ff4960ee8bff73c07e4.jpg
 ---
 
 ## How to Unlock Apple iPhone XR with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone XR to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone XR device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -108,6 +108,9 @@ You can also unlock Apple ID and iCloud passwords without losing the data. Also,
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone XR Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone XR Face ID while wearing a mask.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Disabling Apple iPhone XR Parental Restrictions With/Without Password
 
 Among smartphones, the Apple iPhone XR is well known for its quality and reliability. It is celebrated for its elegant design, robust capabilities, and exceptional security attributes. This device holds innovation within the smartphone industry. Among its array of security features lies the parental controls. These are a specialized set of features and settings crafted to aid parents.
@@ -182,7 +185,7 @@ Among its functions, [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.t
 
 #### Notable Features of Wondershare Dr.Fone
 
-1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/)on their iOS devices without losing their data.
+1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/) on their iOS devices without losing their data.
 2. If your iOS device is stuck at the iCloud Activation Lock, Dr.Fone bypasses this lock without requiring a passcode.
 3. For those facing issues with forgotten Apple ID passwords, Dr.Fone facilitates the removal of Apple ID from devices.
 
@@ -257,7 +260,7 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -330,12 +333,18 @@ As you can see, in all the above-stated solutions, your Apple iPhone XR data wou
 
 2\. Provide a command like “What time is it” to get the current time with the display of the clock icon.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode by tricking Siri-get the current time](https://images.wondershare.com/drfone/article/2017/10/15081780467773.jpg)
 
 3\. Tap on the clock icon to open the world clock interface.
 
 4\. Here, you need to add another clock. Tap on the “+” icon to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-add another clock](https://images.wondershare.com/drfone/article/2017/10/15081781011341.jpg)
 
 5\. To add another city, simply provide any text and tap on it. Choose the “Select all” option.
@@ -358,6 +367,9 @@ As you can see, in all the above-stated solutions, your Apple iPhone XR data wou
 
 10\. This will turn the text in green colour. Now, you need to tap on the add icon beside it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-tap on the add icon](https://images.wondershare.com/drfone/article/2017/10/15081782429835.jpg)
 
 11\. As it will launch a new interface, you can just select the “Create new contact” option.
@@ -366,6 +378,9 @@ As you can see, in all the above-stated solutions, your Apple iPhone XR data wou
 
 12\. This will again provide a new interface to add new content. Tap on the “Add Photo” option and select to choose an existing photo instead.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-Add Photo](https://images.wondershare.com/drfone/article/2017/10/15081782816984.jpg)
 
 13\. The photo library on your phone will be launched. You can simply tap on any album you wish to open.
@@ -395,3 +410,37 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-8-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 8 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-8-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 8 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-8-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 8 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-8-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 8 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-8-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 8? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>In 2024, The Metaverse & Multi-Meva Split  An Exploratory Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-securing-your-playtime-with-diverse-gaming-screen-capture-software-for-2024/"><u>[New] Securing Your Playtime with Diverse Gaming Screen Capture Software for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-8-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-premier-gaming-application-decoding-the-kinemaster-experience/"><u>Android's Premier Gaming Application - Decoding the KineMaster Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-8-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 8</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-acoustic-detox-the-best-programs-for-minimizing-environmental-audio-interference/"><u>New Acoustic Detox The Best Programs for Minimizing Environmental Audio Interference</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-your-camera-essential-tactics-for-hit-youtube-videos/"><u>[New] In 2024, Mastering Your Camera  Essential Tactics for Hit YouTube Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-8-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 8 Lock Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-start-a-product-review-channel/"><u>In 2024, How to Start a Product Review Channel</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-data-recovery-recover-lost-data-from-realme-gt-5-by-fonelab-android-recover-data/"><u>Realme Data Recovery – recover lost data from Realme GT 5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-by-drfone-ios/"><u>In 2024, Disabled iPhone 8 How to Unlock a Disabled iPhone 8?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-8ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 8/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-animation-tools-a-step-by-step-guide-to-bringing-your-drawings-to-life-for-2024/"><u>Updated Top Animation Tools A Step-by-Step Guide to Bringing Your Drawings to Life for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-solve-delayed-or-failed-video-sending-in-facebooks-mobile-messaging-service-for-2024/"><u>[Updated] How to Solve Delayed or Failed Video Sending in Facebook's Mobile Messaging Service for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-8-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora/"><u>2024 Approved  Sparking Interest  Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora)</u></a></li>
+</ul></div>

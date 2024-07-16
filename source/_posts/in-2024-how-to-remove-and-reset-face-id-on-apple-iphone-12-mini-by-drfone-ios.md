@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 12 mini
-date: 2024-05-19T07:10:21.470Z
-updated: 2024-05-20T07:10:21.470Z
+date: 2024-07-15T01:32:17.588Z
+updated: 2024-07-16T01:32:17.588Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone 12 mini
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone 12 mini
 keywords: unlock iphone xs without passcode,how to unlock iphone passcode without computer,erase iphone when locked,get into locked iphone,how much does unlock a phone cost,fix iphone unavailability,how to unlock iphone with itunes,fix iphone backup password never set but still asking,iphone auto lock greyed out,how to unlock iphone without passcode,iphone swipe up not working,iphone backup unlocker
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 12 mini
@@ -178,7 +178,10 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -219,13 +222,16 @@ Sudden exposure to moisture or water damage can also cause the screen to malfunc
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone 12 mini can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1. Fix iOS System Error Without Data Loss: Dr.Fone – System Repair (iOS)
 
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -284,6 +290,9 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 **Instructions:** To restart your Apple iPhone 12 mini 6, press the "Wake/Sleep" button on the top edge of the phone. Hold the other "Home" button at the bottom center screen of the phone. Continue holding the buttons until the Apple logo becomes visible on the display. Then, press the "Wake/Sleep" button and the "Home" button.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
 ### Fix 3. Remove the Cover or Case
@@ -372,15 +381,21 @@ Resetting all settings on your Apple iPhone 12 mini can help resolve software-re
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 12 mini is restored to its original settings.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 12 mini device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 12 mini without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -579,3 +594,57 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XR Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-xr-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-xr-how-to-unlock-a-disabled-iphone-xr-by-drfone-ios/"><u>In 2024, Disabled iPhone XR How to Unlock a Disabled iPhone XR?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-frameflick-recorder-reflection-for-2024/"><u>[Updated] FrameFlick Recorder Reflection for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-blueprints-for-constructing-a-high-definition-video-editing-beast/"><u>[Updated] In 2024, Blueprints for Constructing a High-Definition Video Editing Beast</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xripad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone XR/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-xr-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-locate-the-wolf-whistle-ambiance/"><u>Updated In 2024, Locate the Wolf Whistle Ambiance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR with a Mask On</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-mac-screen-recorders-a-comprehensive-guide/"><u>[New] Best Mac Screen Recorders  A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-xr-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone XR i Do? Get Answers here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-best-youtube-video-promotion-services-real-for-2024/"><u>[New] 8 Best YouTube Video Promotion Services (Real) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-xr-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone XR In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-choosing-the-best-iphone-video-editor-filmorago-or-cameo-in-2024/"><u>[New] Choosing the Best iPhone Video Editor  FilmoRaGo or Cameo, In 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 14 Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pioneering-open-worlds-worth-your-time/"><u>In 2024, Pioneering Open Worlds Worth Your Time</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-content-with-these-10-reaction-wonders/"><u>[Updated] In 2024, Elevate Your Content with These 10 Reaction Wonders</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/co-create-content-to-maximize-youtube-follower-count-for-2024/"><u>Co-Create Content to Maximize YouTube Follower Count for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-xr-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone XR</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-x-fold-2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo X Fold 2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-projecting-yourself-to-the-world-with-insta-captions/"><u>[Updated] Projecting Yourself to the World with Insta Captions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone XR Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-is-now-transformative-metaverse-techniques-for-2024/"><u>The Future Is Now  Transformative Metaverse Techniques for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-guide-to-premiere-pro-fs-preview-for-2024/"><u>[New] Expert Guide to Premiere Pro FS Preview for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-battlefield-brilliance-unleashed-a-guide-to-top-7-total-war-triumphs/"><u>[Updated] Battlefield Brilliance Unleashed  A Guide to Top 7 Total War Triumphs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xr-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XR Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-xr-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone XR? Learn All 4 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 11</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-10-must-haves-to-optimize-and-enrich-your-discord-experience/"><u>[New] 10 Must-Haves to Optimize and Enrich Your Discord Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-guide-to-gaming-success-on-steam/"><u>The Complete Guide to Gaming Success on Steam</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-stop-wasting-time-check-out-our-verified-filmora-coupons/"><u>2024 Approved Stop Wasting Time Check Out Our Verified Filmora Coupons</u></a></li>
+</ul></div>

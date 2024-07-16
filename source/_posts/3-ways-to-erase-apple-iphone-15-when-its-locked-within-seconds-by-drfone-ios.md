@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone 15 When Its Locked Within Seconds
-date: 2024-07-01T12:04:39.167Z
-updated: 2024-07-02T12:04:39.167Z
+date: 2024-07-15T02:33:59.677Z
+updated: 2024-07-16T02:33:59.677Z
 tags: 
   - unlock
   - remove screen lock
@@ -95,6 +95,9 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![erase iphone when locked-restore backup](https://images.wondershare.com/drfone/article/2017/07/14993649149685.jpg "restore backup")
 
 4\. agree to the pop-up message by clicking on the “Restore” button.
@@ -151,6 +154,9 @@ A significant possibility is that you encrypted the iTunes backup with the same 
 
 Therefore, before doing anything further, try all passwords to configure your iTunes account. For example, try entering 0000, 123456, name123, or 1111.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Find the password from Keychain on macOS
 
 You may also attempt to find the password for the iTunes backup using the keychain approach if you are working on a Mac.
@@ -163,6 +169,9 @@ The likelihood of success with this approach is relatively low. However, it is s
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. "Reset All Settings"
 
 Resetting the password is another option at your disposal if you encounter the Apple iPhone 15 backup password never set problem. How you do this will be different depending on the version of iOS that you have installed.
@@ -281,6 +290,9 @@ Your locked iPhone has now been successfully unlocked without iTunes after the r
 
 The process will take a few minutes if you have a strong internet connection because the Firmware may take some time to download. So be patient and wait for the process to be completed.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## 3 Simple Methods to Factory Reset Locked iPhone
@@ -325,6 +337,9 @@ To do this, you need to follow these steps:
 
 Your device will now be erased, and you can set it up as a new device.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method #3: Enter the Recovery Mode of the Finder
 
 If you want to factory reset your locked iPhone without iTunes and any data loss, then this is the method you should use. This method will put your device into recovery mode, and then you can restore it from a previous backup.
@@ -404,3 +419,57 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-pro-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 Pro With or Without Password</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comprehensive-list-zoom-recording-must-haves/"><u>2024 Approved  Comprehensive List  Zoom Recording Must-Haves</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essential-blueprint-crafting-memes-that-perform-on-social-networks/"><u>[New] The Essential Blueprint  Crafting Memes That Perform on Social Networks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-digitally-liberated-fb-tunes/"><u>[Updated] 2024 Approved  Digitally Liberated FB Tunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-15-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-snapshot-sentence-maker/"><u>[Updated] 2024 Approved  Snapshot Sentence Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>[New] Bringing Rhythm to Slides  Including Tunes in PPT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-15-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 15 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-camon-30-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Camon 30 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-swipe-left-on-watermarks-for-iphone-tiktok-downloads/"><u>[Updated] In 2024, Swipe Left on Watermarks for iPhone TikTok Downloads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-15-pro-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 15 Pro Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-masterful-thumbnails-in-a-flash-professional-valorant-creations/"><u>2024 Approved  Masterful Thumbnails in a Flash  Professional Valorant Creations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-free-webm-video-editing-tools/"><u>New 2024 Approved Top-Rated Free WebM Video Editing Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-15-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 15 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-webm-transformation-from-tweeted-visuals-for-2024/"><u>[Updated] WebM Transformation From Tweeted Visuals for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-the-monetization-framework-of-tseries-via-youtube/"><u>2024 Approved  Exploring the Monetization Framework of TSeries via YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-15-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 15 Plus Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-pop-7-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Pop 7 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-15-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 15 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 15 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-15-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 15 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-asus-rog-phone-7-ultimate-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Asus ROG Phone 7 Ultimate ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-tactics-for-easy-youtube-cta-conversions-for-2024/"><u>[Updated] Green Tactics for Easy YouTube CTA Conversions for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-15-plus-how-to-unlock-a-disabled-iphone-15-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 15 Plus How to Unlock a Disabled iPhone 15 Plus?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-new-frontier-of-video-conversations-a-2023-guide-to-non-omegle-chat-websites/"><u>New In 2024, The New Frontier of Video Conversations A 2023 Guide to Non-Omegle Chat Websites</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-aspect-ratio-essentials-5-things-you-need-to-know/"><u>New In 2024, Aspect Ratio Essentials 5 Things You Need to Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-quantum-hdr/"><u>In 2024, The Ultimate Guide to Quantum HDR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Pro With 7 Methods</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-and-fantastic-top-video-editing-apps-for-chromebook/"><u>New 2024 Approved Free and Fantastic Top Video Editing Apps for Chromebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-15-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 15 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/browse-the-list-of-the-best-8-scanners-or-converters-for-converting-the-slides-to-digital-images-also-know-the-other-important-information-of-slides-to-digi/"><u>Browse the List of the Best 8 Scanners or Converters for Converting the Slides to Digital Images. Also, Know the Other Important Information of Slides to Digital Conversion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10-tools-for-youtube-to-webm-conversion/"><u>[New] Top 10 Tools for YouTube to WebM Conversion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-15-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 15 Pro When Its Locked Within Seconds</u></a></li>
+</ul></div>

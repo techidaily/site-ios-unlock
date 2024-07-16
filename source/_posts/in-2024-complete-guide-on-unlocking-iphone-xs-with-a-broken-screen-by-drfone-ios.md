@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking iPhone XS with a Broken Screen?
-date: 2024-06-15T17:48:51.624Z
-updated: 2024-06-16T17:48:51.624Z
+date: 2024-07-15T00:51:05.146Z
+updated: 2024-07-16T00:51:05.146Z
 tags: 
   - unlock
   - remove screen lock
@@ -41,6 +41,9 @@ Also, if your Apple iPhone XS screen is broken, you can use this feature to unlo
 
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-1.jpg)
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
@@ -194,7 +197,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XS can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -228,6 +231,9 @@ After successfully downloading Dr.Fone on your device, navigate towards the left
 
 Select the Apple iPhone XS device type from the available options and select "iPhone." From the new window, select "iOS Repair," and following that, select "Standard Repair." Now, follow the instructions available and enable recovery mode for your iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![choose to repair ios](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
 **Step 3: Select iOS Firmware to Initiate the Repair Process**
@@ -343,13 +349,16 @@ Resetting all settings on your Apple iPhone XS can help resolve software-related
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone XS device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone XS without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -477,12 +486,18 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 - You will now get new choices, including cut, copy, and so on. Tap on the "Share" button to proceed. You will get options for sharing the text. Click on the Message icon. Your device will open another window. Now, you begin drafting another message. Go to the "To" field, and type any text. Click back to proceed with opening an iPhone without a PC.
 - The text will become green. Yet again, now that your text is chosen, click on "+" to add a symbol. When you tap it, another window will open. Click on "Create new contact" to proceed. You will now see a window where you can add another contact. Tap on "Add Photo" to move.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-4.jpg)
 
 - Click the "Select/Pick Photo" button to choose a photograph from your library. When the library opens, you can see the collections. Do not click anywhere. Wait for a couple of moments, and afterward, tap on the Home button. You will then access the Home screen. That's **how to unlock disabled iPhones without computer.**
 
 ## Bonus Tips: Easy App to Unlock Your Apple iPhone XS
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone-Screen Unlock
 
 
@@ -548,3 +563,55 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/narrow-your-focus-on-elite-hdr-camera-systems/"><u>Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/interpreting-single-photos-as-video-chronicles/"><u>Interpreting Single Photos as Video Chronicles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-memorable-content-with-personalized-gifs/"><u>[Updated] Crafting Memorable Content with Personalized GIFS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-14-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 14 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-top-5-free-wmv-video-merging-solutions/"><u>2024 Approved Top 5 Free WMV Video Merging Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-create-engaging-videos-with-these-8-leading-explainer-video-tools/"><u>Updated In 2024, Create Engaging Videos with These 8 Leading Explainer Video Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-overcome-no-image-problem-in-youtube-shorts-for-2024/"><u>How To Overcome No Image Problem in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-pro-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-14-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 14 Pro Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-14-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 14 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-snap-camera-in-ms-teams/"><u>[New] In 2024, Mastering Snap Camera in MS Teams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mycam-in-action-a-detailed-review-of-its-recording-abilities-for-2024/"><u>MyCam in Action  A Detailed Review of Its Recording Abilities for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-strategic-blending-elevating-video-sequence-harmony-for-2024/"><u>[Updated] Strategic Blending  Elevating Video Sequence Harmony for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-skills-importing-snapchat-images-into-device-gallery/"><u>2024 Approved  Essential Skills  Importing Snapchat Images Into Device Gallery</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-3-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord 3 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-10-editing-wizards-fcps-must-have-plugins/"><u>[New] Top 10 Editing Wizards  FCP's Must-Have Plugins</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-pro-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 14 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Pro Prevention & Solution</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-essential-tiktok-to-twitter-sharing-for-2024/"><u>[Updated] The Essential TikTok to Twitter Sharing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-open-the-file-or-folder-properties-in-windows/"><u>6 Ways to Open the File or Folder Properties in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>[New] In 2024, Elevate Your Digital Footprint  Crafting Compelling Shorts Thumbnails</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-bland-to-blockbuster-framing-videos-in-a-square-perspective/"><u>2024 Approved  From Bland to Blockbuster  Framing Videos in a Square Perspective</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-14-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-14-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 14 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-enhancing-your-video-with-professional-voice-overs/"><u>[New] In 2024, Enhancing Your Video with Professional Voice Overs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-14-pro-how-to-unlock-a-disabled-apple-iphone-14-pro-by-drfone-ios/"><u>Disabled Apple iPhone 14 Pro How to Unlock a Disabled Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-visual-giggle-factory-memebake-zone/"><u>[Updated] In 2024, Visual Giggle Factory  Memebake Zone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/crack-the-code-twitter-video-aspect-ratio-secrets-revealed-for-2024/"><u>Crack the Code Twitter Video Aspect Ratio Secrets Revealed for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-14-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-discover-5-easy-ways-to-take-professional-quality-videos-with-macs-webcam/"><u>[New] In 2024, Discover 5 Easy Ways to Take Professional Quality Videos with Mac's Webcam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Pro Without a Home Button</u></a></li>
+</ul></div>

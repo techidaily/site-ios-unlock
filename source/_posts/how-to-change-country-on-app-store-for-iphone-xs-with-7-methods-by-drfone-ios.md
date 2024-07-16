@@ -1,7 +1,7 @@
 ---
 title: How To Change Country on App Store for iPhone XS With 7 Methods
-date: 2024-05-19T07:09:53.400Z
-updated: 2024-05-20T07:09:53.400Z
+date: 2024-07-15T00:47:57.708Z
+updated: 2024-07-16T00:47:57.708Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Change Country on App Store for iPhone XS With 7 Methods
 excerpt: This article describes How To Change Country on App Store for iPhone XS With 7 Methods
 keywords: iphone auto lock greyed out,forgot passcode on iphone,doctorism unlock review,iphone locked to owner,unlock lost phone,fix iphone backup password never set but still asking,iphone backup password,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## How To Change Country on App Store for Apple iPhone XS With 7 Methods
@@ -79,6 +79,9 @@ If you're part of a family sharing group, you need to leave the group before you
 - **Step 1:** Open the **Settings** app on your Apple iPhone XS and tap **Family**.
 - **Step 2:** Tap your name and tap **Stop Using Family Sharing**. Once you have left the family sharing group, you can change your App Store country by following the aforementioned manners.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![leave family sharing group](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-06.jpg)
 
 ### Method 5: Cancel All Subscriptions
@@ -176,6 +179,9 @@ At first, you can go to Settings > Notifications. Here, you can choose how many 
 
 The Do Not Disturb feature is the second way to manage notifications. To do this, go to Settings > Do Not Disturb and enable the feature. You can also schedule when Do Not should turn on and off. This feature work like a charm if you want to silence all notifications at night.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. How to set Auto-Lock time
 
 If you want to set the Auto-Lock time, go to Settings > Display & Brightness > Auto-Lock. Here, you can choose how long it should take for your Apple iPhone XS to lock automatically.
@@ -216,6 +222,9 @@ To do this, connect your Apple iPhone XS to a computer and open iTunes. Then, cl
 
 It will take some time, but you can use your Apple iPhone XS without a passcode once it's done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode on itunes](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-7.jpg)
 
 ### 3\. Use Find My in iCloud
@@ -230,6 +239,9 @@ All the data will disappear on your Apple iPhone XS, and you'll be able to acces
 
 This process can also take some time, so be patient.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find My Apple iPhone XS feature](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-8.jpg)
 
 ### 4\. Dr.Fone-Screen Unlock
@@ -389,6 +401,9 @@ Another lifesaver method to unlock stolen iPhones is by utilizing the Recovery M
 - **For iPhone 7 and 7 Plus:** Press and hold the "Volume Down" and "Side/Power" buttons to enable Recovery Mode in iPhone 7 models.
 - **For iPhone 6 and Earlier:** To activate Recovery Mode, press and hold the "Home" and "Side/Power" buttons until the respective screen displays.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![putting iphone in recovery mode](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-8.jpg)
 
 - **Step 2:** Once your Apple iPhone XS is in Recovery Mode, iTunes will detect it automatically. A pop-up window will appear within iTunes to detect some problems with the Apple iPhone XS device. Tap the "Restore" button to start the process and unlock your Apple iPhone XS by erasing all settings and content.
@@ -428,3 +443,52 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-8-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 8 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamlessly-integrate-apple-podcasts-into-your-routine/"><u>Seamlessly Integrate Apple Podcasts Into Your Routine</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-lip-sync-frenzy-discover-the-top-5-apps-for-creating-fun-videos/"><u>Updated In 2024, Lip Sync Frenzy Discover the Top 5 Apps for Creating Fun Videos</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-11-proplus-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme 11 Pro+</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>[Updated] In 2024, Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-potential-without-tpm/"><u>Unlocking Windows 11'S Full Potential without TPM</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/full-review-of-logitechs-ultimate-4k-professional-cam/"><u>Full Review of Logitech's Ultimate 4K Professional Cam</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-8-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 8 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-8-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 8 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-easier-optimize-hp-graphics-performance/"><u>Win7 Easier: Optimize HP Graphics Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>Updated 2024 Approved Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-8-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 8 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-8-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 8 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-8-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 8 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-8-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-8-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 8 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 in Lost Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-iphone-camera-apps-for-amateurs-and-experts-alike/"><u>Top-Tier iPhone Camera Apps for Amateurs & Experts Alike</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-appearance-in-apples-audio-library/"><u>In 2024, Mastering Appearance in Apple's Audio Library</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lighten-the-digital-landscape-kapwings-meme-builder/"><u>[New] Lighten the Digital Landscape  Kapwing's Meme Builder</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-8-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 8 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-7-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 7 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-8-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 8 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-8-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 8? Learn All 4 Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-se-2022-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-8-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-streamline-video-creation-incorporating-apples-siri-into-tiktok/"><u>[New] 2024 Approved  Streamline Video Creation  Incorporating Apple's Siri Into TikTok</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/from-novice-to-pro-your-discord-broadcast-journey/"><u>From Novice to Pro  Your Discord Broadcast Journey</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-8-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nalign-studio-for-2024/"><u>VisionAlign Studio for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-8-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 8 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-8-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 8 Lock Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-the-maze-of-insta-story-downloads-for-2024/"><u>[New] Navigating the Maze of Insta Story Downloads for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 8 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-8-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-8-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-8-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 8 Passcode Change Itself? Unlock It Now</u></a></li>
+</ul></div>

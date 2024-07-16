@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Apple iPhone 8 Backup Password? Heres What to Do
-date: 2024-05-19T07:09:51.358Z
-updated: 2024-05-20T07:09:51.358Z
+date: 2024-07-15T00:44:33.439Z
+updated: 2024-07-16T00:44:33.439Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone 8 Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone 8 Backup Password? Heres What to Do
 keywords: iphone locked to owner,bypass apple store verification,how to remove face id on iphone 13,fix iphone passcode not working,unlock disabled iphone without computer,how to unlock iphone with broken screen,how to unlock iphone without passcode,ios 17 lock screen
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## Forgot Apple iPhone 8 Backup Password? Here's What to Do
@@ -48,6 +48,9 @@ At this point, a USB cable should be used to connect the Apple iPhone 8 device t
 
 Select the Encrypt Local Backup option in the Backups section directly from either the Summary or General tab of the Backups section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
 **Step 4:** Create a Password
@@ -267,6 +270,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 8 device and let you pick a photo.
@@ -319,6 +325,9 @@ In almost no time, the software will unlock your Apple iPhone 8 effectively. How
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Unlock Stolen Apple iPhone 8 In Different Conditionsin
 
 Whenever your Apple iPhone 8 gets stolen, multiple concerns involve accessing the Apple iPhone 8 device and stored data. However, you might get it back after some time only to find that your stolen iPhone is now locked. The reasons could be long inactivity or someone who has entered the wrong passcode multiple times.
@@ -333,6 +342,9 @@ Now that we are familiar with certain scenarios, the first method that provides 
 
 Wondershare Dr.Fone can unlock all lock screens, including Face ID and passcodes for the latest iOS models. If you have forgotten your Apple ID, this tool helps you remove it without any password. Even if MDM restrictions are imposed on your device, you can remove them without any data loss.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Notable Features of Wondershare Dr.Fone
 
 1. This tool is compatible with the latest iOS version and models, such as iPhone 15 and iOS 17.
@@ -396,6 +408,9 @@ Another lifesaver method to unlock stolen iPhones is by utilizing the Recovery M
 
 - **Step 2:** Once your Apple iPhone 8 is in Recovery Mode, iTunes will detect it automatically. A pop-up window will appear within iTunes to detect some problems with the Apple iPhone 8 device. Tap the "Restore" button to start the process and unlock your Apple iPhone 8 by erasing all settings and content.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-9.jpg)
 
 ## Part 4. Using Third-Party Unlocking Service To Unlock Stolen iPhone
@@ -431,3 +446,52 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-share-worthiness-creator/"><u>In 2024, Ultimate Share Worthiness Creator</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-15-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 15 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-15-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Lock Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unlocking-adsense-potential-in-youtube-content-creation/"><u>[New] In 2024, Unlocking AdSense Potential in YouTube Content Creation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-15-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 15 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-15ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-tips-for-smooth-youtube-content-trimming/"><u>[New] Essential Tips for Smooth YouTube Content Trimming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-15-how-to-unlock-a-disabled-iphone-15-by-drfone-ios/"><u>Disabled iPhone 15 How to Unlock a Disabled iPhone 15?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-pc-image-management-for-iphone-integration/"><u>[New] In 2024, PC Image Management for iPhone Integration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 15 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-15-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 15</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-narzo-60-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Narzo 60 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-15-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-15-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 15 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-15-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 15 In Different Conditionsin</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y100i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y100i Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-15-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 15 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Passcode without Computer?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-olympic-sprint-spotlight-year-2022/"><u>[Updated] Olympic Sprint Spotlight  Year 2022</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-15-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 15 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 15 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/verifying-online-self-portraits-on-insta/"><u>Verifying Online Self-Portraits on Insta</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-15-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 15 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pinnacle-of-presence-a-strategic-approach-for-live-video-graphics/"><u>[New] Pinnacle of Presence  A Strategic Approach for Live Video Graphics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 15 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dissecting-youtubes-activities-post-uploading-videos/"><u>[Updated] Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-motorola-moto-g13-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Motorola Moto G13? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-15-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 15? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 With or Without Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-phone-background-blur-companion/"><u>Ultimate Phone Background Blur Companion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-15-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 15 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-understanding-facebook-reels-and-their-production-techniques/"><u>2024 Approved  Understanding Facebook Reels and Their Production Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 15 Without Swiping Up? 6 Ways</u></a></li>
+</ul></div>

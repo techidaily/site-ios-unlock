@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone XS Max with a Mask On
-date: 2024-05-19T07:09:57.052Z
-updated: 2024-05-20T07:09:57.052Z
+date: 2024-07-15T00:53:06.288Z
+updated: 2024-07-16T00:53:06.288Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone XS Max with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone XS Max with a Mask On
 keywords: iphone x iphone xr lock screen,total wireless unlock,unlock disabled iphone without computer,change apple id email address,unlock iphone face id wearing mask,how to unlock iphone passcode without computer,remove device supervision from iphone,get into locked iphone,iphone swipe up not working,how to unlock a found iphone,unlock iphone 11 12 13 without passcode
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## How to Unlock Apple iPhone XS Max with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone XS Max to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone XS Max device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -124,6 +124,9 @@ The primary reason Apple requires verification for App Store purchases is to ens
 
 What does this verification usually involve? It could be entering your Apple ID password or using Face ID or [<u>Touch ID</u>](https://drfone.wondershare.com/iphone-11/iphone-11-touch-id-not-working.html) if your device supports these features. These methods are designed to confirm your identity quickly and securely.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verification required notification](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-02.jpg)
 
 ### Reasons Why the Verification Required Message Might Appear
@@ -152,6 +155,9 @@ Sometimes, unpaid subscriptions can trigger the verification prompt. Tap the App
 
 ![subscriptions page app store](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Don’t Require Password for Purchases
 
 For less frequent purchases, you should change the settings so you don’t always have to enter your password. Go to Settings, then to **Screen Time**. Under **Content & Privacy Restrictions**, select **iTunes & App Store Purchases**. Here, you can change the settings to **Don’t Require** for purchases. However, be cautious with this method as it reduces security.
@@ -257,7 +263,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XS Max can be
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -316,6 +322,9 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 **Instructions:** To restart your Apple iPhone XS Max 6, press the "Wake/Sleep" button on the top edge of the phone. Hold the other "Home" button at the bottom center screen of the phone. Continue holding the buttons until the Apple logo becomes visible on the display. Then, press the "Wake/Sleep" button and the "Home" button.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
 ### Fix 3. Remove the Cover or Case
@@ -412,13 +421,16 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
 - Simple, click-through, process.
 - Unlock screen passwords from all iPhones and iPads.
 - No tech knowledge is required, everybody can handle it.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 - Supports iPhone 15 / iPhone 14 / iPhone 13 / 12, iPhone 11, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,216** people have downloaded it
@@ -451,6 +463,9 @@ Now, adhere to the on-screen prompts provided to enter Recovery Mode based on th
 
 Once the iOS firmware has been successfully downloaded, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will emerge on the screen, requesting confirmation of the process. Enter the code and tap "Unlock" to proceed to the final step. Upon successfully unlocking the iDevice, click the "Done" button to finish the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 
@@ -479,3 +494,39 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-se-2022-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone SE (2022) Prevention & Solution</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-conversation-game-mastering-the-art-of-sending-gifs-in-snapchat/"><u>In 2024, Elevate Your Conversation Game  Mastering the Art of Sending GIFs in Snapchat</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-picks-for-discord-romantic-connections/"><u>[New] Top Picks for Discord Romantic Connections</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 mini</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>[Updated] Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-14-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premium-mac-image-transformer/"><u>2024 Approved  Premium Mac Image Transformer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-xr21-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia XR21 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-11-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-se-2020-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE (2020) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-direct-mp4-uploader-perfect-for-facebook-channels/"><u>[New] 2024 Approved  Direct MP4 Uploader  Perfect for Facebook Channels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-13-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 13 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-success-with-tinder-profiles-check-out-these-hacks-now/"><u>[New] Quick Success with Tinder Profiles? Check Out These Hacks Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-x-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-13-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-understanding-facebooks-policy-on-media-content-sharing/"><u>[Updated] Understanding Facebook's Policy on Media Content Sharing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-13-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 13 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-8-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 8 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-approaches-to-vector-graphics-using-the-best-software-for-2024/"><u>Innovative Approaches to Vector Graphics Using the Best Software for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-se-2022-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE (2022) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-8-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 8 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-slowly-quieting-tracks-with-fl-studio/"><u>[Updated] In 2024, Slowly Quieting Tracks with FL Studio</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-11-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-11-pro-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 11 Pro Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-8-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-11-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 11 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-device-to-tv-how-to-cast-local-videos-to-chromecast-on-any-platform/"><u>New 2024 Approved From Device to TV How to Cast Local Videos to Chromecast on Any Platform</u></a></li>
+</ul></div>

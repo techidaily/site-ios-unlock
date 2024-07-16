@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes
-date: 2024-06-15T17:47:29.432Z
-updated: 2024-06-16T17:47:29.432Z
+date: 2024-07-15T02:58:33.079Z
+updated: 2024-07-16T02:58:33.079Z
 tags: 
   - unlock
   - remove screen lock
@@ -107,6 +107,9 @@ To do this, you need to follow these steps:
 
 Your device will now be erased, and you can set it up as a new device.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method #3: Enter the Recovery Mode of the Finder
 
 If you want to factory reset your locked iPhone without iTunes and any data loss, then this is the method you should use. This method will put your device into recovery mode, and then you can restore it from a previous backup.
@@ -183,7 +186,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 12 Pro Max Without iTunes/ iCloud.
 
@@ -216,7 +219,7 @@ Do note that all methods that unlock your Apple iPhone 12 Pro Max will necessari
 
 Your Apple iPhone 12 Pro Max will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 12 Pro Max device. When you set the Apple iPhone 12 Pro Max device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 12 Pro Max prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 12 Pro Max device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 12 Pro Max Using iTunes or macOS Finder
 
@@ -260,7 +263,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 12 Pro Max from the Apple iPhone 12 Pro Max devices from the left pane, click/ tap your disabled Apple iPhone 12 Pro Max and click/ tap Erase This Device
 
@@ -280,7 +283,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 12 Pro Max easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -293,6 +296,9 @@ After all this to get access back, you might think let's go passcode-less and pr
 - 1.3 Never use repeating numbers.
 - 1.4 Do not use your ATM PIN as your phone passcode either. Think of some digits or combination that makes sense to you and only you. And then use it.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 2: Use Face ID
 
 Along with Passcode comes the option of Face ID on your Apple iPhone 12 Pro Max, so use that. That will minimize instances for you to enter your passcode, and may make you forget it again, though. So, make sure that the passcode you set does make sense to you and you can remember it always without effort.
@@ -301,7 +307,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 12 Pro Max,
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 12 Pro Max disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 12 Pro Max device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -311,6 +317,9 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -345,6 +354,9 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
@@ -449,6 +461,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -488,3 +503,51 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-8-plus-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-intro-maker-tools-for-pc-top-picks-online-and-offline/"><u>New Intro Maker Tools for PC Top Picks Online and Offline</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-spark-10-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Spark 10 4G?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-8-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-busting-myths-essential-facts-on-instagrams-reels/"><u>[New] 2024 Approved  Busting Myths  Essential Facts on Instagram's Reels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-best-live-streaming-software-for-mac-you-must-know/"><u>5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-8-plus-how-to-unlock-a-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>Disabled Apple iPhone 8 Plus How to Unlock a Disabled Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elevate-your-storytelling-with-strategic-video-callouts-for-2024/"><u>[New] Elevate Your Storytelling with Strategic Video Callouts for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-nvidiawindows-xp-integration-issue/"><u>Fixed Nvidia/Windows XP Integration Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-8-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 8 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-8-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 8 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-examination-of-cambridge-sound-technologies-cxu-equipment/"><u>Updated In 2024, Examination of Cambridge Sound Technologies CXU Equipment</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-venues-fueling-youtube-visibility/"><u>2024 Approved  Premier Venues Fueling YouTube Visibility</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-boosting-gaming-engagement-with-high-quality-steam-captures/"><u>[New] Boosting Gaming Engagement with High Quality Steam Captures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unleash-your-channels-premium-cost-free-intro-makers/"><u>2024 Approved  Unleash Your Channels  Premium, Cost-Free Intro Makers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-8-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>2024 Approved  Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-what-does-instantaneous-video-removal-mean-for-user-privacy-in-2024/"><u>[New] What Does Instantaneous Video Removal Mean for User Privacy, In 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-face-swap-revolution-top-apps-for-iphone-and-android/"><u>New In 2024, The Face Swap Revolution Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-8-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 8 Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-8-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 8 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-8-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 8 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-8-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 8 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-8-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 8 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-8-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 8 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-14-pro-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 14 Pro Apple ID on MacBook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-plus-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Plus Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-8-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lightroom-classic-learning-hub/"><u>Lightroom Classic Learning Hub</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 Plus in Lost Mode</u></a></li>
+</ul></div>

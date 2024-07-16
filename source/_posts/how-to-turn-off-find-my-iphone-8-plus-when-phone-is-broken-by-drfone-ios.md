@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 8 Plus when Phone is Broken?
-date: 2024-04-04T22:43:53.361Z
-updated: 2024-04-05T22:43:53.361Z
+date: 2024-07-15T03:06:44.556Z
+updated: 2024-07-16T03:06:44.556Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 8 Plus when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 8 Plus when Phone is Broken?
 keywords: how much does unlock a phone cost,turn off restricted mode,unlock iphone xs without passcode,unlock disabled iphone without itunes,open iphone without home button,unlock iphone 14,iphone 11 passcode bypass,unlock disabled iphone 13,forgot passcode on iphone,factory reset locked iphone without itunes,unlock iphone passcode without computer,fix iphone backup password never set but still asking
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -154,7 +154,7 @@ It offers an absolute way to regain access to your notes and device if you **for
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
-2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your iOS device if you have forgotten its credentials.
+2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
 
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone
@@ -206,6 +206,9 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 - **Step 1.** Before starting, ensure you have Touch ID/Face ID already enabled. Now, open the Notes app and navigate to the locked note. Tap the note followed by pressing "View Note." Then, you will be required to use Touch ID or Face ID to unlock the note.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
 
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
@@ -234,6 +237,9 @@ Accidents happen, and sometimes they take a toll on your Apple iPhone 8 Plus's e
 
 But fear not, for there are ways to **unlock an iPhone without a Home button**. This guide explores ways **how to open an iPhone without a Home button**. In case of a Home button malfunction, explore these quick and easy fixes for a reliable workaround. Read on to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
 
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
@@ -293,11 +299,17 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 - **Step 1:** Visit the official Dr.Fone website and download software. Install the software on your computer and launch it. Next, click **Toolbox** > **Screen** **Unlock > iOS**. Connect your Apple iPhone 8 Plus using a USB cable and choose **Unlock iOS Screen**. Ensure the software recognizes your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone unlock ios screen window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 
 - **Step 2:** Click **Start** and follow the on-screen instructions. Dr.Fone will automatically detect your device and provide the appropriate firmware package for download. Confirm and proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![start ios screen unlocking process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
 - **Step 3:** Once the firmware is downloaded, Dr.Fone will verify it. Confirm the details and click **Unlock Now** to begin the unlocking process. Follow the on-screen instructions once more.
@@ -362,6 +374,9 @@ This unconventional method involves using the charging cable to apply gentle pre
 
 If your Apple iPhone 8 Plus is still under warranty, visiting an Apple Store is advisable. Apple's warranty covers hardware issues, including malfunctioning Home buttons.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 A broken iPhone Home button need not spell disaster. Embrace the solutions discussed and try the best solution available. Enable AssistiveTouch, recalibrate the Home button, clean the area, or even visit an Apple Store if under warranty.
@@ -385,3 +400,59 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-find-x6-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Find X6 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Ultra Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed-for-2024/"><u>Full Spectrum Visionary  EIZO's CG318-4K Reviewed and Revealed for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-10-igtv-edit-apps-maximize-your-video-content/"><u>In 2024, Top 10 IGTV Edit Apps  Maximize Your Video Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-11-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 11 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-slow-mo-top-8-video-speeders/"><u>[Updated] Revolutionizing Slow Mo  Top 8 Video Speeders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 11 Passcode without Computer?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-fast-track-to-voice-reduction-in-audacity/"><u>New 2024 Approved The Fast Track to Voice Reduction in Audacity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s24-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy S24</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-audio-processing-at-zero-cost/"><u>[Updated] Unlimited Audio Processing at Zero Cost</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-11-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 11 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-11-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 11 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-free-8-best-plugins-for-logic-pro-x/"><u>New In 2024, FREE 8 Best Plugins for Logic Pro X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-windows-11-excellent-video-capture-tools-compared/"><u>[Updated] Windows 11  Excellent Video Capture Tools Compared</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-c12-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia C12 by Name | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-11-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 11 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-11-5-ways-to-get-into-a-locked-apple-iphone-11-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 11? 5 Ways to get into a Locked Apple iPhone 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-classic-fanfare-fix-for-2024/"><u>[Updated] Classic Fanfare Fix for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-zero-30-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Zero 30 5G Is Unlocked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-11-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 11 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-is-earnings-linked-to-product-reviews-in-media/"><u>[Updated] Is Earnings Linked to Product Reviews in Media?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extensive-look-at-djis-inspire-1-drone-for-2024/"><u>Extensive Look at DJI's Inspire 1 Drone for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-create-ai-avatar-video-with-templates/"><u>2024 Approved Create AI Avatar Video with Templates</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetvid-to-mp4-quick-conversion-tool/"><u>[New] TweetVid to MP4 - Quick Conversion Tool</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-11-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 11 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-essential-guide-to-adding-soundtracks-to-windows-gifs-for-2024/"><u>The Essential Guide to Adding Soundtracks to Windows GIFs for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/forget-youtube-here-are-the-best-10-mobile-video-sites/"><u>Forget YouTube? Here Are the Best 10 Mobile Video Sites</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 11 Passcode Screen?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-desktop-snapshot-made-simple-free-tools-for-windows/"><u>[New] In 2024, Desktop Snapshot Made Simple – Free Tools for Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro-for-2024/"><u>The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-crafting-compelling-lower-thirds-essential-tips-for-fcpx/"><u>New In 2024, Crafting Compelling Lower Thirds Essential Tips for FCPX</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 11 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+</ul></div>

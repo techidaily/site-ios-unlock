@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XS with a Mask On
-date: 2024-07-08T12:36:18.729Z
-updated: 2024-07-09T12:36:18.729Z
+date: 2024-07-15T00:48:51.081Z
+updated: 2024-07-16T00:48:51.081Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,6 +45,9 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone XS. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
@@ -61,6 +64,9 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Unlock iPhone Face ID Using Apple Watch
 
 Before unlocking iPhone through the Apple Watch, some requirements are necessary for security reasons. Read the following requirements to proceed further:
@@ -142,6 +148,9 @@ At this point, a USB cable should be used to connect the Apple iPhone XS device 
 
 Select the Encrypt Local Backup option in the Backups section directly from either the Summary or General tab of the Backups section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
 **Step 4:** Create a Password
@@ -283,6 +292,9 @@ Activation Lock is a strong and innovative security feature introduced by Apple.
 
 The Activation Lock works by associating a device with the iCloud account of the owner. When the Apple iPhone XS device is set up or restored, it prompts the user to sign in with their Apple ID and activates Activation Lock.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Activation Lock Status
 
 Once enabled, Activation Lock securely stores the Apple iPhone XS device's unique identifier (IMEI or serial number). It also stores the associated iCloud account details on Apple's servers. This information is used to verify the Apple iPhone XS device's status during activation and prevent unauthorized use.
@@ -331,6 +343,9 @@ To make this procedure work, the owner will need to use the Find My Device featu
 
 ![tap on erase iphone](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Use the DNS Method To Unlock the Apple iPhone XS Locked to Owner
 
 When you are unable to access the Apple iPhone XS device, the DNS method can be an alternative solution. This method involves changing the DNS settings on your Apple iPhone XS to bypass the activation lock screen. However, the procedure works only for devices running on older iOS versions.
@@ -421,3 +436,47 @@ Wondershare Dr.Fone's comprehensive toolkit provides a range of options to cater
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-pro-max-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Max Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-11-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 11 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-lighten-your-load-with-laughs-fb-detainment-chuckle-highlighters/"><u>[New] 2024 Approved  Lighten Your Load with Laughs  FB Detainment Chuckle Highlighters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-x100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo X100 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-11-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 11 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elevating-gameplay-preservation-in-windows-11-for-2024/"><u>[New] Elevating Gameplay Preservation in Windows 11 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treaming-made-easy-top-20-free-youtube-playlist-savers/"><u>[New] Streaming Made Easy  Top 20 Free YouTube Playlist Savers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-11-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 11 Pro Max with iTunes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-webcam-recommendations-for-smooth-zoom-sessions/"><u>2024 Approved  Premium Webcam Recommendations for Smooth Zoom Sessions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-11-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 11 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-11-pro-max-5-ways-to-get-into-a-locked-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 11 Pro Max? 5 Ways to get into a Locked iPhone 11 Pro Max</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dslr-broadcast-101-using-facebook-live-from-home-pcs/"><u>[Updated] DSLR Broadcast 101  Using Facebook LIVE From Home PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-11-pro-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 11 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/egular-payouts-for-youtube-content-makers-in-2024/"><u>[New] Regular Payouts for YouTube Content Makers, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-11-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 11 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-expert-strategies-for-handling-toxic-behavior-in-discord-channels/"><u>[Updated] 2024 Approved  Expert Strategies for Handling Toxic Behavior in Discord Channels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-gaming-chronicles-capturing-every-play-in-overwatch/"><u>[Updated] 2024 Approved  Gaming Chronicles  Capturing Every Play in Overwatch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 11 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Samsung</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Fingerprint Not Working Solutions</u></a></li>
+</ul></div>

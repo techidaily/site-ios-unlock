@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications?
-date: 2024-05-19T07:09:54.475Z
-updated: 2024-05-20T07:09:54.475Z
+date: 2024-07-15T00:49:50.290Z
+updated: 2024-07-16T00:49:50.290Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications?
 excerpt: This article describes How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications?
 keywords: how many attempts to unlock iphone,unlock iphone without passcode,forgot locked note password,fix iphone passcode not working,what can jailbreak iphone do,unlock lost phone,app lock iphone,total wireless unlock,how to unlock iphone 7 without passcode,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications?
@@ -32,6 +32,9 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
@@ -90,6 +93,9 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone X
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -186,6 +192,9 @@ Find My is a famous element in Apple devices that allows you to find your lost p
 
 **Step 2.** Enter your Apple ID and password as inquired.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter apple id](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-3.jpg)
 
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
@@ -231,6 +240,9 @@ Then use a USB connector to connect your iOS gadget to the PC. Then, click the "
 
 Before deleting the Apple iPhone XS screen, it is necessary to boot it in Recovery/DFU. You can follow the steps on your screen to do so. Moreover, the Recovery mode is the suggested way for your situation. However, you can use the DFU mode if this doesn't work.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3. Confirm Phone Model**
@@ -271,7 +283,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -336,6 +348,9 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 **Step 2:** Click on the "Find My iPhone" icon at the end of the page. The app will start locating your device, but as your Apple iPhone XS is damaged, it might not find anything.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone XS, which you want to remove by clicking on "Remove from account."
@@ -389,3 +404,46 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphone-photography-focus-on-shadows/"><u>In 2024, Mastering iPhone Photography  Focus on Shadows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-12-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 12 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-how-to-choose-a-live-streaming-platform-with-10-tips/"><u>In 2024, How to Choose a Live Streaming Platform with 10 Tips?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-mobile-experience-apple-android-and-youtube/"><u>The Ultimate Mobile Experience  Apple, Android and YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/abletons-precision-in-sound-reduction/"><u>Ableton's Precision in Sound Reduction</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovative-approaches-to-integrating-vocal-elements-into-video-storytelling/"><u>2024 Approved  Innovative Approaches to Integrating Vocal Elements Into Video Storytelling</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/giggle-factory-gratis-memo-makers-available-for-2024/"><u>Giggle Factory  Gratis Memo Makers Available for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/10-recommended-sites-for-downloading-creative-end-credit-melodies-lawfully-for-2024/"><u>10 Recommended Sites for Downloading Creative End Credit Melodies Lawfully for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-flawlesshd-webrecorder-software/"><u>[New] In 2024, FlawlessHD WebRecorder Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-12-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 12 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>[Updated] In 2024, The Battle of Screen Capture Supremacy  OBS vs Fraps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-12-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 12 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-pro-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 Pro in Lost Mode</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/immerse-in-imagination-the-bestdiscords-10-creations-for-2024/"><u>Immerse in Imagination  The BestDiscord’s 10 Creations for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/from-stream-to-file-vimeo-hd-to-mp4-methods-for-2024/"><u>From Stream to File  Vimeo HD to MP4 Methods for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 Pro Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-trends-transforming-facebook-ad-campaigns/"><u>2024 Trends Transforming Facebook Ad Campaigns</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-10-best-free-online-video-compressors-no-download/"><u>Updated 10 Best Free Online Video Compressors No Download</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-12-pro-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 12 Pro Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-12-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 12 Pro Lock Screen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-memorable-channel-titles-on-discord-for-2024/"><u>[New] Mastering the Art of Memorable Channel Titles on Discord for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 12 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-chart-your-course-to-partner-status-via-a-rapid-10000-views-journey-for-2024/"><u>[Updated] Chart Your Course to Partner Status via a Rapid 10,000 Views Journey for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-youtubes-selection-of-trending-video-responses/"><u>[New] Dissecting YouTube's Selection of Trending Video Responses</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-12-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 12 Pro Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-excellent-free-online-audio-calibration-alternatives/"><u>2024 Approved Excellent Free Online Audio Calibration Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-12-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 12 Pro Prevention & Solution</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12r-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12R Location Settings | Dr.fone</u></a></li>
+</ul></div>

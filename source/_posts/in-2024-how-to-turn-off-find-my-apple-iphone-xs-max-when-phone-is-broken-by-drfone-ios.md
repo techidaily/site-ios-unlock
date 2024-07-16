@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
-date: 2024-05-19T07:09:58.120Z
-updated: 2024-05-20T07:09:58.120Z
+date: 2024-07-15T00:55:06.703Z
+updated: 2024-07-16T00:55:06.703Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
 keywords: bypass apple store verification,how to unlock iphone 12,unlock disabled iphone without itunes,unlock apple watch,how much does unlock a phone cost,iphone passcode not working after update ios 13,unlock iphone 11 12 13 without passcode
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -211,6 +211,9 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone X
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -235,6 +238,9 @@ _How do I unlock my Apple iPhone XS Max? I know you're supposed to connect it to
 
 You may have had the experience of connecting your Apple iPhone XS Max to a computer with USB accessories. Usually, "**Unlock Apple iPhone XS Max to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why You Need to "Unlock Apple iPhone XS Max to Use Accessories"?
 
 The command comes from Apple’s significant privacy safeguard **“USB Restricted Mode”**. It means after an hour of your iOS device is unlocked, the system cuts off the lightning port and limits it to charging only. Simply put, when your Apple iPhone XS Max is locked for more than an hour, it needs to be unlocked to allow the connection of USB accessories. Sometimes, when you unlock your Apple iPhone XS Max screen to use USB accessories, it can’t charge anymore.
@@ -268,7 +274,10 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step 2:** Connect your Apple iPhone XS Max to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
@@ -318,6 +327,9 @@ There is currently no way to unlock an iPhone without erasing all data. Luckily,
 
 Wait for a while and you could unlock the screen to use USB accessories. However, in step one, you may need to enter your passcode to get stuck during the process. Therefore, this method is not the most efficient.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 6: How to Unlock Apple iPhone XS Max to Use USB Accessories without Passcode via Recovery Mode?
 
 If you have forgotten your Apple ID or password and have not synced iCloud and iTunes, you can choose recovery mode. It will remove all your passcode and data as well.
@@ -352,6 +364,9 @@ From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning 
 
 It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q3: What to Do If My iPhone Not Charging after Unlock to Use Accessories?
 
 - **Step 1**: Disconnect your tool from the accessory.
@@ -364,7 +379,7 @@ If it doesn’t work, please contact customer service of Apple.
 
 It is very common to use USB accessories to connect iPhone and computer. Sometimes, we may forget the password, or cannot unlock the screen due to system failure. There are many ways to unlock Apple iPhone XS Max to use the accessories in the article. Finally, we recommend everyone to use Dr.Fone - Screen Unlock, a helpful and convenient tool.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -385,3 +400,53 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-8-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 8 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-8-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 8 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 8 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 8 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-8-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 8 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos/"><u>New In 2024, Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-8-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 8 in Lost Mode</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensively-conquering-hp-notebook-screen-recording-techniques/"><u>[Updated] Comprehensively Conquering HP Notebook Screen Recording Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-8-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 8 Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-8-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 8 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-8-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-final-act-of-severing-tiktok-ties-temporarily-for-2024/"><u>[New] The Final Act of Severing TikTok Ties Temporarily for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-8-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 8 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-8-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-a59-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo A59 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-innovation-new-pcs-best-tools-from-msistore/"><u>Accelerated Innovation: New PC's Best Tools From MSIStore</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 8 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-8-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 8</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-2-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze 2 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-8-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-8-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 8 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-8-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 8 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-8-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 8 Without a Home Button</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-choices-cheap-pc-capture-software-listed-for-2024/"><u>[Updated] Prime Choices  Cheap PC Capture Software Listed for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 8 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/best-practices-for-creating-compelling-hash-tags-on-facebook-for-2024/"><u>Best Practices for Creating Compelling Hash Tags on Facebook for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-8-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 8</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-capture-clearness-without-a-tripod-tool/"><u>2024 Approved  Capture Clearness Without a Tripod Tool</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-8-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-8-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 8 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-8-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 8 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-8-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 8 When You Forget the Passcode?</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-6-lite-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 6 Lite Quickly | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-8-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 8 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-8-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 8 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-8-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 8? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 8 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-8ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 8/iPad Without Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamlined-techniques-for-sharing-your-desktopmobile-screen/"><u>In 2024, Streamlined Techniques for Sharing Your Desktop/Mobile Screen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-recording-made-easy-tips-for-youtube-vids/"><u>In 2024, Recording Made Easy  Tips for YouTube Vids</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 8 Passcode without Computer?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12
-date: 2024-05-19T07:10:18.147Z
-updated: 2024-05-20T07:10:18.147Z
+date: 2024-07-15T01:27:18.170Z
+updated: 2024-07-16T01:27:18.170Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 keywords: how to unlock iphone without passcode or face id,unlock apple watch,get out of security lockout,how many attempts to unlock iphone,doctorism unlock review,how to unlock iphone with itunes,how to unlock iphone with broken screen,iphone passcode not working after update ios 13,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12
@@ -54,6 +54,9 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
@@ -188,6 +191,9 @@ To bring back your Apple iPhone 12 in a working state, this guide provides some 
 
 ![unlock iphone in security lockout solutions](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Understanding Security Lockout in iPhone: What It Is?
 
 Security lockout error appears when you try entering a wrong passcode several times. That is when you have no chance left to enter the passcode, so you should be aware of the number of attempts.
@@ -211,6 +217,9 @@ As you've gone through the entire issue of Security Lockout in iOS devices, you 
 
 You can find the latest support of iDevice and iOS versions across the tool, which makes it a versatile option. Consequently, you can bypass all types of screen locks from your Apple iPhone 12 or iPad without any inconvenience. This includes support in removing the carrier and iCloud activation locks.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Highlights of Dr.Fone
 
 1. You can remove Touch ID, Face ID, alphanumeric passcode, and Screen Time passcode at a high success rate within a few minutes.
@@ -255,6 +264,9 @@ Getting your Apple iPhone 12 out of Security Lockout from the Apple iPhone 12 di
 
 ![perform direct unlock security lockout](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What if I Have Recently Changed My iPhone's Passcode?
 
 If you have recently changed the iDevice password, you can use your old passcode within 72 hours to sign in temporarily. After getting into your Apple iPhone 12, set a new passcode immediately to complete the “Passcode Reset” process.
@@ -273,6 +285,9 @@ If you have recently changed the iDevice password, you can use your old passcode
 
 - **Step 2.** Subsequently, iTunes will detect your Apple iPhone 12 in Recovery Mode. A prompt will appear stating that you want to “Update” or “Restore” your Apple iPhone 12. From there, choose “Restore” and hit the “OK” button to restore your Apple iPhone 12.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![restore iphone from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-8.jpg)
 
 ## Part 5: How To Get iPhone out of Security Lockout Using iCloud?
@@ -332,7 +347,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -368,7 +383,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -406,3 +421,52 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-crafting-memorable-pfps-in-discord-with-ease-and-style/"><u>[Updated] Crafting Memorable Pfps in Discord with Ease and Style</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-2022-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE (2022) Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-art-of-sonic-depth-incorporating-virtual-reverberation-into-your-windows-based-audio-projects/"><u>Updated 2024 Approved The Art of Sonic Depth Incorporating Virtual Reverberation Into Your Windows-Based Audio Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-se-2022-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone SE (2022) Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-2022-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE (2022) Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-se-2022-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone SE (2022) Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-masterclass-in-crafting-empowerment-videos-for-viewers/"><u>In 2024, Masterclass in Crafting Empowerment Videos for Viewers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-se-2022-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone SE (2022) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-financial-blueprint-of-content-creation-on-youtube/"><u>[Updated] The Financial Blueprint of Content Creation on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/izing-channel-potential-across-diverse-digital-venues-for-2024/"><u>Maximizing Channel Potential Across Diverse Digital Venues for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-make-a-video-best-fits-snapchat-size-on-mac-in-2024/"><u>How to Make a Video Best Fits Snapchat Size on Mac, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/vintage-vibes-curating-melodic-selections-for-nuptial-video-making/"><u>Vintage Vibes Curating Melodic Selections for Nuptial Video Making</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-se-2022-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone SE (2022) in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-jarring-edits-to-seamless-inshot-integration-for-2024/"><u>From Jarring Edits to Seamless Inshot Integration for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-se-2022-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone SE (2022) Properly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellence-in-capturing-moments-best-add-ops-for-yi-4k/"><u>[New] Excellence in Capturing Moments - Best Add-Ops for YI 4K</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-2022-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE (2022) when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-se-2022-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone SE (2022) with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022), Apples New iPhone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-gt-10-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>[Updated] Thrill in the Cold  Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2022-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2022) Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-se-2022-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone SE (2022) Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-se-2022-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone SE (2022) to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-se-2022-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone SE (2022) Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-se-2022-how-to-unlock-a-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone SE (2022) How to Unlock a Disabled Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-se-2022-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone SE (2022) When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-se-2022-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone SE (2022) Lock Screen</u></a></li>
+</ul></div>

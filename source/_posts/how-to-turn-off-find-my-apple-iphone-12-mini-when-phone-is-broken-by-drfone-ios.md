@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
-date: 2024-04-04T22:43:53.320Z
-updated: 2024-04-05T22:43:53.320Z
+date: 2024-07-15T03:06:41.139Z
+updated: 2024-07-16T03:06:41.139Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
 keywords: unlock iphone with apple watch,get out of security lockout,doctorism unlock review,change apple id password,forgot passcode on iphone,unlock iphone passcode without computer,change country on iphone app store,unlock iphone passcode
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -147,6 +147,9 @@ This guide will take you through the simple process of **changing your Apple ID 
 
 Your Apple ID email helps you access your apps, music, and more. But sometimes, you might need to change it for simple reasons. Let's look at why you might want to change your Apple ID email in easy-to-understand terms.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![why change your apple id email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-02.jpg)
 
 - Your email address is part of your identity. Changing it to something that better suits you can make your Apple experience more personal.
@@ -219,6 +222,9 @@ If you prefer the simplicity of a web browser:
 - **Step 4:** Input your new email address and click **Continue**.
 - **Step 5:** A verification code will be sent to your new email. Enter it to confirm your email change.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### B. Updating Your Apple ID
 
 Now that you've successfully changed your Apple ID email, it's crucial to ensure that all your Apple devices are on the same page:
@@ -232,7 +238,7 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 
 By following these steps, you'll ensure that all your Apple devices are synced with your updated email address, providing a seamless and consistent Apple experience across all your gadgets. Now, with your new Apple ID email, you're ready to explore the Apple ecosystem with renewed convenience and security.
 
-## Part III: Unlock iOS Screen With [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+## Part III: Unlock iOS Screen With <u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>
 
 What if you find yourself in a situation where you want to change your Apple ID email address on your iOS device, but you're locked out? Don't worry; Dr.Fone - Screen Unlock (iOS) can rescue you. This handy tool is designed to help you [<u>unlock your iOS device</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html), allowing you to change your Apple ID email address smoothly.
 
@@ -263,6 +269,9 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 **Note:** If **Recovery Mode** does not work, try hitting the **Try DFU Mode** button at the bottom to access the instructions for [<u>putting the iDevice in DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html).
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone unlock ios screen recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 4:** After successfully entering your device into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
@@ -345,8 +354,14 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone 12 mini to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
 By taking the assistance of Apple’s native Restrictions feature, you can app lock the Apple iPhone 12 mini without any trouble. In this way, you can set up a passcode that needs to be matched before accessing any app. This iPhone app lock is also a great way to restrict your kids from accessing certain apps or making purchases. To learn how to lock apps on iPhone or iPad using Restrictions, follow these steps:
@@ -369,7 +384,7 @@ It can be a trouble if you forget your Apple iPhone 12 mini passcode since there
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
 
@@ -431,7 +446,7 @@ Get FamiSafe from the App Store and log in using your Wondershare ID or your App
 
 Now, activate Accessibility for FamiSafe by accessing "Settings," tapping "FamiSafe," and enabling "Location." Then, grant access to the Apple iPhone 12 mini device's photos, microphone, and motion & fitness activity. Now, use a computer and connect your child's device with a USB cable. Activate content blockers in Safari to prevent kids from accessing inappropriate content.
 
-![ enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
+![enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
 
 **Step 3: Connect the Kid's Device to the Computer**
 
@@ -518,3 +533,37 @@ By following these solutions, you would be able to learn how to lock apps on the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-master-the-art-of-audio-recording-top-8-software-platforms-to-achieve-professional-mixing-and-mastering-results-for-2024/"><u>Updated Master the Art of Audio Recording Top 8 Software Platforms to Achieve Professional Mixing and Mastering Results for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-11-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-11-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 11 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-from-novice-to-nexus-earning-the-status-as-a-validated-discord-partner-for-2024/"><u>[Updated] From Novice to Nexus  Earning the Status as a Validated Discord Partner for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode without Computer?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-the-only-guide-youll-ever-need-to-learn-about-gif-video-downloader/"><u>Updated 2024 Approved The Only Guide Youll Ever Need to Learn About GIF Video Downloader</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-11-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-monetization-blueprint-for-your-youtube-ventures-on-fb/"><u>[New] The Monetization Blueprint for Your YouTube Ventures on FB</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-proven-strategies-to-amplify-zoomed-participants-in-google-meet/"><u>2024 Approved  Proven Strategies to Amplify Zoomed Participants in Google Meet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100i-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100i?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-comprehensive-directory-extracting-youtube-intros/"><u>[New] In 2024, Comprehensive Directory  Extracting Youtube Intros</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tailoring-social-interaction-the-art-of-snapchat-pins/"><u>[New] 2024 Approved  Tailoring Social Interaction  The Art of Snapchat Pins</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-11-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 11 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-11-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 11 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-11ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 11/iPad Without Computer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos/"><u>2024 Approved  Harmony & Rhythm  Discover the Best 15 YouTube Educational Videos</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 11
-date: 2024-06-24T00:49:04.717Z
-updated: 2024-06-25T00:49:04.717Z
+date: 2024-07-15T01:03:21.544Z
+updated: 2024-07-16T01:03:21.544Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,6 +30,9 @@ Low Power Mode
 
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
 Screen Time Restrictions
@@ -115,6 +118,9 @@ Have you ever bought a used iPad or Apple iPhone 11 to find the Auto-Lock option
 
 - **Step 1:** Download and open Dr.Fone on your computer. Next, connect your Apple iPhone 11 or iPad to the computer using a USB cable and navigate to **Toolbox** > **Screen Unlock** > **iOS**.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
@@ -125,6 +131,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
@@ -170,6 +179,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 2:** Tap on **Display & Brightness**, scroll down, and tap **Auto-Lock**.
 - **Step 3:** Choose the desired time interval for your Apple iPhone 11 to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 ## Conclusion
@@ -355,6 +367,9 @@ The alternative solution for **how to open an iPhone without the Home button but
 
 - **Step 1**: Go to **Settings** > **General** > **Touch** > **Accessibility**, and activate **AssistiveTouch**. The action will display the AssistiveTouch menu button on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![settings to assistivetouch toggle](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-04.jpg)
 
 - **Step 2:** A floating grayscale button will emerge on your screen after verification. Tap on it. A contextual menu will display, offering options to emulate the functions of your Home button.
@@ -476,3 +491,47 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 11 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-transforming-tiktok-videos-with-effortless-text-enhancement-techniques/"><u>2024 Approved  Transforming TikTok Videos with Effortless Text Enhancement Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 11 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 11 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/netizen-chucklers-aid/"><u>Netizen Chuckler's Aid</u></a></li>
+<li><a href="https://video-capture.techidaily.com/infinite-jest-joyride-top-kids-game-lineup-in-2024/"><u>Infinite Jest Joyride - Top Kids' Game Lineup, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-11-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 11 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-11-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterful-video-lighting-ultimate-techniques-for-stunning-visuals/"><u>[Updated] Masterful Video Lighting  Ultimate Techniques for Stunning Visuals</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>[Updated] Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-11-pro-max-how-to-unlock-a-disabled-iphone-11-pro-max-by-drfone-ios/"><u>Disabled iPhone 11 Pro Max How to Unlock a Disabled iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-11-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 11 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-11-pro-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 11 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro Max</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-6-top-notch-free-mov-video-editing-software/"><u>2024 Approved 6 Top-Notch Free MOV Video Editing Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-15-instagram-videophoto-downloaders-online-and-add-on-and-app-solutions/"><u>Top 15 Instagram Video/Photo Downloaders – Online & Add-On & App Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-11-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 11 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-11-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-11-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 11 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-11-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 11 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-global-gastronomy-guide-iconic-dishes-and-recipes/"><u>In 2024, Global Gastronomy Guide  Iconic Dishes and Recipes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-f34-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy F34 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-unveiling-10-innovative-audio-processing-platforms-for-scalable-performance/"><u>In 2024, Unveiling 10 Innovative Audio Processing Platforms for Scalable Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-comprehensive-guide-to-vocaroo-audio-capture-practices-and-substitutes/"><u>New Comprehensive Guide to Vocaroo Audio Capture Practices and Substitutes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Pro Max Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 11 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-vids-adding-dynamic-text-effects-for-no-charge/"><u>Enhancing Vids  Adding Dynamic Text Effects for No Charge</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+</ul></div>

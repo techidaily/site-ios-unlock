@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds
-date: 2024-04-02T02:05:17.042Z
-updated: 2024-04-03T02:05:17.043Z
+date: 2024-07-15T02:59:40.038Z
+updated: 2024-07-16T02:59:40.038Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds
 excerpt: This article describes 3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds
 keywords: unlock iphone without passcode,iphone swipe up not working,fix iphone unavailability,how to unlock iphone with itunes,iphone passcode changed itself,iphone auto lock greyed out,unlock disabled iphone without itunes,remove iphone from blacklist
-thumbnail: https://www.lifewire.com/thmb/Qyfd5yWYmuBE75uyOeLeSQxzUMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-movies-on-hulu-right-now-5025149-3c80b5664f6541b4a0698333fc447251.jpg
+thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
 ## 3 Ways to Erase Apple iPhone 12 mini When It's Locked Within Seconds
@@ -24,7 +24,7 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 
@@ -41,6 +41,9 @@ To learn how to erase iPhone when locked, follow these steps:
 
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone 12 mini to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
 
 **Step 2. Click Start button.**
@@ -53,6 +56,9 @@ Wait for a while as the application will automatically recognize your phone. Cli
 
 Follow the on-screen instructions to put your phone into the DFU (Device Firmware Update) mode. It can be done by pressing the Home and Power button simultaneously for 10 seconds. Afterward, it would help if you released the Power button while pressing the Home button for another 5 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
 
 **Step 4. Download firmware package.**
@@ -135,6 +141,9 @@ Utilizing Screen Time on your Apple iPhone 12 mini offers a versatile way to man
 
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on add limit option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-2.jpg)
 
 ## Part 2: How to Lock Apps on iPhone with Face ID & Passcode?
@@ -191,7 +200,7 @@ It can be a trouble if you forget your Apple iPhone 12 mini passcode since there
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
 
@@ -253,7 +262,7 @@ Get FamiSafe from the App Store and log in using your Wondershare ID or your App
 
 Now, activate Accessibility for FamiSafe by accessing "Settings," tapping "FamiSafe," and enabling "Location." Then, grant access to the Apple iPhone 12 mini device's photos, microphone, and motion & fitness activity. Now, use a computer and connect your child's device with a USB cable. Activate content blockers in Safari to prevent kids from accessing inappropriate content.
 
-![ enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
+![enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
 
 **Step 3: Connect the Kid's Device to the Computer**
 
@@ -363,6 +372,9 @@ Configuring the Outlook mail app to fetch emails too frequently causes the issue
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. \[Fixes\] Solve iPhone/iPad Keeps Asking for Outlook Password
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
@@ -451,6 +463,9 @@ Outdated iOS versions can contribute to compatibility issues and glitches. This 
 
 ![update ios software for resolving error](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9. Try Other Alternatives to Outlook
 
 Exploring alternative mail applications may offer a viable workaround. This is especially true if the **iPhone asking for the Outlook password** proves resistant to previous solutions. Consider using other email platforms such as Apple Mail, [<u>Gmail</u>](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html), and Yahoo Mail. This solution might not directly resolve the issue with Outlook. Yet, an alternative can provide a temporary workaround until a solution is found.
@@ -575,3 +590,57 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-6-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic 6 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-11-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 11 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-merging-markets-youtube-and-brand-collaboration-concepts/"><u>[Updated] Merging Markets  YouTube and Brand Collaboration Concepts</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-11-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 11 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-11-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 11 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-11-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-40-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 40 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-11-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 11 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-kinemaster-tutorials-for-amazing-memes/"><u>[New] KineMaster Tutorials for Amazing Memes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-youtube-end-screen-templates/"><u>[Updated] Free YouTube End Screen Templates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-cyberspace-chronicles-journeying-through-10-sci-fi-metaverse-epics/"><u>In 2024, Cyberspace Chronicles  Journeying Through 10 Sci-Fi Metaverse Epics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-11-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 11 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-11-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 11 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-11-pro-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 11 Pro Max with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 11 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-11-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 11 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-11-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 11 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-podcast-outros-and-examples-for-2024/"><u>[New] The Ultimate Guide to Podcast Outros & Examples for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-essentials-for-building-compelling-canon-time-lapses-for-2024/"><u>The Essentials for Building Compelling Canon Time-Lapses for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-11-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 11 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-11-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 11 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-18-quirky-tiktok-laughs-to-relish-for-2024/"><u>[New] 18 Quirky TikTok Laughs to Relish for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-11-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 11 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>In 2024, Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-free-endless-archive-of-instagram-highlights-for-2024/"><u>[New] FREE  Endless Archive of Instagram Highlights for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-leveraging-twitter-archive-for-research/"><u>[Updated] Leveraging Twitter Archive for Research</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-10-spotify-recorders/"><u>[Updated] 2024 Approved  Best 10 Spotify Recorders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-11-pro-max-5-ways-to-get-into-a-locked-iphone-11-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 11 Pro Max? 5 Ways to get into a Locked iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-11-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 11 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-11-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 11 Pro Max Lock Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-immediate-recording-of-facetime-conversations-made-simple-for-2024/"><u>[Updated] Immediate Recording of FaceTime Conversations Made Simple for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secure-and-sync-your-cinematic-recordings-across-platforms/"><u>In 2024, Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
+</ul></div>

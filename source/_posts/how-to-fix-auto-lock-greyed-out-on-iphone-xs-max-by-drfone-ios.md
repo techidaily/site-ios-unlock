@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone XS Max
-date: 2024-06-08T07:47:08.635Z
-updated: 2024-06-09T07:47:08.635Z
+date: 2024-07-15T00:53:57.184Z
+updated: 2024-07-16T00:53:57.184Z
 tags: 
   - unlock
   - remove screen lock
@@ -170,6 +170,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 2:** Tap on **Display & Brightness**, scroll down, and tap **Auto-Lock**.
 - **Step 3:** Choose the desired time interval for your Apple iPhone XS Max to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 ## Conclusion
@@ -201,7 +204,7 @@ A problem commonly faced by all iPhone users is that they forget the password, a
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Fix iPhone Lock Screen Password Forgot Issue
 
@@ -242,6 +245,9 @@ A new window will appear now, on which the application will ask for some informa
 
 The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 **Step 5: Confirmation Code**
@@ -250,7 +256,7 @@ The application will now ask for the confirmation code. Just provide the on-scre
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## **Part 2. Unlock Locked iPhone 12 by Restoring it to Default Settings – iTunes**
 
@@ -290,7 +296,7 @@ IOS world is different from the Android world, and so, both have different and u
 
 Different methods have been discussed that use different platforms regarding how a user can unlock an iPhone if a passcode is missing. The user might be confused about selecting the appropriate method, so let’s help the users by sharing some advantages and disadvantages of all the methods discussed above. This will help the user to select the best possible method;
 
-### 1\. Using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### 1\. Using Dr.Fone - Screen Unlock (iOS)
 
 The known and famous application among iPhone users helps them recover data, unlock a phone even if its passcode is missing, and whatnot. Let us now discuss its amazing pros;
 
@@ -306,7 +312,7 @@ The known and famous application among iPhone users helps them recover data, unl
 1. The Apple iPhone XS Max in use will be updated to the latest iOS version as soon as the unlocking process is completed.
 2. The Apple iPhone XS Max must be in DFU mode for the process to unlock the screen.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 2\. Using iTunes
 
@@ -340,8 +346,11 @@ Another known platform for iPhone users is iCloud, which allows users to unlock 
 
 The article aimed to provide users with maximum information and knowledge about unlock the Apple iPhone XS Max even if you don’t have the passcode. Several methods have been discussed alongside their pros and cons so that the user can select the best.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove and Reset Face ID on Apple iPhone XS Max
 
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
@@ -436,6 +445,9 @@ Step 2: Now, when you use Safari to open a website that requires a login, tappin
 
 Step 3: Look at your Apple iPhone XS Max to authenticate yourself with Face ID and Safari will autofill the credentials for you.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### II.V Animojis and Memojis
 
 Up until now, we saw how Face ID enables productivity features and how convenient it is to use it. Now, we come to the fun part - Animojis. Apple launched Face ID in 2017 on the Apple iPhone XS Max X with much fanfare and a huge part of that fanfare was Animojis. Over time, Apple brought new capabilities to the Apple iPhone XS Max and added Memojis alongside Animojis.
@@ -460,6 +472,9 @@ Step 4: When done, the Record button changes to Send:
 
 Tap Send to send your first Memoji/ Animoji.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III: How to Remove Face ID on Apple iPhone XS Max
 
 For all the hardware and software that make for a great experience for nearly all users around the world, Face ID can have its fair share of issues. Sometimes, your face might not get recognized, sometimes it might not work altogether.
@@ -506,7 +521,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -534,3 +549,45 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-6s-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 6s Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-6s-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 6s Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-6s-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 6s Plus with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6s-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6s Plus Prevention & Solution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-fading-frequencies-the-gentle-way-with-garageband/"><u>2024 Approved  Fading Frequencies  The Gentle Way with Garageband</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-obs-and-youtube-a-beginners-live-stream-blueprint/"><u>[New] In 2024, OBS and Youtube  A Beginner's Live Stream Blueprint</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-6s-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 6s Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-6s-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 6s Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-6s-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 6s Plus in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-6s-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 6s Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Without Passcode?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-galaxy-f54-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-extract-youtube-srt-effortlessly-in-3-ways-for-2024/"><u>How to Extract YouTube SRT Effortlessly in 3 Ways for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-6s-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 6s Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-6s-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 6s Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-integrating-autotune-into-your-audacity-projects/"><u>Updated 2024 Approved Integrating AutoTune Into Your Audacity Projects</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mapping-out-your-ideal-tiktok-conclusion-for-2024/"><u>[Updated] Mapping Out Your Ideal TikTok Conclusion for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-maximizing-your-time-best-ways-to-follow-facebook-live/"><u>[New] In 2024, Maximizing Your Time  Best Ways to Follow Facebook Live</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-6s-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 6s Plus Without a Home Button</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-10-online-video-rotators-for-perfect-orientation/"><u>The Ultimate List 10 Online Video Rotators for Perfect Orientation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-6s-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 6s Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6s-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6s Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-6s-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 6s Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-6s-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 6s Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-recording-techniques-for-your-logitech-webcam-installation-for-2024/"><u>Master Recording Techniques for Your Logitech Webcam Installation for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-becoming-a-video-marketing-vanguard-on-facebook-with-these-20-methods/"><u>[Updated] In 2024, Becoming a Video Marketing Vanguard on Facebook with These 20 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-6s-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 6s Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-6s-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 6s Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>[Updated] Professional Picture Editing Hacks  How to Add Text with Precision</u></a></li>
+</ul></div>

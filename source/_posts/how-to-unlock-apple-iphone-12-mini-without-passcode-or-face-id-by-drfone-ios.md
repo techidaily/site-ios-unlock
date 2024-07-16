@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 12 mini without Passcode or Face ID
-date: 2024-05-19T07:10:19.738Z
-updated: 2024-05-20T07:10:19.738Z
+date: 2024-07-15T01:29:48.526Z
+updated: 2024-07-16T01:29:48.526Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 12 mini without Passcode or Face ID
 excerpt: This article describes How to Unlock Apple iPhone 12 mini without Passcode or Face ID
 keywords: remove device supervision from iphone,unlock iphone face id wearing mask,unlock disabled iphone 13,how much does unlock a phone cost,iphone x iphone xr lock screen,ios 17 lock screen,app lock iphone,iphone 15 unlock
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## How to Unlock Apple iPhone 12 mini without Passcode or Face ID
@@ -197,6 +197,9 @@ So let's get started.
 
 Your iPhone passcode can be reset in a variety of ways, depending on whether you have a backup. Below, we'll go over the three most common methods for resetting an iPhone passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Use Find My iPhone
 
 If you've activated Find My iPhone, you can use it to reset your passcode. Resetting your passcode this way is probably the simplest method, as it doesn't require any technical knowledge or special tools.
@@ -246,7 +249,7 @@ If none of the above-mentioned methods works for you, or you don't want to use t
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode
 
@@ -305,10 +308,16 @@ Now you will need to connect your Apple iPhone 12 mini 6 to the computer with a 
 
 Once it's finished, you can safely disconnect your Apple iPhone 12 mini and keep the backup file safe. So that is how you can safely back up your Apple iPhone 12 mini without losing any data.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. I forgot my iPhone passcode, and it's disabled. How can I fix this?
 
 If your Apple iPhone 12 mini is disabled, restoring your device using above mentioned methods is the only way to fix it. However, this will erase all your data, so ensure you have a backup before proceeding.
@@ -333,6 +342,9 @@ Also, if you're looking for an easy and effective way to unlock your device, we 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Apple iPhone 12 mini with a Mask On
 
 Are you tired of wearing a mask in this pandemic? Apple introduced a new feature through which people can unlock **iPhone face ID while wearing a mask**. Before this, people either had to use other types of passwords or put off the mask to use Face ID. However, this feature is only available on iOS 15.4, depicting that iPhones containing earlier iOS versions won’t be able to enjoy this feature.
@@ -372,7 +384,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 mini to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 mini device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -398,6 +410,9 @@ To enable the feature of unlocking the Apple iPhone 12 mini with an Apple Watch,
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
 
 After enabling this feature, you can unlock your Apple iPhone 12 mini with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 12 mini has been unlocked.
@@ -408,7 +423,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -444,3 +459,70 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-enable-grid-view-on-google-meet-to-see-every-participant-in-2024/"><u>How to Enable Grid View on Google Meet to See Every Participant, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6-5-ways-to-get-into-a-locked-apple-iphone-6-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blueprinting-a-thrilling-film-flashpoint-for-2024/"><u>Blueprinting a Thrilling Film Flashpoint for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-mac-slicer-software-enhance-video-production-prowess/"><u>[New] In 2024, Best Mac Slicer Software  Enhance Video Production Prowess</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 6</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/securing-your-digital-quest-with-savvy-screenshots-for-2024/"><u>Securing Your Digital Quest with Savvy Screenshots for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 6 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-6-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 6 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-6-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 6 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-6-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 6</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/audio-to-video-conversion-101-what-you-need-to-consider/"><u>Audio to Video Conversion 101 What You Need to Consider</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-rectify-gpu-induced-image-sagging/"><u>Steps to Rectify GPU-Induced Image Sagging</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-6-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 6 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6 and iPad Securely</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reviving-the-past-essential-vhs-visuals-in-todays-edits-for-2024/"><u>Reviving the Past  Essential VHS Visuals in Today's Edits for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-and-easy-tiktok-watermark-removal-top-online-sites-for-2024/"><u>New Free and Easy TikTok Watermark Removal Top Online Sites for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-6-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 6 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-strategies-uncovering-the-veiled-elements-of-social-media/"><u>Insta Strategies  Uncovering the Veiled Elements of Social Media</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 6?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet/"><u>In 2024, Unveiling the Secrets of Enhancing Video Sessions in Google Meet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-6-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 6 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-6-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 6? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-6-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 6 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-6-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 6 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-6-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 6 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-6-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 6 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-minecraft-shapes-magic-creating-perfect-circles-spheres/"><u>In 2024, Minecraft Shapes Magic  Creating Perfect Circles, Spheres</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 6 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-aurora-hdr-setting-photography-trends-for-2024/"><u>Is Aurora HDR Setting Photography Trends for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/optimize-youtube-submission-swift-rendering-and-uploading-methods/"><u>Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-gt-neo-5-se-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme GT Neo 5 SE Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/open-markets-close-plans-strategy-inception-for-2024/"><u>Open Markets, Close Plans  Strategy Inception for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-6-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 6 With 7 Methods</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-6-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-6-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 6 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-6-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 6 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g73-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G73 5G</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovativemovaviscreenx-a-tech-enthusiasts-review/"><u>[New] In 2024, InnovativeMovaviScreenX  A Tech Enthusiast’s Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-k70-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi K70 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-much-does-it-cost-for-unlocking-iphones-get-answers-by-drfone-ios/"><u>In 2024, How Much Does It Cost for Unlocking iPhones? Get Answers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-6-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 6 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s to Mac? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions
-date: 2024-03-30 11:41:51
-updated: 2024-04-01 18:22:23
+date: 2024-07-15T02:42:29.921Z
+updated: 2024-07-16T02:42:29.921Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions
 keywords: how to unlock iphone with broken screen,iphone x iphone xr lock screen,unlock iphone passcode without computer,solve iphone randomly asking for apple id,factory reset locked iphone without itunes,unlock apple watch,get into locked iphone,erase iphone when locked,change apple id password,iphone swipe up not working,how to remove passcode from iphone,bypass iphone passcode
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Trouble with Apple iPhone 15 Plus Swipe-Up? Try These 11 Solutions
@@ -28,6 +28,9 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
@@ -50,7 +53,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 15 Plus can b
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -111,6 +114,9 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3. Remove the Cover or Case
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 15 Plus could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 15 Plus. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
@@ -125,6 +131,9 @@ If your Apple iPhone 15 Plus swipe-up gesture isn't working specifically on the 
 
 **Step 1.** On your iOS device, access the “Settings” app and launch it. Now scroll down to find and tap "Face ID & Passcode."
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
@@ -137,6 +146,9 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 
 **Instructions:** Navigate to Settings on your Apple iPhone 15 Plus and access "Control Center." On the following screen, activate the toggle next to "Access Within Apps." It will allow you to access the Control Center when using apps.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
 
 ### Fix 7. Update to the Latest iOS Version
@@ -205,7 +217,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -427,6 +439,9 @@ The Apple ID is a unique identifier used to log in to all Apple services, includ
 
 Whatever the reason, learning **how to change your Apple ID on your iPad** is straightforward. And this guide will show the steps and provide some tips at the end.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![browsing on an ipad pro](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-01.jpg)
 
 ## Part 1: Reasons Why You Might Need To Change Your Apple ID
@@ -524,7 +539,7 @@ If you've addressed these issues and still can't change your Apple ID, don't wor
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
 
-## Part 4: Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) To Remove Apple ID Without Password
+## Part 4: Using <u>Wondershare Dr.Fone</u>
 
 Dr.Fone Screen Unlock (iOS) tool is your go-to solution for unlocking iOS devices without a passcode. The best part? It is easy to use for users of all technical backgrounds. With Dr.Fone, you can unlock iOS screens protected by 4 to 6-digit passcodes, Face ID, Touch ID, and more.
 
@@ -628,3 +643,77 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-color-consistency-comparing-srgb-and-rgb-formats/"><u>[Updated] Color Consistency  Comparing Srgb and Rgb Formats</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-6-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-6-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 6 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-6-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 6</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-how-to-download-and-save-tiktok-videos-without-apple-writes/"><u>[New] 2024 Approved  How to Download and Save TikTok Videos without Apple' Writes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-auditory-transitions-with-logic-pro-x/"><u>2024 Approved  Innovative Auditory Transitions with Logic Pro X</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-free-video-hosting-10-top-options-for-personal-and-professional-use/"><u>In 2024, Free Video Hosting 10 Top Options for Personal and Professional Use</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6? Complete Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/identifying-high-impact-hdr-photography-tools-for-2024/"><u>Identifying High-Impact HDR Photography Tools for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-tips-for-crafting-the-perfect-discord-profile-picture/"><u>[Updated] In 2024, Tips for Crafting the Perfect Discord Profile Picture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unforgettable-visions-the-top-15-stop-motion-film-classics/"><u>2024 Approved  Unforgettable Visions  The Top 15 Stop-Motion Film Classics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-6-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 6</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-capture-and-amplify-no-cost-digital-picture-upgrades/"><u>[Updated] Capture & Amplify - No Cost Digital Picture Upgrades</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-by-drfone-ios/"><u>How to Unlock iPhone 6?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-virtual-reality-with-our-expertise/"><u>2024 Approved  Revolutionize Virtual Reality with Our Expertise</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-6-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 6 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-6-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 with iTunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-vr-video-versus-spherical-capture-tech-distinctions/"><u>Unveiling VR Video versus Spherical Capture Tech Distinctions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 6, Apples New iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-professional-visual-narratives-with-lut-usage-in-premiere/"><u>[Updated] Crafting Professional Visual Narratives with LUT Usage in Premiere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-guidelines-for-responsible-content-disclosure-in-online-spaces-like-fb/"><u>[New] Guidelines for Responsible Content Disclosure in Online Spaces Like FB</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-imovie-alternatives-on-windows-10-for-2024/"><u>Updated The Ultimate Guide to iMovie Alternatives on Windows 10 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-6-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 6 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-google-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Google</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-6-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 6 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-6-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 6 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>[Updated] Expert Recommendations  The Highest-Rated 18 Video Recorders Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-ultimate-tutorial-transforming-whatsapp-sound-files-into-mp3-quickly/"><u>Updated Ultimate Tutorial Transforming WhatsApp Sound Files Into MP3 Quickly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-6-5-ways-to-get-into-a-locked-iphone-6-by-drfone-ios/"><u>Locked Out of iPhone 6? 5 Ways to get into a Locked iPhone 6</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-ultimate-guide-to-customizing-your-discord-avatar/"><u>In 2024, The Ultimate Guide to Customizing Your Discord Avatar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-6-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 6 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-reno-8t-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Reno 8T To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-6-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 6 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-6-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 6 Properly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-satire-and-smiles-kapwings-meme-builder/"><u>In 2024, Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-6-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6 in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-6-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/effortless-integration-posting-twitter-vids-on-instagram-profile-for-2024/"><u>Effortless Integration  Posting Twitter Vids on Instagram Profile for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s23-ultra-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S23 Ultra with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/initiating-virtual-reunions-leveraging-your-facebook-portal-tv/"><u>Initiating Virtual Reunions: Leveraging Your Facebook Portal TV</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-note-50-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 6 Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-6-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 6 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-6-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 6 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-6-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 6 Without Passcode Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-rapid-ascension-harness-likes-and-videos-for-insta-success-for-2024/"><u>[Updated] Rapid Ascension  Harness Likes & Videos for Insta Success for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-6-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 6 Passcode without a Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-adding-powerful-narrations/"><u>[New] The Complete Guide to Adding Powerful Narrations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-imageclarity-converter-high-res-for-all-systems/"><u>[New] 2024 Approved  ImageClarity Converter - High Res for All Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-6-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 6 Without a Home Button</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ranking-top-10-budget-friendly-video-editing-apps/"><u>2024 Approved  Ranking Top 10 Budget-Friendly Video Editing Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6 when Phone is Broken?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-can-you-project-youtube-and-fb-videos-onto-your-hdtv/"><u>[New] In 2024, Can You Project YouTube & FB Videos Onto Your HDTV?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-6-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-6-by-drfone-ios/"><u>How To Unlock A Found iPhone 6?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premium-top-11-list-ultimate-recording-gear/"><u>Premium Top 11 List - Ultimate Recording Gear</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-6-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 6 with a Broken Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-lava-agni-2-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Lava Agni 2 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 6 without Passcode or Face ID</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discord-spoiler-tag-all-you-need-to-know/"><u>[New] In 2024, Discord Spoiler Tag  All You Need to Know</u></a></li>
+</ul></div>

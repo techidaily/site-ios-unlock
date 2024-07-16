@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 6s
-date: 2024-05-19T07:09:24.368Z
-updated: 2024-05-20T07:09:24.368Z
+date: 2024-07-15T00:00:24.587Z
+updated: 2024-07-16T00:00:24.587Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6s
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6s
 keywords: bypass apple store verification,unlock lost phone,unlock iphone passcode,unlock iphone face id wearing mask,app lock iphone,unlock iphone 11 12 13 without passcode,how to unlock iphone without passcode or face id,lock stolen iphone
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s
@@ -172,6 +172,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 6s or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -198,6 +201,9 @@ The more times you get your code wrong, the longer you’ll be locked out, so av
 
 While we said, you shouldn’t type in random numbers to try and guess the password, of course, if you have a standard family passcode that you use across all iOS devices, perhaps an admin password or just something you use for everything, it can be well worth a try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone random passcodes](https://images.wondershare.com/drfone/iphone-random-passcodes-.jpg)
 
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
@@ -216,21 +222,27 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 **Step 2.** Click the Unlock iOS Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5.** Once everything has been confirmed and you’re happy to continue, press the Unlock option. The program will do its thing, and when it’s done, the software will say you’re able to disconnect your Apple iPhone 6s and use it without a lock screen!
 
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
-![ drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -256,6 +268,9 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 
 **Step 1.** Press and hold the volume up button for about one second, and then switch and press the Volume Down button for the same amount of time. You can then hold the side button (on devices without a home button), and the following screen should appear after a few seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
 
 **Step 2.** Now connect your Apple iPhone 6s to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
@@ -435,3 +450,66 @@ So, these are some most effective methods to follow and unlock the Apple iPhone 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-quick-fix-mac-compatible-youtube-video-resize/"><u>[New] Quick Fix  Mac-Compatible YouTube Video Resize</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-precision-capturing-for-your-ps3-gaming-adventures/"><u>2024 Approved  Precision Capturing for Your PS3 Gaming Adventures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-melodic-marketing-instagram-music-tips-for-2024/"><u>[New] Melodic Marketing  Instagram Music Tips for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-14-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-epic-eats-tiktoks-culinary-stars/"><u>[Updated] In 2024, Epic Eats  TikTok’s Culinary Stars</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-14-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 14 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Plus</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-12-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus 12 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-14-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 14 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Plus Without a Home Button</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-your-pathway-to-becoming-a-pro-at-discord/"><u>[Updated] Your Pathway to Becoming a Pro at Discord</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-14-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 14 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-14-plus-how-to-unlock-a-disabled-iphone-14-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 14 Plus How to Unlock a Disabled iPhone 14 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-14-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 14 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-cool-video-editor-how-to-add-cool-effects-to-video-for-2024/"><u>New Cool Video Editor How to Add Cool Effects to Video for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-14-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 14 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-14-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 14 Plus Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 14 Plus</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-video-resumes-4-best-makers-with-free-templates-for-2024/"><u>Updated The Ultimate Guide to Video Resumes 4 Best Makers with Free Templates for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-14-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 14 Plus in Lost Mode</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-reviewers-guide-to-yuneec-typhoon-h-performance/"><u>[New] Reviewer’s Guide to Yuneec Typhoon H Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-14-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 14 Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-14-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 14 Plus</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig-for-2024/"><u>[New] Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-the-art-of-text-insertion-in-digital-pictures/"><u>In 2024, Mastering the Art of Text Insertion in Digital Pictures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-14-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 14 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-being-a-meta-verified-user-worth-the-expense/"><u>Is Being a Meta Verified User Worth the Expense?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-how-to-reset-final-cut-pro-x-to-troubleshoot-issues/"><u>Updated 2024 Approved How to Reset Final Cut Pro X to Troubleshoot Issues?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-film-your-facebook-video/"><u>[Updated] In 2024, Film Your FACEbook Video</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-14-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 14 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/maximizing-your-content-tips-for-rl-recording-and-editing/"><u>Maximizing Your Content  Tips for RL Recording & Editing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-14-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 14 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-generate-stunning-audio-waveform-videos-with-these-tools/"><u>New In 2024, Generate Stunning Audio Waveform Videos with These Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Plus Without a Passcode</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-intuitive-steps-setting-up-snapchat-macos-style/"><u>[Updated] Intuitive Steps  Setting up Snapchat macOS-Style</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-navigating-board-features-across-apple-android-and-windows-for-effective-online-collaboration/"><u>2024 Approved  Navigating Board Features Across Apple, Android & Windows for Effective Online Collaboration</u></a></li>
+</ul></div>

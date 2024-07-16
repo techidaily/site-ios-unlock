@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max
-date: 2024-04-07T04:07:49.491Z
-updated: 2024-04-08T04:07:49.491Z
+date: 2024-07-15T03:11:59.392Z
+updated: 2024-07-16T03:11:59.392Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max
 keywords: forgot locked note password,how to unlock iphone 7 without passcode,remove device supervision from iphone,how to unlock an iphone 13,how to unlock iphone with broken screen,how much does unlock a phone cost,iphone passcode not working after update ios 13,how to remove passcode from iphone,what can jailbreak iphone do
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max
@@ -172,6 +172,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 11 Pro Max or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -204,6 +207,9 @@ To check whether your Apple iPhone 11 Pro Max is carrier-locked or unlocked from
 
 - **Step 2.** After that, choose the “Carrier Lock" option to see the restrictions. If your Apple iPhone 11 Pro Max is unlocked, it will not show any SIM restriction. If you see the “SIM Locked” restriction, your Apple iPhone 11 Pro Max is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone is carrier locked](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-3.jpg)
 
 ### Check iPhone Got Disabled Issue
@@ -462,7 +468,7 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -489,6 +495,9 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 5\. To update your firmware, click on the "Download" button. Wait for a while to finish the download.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode with Dr.Fone-complete the download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 6\. You will get the following interface once the firmware update is downloaded. Click "Unlock Now" to determine the option "Contain Native Data."
@@ -541,6 +550,9 @@ As you can see, in all the above-stated solutions, your Apple iPhone 11 Pro Max 
 
 4\. Here, you need to add another clock. Tap on the “+” icon to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-add another clock](https://images.wondershare.com/drfone/article/2017/10/15081781011341.jpg)
 
 5\. To add another city, simply provide any text and tap on it. Choose the “Select all” option.
@@ -563,6 +575,9 @@ As you can see, in all the above-stated solutions, your Apple iPhone 11 Pro Max 
 
 10\. This will turn the text in green colour. Now, you need to tap on the add icon beside it.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-tap on the add icon](https://images.wondershare.com/drfone/article/2017/10/15081782429835.jpg)
 
 11\. As it will launch a new interface, you can just select the “Create new contact” option.
@@ -600,3 +615,54 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6s-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6s Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6s-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6s Plus and iPad Securely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-your-iphone-photo-mosaic-mastery/"><u>2024 Approved  Unlock the Power of Your iPhone  Photo Mosaic Mastery</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode Screen?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-z-flip-5-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy Z Flip 5 Phones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6s-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-10-best-free-software-to-record-discord-audio-for-2024/"><u>[Updated] 10 Best Free Software to Record Discord Audio for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6s-plus-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6s Plus Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-6s-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 6s Plus In Different Conditionsin</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-complete-handbook-enhancing-productivity-using-mobizen-recorder-for-2024/"><u>[New] Complete Handbook  Enhancing Productivity Using Mobizen Recorder for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-and-exploring-telegrams-online-features/"><u>In 2024, Understanding and Exploring Telegram's Online Features</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-audacity-setup-guide-for-ubuntu-installs-uninstalls-and-troubleshooting-tips-for-2024/"><u>Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-everything-related-to-wondershare-filmoras-video-editing-interface-if-you-are-unaware-of-it-read-and-learn-about-filmoras-interface/"><u>New Do You Know Everything Related to Wondershare Filmoras Video Editing Interface? If You Are Unaware of It, Read and Learn About Filmoras Interface</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 6s Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/achieving-silence-on-tiktok-strategies-to-mute-unwanted-sound-effects-for-2024/"><u>Achieving Silence on TikTok Strategies to Mute Unwanted Sound Effects for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-infinix-note-30-vip-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Note 30 VIP Without Password | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6s-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-6s-plus-how-to-unlock-a-disabled-iphone-6s-plus-by-drfone-ios/"><u>Disabled iPhone 6s Plus How to Unlock a Disabled iPhone 6s Plus?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 6s Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 6s Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-6s-plus-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 6s Plus</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-syncing-audiovisual-elements-adding-soundtracks-to-video-in-adobe-premiere/"><u>Updated Syncing Audiovisual Elements Adding Soundtracks to Video in Adobe Premiere</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-gaming-voice-alteration-techniques-selecting-the-optimal-solution/"><u>New Gaming Voice Alteration Techniques Selecting the Optimal Solution</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora-for-2024/"><u>New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unlocking-the-potential-a-basic-guide-to-using-lexis-sound-laboratory-for-2024/"><u>New Unlocking the Potential A Basic Guide to Using Lexis Sound Laboratory for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-guide-for-prime-webcams-in-youtube-live-broadcasts/"><u>[New] 2024 Approved  Essential Guide for Prime Webcams in YouTube Live Broadcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus with a Mask On</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tackle-chromes-inability-to-load-fb-videos/"><u>Tackle Chrome's Inability to Load FB Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-f34-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy F34 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-beginners-handbook-to-igtv-mastery/"><u>[Updated] In 2024, The Beginner's Handbook to IGTV Mastery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-peak-moments-highest-viewed-videos/"><u>Twitter's Peak Moments  Highest-Viewed Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-6s-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 6s Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-6s-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6s Plus/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-6s-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 6s Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-easing-excessive-encoding-of-obs-media/"><u>[Updated] 2024 Approved  Easing Excessive Encoding of OBS Media</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-6s-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 6s Plus Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instamixer-uniting-android-and-ios-photo-sessions/"><u>InstaMixer  Uniting Android & iOS Photo Sessions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-6s-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 6s Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-6s-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 6s Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+</ul></div>

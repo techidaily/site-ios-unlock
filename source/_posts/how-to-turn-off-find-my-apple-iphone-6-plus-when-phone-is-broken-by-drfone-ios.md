@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 6 Plus when Phone is Broken?
-date: 2024-05-19T07:09:20.566Z
-updated: 2024-05-20T07:09:20.566Z
+date: 2024-07-14T23:54:03.498Z
+updated: 2024-07-15T23:54:03.498Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 6 Plus when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 6 Plus when Phone is Broken?
 keywords: ios 17 lock screen,unlock iphone screen passcode,apple id not active,lock stolen iphone,doctorism unlock review,iphone passcode not working after update ios 13,disable parental control,unlock iphone 5 passcode without itunes,how to unlock iphone without passcode,iphone backup unlocker
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 6 Plus when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -79,6 +79,9 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
 **Step 7: Turn off Find My iPhone**
@@ -166,10 +169,16 @@ Also, if your Apple iPhone 6 Plus screen is broken, you can use this feature to 
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
 
 **Step 6.** Enter the password to proceed.
@@ -343,12 +352,18 @@ The typical method that each individual attempts for the first time is to input 
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-3.jpg)
 
 You may now go to **Reset All Settings** and confirm by entering the security passcode when prompted. Then, your phone will automatically go through the process of resetting and returning to its default settings.
 
 You can also get rid of the password for the last backup without deleting any other apps or data.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
 
 Use a USB cable to link your Apple iPhone 6 Plus to your PC. Look at the small iOS icon in the figure below. Just click on it.
@@ -457,3 +472,45 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-15-pro-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Pro Max with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-15-pro-max-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 15 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-15-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 15 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-zero-to-zoom-expertise-in-a-flash/"><u>[New] From Zero to Zoom Expertise in a Flash</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-6-drones-for-videography/"><u>New Top 6 Drones for Videography</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-15-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 15 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-boosting-your-video-income-on-youtube-essentials/"><u>[Updated] In 2024, Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 15 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 15 Pro Max Lock Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curated-collection-best-free-footage-websites-ranked/"><u>[Updated] In 2024, Curated Collection  Best Free Footage Websites Ranked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-15-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 15 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-15-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 15 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-15-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-15-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 15 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-future-of-video-editing-with-powerdirector-app-2024/"><u>[Updated] Navigating the Future of Video Editing with PowerDirector App 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-increase-tiktok-visibility-hot-hashtags-to-follow-today/"><u>[New] 2024 Approved  Increase TikTok Visibility  Hot Hashtags to Follow Today</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-15-pro-max-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 15 Pro Max Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-create-datamoshing-effect-to-your-footage-in-after-effects/"><u>In 2024, How to Create Datamoshing Effect to Your Footage in After Effects?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Pro Max Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-15-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-14-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 14 to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-15-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-essential-insights-for-integrating-hashtags-into-game-focused-yt-content-for-2024/"><u>[Updated] Essential Insights for Integrating Hashtags Into Game-Focused YT Content for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-best-badge-cleaners-for-tiktok-on-mobile-tech-for-2024/"><u>[New] The Best Badge Cleaners for TikTok on Mobile Tech for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-15-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 15 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-15-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 15 Pro Max When You Forget the Passcode?</u></a></li>
+</ul></div>

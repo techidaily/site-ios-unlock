@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
-date: 2024-05-19T07:09:54.090Z
-updated: 2024-05-20T07:09:54.090Z
+date: 2024-07-15T00:49:13.750Z
+updated: 2024-07-16T00:49:13.750Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
 keywords: iphone auto lock greyed out,iphone passcode not working after update ios 13,change country on iphone app store,how to create new apple id,forgot iphone pin,how to remove face id on iphone 13,disable parental control,unlock iphone passcode without computer,bypass ios 14 lock screen,unlock iphone face id wearing mask,unlock iphone 5 passcode without itunes,how to remove passcode from iphone
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
@@ -53,6 +53,9 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 After your Apple iPhone XS is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step #5: Reset your Apple iPhone XS:**
@@ -179,6 +182,9 @@ But fear not, for there are ways to **unlock an iPhone without a Home button**. 
 
 If your Apple iPhone XS's Home button is out of commission, don't worry. There are several ways to regain access to your device. Let's explore seven methods on **how to unlock an iPhone without a Home button.**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Unlock the Apple iPhone XS Without the Home Button via Touch ID
 
 If your device supports Touch ID, you can use your fingerprint to unlock it. Follow the steps:
@@ -265,6 +271,9 @@ For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 
 
 - **Step 1:** Put your Apple iPhone XS in the recovery mode and connect it to the computer. Launch Finder or iTunes for Windows or Mac Mojave users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![itunes finder iphone recovery mode](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-12.jpg)
 
 - **Step 2**: A window in Finder will prompt you to choose between restoring or updating; click **Restore**. Confirm your action by tapping **Restore** again. Upon completion, your Apple iPhone XS will be unlocked without the Home button.
@@ -333,7 +342,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone XS, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -345,7 +354,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -479,6 +488,18 @@ Before you start, please ensure you have a computer (Mac or PC). If you're using
 
 Now, you have learned how to unlock a disabled iPhone with iTunes.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 8: Try DFU Mode to Bypass iPhone Passcode
 
 DFU mode (Device Firmware Update) is a special mode on an iPhone that allows you to install firmware or software updates. It can also be utilized to bypass the passcode on an iPhone. To use DFU mode to bypass the passcode on an iPhone, follow these steps:
@@ -508,6 +529,9 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 3:** From that option, you will see the tab "buy more tunes" which straight away informs you to reach the iTunes store.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click buy more tunes](https://images.wondershare.com/drfone/article/2017/10/15090666562470.jpg)
 
 - **Step 4:** Just click on the home button to go to the phone's main screen.
@@ -561,3 +585,53 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-2020-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE (2020) i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-captivate-viewers-using-multiple-perspectives-on-fb-live/"><u>[New] 2024 Approved  How to Captivate Viewers Using Multiple Perspectives on FB Live</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2020-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-se-2020-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone SE (2020) Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-se-2020-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone SE (2020) Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-se-2020-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone SE (2020) Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-12-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-compilation-top-6-mac-compatible-recorder-software-for-2024/"><u>Essential Compilation  Top 6 Mac-Compatible Recorder Software for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without Computer?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-2020-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE (2020) Prevention & Solution</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/sound-shift-secrets-revealed-uncover-the-best-voice-recorder-changer-apps-for-2024/"><u>Sound Shift Secrets Revealed  Uncover the Best Voice Recorder Changer Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone SE (2020)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-neo-5-se-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT Neo 5 SE Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-se-2020-how-to-unlock-a-disabled-iphone-se-2020-by-drfone-ios/"><u>In 2024, Disabled iPhone SE (2020) How to Unlock a Disabled iPhone SE (2020)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode Screen?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-clone-voice-in-2-ways-create-ai-voices-for-2024/"><u>New How to Clone Voice in 2 Ways-Create AI Voices for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-best-zero-cost-game-video-editing-tools-this-year/"><u>New In 2024, Best Zero-Cost Game Video Editing Tools This Year</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-2020-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE (2020) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-8-platforms-for-professional-linux-editing-for-2024/"><u>Best 8 Platforms for Professional Linux Editing for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-se-2020-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone SE (2020) In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 12 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 12 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-se-2020-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone SE (2020) Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-2020-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE (2020) Lock Screen</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-searching-for-free-sports-streaming-sites-look-no-further/"><u>New In 2024, Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-se-2020-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone SE (2020) Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-se-2020ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone SE (2020)/iPad Without Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capture-perfection-reviewing-the-best-5-hd-webcams-with-audio/"><u>Capture Perfection  Reviewing The Best 5 HD Webcams with Audio</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-make-a-countdown-video/"><u>Updated Make A Countdown Video</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-2020-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE (2020)? Learn All 4 Methods</u></a></li>
+</ul></div>

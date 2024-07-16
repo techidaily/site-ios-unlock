@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
-date: 2024-04-01T12:57:22.240Z
-updated: 2024-04-02T12:57:22.240Z
+date: 2024-07-15T02:59:01.276Z
+updated: 2024-07-16T02:59:01.276Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
 keywords: iphone lost mode unlock,iphone backup password,iphone swipe up not working,open iphone without home button,remove iphone from blacklist,how to turn off find my iphone when phone is broken,forgot locked note password,lock stolen iphone
-thumbnail: https://www.lifewire.com/thmb/36O6mR-32uZPQcZCa_oWmrz1kHY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8fb87ff4960ee8bff73c07e4.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
@@ -65,6 +65,9 @@ The process will take a few minutes if you have a strong internet connection bec
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
 Besides the above-given method, other methods can also help you factory reset your locked iPhone without iTunes.
@@ -205,6 +208,9 @@ If you have the older iPhone 7, putting that device in Recovery Mode is slightly
 
 The Apple iPhone XS will be restored to factory settings and restarted. You will have to set it up afresh when all data on the Apple iPhone XS device is erased in this process.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### I.II: Unlock Apple iPhone XS Without Passcode Through Wondershare Dr.Fone
 
 Now, if that process does not inspire confidence and you would like a more guided walkthrough experience, there is an app by Wondershare to help you through the unlocking process every step of the way - Wondershare Dr.Fone-Screen Unlock.
@@ -317,6 +323,9 @@ The swipe gesture replaced the physical Home button, simplifying the unlocking p
 
 Beyond unlocking the iPhone, the swipe gesture also allowed for quick navigation to the home screen. This streamlined access enabled users to jump straight into their apps, messages, or other functions.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Visual Aesthetics and User Experience
 
 Apple's design philosophy often revolves around clean, intuitive interfaces. The **swipe up to unlock** gesture aligns smoothly with this philosophy. It contributes to a visually appealing and user-friendly experience.
@@ -347,7 +356,7 @@ If you've forgotten the passcode for your Apple iPhone XS and are unable to acce
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -434,6 +443,9 @@ Apple's advanced biometric authentication systems, Touch ID and Face ID, are als
 - iPhone XR
 - iPhone X
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 4: Unlock Your Apple iPhone XS Without Swiping Up via AutoUnlockX
 
 AutoUnlockX is a tweak designed for jailbroken iPhones. It enhances the Apple iPhone XS device's unlocking experience by automatically bypassing the lock screen. That is when certain conditions are met. Jailbreaking involves bypassing the software restrictions imposed by Apple. Here are the steps to **iPhone 11 unlock screen without swiping**:
@@ -480,6 +492,9 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 ![set switch control as accessibility shortcut](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 To conclude, we have explored different ways to **unlock iPhones without swiping up** beyond just using the usual swipe-up method. We've talked about using your fingerprint or face to unlock, using voice commands or special controls. The swipe-up gesture on iPhones is great, but these other methods give you more options.
@@ -503,3 +518,67 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://animation-videos.techidaily.com/new-6-unexpected-ways-gif-animation-maker-can-affect-your-marketing/"><u>New 6 Unexpected Ways Gif Animation Maker Can Affect Your Marketing</u></a></li>
+<li><a href="https://facebook.techidaily.com/unique-mobile-app-linkage-how-facebook-surpasses-apple-payments-system/"><u>Unique Mobile App Linkage: How Facebook Surpasses Apple Payments System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-narzo-60x-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme Narzo 60x 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/crafting-personalized-storytelling-on-snapchat/"><u>Crafting Personalized Storytelling on Snapchat</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-xs-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone XS With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-xs-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone XS Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/"><u>Mastering Mayhem & Mystery  The Essential Gaming List (Top 10)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-xs-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone XS and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-xs-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone XS In Different Conditionsin</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-capture-and-share-your-favorite-pics-on-social-platforms-with-obs/"><u>[Updated] In 2024, How to Capture and Share Your Favorite Pics on Social Platforms with OBS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone XS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-most-acclaimed-windows-based-digital-audio-workstation-daw-list-a-free-and-paid-comparison/"><u>New 2024 Approved The Most Acclaimed Windows-Based Digital Audio Workstation (DAW) List A Free & Paid Comparison</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-no-cost-screen-recording-tricks-for-pc-users/"><u>In 2024, No-Cost Screen Recording Tricks for PC Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-lore-of-roguelites-amidst-classic-rpgs/"><u>The Lore of Roguelites Amidst Classic RPGs</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-spotting-hdd-vs-ssd-in-windows-operations/"><u>Essential Guide: Spotting HDD vs SSD in Windows Operations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-xs-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-xs-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone XS After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-video-clarity-the-first-lessons-on-hd/"><u>2024 Approved  Grasping Video Clarity  The First Lessons on HD</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-xs-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone XS After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-xs-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone XS in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-vhs-nostalgia-on-your-phone-best-apps-for-retro-video-editing/"><u>New In 2024, VHS Nostalgia on Your Phone Best Apps for Retro Video Editing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-uncover-the-past-advanced-methods-for-instagram-image-retrieval-for-2024/"><u>[New] Uncover the Past  Advanced Methods for Instagram Image Retrieval for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-5-ways-to-get-into-a-locked-iphone-xs-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS? 5 Ways to get into a Locked iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xs-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone XS Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-xs-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone XS Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oneplus-ace-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From OnePlus Ace 3 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-leveraging-hashtags-to-skyrocket-your-engagement/"><u>[New] 2024 Approved  Leveraging Hashtags to Skyrocket Your Engagement</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-xs-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone XS Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-xs-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone XS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/interpreting-user-inactivity-could-it-be-a-blocked-status-for-2024/"><u>Interpreting User Inactivity  Could It Be a Blocked Status for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone XS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-something-you-may-need-to-know-about-rap-music-for-2024/"><u>Updated Something You May Need To Know About Rap Music for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-wedding-countdown-the-best-androidios-clock-apps-guide-for-2024/"><u>Streamline Your Wedding Countdown  The Best Android/iOS Clock Apps Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-xs-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone XS With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS with a Mask On</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-compilation-of-top-7-android-adblocking-apps/"><u>[New] 2024 Approved  The Ultimate Compilation of Top 7 Android AdBlocking Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-xs-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone XS When Its Locked Within Seconds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-navigating-the-soundscape-of-premiere-pro-simple-strategies-for-audio-layer-management/"><u>Updated 2024 Approved Navigating the Soundscape of Premiere Pro Simple Strategies for Audio Layer Management</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-xs-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone XS Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g13-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-xs-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone XS Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-xs-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone XS i Do? Get Answers here</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-discover-free-screen-recording-no-watermarks/"><u>[Updated] Discover Free Screen Recording, No Watermarks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-xs-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone XS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expand-your-viewing-realm-on-youtube-platforms/"><u>[New] Expand Your Viewing Realm on YouTube Platforms</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xs-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone XS Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone XS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-windows-8-podcast-apps-reviewed-for-2024/"><u>Leading Windows 8 Podcast Apps Reviewed for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-xs-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone XS Passcode Easily Video Inside</u></a></li>
+</ul></div>

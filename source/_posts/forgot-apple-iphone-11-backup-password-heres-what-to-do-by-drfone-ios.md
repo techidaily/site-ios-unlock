@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 11 Backup Password? Heres What to Do
-date: 2024-05-19T07:10:03.219Z
-updated: 2024-05-20T07:10:03.219Z
+date: 2024-07-15T01:03:22.735Z
+updated: 2024-07-16T01:03:22.735Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone 11 Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone 11 Backup Password? Heres What to Do
 keywords: unlock iphone face id wearing mask,iphone backup password,how to remove face id on iphone 13,unlock iphone screen passcode,apple id not active,how to unlock iphone passcode without computer,lock stolen iphone,how to create new apple id,app lock iphone,doctorism unlock review,factory reset locked iphone without itunes,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Forgot Apple iPhone 11 Backup Password? Here's What to Do
@@ -185,6 +185,9 @@ To bring back your Apple iPhone 11 in a working state, this guide provides some 
 
 Security lockout error appears when you try entering a wrong passcode several times. That is when you have no chance left to enter the passcode, so you should be aware of the number of attempts.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Events to Security Lockout
 
 The security lockout issue does not appear immediately on your Apple iPhone 11. The points below give insights about the streak of events that take your Apple iPhone 11/**iPad to security lockout** error:
@@ -237,6 +240,9 @@ Your "Device Model" will be recognized automatically in Wondershare Dr.Fone. Sel
 
 Type the code in the confirmation box in the next prompt window and hit the "Unlock" option. After confirmation, a bar shows the Apple iPhone 11 device unlocking progress on the next screen. Once the Apple iPhone 11 is unlocked successfully, click the “Done” button to terminate the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verify and unlock ios device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## Part 3. How To Get iPhone out of Security Lockout From iPhone Directly?
@@ -324,7 +330,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 11 can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -443,12 +449,18 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 **Step 1.** Move to the "Accessibility" settings of your Apple iPhone 11 and select "Touch." On the following screen, scroll down and tap "Touch Accommodations."
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access touch accommodations within accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-12.jpg)
 
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 10. Turn Off Reduce Motion
 
 Reduce Motion is an accessibility setting on iPhones designed to reduce animations and visual effects. It is particularly for users sensitive to motion effects. However, enabling this feature might affect certain gestures or animations on the Apple iPhone 11 device. Thus potentially causing issues with the swipe-up function. Here's how to turn off Reduce Motion to fix the **iPhone 11 won’t swipe up to unlock**:
@@ -473,13 +485,16 @@ Resetting all settings on your Apple iPhone 11 can help resolve software-related
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 11 device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 11 without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -544,3 +559,63 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-compiling-top-10-most-accessible-recorder-software/"><u>In 2024, Compiling Top 10 Most Accessible Recorder Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ironborn-chimes-expertly-selected-spots-for-tts-downloads-for-2024/"><u>Ironborn Chimes  Expertly Selected Spots for TTS Downloads for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-11-pro-max-5-ways-to-get-into-a-locked-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 11 Pro Max? 5 Ways to get into a Locked Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-11-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 11 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-guide-for-adding-friends-as-pins-on-snapchat/"><u>[New] 2024 Approved  How-To Guide for Adding Friends as Pins on Snapchat</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pinnacle-of-recording-quality-9-mic-devices-rated-best/"><u>Pinnacle of Recording Quality  9 Mic Devices Rated Best</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-editors-edge-advanced-techniques-in-chromatic-manipulation/"><u>[New] The Editor's Edge  Advanced Techniques in Chromatic Manipulation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-essentials-of-av1-coders/"><u>2024 Approved  Navigating the Essentials of AV1 Coders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-11-pro-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 11 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-your-world-how-camstudio-redefined/"><u>Recording Your World - How CamStudio Redefined</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-get-vertical-expert-tips-for-smartphone-video-production/"><u>New 2024 Approved Get Vertical Expert Tips for Smartphone Video Production</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-comprehensive-look-at-benq-sw320s-4k-features-for-2024/"><u>A Comprehensive Look at BenQ SW320's 4K Features for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essence-of-polarr-revolutionizing-digital-photography-for-2024/"><u>The Essence of Polarr  Revolutionizing Digital Photography for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-ae-text-styles-for-impact/"><u>In 2024, Innovative AE Text Styles for Impact</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-11-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 11 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/auditory-enhancements-for-pixels-and-playlists-for-2024/"><u>Auditory Enhancements for Pixels and Playlists for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-pro-tips-grab-your-chromebooks-screen-with-these-4-hacks/"><u>In 2024, Pro Tips  Grab Your Chromebook's Screen with These 4 Hacks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-11-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 11 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/snap-and-share-pcmac-video-recording-for-youtube-for-2024/"><u>Snap & Share  PC/Mac Video Recording for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-powerful-techniques-including-yt-videos-in-slides/"><u>[New] 2024 Approved  Powerful Techniques  Including YT Videos in Slides</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-production-to-publication-streamlining-video-submission-for-2024/"><u>[New] From Production to Publication  Streamlining Video Submission for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-video-flipper-tools-top-10-picks-for-rotating-footage/"><u>New 2024 Approved Free Video Flipper Tools Top 10 Picks for Rotating Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-virtual-memory-for-performance-gain/"><u>Revamping Virtual Memory for Performance Gain</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-pc-games-in-google-play-games-beta-tests/"><u>Top 10 PC Games in Google Play Games Beta Tests</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/evolution-of-gaming-logging-beyond-fbx-limits-for-2024/"><u>Evolution of Gaming Logging Beyond FBX Limits for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-zero-30-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Zero 30 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-moto-g24-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Moto G24</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-11-pro-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 11 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-11-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 11 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-11-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 11 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>2024 Approved  Fast Track  A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeted-cinematics-from-video-to-wavmp3-for-2024/"><u>[Updated] Tweeted Cinematics  From Video to WAV/MP3 for 2024</u></a></li>
+</ul></div>

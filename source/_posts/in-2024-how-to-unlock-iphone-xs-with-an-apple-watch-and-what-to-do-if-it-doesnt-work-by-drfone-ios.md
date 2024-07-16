@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-05-19T07:09:56.314Z
-updated: 2024-05-20T07:09:56.314Z
+date: 2024-07-15T00:51:50.884Z
+updated: 2024-07-16T00:51:50.884Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work
 excerpt: This article describes How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work
 keywords: reset iphone backup password,iphone 11 passcode bypass,change apple id password,unlock iphone with apple watch,what can jailbreak iphone do,iphone lock screen with notifications
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesn't Work
@@ -87,6 +87,9 @@ You can turn on wrist detection on your watch by following these steps:
 - **Step 5:** Tap on the **Passcode**;
 - **Step 6:** Toggle **Wrist Detection**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
 
 Now that you’ve enabled the option to unlock your Apple iPhone XS using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
@@ -319,6 +322,9 @@ Simply in almost no time, your Apple iPhone XS will be unlocked effectively. How
 
 - Open your Settings app and peer down until you see the passcode menu. On iPhones with a home button, this will be named "Touch ID and Passcode." On new ones, it is "Face ID and Passcode."
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-5.jpg)
 
 - Enter your existing code or create a new one.
@@ -341,6 +347,9 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Turn Off Find My Apple iPhone XS when Phone is Broken?
 
 In today’s world, your phone is your most important asset. Especially when you own an iPhone, you’re much more careful because it is pretty expensive than normal phones. You're always making sure to keep it safe and secure, but Apple has ways to keep you away from this hassle.
@@ -361,7 +370,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -400,6 +409,9 @@ Jailbreak your Apple iPhone XS by following the instructions given by the system
 
 A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
 **Step 6: Unlock your Apple iPhone XS**
@@ -412,6 +424,9 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
@@ -479,3 +494,45 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instant-resolution-steps-inactive-gpu-screen-wnvidia/"><u>Instant Resolution Steps: Inactive GPU Screen W/NVIDIA</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 15 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-plus-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 15 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-zoom-in-or-out-tailoring-your-youtube-viewing-pace/"><u>[New] Zoom in or Out? Tailoring Your YouTube Viewing Pace</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-15-plus-5-ways-to-get-into-a-locked-apple-iphone-15-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 15 Plus? 5 Ways to get into a Locked Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-15-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 15 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 Plus With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Plus With 7 Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-15-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 15 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 15 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-team-videos-to-foster-viewership-and-following/"><u>[New] 2024 Approved  Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-plus-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/mastering-morphvox-a-guide-to-transform-your-gameplay-with-voice-manipulation/"><u>Mastering Morphvox A Guide to Transform Your Gameplay with Voice Manipulation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-15-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 15 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 15 Plus Passcode not Working?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auroras-approach-to-hdv-standing-out-or-same-old/"><u>Aurora's Approach to HDV  Standing Out or Same Old</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 15 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-reno-8t-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Reno 8T 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-scripted-shutdown-of-stories-for-2024/"><u>The Scripted Shutdown of Stories for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-no-more-watermarks-iphones-and-tiktok-downloads-for-2024/"><u>[New] No More Watermarks  IPhones and TikTok Downloads for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-moto-g73-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Motorola Moto G73 5G.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-15-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 15 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-15-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-15-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 15 Plus After Forgetting my PIN Code?</u></a></li>
+</ul></div>

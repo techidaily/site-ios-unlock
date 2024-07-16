@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022)
-date: 2024-03-30 11:31:51
-updated: 2024-04-01 18:39:31
+date: 2024-07-15T02:07:02.132Z
+updated: 2024-07-16T02:07:02.132Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022)
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022)
 keywords: swipe up to unlock iphone,unlock iphone face id wearing mask,how to unlock iphone without passcode,iphone x iphone xr lock screen,how to remove passcode from iphone,change apple id on ipad,remove flashlight from iphone lock screen,how to remove face id on iphone 13,how to unlock iphone with broken screen
-thumbnail: https://www.lifewire.com/thmb/36O6mR-32uZPQcZCa_oWmrz1kHY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8fb87ff4960ee8bff73c07e4.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022)
@@ -22,6 +22,9 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone SE (2022) or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -54,6 +57,9 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
@@ -154,6 +160,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 - **Step 1:** Within the **Settings** app, scroll down the list on the left-hand side and tap **Display & Brightness**.
 - **Step 2:** On the right-hand side of the **Display & Brightness** screen, tap the **Auto-Lock** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
@@ -180,6 +189,9 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Most Effective Methods to Unlock Apple iPhone SE (2022) in Lost Mode
 
 Numerous security features make all Mac devices like iPhones, iPads, and Macs stand apart from the opposition in terms of user data safety. Lost Mode is one feature that locks your lost iPhone or other Apple devices so nobody can get to them.
@@ -286,6 +298,9 @@ So, without looking any further, download this tool for a remarkable unlocking e
 
 Open the Dr.Fone software and tap the "Unlock iOS Screen."
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2. Boot iPhone in Recovery/DFU mode**
@@ -365,7 +380,7 @@ If you've forgotten the passcode for your Apple iPhone SE (2022) and are unable 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -519,3 +534,52 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Passcode without Computer?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-demystifying-recmeisters-advanced-screen-capture-technology/"><u>2024 Approved  Demystifying Recmeister's Advanced Screen Capture Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-se-how-to-unlock-a-disabled-apple-iphone-se-by-drfone-ios/"><u>Disabled Apple iPhone SE How to Unlock a Disabled Apple iPhone SE?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ensuring-long-term-access-to-itunes-videos-for-2024/"><u>Ensuring Long-Term Access to iTunes Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone SE With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-se-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone SE In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone SE Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Passcode Screen?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-symbolizing-success-affordable-and-flexible-logo-crafting-from-templates-for-2024/"><u>[Updated] Symbolizing Success  Affordable & Flexible Logo Crafting From Templates for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-se-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone SE Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-aviation-tech-syma-x8cs-capabilities/"><u>[New] Aviation Tech  Syma X8C's Capabilities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone SE Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-se-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone SE Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-playing-old-championship-manager-on-pc/"><u>Top Tips for Playing Old Championship Manager on PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-seipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone SE/iPad Without Computer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[Updated] 2024 Approved  Crafting Stories  Essential Tips for YouTube Video Editors</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-note-12-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi Note 12 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-exploring-options-a-treasure-hunt-for-your-tiktok-symbol/"><u>In 2024, Exploring Options  A Treasure Hunt for Your TikTok Symbol</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hasten-your-srt-to-txt-conversion-process-with-these-tips-for-2024/"><u>Hasten Your SRT to TXT Conversion Process with These Tips for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-the-art-of-screen-recording-best-software-guide/"><u>[New] In 2024, Mastering the Art of Screen Recording  Best Software Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-se-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-se-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone SE</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-cost-free-multi-os-video-player-releases/"><u>In 2024, 10 Cost-Free, Multi-OS Video Player Releases</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-instagram-image-addition-playbook/"><u>2024 Approved  The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-se-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone SE? Learn All 4 Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-x-cite-reviews-and-simpler-choices-for-2024/"><u>[Updated] X-Cite Reviews & Simpler Choices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/must-do-tasks-for-enhanced-podcast-experience-for-2024/"><u>Must-Do Tasks for Enhanced Podcast Experience for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-se-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone SE Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-se-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone SE Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-se-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone SE and iPad Securely</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/fonepaw-screen-recorder-downloadreview/"><u>Fonepaw Screen Recorder Download|Review</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/crowds-delight-auditory-replicator/"><u>Crowds Delight Auditory Replicator</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-se-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone SE Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-se-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone SE Without a Passcode</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-tecno-phantom-v-fold-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Tecno Phantom V Fold FRP Bypass Instantly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone SE with a Mask On</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-flv-editor-for-windows-8-effortless-video-editing-software/"><u>New In 2024, Best FLV Editor for Windows 8 Effortless Video Editing Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-shutter-tips-free-windows-edition/"><u>[New] Screen Shutter Tips  Free Windows Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elevate-meeting-experience-with-zooms-camera-snaps/"><u>[New] In 2024, Elevate Meeting Experience with Zoom's Camera Snaps</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your iPhone XR When You Forget the Passcode?
-date: 2024-05-19T07:10:02.407Z
-updated: 2024-05-20T07:10:02.407Z
+date: 2024-07-15T01:01:57.114Z
+updated: 2024-07-16T01:01:57.114Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your iPhone XR When You Forget the Passcode?
 excerpt: This article describes How to Access Your iPhone XR When You Forget the Passcode?
 keywords: factory reset locked iphone without itunes,how to unlock iphone without passcode or face id,fix iphone passcode not working,change apple id password,unlock iphone screen passcode,iphone backup password,how to unlock iphone passcode without computer,iphone lost mode unlock,iphone swipe up not working
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## How to Access Your Apple iPhone XR When You Forget the Passcode?
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone XR
 
@@ -111,6 +111,18 @@ Now, in case you know the Apple iPhone XR restrictions passcode and just wish to
 
 1. Once you’ve entered the current passcode, hit on the “Disable Restrictions” and to confirm your actions, key in your passcode when prompted.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restrictions passcode disabling](https://images.wondershare.com/drfone/article/2019/09/disable-restrictions-iphone.jpg)
 
 1. Lastly, hit on “Enable Restrictions”. You’ll be asked to set up a new passcode now. Do it and you’re done.
@@ -185,6 +197,9 @@ If your gadget isn't running macOS Catalina or later, you'll need to involve iTu
 
 When you've effectively connected and chosen your Apple iPhone XR on a Mac or a PC, tap on the Restore button. And that's **how to unlock iPhone without passcode or face ID.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. DNS Server
 
 The following steps explain **how to unlock iPhone without face ID or passcode** using a DNS server:
@@ -252,6 +267,9 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 **Note:** This unlocking process will erase everything off your Apple iPhone XR and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
 Face ID can be a helpful method for unlocking your Apple iPhone XR - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
@@ -296,8 +314,14 @@ Have you purchased a carrier-locked iPhone or got into an “iPhone Disabled” 
 
 This well-researched guide will provide facts and cost details of different carrier services and Apple ID or IMEI unlocking tools. Luckily, you will also find a perfect tool that offers multiple unlocking solutions for iPhones at a reasonable price.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![costing an iphone to unlock](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. How To Check Whether iPhone Is Locked or Not?
 
 iOS devices get disabled when you enter a wrong passcode multiple times because Apple's security doesn't allow unauthorized access. Also, you can face carrier-locked issues when your Apple iPhone XR is restricted and doesn't support other SIM services. These are common issues that iPhone users often come across. Well, this section provides a simple way to check whether your Apple iPhone XR is locked or not:
@@ -561,3 +585,53 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-7-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 7 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple/"><u>Unveiling Secrets  Top Strategies for Advanced SRT Tweaks on Apple</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlock-the-power-8-best-no-cost-software-for-videographers-and-editors/"><u>Unlock the Power  8 Best No-Cost Software for Videographers & Editors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-7-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 7 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-10-leading-tiktok-metrics-for-boosting-engagement-for-2024/"><u>[New] 10 Leading TikTok Metrics for Boosting Engagement for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-guide-to-youtube-audio-editing/"><u>[Updated] In 2024, Cutting-Edge Guide to YouTube Audio Editing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-7-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 7 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-7-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 7 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-7-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 7 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-7-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 7 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-7-plus-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-7-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 7 Plus Without Passcode Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577214649-new-year-diverse-linguistic-dreams/"><u>New Year, Diverse Linguistic Dreams!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-7-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 7 Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-7-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 7 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-your-spot-in-the-starfield-early-access-lottery/"><u>Claim Your Spot in the Starfield Early Access Lottery</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-7-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 7 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-7-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 7 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-7-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 7 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-7-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 7 Plus Prevention & Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-7-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 7 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-7-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 7 Plus in Lost Mode</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y78-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y78 5G FRP Locks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-7-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 7 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-generating-podcast-identity-the-top-ai-naming-software/"><u>In 2024, Generating Podcast Identity  The Top AI Naming Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-7-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 7 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-7-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 7 Plus Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-7-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 7 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>Flight Dynamics  Unveiling Bebop’s Parrot Capabilities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-7-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 7 Plus Lock Screen</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-premium-collection-expert-tiktok-downloader-tools/"><u>[Updated] Premium Collection  Expert TikTok Downloader Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-go-to-list-of-international-adventure-vids/"><u>In 2024, Your Go-To List of International Adventure Vids</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers in Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/gamers-guide-to-high-quality-in-game-broadcasts-for-2024/"><u>Gamers' Guide to High-Quality In-Game Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-carryminati-unmasked-the-monetary-milestones/"><u>[New] 2024 Approved  CarryMinati Unmasked  The Monetary Milestones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-7-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 7 Plus Lock Screen</u></a></li>
+</ul></div>

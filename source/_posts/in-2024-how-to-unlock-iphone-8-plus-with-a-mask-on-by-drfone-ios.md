@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 Plus with a Mask On
-date: 2024-06-15T17:47:51.535Z
-updated: 2024-06-16T17:47:51.535Z
+date: 2024-07-15T00:40:53.421Z
+updated: 2024-07-16T00:40:53.421Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,13 +89,16 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
 - Intuitive instructions to unlock iPhone without the passcode.
 - Removes the iPhone's lock screen whenever it is disabled.
 - Works for all models of iPhone, iPad and iPod touch.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Fully compatible with the latest iOS 11,12,13.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **3981454** people have downloaded it
@@ -233,6 +236,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
@@ -266,6 +272,18 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 2:** Tap on **Display & Brightness**, scroll down, and tap **Auto-Lock**.
 - **Step 3:** Choose the desired time interval for your Apple iPhone 8 Plus to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 ## Conclusion
@@ -304,13 +322,16 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
 - Remove Apple ID on iOS devices without Password.
 - Support removing 4-digit/6-digit passcode, Touch ID & Face ID.
 - Easy to use it, with no technology background required.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Compatible with the latest iPhone XS, X, iPhone 8 (Plus) and iOS 12.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **3981454** people have downloaded it
@@ -345,6 +366,9 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 9\. You will be notified by showing the following window once the process is effectively finished.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-process is completed](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
 Now when you know how to unlock iPhone 6 without password, you can disconnect your Apple iPhone 8 Plus and use it as per your needs.
@@ -442,3 +466,44 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-leveraging-hashtags-to-enhance-fb-user-engagement/"><u>[New] 2024 Approved  Leveraging Hashtags to Enhance FB User Engagement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-your-channel-game-essential-video-editing-advice/"><u>[Updated] In 2024, Boost Your Channel Game  Essential Video Editing Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel S23 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-xs-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone XS When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-xs-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone XS Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-xs-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone XS with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-xs-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone XS with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-xs-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone XS when Phone is Broken?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-shine-above-the-rest-creating-a-distinctive-mark-in-tiktok-for-2024/"><u>[New] Shine Above the Rest  Creating a Distinctive Mark in TikTok for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-essential-cartoon-noise-packs-a-list-of-the-hottest-sounds-to-enhance-your-animation-for-2024/"><u>New Essential Cartoon Noise Packs A List of the Hottest Sounds to Enhance Your Animation for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xs-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone XS Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone XS?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-xs-5-ways-to-get-into-a-locked-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xs-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone XS Unavailable Issue With Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-find-x6-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Find X6 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-xr21-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia XR21 Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10plus-best-music-video-makers-to-make-fantastic-mv/"><u>10+ Best Music Video Makers to Make Fantastic MV</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-premier-10-terraria-mods-for-superior-play/"><u>2024 Approved  Premier 10 Terraria Mods for Superior Play</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-xs-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone XS After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-20-viral-tiktok-anime-ideas/"><u>[Updated] In 2024, 20 Viral Tiktok Anime Ideas</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/thorough-examination-hero4-black-performance/"><u>Thorough Examination  Hero4 Black Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-xs-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone XS Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-xs-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone XS? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone XS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-here-are-the-ten-best-stop-motion-apps-for-ios-and-android-devices-that-enable-you-to-create-awesome-stop-motion-animations-for-2024/"><u>New Here Are the Ten Best Stop Motion Apps for iOS and Android Devices that Enable You to Create Awesome Stop Motion Animations for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-xs-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone XS After Forgetting the Passcode?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-video-discoverability-with-ideal-thumbnail-widths-and-height-for-2024/"><u>[Updated] Enhancing Video Discoverability with Ideal Thumbnail Widths and Height for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xs-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XS Without Passcode Now</u></a></li>
+</ul></div>

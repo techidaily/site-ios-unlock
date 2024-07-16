@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 with a Mask On
-date: 2024-04-07T16:01:30.677Z
-updated: 2024-04-08T16:01:30.677Z
+date: 2024-07-15T03:13:20.571Z
+updated: 2024-07-16T03:13:20.571Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 8 with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 8 with a Mask On
 keywords: iphone asking for outlook password,total wireless unlock,bypass iphone passcode,what can jailbreak iphone do,how to unlock iphone 12,remove device supervision from iphone,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## How to Unlock Apple iPhone 8 with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -124,7 +124,10 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 8 Without iTunes/ iCloud.
 
@@ -157,7 +160,7 @@ Do note that all methods that unlock your Apple iPhone 8 will necessarily wipe y
 
 Your Apple iPhone 8 will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 8 device. When you set the Apple iPhone 8 device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 8 prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 8 device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 8 Using iTunes or macOS Finder
 
@@ -201,7 +204,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 8 from the Apple iPhone 8 devices from the left pane, click/ tap your disabled Apple iPhone 8 and click/ tap Erase This Device
 
@@ -221,12 +224,15 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 8 easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
 After all this to get access back, you might think let's go passcode-less and prevent the hassle. Don't do that - that's worse and unsafe. Instead, here are tips you can use to make sure you don't accidentally disable your Apple iPhone 8 again.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 1: About Passcodes
 
 - 1.1 Set a passcode that is easier to remember for you but difficult to think of for thieves and others.
@@ -242,7 +248,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 8, so use t
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 8 disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 8 device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -302,6 +308,9 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 - **Step 1.** You will need to access the "General" tab within Settings of your Apple iPhone 8. Here, scroll down and tap "Transfer or Reset iPhone.” On the following screen, tap the "Reset" option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![navigate to transfer and reset option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-4.jpg)
 
 - **Step 2.** From the available options, after tapping "Reset," choose "Reset All Settings." You will be asked to provide the passcode to successfully reset your Apple iPhone 8 and disable parental control settings.
@@ -320,7 +329,7 @@ Among its functions, [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.t
 
 #### Notable Features of Wondershare Dr.Fone
 
-1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/)on their iOS devices without losing their data.
+1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/) on their iOS devices without losing their data.
 2. If your iOS device is stuck at the iCloud Activation Lock, Dr.Fone bypasses this lock without requiring a passcode.
 3. For those facing issues with forgotten Apple ID passwords, Dr.Fone facilitates the removal of Apple ID from devices.
 
@@ -347,6 +356,9 @@ Upon completion, confirm by clicking “OK” on the computer screen. The progre
 
 ![iphone screen unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2. Restore iPhone From iTunes
 
 Restoring an iPhone using iTunes is an alternative method for removing parental controls. iTunes is a multimedia management software that is developed by Apple. It provides various functions, including media playback and data synchronization. The most important function is the Apple iPhone 8 device backup and restoration. Restoring your Apple iPhone 8 via iTunes results in the complete erasure of all data and settings. Here is **how to disable restrictions on iPhones without password:**
@@ -357,6 +369,9 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 - **Step 2.** Afterward, initiate the Apple iPhone 8 restoration by selecting "Restore iPhone." A menu box will appear, asking you to create a "Back Up" or not. Choose the preferred option, and another dialog box will appear, alerting you about the deletion of all content and settings on your Apple iPhone 8. You should proceed by clicking "Restore" to confirm. Then, follow the on-screen instructions to finalize the process.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
 
 ## Conclusion
@@ -382,3 +397,39 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-xs-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone XS Without a Home Button</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-your-top-tools-for-facebook-video-retrieval-revealed/"><u>In 2024, Your Top Tools for Facebook Video Retrieval Revealed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mellow-music-playlist-20-tiktok-country-tracks-to-relax-with/"><u>[Updated] 2024 Approved  Mellow Music Playlist  20 TikTok Country Tracks to Relax With</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-plan-for-building-your-ideal-youtube-playlist-for-2024/"><u>The Ultimate Plan for Building Your Ideal YouTube Playlist for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xs-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-xs-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone XS Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-xs-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone XS Lock Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-quick-tips-for-effective-android-video-chatting/"><u>In 2024, Quick Tips for Effective Android Video Chatting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-xs-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone XS Properly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-nubia-z50-ultra-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nubia Z50 Ultra FRP Bypass Instantly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-elevate-your-tiktok-presence-with-exquisite-video-templates/"><u>[New] Elevate Your TikTok Presence with Exquisite Video Templates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-xs-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone XS Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-hero-mastering-memes-in-kinemaster/"><u>In 2024, From Zero to Hero  Mastering Memes in KineMaster</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-xs-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone XS Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-xs-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone XS Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xs-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone XS Lock Screen with Notifications?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turn-tracks-into-tunes-mp3-to-youtube-conversion-made-simple/"><u>2024 Approved  Turn Tracks Into Tunes  MP3-to-YouTube Conversion Made Simple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>[New] The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone XS Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-most-effective-macos-sierra-video-coders/"><u>In 2024, Most Effective MacOS Sierra Video Coders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xs-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XS Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xs-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XS Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-screen-recorder-pro-a-beginners-handbook-for-mac/"><u>[New] In 2024, Screen Recorder Pro  A Beginner's Handbook for Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y200e-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y200e 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xs-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XS Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone XS Without Passcode?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-creating-spherical-shots-with-fisheye-lenses/"><u>[New] The Art of Creating Spherical Shots with Fisheye Lenses</u></a></li>
+</ul></div>

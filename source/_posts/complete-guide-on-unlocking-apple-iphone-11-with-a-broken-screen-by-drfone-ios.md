@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 11 with a Broken Screen?
-date: 2024-07-08T12:36:04.684Z
-updated: 2024-07-09T12:36:04.684Z
+date: 2024-07-15T01:03:12.150Z
+updated: 2024-07-16T01:03:12.150Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,6 +45,9 @@ Also, if your Apple iPhone 11 screen is broken, you can use this feature to unlo
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
@@ -106,6 +109,14 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 11 device and let you pick a photo.
@@ -208,6 +219,9 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2. By Resetting the Entire iPhone
 
 [Resetting the entire settings of your Apple iPhone 11](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) is a drastic but effective method. It can disable parental controls by removing all settings, including restrictions and passcodes. Note that this process will erase personalized settings on your device. However, it does not delete data like photos, videos, or apps. Below are the steps on **how to remove parental controls iPhone** by resetting:
@@ -259,6 +273,9 @@ Upon completion, confirm by clicking “OK” on the computer screen. The progre
 
 ![iphone screen unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2. Restore iPhone From iTunes
 
 Restoring an iPhone using iTunes is an alternative method for removing parental controls. iTunes is a multimedia management software that is developed by Apple. It provides various functions, including media playback and data synchronization. The most important function is the Apple iPhone 11 device backup and restoration. Restoring your Apple iPhone 11 via iTunes results in the complete erasure of all data and settings. Here is **how to disable restrictions on iPhones without password:**
@@ -349,6 +366,9 @@ You may also use Find My on the iCloud website to unlock your disabled iPhone, i
 
 The Apple iPhone 11 will be erased and restored to factory default settings. After that, you will have to set up the Apple iPhone 11 again.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.IV: Unlock Disabled iPhone Without A Computer (Find My App)
 
 Not so long ago, a computer was a necessity in every household for various reasons. Then, smartphones changed everything, and Apple spearheaded that change with the Apple iPhone 11 and iPad.
@@ -418,3 +438,62 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 11 get
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-creative-roadblocks-in-short-form-videos/"><u>2024 Approved  Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-11-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-11-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 11 when Phone is Broken?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-discover-easy-ad-free-screen-recording-apps/"><u>[Updated] 2024 Approved  Discover Easy, Ad-Free Screen Recording Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Passcode without a Computer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-lightweight-realities-googles-cardboard-and-samsung-gear-vr/"><u>2024 Approved  Lightweight Realities  Google’s Cardboard and Samsung Gear VR</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-11-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 11 with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-patience-slowing-down-videos-on-youtube-51-chars/"><u>[New] The Art of Patience  Slowing Down Videos on YouTube (51 Chars)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-11-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 11 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-11-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 11 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-merging-youtube-soundtracks-to-cinematic-scenes/"><u>[Updated] Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimal-visuals-for-effective-pre-and-post-call-teams-conversations/"><u>2024 Approved  Optimal Visuals for Effective Pre & Post-Call Teams Conversations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-11-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 11 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-zero-to-hero-on-instagram-6-strategies-that-lead-to-verified-status/"><u>[New] In 2024, From Zero to Hero on Instagram  6 Strategies That Lead to Verified Status</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-11-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-lava-blaze-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Lava Blaze 2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortlessly-link-zoom-events-across-ios-android-and-desktops-for-2024/"><u>Effortlessly Link Zoom Events Across iOS, Android, and Desktops for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>2024 Approved  Beautiful Beginnings  Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oneplus-nord-n30-se-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from OnePlus Nord N30 SE to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-11-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 11? Complete Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-applying-and-creating-gif-background-on-your-devices-and-presentations-is-not-hard-read-below-to-learn-how-to-apply-a-gif-background-on-all-/"><u>Updated In 2024, Applying and Creating Gif Background on Your Devices and Presentations Is Not Hard. Read Below to Learn How to Apply a GIF Background on All Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 11?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-path-to-longer-instagram-vids-a-comprehensible-approach/"><u>2024 Approved  The Path to Longer Instagram Vids  A Comprehensible Approach</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-11-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 11 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-make-a-youtube-trailer-for-2024/"><u>[New] How To Make a YouTube Trailer for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-11-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 11 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/finding-your-footprint-in-the-world-of-youtube-comments/"><u>Finding Your Footprint in the World of YouTube Comments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-methods-to-broadcast-and-record-sporting-events/"><u>In 2024, Elite Methods to Broadcast and Record Sporting Events</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-11-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 11 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mastering-avi-file-editing-how-to-split-cut-and-trim-with-confidence/"><u>New 2024 Approved Mastering AVI File Editing How to Split, Cut, and Trim with Confidence</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-blur-your-video-for-free-no-software-required/"><u>In 2024, Blur Your Video for Free No Software Required</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-11-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 11 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-11-5-ways-to-get-into-a-locked-apple-iphone-11-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 11? 5 Ways to get into a Locked Apple iPhone 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-pinnacle-of-photography-top-ten-camera-lens-selections-2024/"><u>[Updated] The Pinnacle of Photography  Top Ten Camera Lens Selections 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-11-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 11 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-vegaspro-2019-a-comprehensive-analysis/"><u>2024 Approved  VegasPro 2019  A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-engagement-select-8-social-apps-for-facebook-fame-for-2024/"><u>Elevate Your Engagement  Select 8 Social Apps for Facebook Fame for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/actionable-techniques-for-efficient-media-conversion-chains-for-2024/"><u>Actionable Techniques for Efficient Media Conversion Chains for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bending-words-in-media-landscapes/"><u>[Updated] Bending Words in Media Landscapes</u></a></li>
+</ul></div>

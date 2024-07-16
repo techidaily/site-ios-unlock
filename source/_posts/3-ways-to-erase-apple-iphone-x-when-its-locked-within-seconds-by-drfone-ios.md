@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone X When Its Locked Within Seconds
-date: 2024-04-02T06:31:22.696Z
-updated: 2024-04-03T06:31:22.696Z
+date: 2024-07-15T03:00:06.655Z
+updated: 2024-07-16T03:00:06.655Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Erase Apple iPhone X When Its Locked Within Seconds
 excerpt: This article describes 3 Ways to Erase Apple iPhone X When Its Locked Within Seconds
 keywords: remove iphone from blacklist,turn off restricted mode,change apple id password,how to remove passcode from iphone,unlock iphone without passcode,factory reset locked iphone without itunes,iphone lock screen with notifications,how to unlock iphone to use usb accessories,iphone is disabled,swipe up to unlock iphone,remove flashlight from iphone lock screen,open iphone without home button
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## 3 Ways to Erase Apple iPhone X When It's Locked Within Seconds
@@ -24,7 +24,7 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 
@@ -53,6 +53,9 @@ Wait for a while as the application will automatically recognize your phone. Cli
 
 Follow the on-screen instructions to put your phone into the DFU (Device Firmware Update) mode. It can be done by pressing the Home and Power button simultaneously for 10 seconds. Afterward, it would help if you released the Power button while pressing the Home button for another 5 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
 
 **Step 4. Download firmware package.**
@@ -226,6 +229,9 @@ Before sidestepping the Apple iPhone X lock screen, we want to boot it in Recove
 
 After putting the Apple iPhone X device in DFU mode, Dr.Fone will show the Apple iPhone X device information, for example, the Apple iPhone X device Model and OS Variant. You can choose the correct data from the dropdown menu if the information is incorrect. Then, at that point, click Download to download the firmware for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Apple iPhone X screen lock**
@@ -277,6 +283,18 @@ If your device supports Touch ID, you can use your fingerprint to unlock it. Fol
 
 **_**_Note_**__**_:_**_** **Please be aware that this approach is effective only when you can still navigate through your Apple iPhone X's settings. If that's not the case, proceed to the following method.**
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Unlock the Apple iPhone X Without the Home Button via the Rest Finger to Open
 
 Building upon the initial method, this resolution is effective only if you have previously configured Touch ID. To **unlock an iPhone without using the Home button**, you can activate the **Rest Finger to Open** feature. Ensure that Touch ID is permitted for unlocking your Apple iPhone X, and then follow the steps below:
@@ -287,6 +305,9 @@ Building upon the initial method, this resolution is effective only if you have 
 
 **Step 2:** Toggle the switch next to **Rest Finger to Open** to enable this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Unlock the Apple iPhone X Without the Home Button via AssistiveTouch
 
 The alternative solution for **how to open an iPhone without the Home button but with AssistiveTouch**. The feature is designed to simplify iPhone usage. It allows various actions without pressing the Home button or other physical buttons. Here's how.
@@ -318,6 +339,9 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 - **Step 1:** Visit the official Dr.Fone website and download software. Install the software on your computer and launch it. Next, click **Toolbox** > **Screen** **Unlock > iOS**. Connect your Apple iPhone X using a USB cable and choose **Unlock iOS Screen**. Ensure the software recognizes your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone unlock ios screen window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 
@@ -410,3 +434,41 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-se-2020-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone SE (2020) Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-note-13-proplus-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi Note 13 Pro+ 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-2020-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE (2020) Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-se-2020-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone SE (2020) Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-instant-tune-livestreams-on-douyin/"><u>[New] In 2024, Instant Tune Livestreams on Douyin</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-strategies-for-instagram-photo-inclusion/"><u>In 2024, Simplified Strategies for Instagram Photo Inclusion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-2020-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE (2020)? Learn All 4 Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-top-picks-the-best-8-free-video-editors-online/"><u>In 2024, Top Picks  The Best 8 Free Video Editors Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2020-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Without Passcode?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-2020-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE (2020) Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-se-2020-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone SE (2020) Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-se-2020-how-to-unlock-a-disabled-iphone-se-2020-by-drfone-ios/"><u>In 2024, Disabled iPhone SE (2020) How to Unlock a Disabled iPhone SE (2020)?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cultivating-companions-best-farm-games-to-share-with-pals-for-2024/"><u>Cultivating Companions  Best Farm Games to Share with Pals for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-free-filmora-download-without-viruses-or-malware-expert-advice/"><u>2024 Approved Free Filmora Download without Viruses or Malware Expert Advice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone SE (2020)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-portable-canvas-apps-for-windows-free-and-charged/"><u>[New] Prime Portable Canvas Apps for Windows  Free and Charged</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-redmi-note-12t-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Redmi Note 12T Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-se-2020ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone SE (2020)/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-se-2020-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone SE (2020) Properly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-homemade-video-making-top-5-efficient-methods-you-must-know-for-2024/"><u>[New] Homemade Video Making  Top 5 Efficient Methods You Must Know for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without Computer?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-iphone-podcast-integration/"><u>2024 Approved  Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-vlc-video-cutter-for-mac-trim-and-preserve-quality-with-ease/"><u>New VLC Video Cutter for Mac Trim and Preserve Quality with Ease</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/windows-and-mac-top-rated-video-tagging-software/"><u>Windows and Mac Top-Rated Video Tagging Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-se-2020-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone SE (2020) Without a Home Button</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 15 when Phone is Broken?
-date: 2024-03-29 18:50:47
-updated: 2024-04-01 20:37:55
+date: 2024-07-15T02:38:55.637Z
+updated: 2024-07-16T02:38:55.637Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 15 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 15 when Phone is Broken?
 keywords: unlock iphone passcode,unlock disabled iphone 13,how to create new apple id,reset iphone backup password,remove iphone from blacklist,how to unlock iphone without passcode or face id,iphone locked to owner,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 15 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -61,6 +61,9 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
 
 **Step 4: Jailbreak your Apple iPhone 15**
@@ -216,6 +219,18 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
 **Changing your Apple ID on an iPad** is usually easy. However, there can be setbacks during the process. Now, here's what to do if you find yourself unable to do it and why it might be happening:
@@ -224,6 +239,9 @@ Try Again Later
 
 If you encounter errors during the process, give it a little time and try again. Mayne it is because you **changed your Apple ID on your iPad** to an iCloud email address within 30 days.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change apple id to icloud email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-07.jpg)
 
 Check if Apple ID Is Already in Use
@@ -238,7 +256,7 @@ If you've addressed these issues and still can't change your Apple ID, don't wor
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
 
-## Part 4: Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) To Remove Apple ID Without Password
+## Part 4: Using <u>Wondershare Dr.Fone</u>
 
 Dr.Fone Screen Unlock (iOS) tool is your go-to solution for unlocking iOS devices without a passcode. The best part? It is easy to use for users of all technical backgrounds. With Dr.Fone, you can unlock iOS screens protected by 4 to 6-digit passcodes, Face ID, Touch ID, and more.
 
@@ -343,6 +361,9 @@ A safety precaution that may be taken to prevent unwanted access to your Apple i
 
 If you forget your password, you will be required to reset it before being able to access your backups again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### iCloud and iTunes Backup Password
 
 Resetting your password may be done in different methods, depending on whether or not you have an iCloud account. You may reset your iCloud password by visiting the iCloud website and following the steps. This requires that you already have an iCloud account.
@@ -371,6 +392,9 @@ Follow on to learn how to reset your Apple iPhone 15 backup password now!
 
 Get into **Settings** on your iOS device, then choose **General**, and **Reset.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-3.jpg)
 
 Now, go to **Reset All Settings** and confirm by entering the security passcode. Your phone will reset to the default setting. Get rid of the password for the last backup without deleting any other apps or data.
@@ -488,3 +512,48 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-ai-editor.techidaily.com/updated-video-editing-without-boundaries-35-top-tools-for-any-platform/"><u>Updated Video Editing Without Boundaries 35 Top Tools for Any Platform</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715859897424-2024-approved-zombification-extravaganza-8-epic-titles-ranked/"><u>2024 Approved  Zombification Extravaganza - 8 Epic Titles Ranked!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-10t-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 10T 5G Lock Screen Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-12-pro-max-how-to-unlock-a-disabled-apple-iphone-12-pro-max-by-drfone-ios/"><u>Disabled Apple iPhone 12 Pro Max How to Unlock a Disabled Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 12 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-12-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 12 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-12-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-12-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 12 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-12-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-12-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 12 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-personalized-gift-boxes-unlocked-the-best-online-shopping-spots/"><u>[New] Personalized Gift Boxes Unlocked  The Best Online Shopping Spots</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-boost-your-brand-with-snapchats-business-features/"><u>[Updated] Boost Your Brand with Snapchat's Business Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-essential-windows-and-macos-daw-software-ranking-the-best/"><u>2024 Approved Essential Windows & macOS DAW Software Ranking the Best</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-12-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 12 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713939516825-step-by-step-to-rotate-videos-using-obs/"><u>Step by Step to Rotate Videos Using OBS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-12-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 12 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-12-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 12 Pro Max Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-12-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 12 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[New] Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-powerpoint-slideshow-icon-slide-sorter-view-icon-slideshow-icon-powerpoint-slide-show-view-icon/"><u>New 2024 Approved Powerpoint Slideshow Icon, Slide Sorter View Icon, Slideshow Icon Powerpoint, Slide Show View Icon</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-git-operations-with-github-desktop-and-windows-1011/"><u>Streamlining Git Operations with GitHub Desktop & Windows 10/11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-undead-uprising-top-8-unleashed-in-video-game-realm/"><u>[New] 2024 Approved  Undead Uprising - Top 8 Unleashed in Video Game Realm</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-12-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 12 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12 Pro Max</u></a></li>
+</ul></div>

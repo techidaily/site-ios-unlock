@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 12 when Phone is Broken?
-date: 2024-05-19T07:10:18.827Z
-updated: 2024-05-20T07:10:18.827Z
+date: 2024-07-15T01:28:24.178Z
+updated: 2024-07-16T01:28:24.178Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 12 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 12 when Phone is Broken?
 keywords: iphone 11 passcode bypass,unlock iphone xs without passcode,iphone lock screen with notifications,forgot passcode on iphone,get into locked iphone,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -103,6 +103,9 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 12, which you want to remove by clicking on "Remove from account."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
@@ -141,6 +144,9 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -279,6 +285,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -320,7 +329,7 @@ The tool provides users with the convenience of checking if their device is blac
 ### Key Features of doctorSIM
 
 1. It allows you to check the SIM lock status and warranty status of your iOS device.
-2. doctorSIM can also help you check the [iCloud Activation Lock](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html)Status and MI Account Activation Status.
+2. doctorSIM can also help you check the [iCloud Activation Lock](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html) Status and MI Account Activation Status.
 3. Along with the old devices, this service is also compatible with the latest models, such as the Apple iPhone 12 15 series,
 
 ### Pros
@@ -347,7 +356,7 @@ The tool provides users with the convenience of checking if their device is blac
 
 - **Step 3.** This will take you to the next screen, where you can view the "Summary" of your order. If everything is all right, press “Next” to move to payments to pay the charges via Credit Card or Crypto. Afterward, wait for the process to complete, which can take days.
 
-![review order summary ](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-4.jpg)
+![review order summary](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-4.jpg)
 
 ## Part 3. Is the Entire doctorSIM System Legit?
 
@@ -361,25 +370,28 @@ Customer **doctorSIM reviews** highlight the platform's reliability, effectiven
 
 It is important to clarify that doctorSIM primarily focuses on IMEI unlocking. This liberates a device from carrier restrictions to enable use with various networks. Amongst all the discussion, it is crucial to differentiate that this service does not offer iCloud Activation Lock removal in any case. Here are some top alternatives specifically that you can consider when using doctorSIM for unlocking purposes:
 
-### 1\. [IMEIDocto](https://imeidoctor.com/en_us)
+### 1\. IMEIDocto
 
 Specializing in unlocking iPhones by IMEI, IMEIDoctor is a trusted service. It offers a dependable solution for users seeking freedom from carrier restrictions. IMEIDoctor stands out further due to its extensive support for various iPhone models and carriers. It solidifies its status as a reliable choice.
 
 ![imeidoctor imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-5.jpg)
 
-### 2\. [CellUnlocker](https://www.cellunlocker.net/)
+### 2\. CellUnlocker
 
 CellUnlocker stands out as a reputable IMEI unlocking service, catering to many types of smartphones. Known for its reliability, the service facilitates unlocking for numerous carriers globally. This provides flexibility for users requiring international use of their devices. The user-friendly interface further enhances the overall experience.
 
 ![cellunlocker imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-6.jpg)
 
-### 3\. [IMEIUnlockSIM](https://www.imeiunlocksim.com/)
+### 3\. IMEIUnlockSIM
 
 IMEIUnlockSIM is a specialized service focusing on unlocking iPhones through IMEI. Known for its straightforward process, it aims to provide users with a hassle-free experience. This service also offers iCloud unlock and IMEI checks. The service supports a variety of iPhone and Android models and provides timely customer support.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![imeiunlocksim imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-7.jpg)
 
-### 4\. [iUnlockBase](https://www.unlockbase.com/)
+### 4\. iUnlockBase
 
 This IMEI unlocking service is a comprehensive service renowned for its expansive database. It supports a large number of devices and carriers. The platform provides various unlocking services, such as network unlocking and iCloud unlocking. Serving a worldwide audience, iUnlockBase guarantees a seamless unlocking process.
 
@@ -393,7 +405,7 @@ It allows users to circumvent it without needing the Apple ID. This unique capab
 
 ### Notable Characteristics of Wondershare Dr.Fone
 
-1. [Remove MDM](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)or Screen Time passcodes on your device effortlessly, preserving your data.
+1. [Remove MDM](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) or Screen Time passcodes on your device effortlessly, preserving your data.
 2. Wondershare Dr.Fone specializes in bypassing various screen locks, including passcodes and Face IDs.
 3. Fone can remove the iTunes backup encryption lock without any impact on your data.
 
@@ -420,6 +432,9 @@ Now, decide whether your device is GSM or CDMA, as it is an important aspect. By
 
 After this, if your iDevice isn't jailbroken, you will be required to jailbreak your device. For that, you can follow the step-by-step textual instructions or watch a video. Once the Apple iPhone 12 device is jailbroken, the process will commence automatically to bypass the Activation Lock. A completion message will pop up on the window when the process finishes. Afterward, tap the “Done” button to finalize the process successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icloud activation lock successfully removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 #### 2\. For Devices Running iOS/iPadOS 15.0 to 16.3
@@ -469,3 +484,48 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-15-plus-how-to-unlock-a-disabled-apple-iphone-15-plus-by-drfone-ios/"><u>Disabled Apple iPhone 15 Plus How to Unlock a Disabled Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>[New] In 2024, Virtual Questland  The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-15-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 15 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-understanding-the-implications-before-quitting-discord/"><u>[New] In 2024, Understanding the Implications Before Quitting Discord</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-15-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 15 Plus Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-15-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 15 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-15-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 15 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-15-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 15 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-profit-strategies-for-vimeo-content-creators/"><u>In 2024, Mastering Profit Strategies for Vimeo Content Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-tips-for-integrating-markers-in-videography/"><u>[New] Advanced Tips for Integrating Markers in Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-e-steps-your-pathway-from-preparation-to-production-in-a-reviews-channel/"><u>[Updated] The Essential E-Steps  Your Pathway From Preparation to Production in a Reviews Channel</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y100 5G Bootloader Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-15-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-15-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 15 Plus Prevention & Solution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-handheld-smooth-movies-maker/"><u>[New] 2024 Approved  Handheld Smooth Movies Maker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-15-plus-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-guide-to-pause-and-extend-videos-on-snapchat/"><u>[Updated] Step-by-Step Guide to Pause & Extend Videos on Snapchat</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-huawei-nova-y91-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Huawei Nova Y91 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-15-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 15 Plus Lock Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-what-are-the-best-websites-to-download-amusing-and-funny-ringtones/"><u>[Updated] What Are the Best Websites to Download Amusing and Funny Ringtones?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-15-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 15 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-amazing-free-youtube-intro-makers-ranked-for-2024/"><u>[New] 5 Amazing Free YouTube Intro Makers Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-comprehensible-breakdown-for-youtube-annotation-and-card-implementation/"><u>[New] In 2024, A Comprehensible Breakdown for YouTube Annotation and Card Implementation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-srt-education-and-resources/"><u>In 2024, Comprehensive SRT Education and Resources</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-enable-dark-mode-on-facebook/"><u>How to Enable Dark Mode on Facebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/integrating-youtube-autoplay-smoothly-into-your-facebook-experience-for-2024/"><u>Integrating Youtube Autoplay Smoothly Into Your Facebook Experience for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-subscribe-savvy-double-your-audience-in-pocket-change/"><u>2024 Approved  Subscribe Savvy  Double Your Audience in Pocket Change</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-15-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 15 Plus Properly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fast-favorites-todays-highest-youtube-tracks/"><u>In 2024, Fast Favorites  Today's Highest Youtube Tracks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11
-date: 2024-05-19T07:10:03.788Z
-updated: 2024-05-20T07:10:03.788Z
+date: 2024-07-15T01:04:20.058Z
+updated: 2024-07-16T01:04:20.058Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11
 excerpt: This article describes Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11
 keywords: how to unlock iphone without passcode,erase iphone when locked,unlock disabled iphone without itunes,how to unlock iphone 7 without passcode,iphone passcode changed itself,unlock iphone 5 passcode without itunes,iphone asking for outlook password,bypass iphone passcode,lock stolen iphone,unlock iphone passcode without computer
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Locked Out of Apple iPhone 11? 5 Ways to get into a Locked Apple iPhone 11
@@ -26,7 +26,7 @@ Attention: All your data all be erased after you get into your locked Apple iPho
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 11 In 5 Minutes!
 
@@ -67,8 +67,14 @@ You can watch the video below about how to unlock your Apple iPhone 11 without P
 
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![got into locked Apple iPhone 11 successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to get into a locked Apple iPhone 11 with iTunes?
 
 This is another popular way to resolve the locked out of the Apple iPhone 11 problem. It can get a little complicated to start with, but in the end, your data would be erased. On Mac with macOS Catalina, you need to open Finder. On Windows PC and Mac with other macOS, you can use iTunes. Implement the following steps to restore your Apple iPhone 11.
@@ -189,7 +195,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 11 can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -290,6 +296,9 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8. Turn Off VoiceOver
 
 VoiceOver is an accessibility feature on iPhones. It assists users with visual impairments by providing spoken feedback for actions on the Apple iPhone 11 device. Sometimes, VoiceOver settings can interfere with normal touchscreen gestures like the swipe-up function. Here's how to turn off VoiceOver to resolve **iPhone 13 won’t swipe up to unlock**:
@@ -344,7 +353,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -414,6 +423,9 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 
 Entering the recovery mode requires various steps, given your Apple iPhone 11 model or settings. Assuming you're uncertain which one you have, check the rear of your phone or the client manual you got in the first box.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-2.jpg)
 
 **iPhone 8 and Above:**
@@ -541,6 +553,9 @@ First, tap on your Settings app to open it. That is the one on the home screen w
 
 On the Settings menu, tap on the Face ID and Passcode menu.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
 
 ### 3\. Enter your passcode
@@ -582,3 +597,62 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-12-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 12 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 Pro Max</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expert-strategies-for-success-with-facebook-video-content-for-2024/"><u>[Updated] Expert Strategies for Success with Facebook Video Content for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-se-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone SE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nubia-z50s-pro-by-drfone-android/"><u>Full Guide to Unlock Your Nubia Z50S Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-professionalizing-slides-with-youtube-videos/"><u>[New] 2024 Approved  Professionalizing Slides with YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-replay-the-art-of-twitch-livestream-control/"><u>[Updated] Replay  The Art of Twitch Livestream Control</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-samsung-galaxy-s21-fe-5g-2023-converter-convert-mov-files-for-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung Galaxy S21 FE 5G (2023) converter-convert .mov files for Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-videopad-video-editor-review-and-buying-recommendation/"><u>2024 Approved Videopad Video Editor Review and Buying Recommendation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-12-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 12 Pro Max Properly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-best-alternatives-to-audacity-for-2024/"><u>Updated 10 Best Alternatives to Audacity for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-making-an-impression-professional-pc-editing-strategies-for-youtube/"><u>[Updated] Making an Impression  Professional PC Editing Strategies for YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-transformations-in-vegaspro-19-for-2024/"><u>Understanding the Transformations in VegasPro '19 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-12-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-12-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 12 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-shorts-into-compact-mp4-files/"><u>[Updated] In 2024, How to Make Shorts Into Compact MP4 Files</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-create-unique-instagram-ringtone-at-home/"><u>[Updated] Create Unique Instagram Ringtone at Home</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-12-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 12 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-12-pro-max-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Max Without Passcode Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-techniques-for-mac-based-image-puzzles/"><u>In 2024, Quick Techniques for Mac-Based Image Puzzles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-12-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 12 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-12-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 12 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-content-addition-enhancing-your-personalized-youtube-plays/"><u>Seamless Content Addition  Enhancing Your Personalized YouTube Plays</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-youtube-thumbnail-size-you-should-knowthe-ultimate-guide-for-2024/"><u>[Updated] Best YouTube Thumbnail Size You Should Know[The Ultimate Guide] for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-16-free-avi-video-rotator-tools-a-comprehensive-guide-for-all-devices-for-2024/"><u>New 16 Free AVI Video Rotator Tools A Comprehensive Guide for All Devices for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-9a-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 9A Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-turbulent-windows-11-views/"><u>Taming Turbulent Windows 11 Views</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-12-pro-max-how-to-unlock-a-disabled-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Disabled iPhone 12 Pro Max How to Unlock a Disabled iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-12-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 12 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-12-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-2023-review/"><u>New 2024 Approved Video Editing Showdown Sony Vegas vs Adobe Premiere Pro 2023 Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-12-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 12 Pro Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foremost-companies-pioneering-vr-technology/"><u>[New] Foremost Companies Pioneering VR Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-12-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 12 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-for-windows-screen-snagger/"><u>[Updated] 2024 Approved  Best for Windows  Screen Snagger</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/revolutionize-your-tiktok-presence-with-analytics-leaders/"><u>Revolutionize Your TikTok Presence with Analytics Leaders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strengthening-video-impact-with-professional-audio-cues/"><u>[New] Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 Pro Max with iTunes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-perfect-recorder-chromebooks-best-friend/"><u>[New] 2024 Approved  Perfect Recorder  Chromebook's Best Friend</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 12 Pro Max</u></a></li>
+</ul></div>

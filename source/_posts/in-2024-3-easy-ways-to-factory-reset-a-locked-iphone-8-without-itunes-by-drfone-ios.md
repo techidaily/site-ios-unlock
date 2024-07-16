@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes
-date: 2024-05-19T07:09:51.869Z
-updated: 2024-05-20T07:09:51.869Z
+date: 2024-07-15T00:45:24.105Z
+updated: 2024-07-16T00:45:24.105Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes
 keywords: unlock iphone 14,how to unlock iphone without passcode or face id,how many attempts to unlock iphone,apple id not active,app lock iphone,remove iphone from blacklist
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes
@@ -107,6 +107,9 @@ To do this, you need to follow these steps:
 
 Your device will now be erased, and you can set it up as a new device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method #3: Enter the Recovery Mode of the Finder
 
 If you want to factory reset your locked iPhone without iTunes and any data loss, then this is the method you should use. This method will put your device into recovery mode, and then you can restore it from a previous backup.
@@ -139,6 +142,9 @@ But if you want your Apple iPhone 8 set to return to the default without losing 
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. How do I force my iPhone 6 to factory reset with buttons?
 
 To force your Apple iPhone 8 to factory reset with buttons, you need to follow these steps:
@@ -179,7 +185,7 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 
@@ -242,6 +248,9 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 1\. Firstly, put your Apple iPhone 8 into recovery mode. To do this, launch an updated version of iTunes on your system and connect it to a lightning cable. Now, long-press the Home button on your device and connect it to the other end of the lightning cable. Release the Home button once the iTunes logo would appear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
 
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
@@ -256,6 +265,18 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Erase locked iPhone by Find My iPhone
 
 If you haven’t already taken a backup of your phone, then you might find it hard to recover it with iTunes. Another popular way to wipe locked iPhone is by using the Find My iPhone tool. This is mostly implemented in case of a stolen or lost device. One of the best features of Find My iPhone is that it can be used to reset your device remotely. With this, you can protect your personal data without much trouble. Implement these steps to learn how to erase iPhone when locked using Find My iPhone.
@@ -370,6 +391,9 @@ Please read the following three notes carefully before clicking the **"Remove No
 - During this procedure, you should not launch **"iTunes."**
 - During the process, your Apple iPhone 8 will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
@@ -404,3 +428,41 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-6-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-7-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 7 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 7 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone XS Max without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-note-30-vip-racing-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Note 30 VIP Racing Edition Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shoot-with-clarity-capture-immersive-experiences-9-essentials/"><u>[Updated] Shoot with Clarity, Capture Immersive Experiences (9 Essentials)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-video-editing-apps-for-ios-and-android-devices/"><u>New 2024 Approved Top Video Editing Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-nokia-150-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Nokia 150 (2023)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-livestream-guidebook-recommended-tools-and-devices-compilation/"><u>Ultimate Livestream Guidebook  Recommended Tools and Devices Compilation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>In 2024, From Buffer to Broadcast  Learn How to Convert Your YouTube Viewing Into a Screenshot for Free</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android-for-2024/"><u>[Updated] Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-this-article-introduce-tips-on-how-to-stream-local-video-to-chromecast-from-windowsmacandroidios/"><u>Updated This Article Introduce Tips on How to Stream Local Video to Chromecast From Windows/Mac/Android/iOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-igtvs-power-boosters-crafting-viral-hash-tags/"><u>2024 Approved  IGTV's Power Boosters  Crafting Viral Hash Tags</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-ffxp-the-user-manual/"><u>[New] Navigating FFXP  The User Manual</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-facebook-video-size-guide-optimize-your-videos-for-maximum-engagement-for-2024/"><u>New The Facebook Video Size Guide Optimize Your Videos for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-photographic-archives/"><u>2024 Approved  Premium Photographic Archives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/lol-gaming-on-air-top-3-recording-methods/"><u>LOL Gaming On Air  Top 3 Recording Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-6s-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6s Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-6-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6 without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-speeding-up-video-playback-on-snapchat-for-novices/"><u>2024 Approved  Quick Tips  Speeding Up Video Playback on Snapchat for Novices</u></a></li>
+</ul></div>

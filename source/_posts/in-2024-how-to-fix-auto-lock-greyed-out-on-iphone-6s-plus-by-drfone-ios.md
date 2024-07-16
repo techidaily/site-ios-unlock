@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s Plus
-date: 2024-05-19T07:09:30.995Z
-updated: 2024-05-20T07:09:30.995Z
+date: 2024-07-15T00:11:04.122Z
+updated: 2024-07-16T00:11:04.122Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s Plus
 keywords: iphone is disabled,forgot passcode on iphone,unlock iphone 5 passcode without itunes,how to remove face id on iphone 13,bypass ios 14 lock screen,iphone lost mode unlock,what can jailbreak iphone do
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus
@@ -205,7 +205,7 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
 
-1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html)when your stolen iPhone is still powered on and connected to the internet.
+1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html) when your stolen iPhone is still powered on and connected to the internet.
 2. **iPhone Turned Off or In Airplane Mode:**The last known location before the Apple iPhone 6s Plus device was powered down or put in Airplane Mode is accessible, offering a starting point for recovery efforts.
 3. **Offline Finding with Bluetooth:**The Find My service leverages Bluetooth technology to create a vast network of Apple devices. With these, it can securely help locate your Apple iPhone 6s Plus, even offline.
 4. **Activation Lock Integration:**This service is also integrated with Activation Lock, adding an extra layer of security. The Activation Lock remains active if a thief attempts to erase your device.
@@ -220,6 +220,9 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
 Lost Mode locks the Apple iPhone 6s Plus device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
@@ -232,6 +235,9 @@ Lost Mode locks the Apple iPhone 6s Plus device and allows users to showcase a p
 
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
 
 - **Step 3.** After adding a message, tap "Next" on the following screen and press "Activate" from the top right corner.
@@ -326,6 +332,9 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Precaution #2. Enable Separation Alerts on iPhone
 
 Enabling “Separation Alerts” assists in preventing the loss of your Apple iPhone 6s Plus by alerting you when you distance yourself from it. Follow these steps to enable Separation Alerts on your Apple iPhone 6s Plus:
@@ -336,6 +345,9 @@ Enabling “Separation Alerts” assists in preventing the loss of your Apple iP
 
 - **Step 2.** From the available options, tap "Notify When Left Behind," and on the following screen, toggle "Notify When Left Behind." You can also add locations on this screen by tapping "New Location," for which you don't want to receive a left-behind notice.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![notify on separation enabled](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-23.jpeg)
 
 ### Precaution #3. Enable 2FA on iPhone
@@ -359,8 +371,8 @@ It provides a hassle-free solution for those locked out of their devices. This p
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
-2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your Apple iPhone 6s Plus or iPad if you have forgotten its password.
-3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)and carrier locks using Dr.Fone.
+2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 6s Plus or iPad if you have forgotten its password.
+3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -494,6 +506,18 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 - **Step 2:** Ensure your Apple iPhone 6s Plus is connected to the computer using a USB cable. Wait for Dr.Fone to detect your Apple iPhone 6s Plus automatically. Next, click the **Unlock Now** button.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
@@ -561,3 +585,43 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-x-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone X With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engineering-video-excerpts-for-online-platforms/"><u>[Updated] In 2024, Engineering Video Excerpts for Online Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-discovering-free-screen-recorders-insightful-review-best-picks/"><u>[New] Discovering Free Screen Recorders – Insightful Review, Best Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone X</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leveraging-visuals-in-your-social-media-journey-with-facebook-reels-for-2024/"><u>[Updated] Leveraging Visuals in Your Social Media Journey with Facebook Reels for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-x-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone X i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-x-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone X Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-x-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone X and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-x-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone X Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-x-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone X in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-x-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone X After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-x-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone X Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-x-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone X Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-editing-excellence-top-tier-luts-for-lightroom-connoisseurs/"><u>Elevate Editing Excellence  Top-Tier LUTs for Lightroom Connoisseurs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-view-bots-how-to-increase-youtube-views/"><u>[New] 2024 Approved  YouTube View Bots  How to Increase YouTube Views?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-6s-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 6s is off? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-x-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone X Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-sims-4-adventures-a-guide/"><u>[Updated] 2024 Approved  Capturing Sims 4 Adventures  A Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-x-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone X With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-ubuntu-video-editing-made-easy-10-free-software-choices/"><u>2024 Approved Ubuntu Video Editing Made Easy 10 Free Software Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-x-5-ways-to-get-into-a-locked-apple-iphone-x-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone X? 5 Ways to get into a Locked Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-x-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone X When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-x-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone X After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone X Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-rediscovering-the-past-with-your-camera-roll-on-snapchat/"><u>[Updated] Rediscovering the Past with Your Camera Roll on Snapchat</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-x-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone X With or Without Password</u></a></li>
+</ul></div>

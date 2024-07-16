@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-05-19T07:10:17.669Z
-updated: 2024-05-20T07:10:17.669Z
+date: 2024-07-15T01:26:26.167Z
+updated: 2024-07-16T01:26:26.167Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work
 excerpt: This article describes How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work
 keywords: get into locked iphone,how much does unlock a phone cost,how to remove passcode from iphone,factory reset locked iphone without itunes,how to unlock iphone with broken screen,how to unlock iphone 7 without passcode,how to unlock iphone without passcode or face id
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## How to Unlock Apple iPhone 12 With an Apple Watch & What to Do if It Doesn't Work
@@ -102,10 +102,16 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 12 With a Watch
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![person wearing face mask unlocking their Apple iPhone 12](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
 
 Generally speaking, unlocking your Apple iPhone 12 with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1. Check All Settings & Reconfigure
 
 As mentioned earlier, there are a few requirements that your devices need to meet to unlock your Apple iPhone 12 with your Apple Watch.
@@ -179,6 +185,9 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### 6. Reset Your Watch and Pair It Again
 
 Finally, if you’re still experiencing issues, you might need to reset your Apple Watch and pair it with your Apple iPhone 12 again.
@@ -263,6 +272,18 @@ If you forget your Apple Watch passcode without a paired device, a method to unl
 
 ![reset apple watch successfully](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 3. Unlocking Apple Watch Activation Lock by Contacting Previous Owner
 
 Losing access to your Apple Watch goes beyond just forgetting the passcode; purchasing a used Apple Watch can also lead to being locked out. In this scenario, you can encounter an Activation Lock. Reaching out to the previous owner is a direct and often effective solution.
@@ -382,6 +403,9 @@ To make this procedure work, the owner will need to use the Find My Device featu
 
 - ****Step 2:**** On the following screen, select your Apple iPhone 12 from "All Devices." Now choose "Erase iPhone" from the available options to erase the Apple iPhone 12 device and remove the Activation Lock.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on erase iphone](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-4.jpg)
 
 ### Method 3: Use the DNS Method To Unlock the Apple iPhone 12 Locked to Owner
@@ -472,3 +496,56 @@ Wondershare Dr.Fone's comprehensive toolkit provides a range of options to cater
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-optimal-budget-free-fb-picturemotion-designer/"><u>[New] Optimal Budget-Free FB Picture/Motion Designer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic5-ultimate-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic5 Ultimate to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-collage-artistry-with-precision/"><u>[New] Mastering Collage Artistry with Precision</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-dialing-in-the-perfect-aspect-ratio-for-youtube-images/"><u>In 2024, Dialing in the Perfect Aspect Ratio for YouTube Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-13-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 13 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-c110-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia C110</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-13-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 13 Passcode not Working?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-pros-guide-from-playback-to-perfected-overwatch-recordings/"><u>In 2024, The Pro's Guide  From Playback to Perfected Overwatch Recordings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-13-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 13 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13? Complete Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-frontier-fighters-pinpointing-the-7-best-rts-battles/"><u>[Updated] In 2024, Frontier Fighters  Pinpointing the 7 Best RTS Battles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-x50iplus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor X50i+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-13-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 13?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-yuva-3-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Yuva 3 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-the-art-of-saving-gameplay-footage-on-android/"><u>Perfecting the Art of Saving Gameplay Footage on Android</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-13-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 13 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-4-strategies-for-success-in-instagram-loop-creation/"><u>2024 Approved  Top 4 Strategies for Success in Instagram Loop Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-simplified-steps-to-documenting-fb-chats-and-calls/"><u>[Updated] In 2024, Simplified Steps to Documenting FB Chats and Calls</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-screencast-with-ezvide-maker-tool/"><u>In 2024, Mastering Screencast with EZvide Maker Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hues-in-action-implementing-color-schemes-properly/"><u>In 2024, Hues in Action  Implementing Color Schemes Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-13-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-13-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 13 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-13-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 13 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-13-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 13 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-13-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 13 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Galaxy Z Flip 5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-13-5-ways-to-get-into-a-locked-apple-iphone-13-by-drfone-ios/"><u>Locked Out of Apple iPhone 13? 5 Ways to get into a Locked Apple iPhone 13</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-mastering-youtube-partnership-reaching-10k-views-quickly/"><u>2024 Approved  Mastering YouTube Partnership  Reaching 10K Views Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-15-simple-steps-to-convert-youtube-to-mpeg-effortlessly/"><u>2024 Approved  15 Simple Steps to Convert YouTube to MPEG Effortlessly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-13-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-by-drfone-ios/"><u>How to Unlock Apple iPhone 13?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-essential-directory-of-fee-free-high-quality-audio-player-applications-for-android-and-ios-devices/"><u>Updated The Essential Directory of Fee-Free, High-Quality Audio Player Applications for Android and iOS Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevating-your-igtv-presence-with-stunning-covers/"><u>Elevating Your IGTV Presence with Stunning Covers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-silverleaf-studio-exploring-lightroom-substitutes/"><u>[New] Silverleaf Studio  Exploring Lightroom Substitutes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 13 Without Passcode Easily</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-intro-video-makers-top-picks-for-customizing-your-movie-openers/"><u>Updated In 2024, Intro Video Makers Top Picks for Customizing Your Movie Openers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-13-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 13 With 7 Methods</u></a></li>
+</ul></div>

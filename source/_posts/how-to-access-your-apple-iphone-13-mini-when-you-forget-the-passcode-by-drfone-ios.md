@@ -1,7 +1,7 @@
 ---
 title: How to Access Your Apple iPhone 13 mini When You Forget the Passcode?
-date: 2024-04-04T16:30:57.842Z
-updated: 2024-04-05T16:30:57.842Z
+date: 2024-07-15T03:05:04.201Z
+updated: 2024-07-16T03:05:04.201Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your Apple iPhone 13 mini When You Forget the Passcode?
 excerpt: This article describes How to Access Your Apple iPhone 13 mini When You Forget the Passcode?
 keywords: how to unlock iphone 7 without passcode,how to unlock iphone to use usb accessories,how much does unlock a phone cost,unlock iphone with apple watch,iphone backup password,ios 17 lock screen
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## How to Access Your Apple iPhone 13 mini When You Forget the Passcode?
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 13 mini
 
@@ -91,6 +91,9 @@ Note: Since we’re going to unlock your Apple iPhone 13 mini using Find My iPho
 
 **Step 4:** Then, you’ll get to witness a pop-up window over your screen. Tap the “Erase iPhone” button over it and then confirm your actions. All the settings and data will be wiped off remotely from your Apple iPhone 13 mini now.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iPhone](https://images.wondershare.com/drfone/article/2019/09/unlock-iphone-icloud.jpg)
 
 **Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
@@ -119,6 +122,9 @@ Now, in case you know the Apple iPhone 13 mini restrictions passcode and just wi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Unlock Apple iPhone 13 mini with a Mask On
 
 Are you tired of wearing a mask in this pandemic? Apple introduced a new feature through which people can unlock **iPhone face ID while wearing a mask**. Before this, people either had to use other types of passwords or put off the mask to use Face ID. However, this feature is only available on iOS 15.4, depicting that iPhones containing earlier iOS versions won’t be able to enjoy this feature.
@@ -158,7 +164,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 13 mini to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 13 mini device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -194,7 +200,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -209,6 +215,9 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 You can also unlock Apple ID and iCloud passwords without losing the data. Also, while unlocking iPhone Screen Time Passcode through this platform, all of your data and information will be kept intact, and you can function your phone normally again.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone 13 mini Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone 13 mini Face ID while wearing a mask.
@@ -335,12 +344,18 @@ Simply shortly, your Apple iPhone 13 mini will be unlocked effectively. Note tha
 - Enter your current password.
 - Look down until you track the "Turn Passcode Off" choice and tap it.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![go to settings](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-5.jpg)
 
 - Click again to agree with your decision to turn off your passcode.
 
 ![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to get into your phone again. However, the best way is to use professional software to do the task for you. Therefore, we strongly suggest you install the Wondershare Dr.Fone-Screen Unlock software. It is a security tool and worth trying when you **forgot iPhone passcode.** So download it today for a quick unlocking experience.
@@ -360,3 +375,72 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-se-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone SE Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone SE Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-se-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-conquer-color-chaos-discover-essential-tutorials-and-techniques/"><u>[Updated] In 2024, Conquer Color Chaos - Discover Essential Tutorials and Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-se-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone SE i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE With or Without Password</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-comedy-kings-the-most-popular-memes/"><u>[Updated] In 2024, Comedy Kings  The Most Popular Memes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-se-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone SE Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-seipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone SE/iPad Without Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-rotate-and-share-with-ease-enhancing-instagram-videos-on-all-devices/"><u>In 2024, Rotate & Share with Ease  Enhancing Instagram Videos on All Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE with a Mask On</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-time-travel-visualization/"><u>In 2024, Strategies for Time Travel Visualization</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-se-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone SE Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-se-how-to-unlock-a-disabled-apple-iphone-se-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone SE How to Unlock a Disabled Apple iPhone SE?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-s17t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo S17t without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-mkv-player-suite-pcmobile/"><u>2024 Approved  Premiere MKV Player Suite (PC/Mobile)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-se-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone SE In Different Conditionsin</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/recording-live-videos-on-periscope-with-maximum-quality-for-2024/"><u>Recording Live Videos on Periscope with Maximum Quality for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/epic-viewership-winners-youtubes-ultimate-list/"><u>Epic Viewership Winners  YouTube's Ultimate List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-se-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone SE Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reviving-dull-images-the-most-effective-10-web-editing-aids/"><u>[New] Reviving Dull Images  The Most Effective 10 Web Editing Aids</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-se-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-se-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone SE Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-way-to-use-obs-live-stream-to-facebook/"><u>[Updated] 2024 Approved  Best Way to Use OBS Live Stream to Facebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone SE</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortless-youtube-file-extraction/"><u>In 2024, Effortless YouTube File Extraction</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-theme-crafting-for-gaming-channels-a-visual-journey/"><u>In 2024, Theme Crafting for Gaming Channels  A Visual Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-se-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone SE When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-5-ways-to-denoise-a-video-for-2024/"><u>Updated 5 Ways to Denoise a Video for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g73-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G73 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-honesty-in-high-definition-reviewing-recordcasts-efficacy-for-2024/"><u>[New] Honesty in High-Definition  Reviewing RecordCast's Efficacy for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-se-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone SE With 7 Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-steady-shots-best-apps-for-video-stabilization/"><u>Updated In 2024, Steady Shots Best Apps for Video Stabilization</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-se-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone SE Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-se-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone SE Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/s3700-blu-ray-box-player-fresh-perspective-for-2024/"><u>S3700 Blu-Ray Box Player - Fresh Perspective for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-magic5-ultimate-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor Magic5 Ultimate to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-must-buy-tiktok-goodies-top-30-from-amazon/"><u>[Updated] 2024 Approved  Must-Buy TikTok Goodies – Top 30 From Amazon</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-se-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone SE and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-se-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone SE? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-se-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone SE Prevention & Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 12 4G Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-se-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone SE Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-se-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone SE</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/top-10-free-online-animated-logo-makers-everyone-should-know-for-2024/"><u>Top 10 Free Online Animated Logo Makers Everyone Should Know for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-hottest-food-challenges-on-tiktok/"><u>[Updated] 2024 Approved  The Hottest Food Challenges on TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-ideas-in-images-top-20-photos-to-fire-up-creativity/"><u>[New] In 2024, Ideas in Images  Top 20 Photos to Fire Up Creativity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-palette-wisdom-essential-color-theory-explained/"><u>[Updated] Palette Wisdom  Essential Color Theory Explained</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-affordable-video-editing-solutions-for-creators/"><u>Updated 2024 Approved Affordable Video Editing Solutions for Creators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
+</ul></div>

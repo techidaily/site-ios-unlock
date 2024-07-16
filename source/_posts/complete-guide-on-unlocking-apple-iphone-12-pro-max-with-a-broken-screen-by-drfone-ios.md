@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 12 Pro Max with a Broken Screen?
-date: 2024-05-19T07:10:23.141Z
-updated: 2024-05-20T07:10:23.141Z
+date: 2024-07-15T01:35:07.083Z
+updated: 2024-07-16T01:35:07.083Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking Apple iPhone 12 Pro Max with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking Apple iPhone 12 Pro Max with a Broken Screen?
 keywords: fix iphone backup password never set but still asking,how to unlock a found iphone,unlock iphone face id wearing mask,how to remove passcode from iphone,how to unlock iphone 7 without passcode,fix iphone unavailability,reset iphone backup password,bypass ios 14 lock screen,iphone 15 unlock,erase iphone when locked
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 12 Pro Max with a Broken Screen?
@@ -96,6 +96,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
@@ -106,6 +109,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 12 Pro Max device and let you pick a photo.
@@ -197,7 +203,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 Pro Max to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 Pro Max device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -219,6 +225,9 @@ To enable the feature of unlocking the Apple iPhone 12 Pro Max with an Apple Wat
 
 **Step** **1:** Head to the " Settings " app and choose "Face ID & Passcode." Give your passcode for authenticity and proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
@@ -233,7 +242,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -277,7 +286,7 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
 
-1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html)when your stolen iPhone is still powered on and connected to the internet.
+1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html) when your stolen iPhone is still powered on and connected to the internet.
 2. **iPhone Turned Off or In Airplane Mode:**The last known location before the Apple iPhone 12 Pro Max device was powered down or put in Airplane Mode is accessible, offering a starting point for recovery efforts.
 3. **Offline Finding with Bluetooth:**The Find My service leverages Bluetooth technology to create a vast network of Apple devices. With these, it can securely help locate your Apple iPhone 12 Pro Max, even offline.
 4. **Activation Lock Integration:**This service is also integrated with Activation Lock, adding an extra layer of security. The Activation Lock remains active if a thief attempts to erase your device.
@@ -304,6 +313,9 @@ Lost Mode locks the Apple iPhone 12 Pro Max device and allows users to showcase 
 
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
 
 - **Step 3.** After adding a message, tap "Next" on the following screen and press "Activate" from the top right corner.
@@ -340,6 +352,9 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. Other Things To Do iPhone Is Stolen
 
 There are additional measures you can take to enhance your overall security apart from understanding **how do I lock my stolen iPhone**. The following are some options you should utilize in case of device loss:
@@ -431,8 +446,8 @@ It provides a hassle-free solution for those locked out of their devices. This p
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
-2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your Apple iPhone 12 Pro Max or iPad if you have forgotten its password.
-3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)and carrier locks using Dr.Fone.
+2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 12 Pro Max or iPad if you have forgotten its password.
+3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -484,3 +499,51 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 14 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-red-magic-8s-proplus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-14-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 14 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-14-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 14 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-14-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 14 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-titles-need-top-tech-for-optimal-play/"><u>Top Titles Need Top Tech for Optimal Play</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-14-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 14 Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-nubia-z50s-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Nubia Z50S Pro.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscover-the-best-15-youtube-science-think-tanks-for-2024/"><u>[New] Discover the Best 15 YouTube Science Think Tanks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-squared-success-creating-compelling-video-posts-on-facebook/"><u>[Updated] 2024 Approved  Squared Success  Creating Compelling Video Posts on Facebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-14-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 14 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-12-watermark-free-capture-programs/"><u>[Updated] 2024 Approved  Best 12 Watermark-Free Capture Programs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-14-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 14 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-guide-to-discovering-virtual-augmentations/"><u>2024 Approved  A Guide to Discovering Virtual Augmentations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-soundscape-strategy-incorporating-melodies-into-vimeo-videos/"><u>The Soundscape Strategy  Incorporating Melodies Into Vimeo Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-8-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 8 Plus Safe and Legal</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-14-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 14 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-14-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 14 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-charting-a-course-to-your-personalized-tiktok-marker-for-2024/"><u>[New] Charting a Course to Your Personalized TikTok Marker for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reat-video-platform-debate-vimeo-and-youtube-for-2024/"><u>The Great Video Platform Debate  Vimeo & YouTube for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-14-plus-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 14 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-14-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 14 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-14-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 14 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube/"><u>[Updated] Content Choice Conundrum  Is Podcasting Right, Or Should You Go for YouTube?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-14-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Plus Without Passcode Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-plus-5-ways-to-get-into-a-locked-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14 Plus? 5 Ways to get into a Locked Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-f54-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy F54 5G Phone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-youtubes-buffering-blues-your-pathway-out-current-strategies/"><u>[Updated] In 2024, YouTube's Buffering Blues – Your Pathway Out (Current Strategies)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A78 | Dr.fone</u></a></li>
+</ul></div>

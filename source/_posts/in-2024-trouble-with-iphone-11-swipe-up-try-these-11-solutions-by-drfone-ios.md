@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions
-date: 2024-05-19T07:10:05.848Z
-updated: 2024-05-20T07:10:05.848Z
+date: 2024-07-15T01:07:37.774Z
+updated: 2024-07-16T01:07:37.774Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions
 keywords: fix iphone backup password never set but still asking,get out of security lockout,bypass apple store verification,forgot locked note password,remove flashlight from iphone lock screen,ios 17 lock screen,open iphone without home button,factory reset locked iphone without itunes,unlock iphone passcode without computer,iphone backup password,unlock iphone without passcode
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions
@@ -50,7 +50,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 11 can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -131,6 +131,9 @@ If your Apple iPhone 11 swipe-up gesture isn't working specifically on the lock 
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -163,6 +166,9 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone 11 12 won't swipe up to unlock**:
@@ -181,6 +187,9 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 **Step 1.** Go through your iOS device Settings to open the "Accessibility" tab. Here, find and tap the "Motion" option to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![navigate motion features in accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-14.jpg)
 
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
@@ -193,6 +202,9 @@ Resetting all settings on your Apple iPhone 11 can help resolve software-related
 
 **Step 1.** Go to your device's "General" settings and scroll down to tap the second last option, "Transfer or Reset iPhone." On the following screen, press "Reset" from the available two options.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 11 is restored to its original settings.
@@ -205,7 +217,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -441,7 +453,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 11 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 11 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -477,13 +489,16 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
 - Intuitive instructions to unlock iPhone without the passcode.
 - Removes the iPhone's lock screen whenever it is disabled.
 - Works for all models of iPhone, iPad and iPod touch.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 - Fully compatible with the latest iOS 11,12,13.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **3981454** people have downloaded it
@@ -515,3 +530,61 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 mini</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-premier-screen-capture-apps-for-windows-free-1-5-listing/"><u>In 2024, Premier Screen Capture Apps for Windows Free  #1-5 Listing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-screen-capture-software-guide-apowersoft-included/"><u>The Ultimate Screen Capture Software Guide - Apowersoft Included</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/update-6-best-voice-changers-you-cant-miss/"><u>Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-13-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-financial-motives-in-consumer-video-evaluations/"><u>[Updated] Financial Motives in Consumer Video Evaluations?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/smartphone-strategies-to-create-dynamic-and-effective-youtube-thumbnails-for-2024/"><u>Smartphone Strategies to Create Dynamic and Effective YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes-for-2024/"><u>[Updated] Busting Barriers with Laughs  The Best Facebook Prisoner-Wit Quotes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone XR</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/pioneering-marketing-top-20-strategies-for-impactful-fb-video-ads-for-2024/"><u>Pioneering Marketing  Top 20 Strategies for Impactful FB Video Ads for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-8-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 8 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-capturing-kinetic-energy-in-iphone-images/"><u>[New] The Art of Capturing Kinetic Energy in iPhone Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-11-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 11 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-8-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-ios-video-streaming-tools-for-iphones-ipads/"><u>2024 Approved  Best iOS Video Streaming Tools for iPhones, iPads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-11-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-ultimate-list-top-10-plugins-for-elevated-discord/"><u>In 2024, The Ultimate List  Top 10 Plugins for Elevated Discord</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-13-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 13 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-se-2020-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE (2020) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-se-2022-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone SE (2022) Prevention & Solution</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-comparative-analysis-of-magix-samplitude-with-other-audio-workstations/"><u>New Comparative Analysis of MAGIX Samplitude with Other Audio Workstations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/free-guide-to-navigating-and-hosting-google-meet-sessions-effectively-for-2024/"><u>Free Guide to Navigating and Hosting Google Meet Sessions Effectively for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-content-masterpieces-with-these-essential-youtube-tips/"><u>[Updated] 2024 Approved  Crafting Content Masterpieces with These Essential YouTube Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-2020-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE (2020) Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>In 2024, In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-se-2022-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE (2022) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y100-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y100 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-11-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/year-end-recap-tiktok-hits-that-keep-coming-back-in-24/"><u>Year-End Recap  TikTok Hits That Keep Coming Back in '24</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mac-users-top-5-mkv-decoders-for-2024/"><u>Mac Users  Top 5 MKV Decoders for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-xs-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone XS Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-13-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 13 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-camera-victory-over-obs-glitches/"><u>Reviving Camera  Victory Over OBS Glitches</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-x-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-13-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 13 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-tactics-3-ways-to-record-and-keep-your-live-discord-events-alive-for-2024/"><u>[Updated] Top Tactics  3 Ways to Record and Keep Your Live Discord Events Alive for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-11-pro-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 11 Pro Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-8-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 8 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-8-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 8 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-memorable-honeymoon-video/"><u>New How to Make a Memorable Honeymoon Video</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-11-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 11 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-14-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-14-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 14 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-leading-image-editing-does-pickup-reign-supreme-in-2024/"><u>Android's Leading Image Editing  Does PickUp Reign Supreme, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE (2020)</u></a></li>
+</ul></div>

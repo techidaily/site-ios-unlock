@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your Apple iPhone XS When You Forget the Passcode?
-date: 2024-05-19T07:09:54.391Z
-updated: 2024-05-20T07:09:54.391Z
+date: 2024-07-15T00:49:43.362Z
+updated: 2024-07-16T00:49:43.362Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your Apple iPhone XS When You Forget the Passcode?
 excerpt: This article describes How to Access Your Apple iPhone XS When You Forget the Passcode?
 keywords: iphone lost mode unlock,how much does unlock a phone cost,iphone asking for outlook password,how to unlock iphone 7 without passcode,lock stolen iphone,unlock iphone xs without passcode,how to turn off find my iphone when phone is broken,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## How to Access Your Apple iPhone XS When You Forget the Passcode?
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone XS
 
@@ -61,6 +61,9 @@ Here we’re going to be familiar with the Apple iPhone XS passcode reset using 
 
 ![iTunes backup restoring](https://images.wondershare.com/drfone/article/2019/09/restore-iphone-itunes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Restore Apple iPhone XS in recovery mode to remove screen passcode
 
 If somehow, the above solution fails and you’re just not able to get Apple iPhone XS passcode reset. You need to boot your device into recovery mode and then perform the factory reset. This would certainly wipe off everything from your Apple iPhone XS including the passcode as well. Here are the steps involved in booting your Apple iPhone XS in recovery mode.
@@ -73,6 +76,9 @@ If somehow, the above solution fails and you’re just not able to get Apple iPh
 
 - Once the Apple iPhone XS device is booted in recovery mode, iTunes will throw a pop up message that “iTunes has detected an iPhone in recovery mode”. Simply, hit the “OK” button over the message and then push the “Restore iPhone” button followed by confirming your actions.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm to restore](https://images.wondershare.com/drfone/article/2019/09/recovery-mode-iphone-itunes.jpg)
 
 ## Part 4. Use “Find iPhone” from iCloud
@@ -115,6 +121,9 @@ Now, in case you know the Apple iPhone XS restrictions passcode and just wish to
 
 1. Lastly, hit on “Enable Restrictions”. You’ll be asked to set up a new passcode now. Do it and you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set up a new passcode](https://images.wondershare.com/drfone/article/2019/09/reset-restrictions-passcode-iphone.jpg)
 
 ## Unlocking Apple iPhone XS  Lock Screen: 3 Foolproof Methods that Actually Work
@@ -231,6 +240,9 @@ iPhone users can even restore their phones to factory settings without losing an
 
 4. A new window will appear, the Summary window. From this, the user is supposed to select the option of 'Restore iPhone.'
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![ways to bypass Apple iPhone XS  lock screen 4](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-4.jpg)
 
 5. Selecting the restore option, a confirmation window will appear on the screen, asking the user to confirm the decision of the restore process.
@@ -292,6 +304,9 @@ The above was a fast, intuitive, step-by-step way to get you through the unlock 
 
 **Step 2:** Press the volume up key on your Apple iPhone XS and release. Then, press the volume down key and release. Lastly, press and hold the power key till you see Recovery Mode in Finder or iTunes.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-2.jpg)
 
 **Step 3:** Click Restore to unlock disabled iPhone.
@@ -383,3 +398,53 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone XS get
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 12 Pro Max</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-the-charge-in-modern-presentation-recordings/"><u>[Updated] Leading the Charge in Modern Presentation Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max with a Mask On</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>[New] In 2024, How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-capture-and-convert-your-instagram-feeds-top-15-free-exporters-for-windows-and-macos-users/"><u>[Updated] In 2024, Capture and Convert Your Instagram Feeds  Top 15 Free Exporters For Windows & macOS Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-12-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 12 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>2024 Approved  Seamless Conversion From iPhone/PC  Explore the #8 Best Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-6-best-explainer-video-software-you-should-try-for-2024/"><u>Updated 6 Best Explainer Video Software You Should Try for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-of-video-invitation-makers-for-smartphone-users-for-2024/"><u>Updated The Ultimate List of Video Invitation Makers for Smartphone Users for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/epic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos-for-2024/"><u>Epic Soundscape  Trending Audio for Cutting-Edge YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-innovations-in-capturing-high-quality-facetime-calls/"><u>[Updated] In 2024, Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-12-pro-max-how-to-unlock-a-disabled-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 12 Pro Max How to Unlock a Disabled Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>Perfecting Your SRT Craft  A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-image-marketing-dos-vs-donts-explained/"><u>[New] YouTube Image Marketing  Dos vs Don'ts Explained</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 Pro Max</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-navigating-the-nuances-of-ppt-voiceover-performance/"><u>[Updated] In 2024, Navigating the Nuances of PPT Voiceover Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-s23plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy S23+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-huawei-nova-y71-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Huawei Nova Y71 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-12-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 12 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-12-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 12 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-12-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 12 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-12-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 12 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Max Without iTunes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-12-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 12 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-premier-collection-11-complimentary-mobile-audio-modification-tools-for-both-ios-and-android/"><u>2024 Approved Premier Collection 11 Complimentary Mobile Audio Modification Tools for Both iOS and Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-conquer-tiktok-with-proficient-voiceovers-for-2024/"><u>[New] Conquer TikTok with Proficient Voiceovers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-user-experience-the-changing-landsinas-of-w10-and-w11/"><u>Redefining User Experience: The Changing Landsinas of W10 & W11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 12 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-12-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 12 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 12 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
+</ul></div>

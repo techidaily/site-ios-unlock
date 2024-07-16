@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 without Passcode or Face ID
-date: 2024-05-19T07:09:52.070Z
-updated: 2024-05-20T07:09:52.070Z
+date: 2024-07-15T00:45:48.532Z
+updated: 2024-07-16T00:45:48.532Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 8 without Passcode or Face ID
 excerpt: This article describes How to Unlock iPhone 8 without Passcode or Face ID
 keywords: how to unlock iphone without passcode,how to unlock an iphone 13,remove flashlight from iphone lock screen,unlock iphone face id wearing mask,remove iphone from blacklist,unlock apple watch,how to turn off find my iphone when phone is broken,change country on iphone app store,fix iphone unavailability
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## How to Unlock Apple iPhone 8 without Passcode or Face ID
@@ -20,6 +20,9 @@ You can't access your Apple iPhone 8 because the Face ID isn't working, and you 
 
 Firstly, one ought to realize that it is impossible to hack an iPhone passcode. Therefore, the primary way that attempts to unlock your device without a PIN or Face ID is to erase it. After reading this guide, you will figure out **how to unlock iPhone without passcode or face ID**. Keep reading to find out more and learn about the best tools in the business.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
 
 ### 1\. Unlock it via Find My
@@ -28,6 +31,9 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 - You will be taken to another interface. Click "All devices" and select the Apple iPhone 8 on which you need to erase the passcode.
 - Click on "Erase iPhone", and afterwards affirm the decision. That's the simplest solution for **how to unlock iPhone without passcode or face ID.**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
 
 ### 2\. Via iTunes
@@ -282,6 +288,9 @@ Open the Dr.Fone program on your PC and select "Screen Unlock" among all the opt
 
 Connect your iOS device to the PC through a USB connector. Then, at that point, click the "Unlock iOS Screen" option on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2. Boot iPhone in Recovery or DFU mode**
@@ -331,7 +340,7 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 
@@ -382,6 +391,9 @@ Once it is done, the application will automatically start resolving the issue on
 
 After completing the operation successfully, the interface will provide the following message.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![erase iphone when locked-repair system complete](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg "repair system complete")
 
 You can check if you can unlock your phone or not. If you still have an issue, then click on the “Try Again” button. Else, you can safely remove your phone and use it without any constraint. By following this method, you would learn how to wipe a locked iPhone with Dr.Fone - Screen Unlock (iOS).
@@ -394,6 +406,9 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 1\. Firstly, put your Apple iPhone 8 into recovery mode. To do this, launch an updated version of iTunes on your system and connect it to a lightning cable. Now, long-press the Home button on your device and connect it to the other end of the lightning cable. Release the Home button once the iTunes logo would appear.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
 
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
@@ -443,3 +458,53 @@ After following this informative guide, you would learn how to wipe a locked iPh
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-navigating-steam-with-switch-pro/"><u>[New] The Ultimate Guide to Navigating Steam with Switch Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-broadcasts-to-bitstreams-online-recording-for-professionals-for-2024/"><u>[Updated] From Broadcasts to Bitstreams  Online Recording for Professionals for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro, Apples New iPhone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-uncover-the-top-10-youtube-channels-for-reliable-news/"><u>In 2024, Uncover the Top 10 YouTube Channels for Reliable News</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13/iPad Without Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-accelerate-your-gaming-experience-with-top-extensions/"><u>In 2024, Accelerate Your Gaming Experience with Top Extensions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-lava-blaze-2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lava Blaze 2 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 mini Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-11-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 11 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>[New] Twitch Reversion Made Simple  Top Ten Instructions at Hand</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone X Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-v27e-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo V27e to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-tv-with-laptop-via-faulty-hdmi/"><u>Reconnect TV with Laptop via Faulty HDMI</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-se-2022ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone SE (2022)/iPad Without Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-around-the-clock-vision-versus-multiplanar-exposures/"><u>2024 Approved  Around-the-Clock Vision Versus Multiplanar Exposures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/12-best-vlogging-cameras-for-vloggers-for-2024/"><u>12 Best Vlogging Cameras for Vloggers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-switches-expert-advice-on-changing-your-wallpapers-in-win11/"><u>In 2024, Seamless Switches  Expert Advice on Changing Your Wallpapers in Win11</u></a></li>
+</ul></div>

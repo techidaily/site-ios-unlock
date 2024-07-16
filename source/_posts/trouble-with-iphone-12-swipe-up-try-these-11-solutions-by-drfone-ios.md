@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions
-date: 2024-05-19T07:10:17.462Z
-updated: 2024-05-20T07:10:17.462Z
+date: 2024-07-15T01:26:03.032Z
+updated: 2024-07-16T01:26:03.032Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions
 keywords: change country on iphone app store,iphone locked to owner,bypass ios 14 lock screen,how to unlock iphone without passcode or face id,ios 17 lock screen,iphone is disabled,fix iphone backup password never set but still asking,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## Trouble with Apple iPhone 12 Swipe-Up? Try These 11 Solutions
@@ -36,6 +36,18 @@ Physical damage, like heavy falls, can impact the phone's touch sensitivity. Mor
 
 Insufficient memory or many background apps running simultaneously can overload the Apple iPhone 12 device. This leads to performance issues, including unresponsive gestures.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Water Exposure
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
@@ -50,7 +62,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 12 can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -129,6 +141,9 @@ If your Apple iPhone 12 swipe-up gesture isn't working specifically on the lock 
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
 ### Fix 6. Enable Control Center Within Apps
@@ -161,6 +176,9 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
 ### Fix 9. Customize Touch Accommodations
@@ -205,7 +223,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -247,6 +265,9 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 12 and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
@@ -300,6 +321,9 @@ To change your Apple ID region via Mac/Windows, follow these steps:
 - **Step 1:** Open iTunes (on Windows) or Music (on Mac). Sign in with your Apple ID.
 - **Step 2:** Go to **Account** > **View My Account**. Under Apple ID Summary, click **Change Country or Region**. Click your desired country and follow the instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change country on mac](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-04.jpg)
 
 ### Method 3: Changing Apple ID Region via Web
@@ -389,7 +413,7 @@ If you have been locked out of your iOS device and would like to know how to unl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXbqfC7JTKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 1: How to unlock Apple iPhone 12 passcode with Dr.Fone - Screen Unlock (iOS)?
 
@@ -399,7 +423,7 @@ It is compatible with all the leading iOS versions and devices. All you need to 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Screen Without Password
 
@@ -438,7 +462,7 @@ Unlock iPhone Screen Without Password
 
 In the end, you can simply disconnect your Apple iPhone 12 safely from the system and restart it. It would be restarted without any passcode, letting you access it in a trouble-free manner.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 #### **You may also be interested in:**
 
@@ -497,7 +521,7 @@ Even though lots of users have complained about this issue, Apple hasn’t come 
 
 Now when you know how to unlock Apple iPhone 12 passcode without iTunes, you can easily access your device. Ideally, you can simply take the assistance of [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device. It can also be used to resolve any other problem related to your Apple iPhone 12/iPad as well. Feel free to give it a try and let us know if you face any problems while using it.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -516,3 +540,66 @@ Now when you know how to unlock Apple iPhone 12 passcode without iTunes, you can
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-mini-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>2024 Approved  Free SRT Tools  The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-digital-conversion-old-photos-to-video/"><u>[New] Mastering Digital Conversion  Old Photos to Video</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-6s-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 6s?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-12-mini-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 12 mini Without Passcode Now</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-make-creative-animation-videos/"><u>2024 Approved Make Creative Animation Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-12-miniipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 12 mini/iPad Without Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avidemux-video-editing-a-beginners-guide-to-cropping-and-resizing-for-2024/"><u>New Avidemux Video Editing A Beginners Guide to Cropping and Resizing for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-12-mini-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-superficial-shares-spell-social-deterioration-for-2024/"><u>How Superficial Shares Spell Social Deterioration for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cyber-sensation-the-rise-of-videoviral-tweets/"><u>[Updated] Cyber Sensation  The Rise of #VideoViral Tweets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-12-mini-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 12 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-maximizing-hd-quality-fb-live-broadcast-tips/"><u>2024 Approved  Maximizing HD Quality  FB Live Broadcast Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-visibility-with-instagrams-highlight-system-for-2024/"><u>[New] Maximizing Visibility with Instagram's Highlight System for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 12 mini Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-next-big-thing-10-games-that-inspire-gta-v/"><u>[Updated] Next Big Thing  10 Games That Inspire GTA V</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/iphone-xeasy-simple-guide-to-screen-capture/"><u>IPhone Xeasy  Simple Guide to Screen Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-securing-a-seamless-srt-upload-experience-on-social-networks/"><u>[Updated] Securing a Seamless SRT Upload Experience on Social Networks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-mini-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 mini Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-12-mini-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 12 mini Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-mini-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-mini-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 mini Lock Screen with Notifications?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-vivo-t2-pro-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/worldly-speech-patterns-finding-a-home-in-english/"><u>Worldly Speech Patterns Finding a Home in English</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-asus-rog-phone-8-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Asus ROG Phone 8 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-12-mini-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-12-mini-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-rl-screen-recording-for-2024/"><u>[New] Essential Tips for RL Screen Recording for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-a56s-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from A56s 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-mini-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 mini When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-12-mini-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-melody-incorporating-music-seamlessly-in-youtube/"><u>[Updated] Mastering the Melody  Incorporating Music Seamlessly in YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 12 mini Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tarting-stronger-must-have-tech-for-creators-for-2024/"><u>[New] Starting Stronger  Must-Have Tech for Creators for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-12-mini-how-to-unlock-a-disabled-iphone-12-mini-by-drfone-ios/"><u>In 2024, Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-12-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 12 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-xlsx-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xlsx </u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-top-5-non-samsung-360-cameras-today/"><u>Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peer-into-professionalism-with-these-elite-cam-recorders-top-18/"><u>In 2024, Peer Into Professionalism with These Elite Cam Recorders (Top 18)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-11-voice-modification-gadgets-your-comprehensive-guide-for-2024/"><u>New Top 11 Voice Modification Gadgets Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-stardom-in-snapshot-vimeo-insight/"><u>[Updated] In 2024, Stardom in Snapshot - Vimeo Insight</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 mini Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-mini-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 mini with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-12-mini-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 12 mini Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 mini</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-12-mini-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 12 mini in Lost Mode</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-razr-40-ultra-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Razr 40 Ultra Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/techniques-for-restarting-disrupted-live-feeds-fb/"><u>Techniques for Restarting Disrupted Live Feeds (FB)</u></a></li>
+</ul></div>

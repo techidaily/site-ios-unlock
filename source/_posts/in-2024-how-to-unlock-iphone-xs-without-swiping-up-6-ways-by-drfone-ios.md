@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock iPhone XS Without Swiping Up? 6 Ways
-date: 2024-05-19T07:09:56.150Z
-updated: 2024-05-20T07:09:56.150Z
+date: 2024-07-15T00:51:34.767Z
+updated: 2024-07-16T00:51:34.767Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock iPhone XS Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock iPhone XS Without Swiping Up? 6 Ways
 keywords: iphone locked to owner,swipe up to unlock iphone,unlock iphone face id wearing mask,forgot locked note password,how to remove face id on iphone 13,iphone lost mode unlock,fix iphone passcode not working,iphone backup password,how to unlock iphone passcode without computer,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/Ov60TE6o0ZdI6Oaw589hEL_tVLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229088-5bd1f61e46e0fb0026fdf2f0.jpg
+thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg
 ---
 
 ## How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
@@ -56,6 +56,9 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 **Step 2.** On the following screen, scroll down to the bottom and press "Back Tap." Now, either choose "Double Tap" or "Triple Tap" and select "Lock Screen" from the options under the "System" section.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable back tap to lock screen](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-2.jpg)
 
 ### Method 2: Unlock iPhone Without Swiping Up Using iPhone Screen Unlocker: Dr.Fone - Screen Unlock
@@ -64,7 +67,7 @@ If you've forgotten the passcode for your Apple iPhone XS and are unable to acce
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -195,6 +198,9 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 **Step 4.** Save your switch, return to Accessibility Settings, and locate “Accessibility Shortcut.” Now, set triple-clicking the side button to activate “Switch Control.” On the home screen, triple-click the Side button, as previously set, to activate the switch on your Apple iPhone XS. Now, lock the Apple iPhone XS screen and then wake the Apple iPhone XS device without looking at it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![set switch control as accessibility shortcut](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-11.jpg)
 
 ## Conclusion
@@ -225,6 +231,9 @@ Screen Time Restrictions
 
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
 MDM Profile Restrictions
@@ -359,6 +368,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 2:** Tap on **Display & Brightness**, scroll down, and tap **Auto-Lock**.
 - **Step 3:** Choose the desired time interval for your Apple iPhone XS to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 ## Conclusion
@@ -387,6 +399,9 @@ If you remember your iCloud credentials, then you can easily learn how to unlock
 
 3\. The iCloud home page will provide various options. Just click on the “Find iPhone” to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iCloud find iPhone](https://images.wondershare.com/drfone/article/2017/10/15075515022408.jpg)
 
 4\. This will launch the Find my iPhone interface on the screen. To choose your Apple iPhone XS, click on the “All Devices” option and select the Apple iPhone XS that is locked.
@@ -407,7 +422,7 @@ Attention: All your data will be erased while you are unlocking with this tool.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -495,3 +510,50 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/2024-approved-critical-review-of-superior-stream-platforms/"><u>2024 Approved  Critical Review of Superior Stream Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-adopting-hdri-for-superior-visual-storytelling-in-video-arts/"><u>[New] 2024 Approved  Adopting HDRI for Superior Visual Storytelling in Video Arts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-14-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 14 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-5-ways-to-get-into-a-locked-iphone-14-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14? 5 Ways to get into a Locked iPhone 14</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-premier-top-10-audio-manipulation-software-for-windows-and-mac-users/"><u>Updated Premier Top 10 Audio Manipulation Software for Windows and Mac Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-an-eye-catching-intro-videos-with-invideo/"><u>New In 2024, How to Create An Eye-Catching Intro Videos with InVideo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-14-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-14-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 14?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 14 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-14-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-14-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 14 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-nord-n30-se-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus Nord N30 SE Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfectly-sized-videos-for-maximum-engagement-on-instagram-for-2024/"><u>[Updated] Perfectly Sized Videos for Maximum Engagement on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-your-fb-profile-top-tips-for-impressive-biographies-for-2024/"><u>[New] Mastering Your FB Profile  Top Tips for Impressive Biographies for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-14-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 14 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-14-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 14 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-14-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 14 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-14-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-14-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 14 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-formulating-imaginative-tiktok-credit-graphics/"><u>[New] Formulating Imaginative TikTok Credit Graphics</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-11-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-14-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 14? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-14-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 14 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-14-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-autonomous-scrolling-on-os-windows/"><u>Preventing Autonomous Scrolling on OS Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-14-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 with a Broken Screen?</u></a></li>
+</ul></div>

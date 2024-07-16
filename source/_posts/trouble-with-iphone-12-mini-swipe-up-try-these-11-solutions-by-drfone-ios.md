@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions
-date: 2024-05-19T07:10:20.687Z
-updated: 2024-05-20T07:10:20.687Z
+date: 2024-07-15T01:31:24.609Z
+updated: 2024-07-16T01:31:24.609Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions
 keywords: unlock iphone face id wearing mask,doctorism unlock review,how to remove face id on iphone 13,unlock iphone without passcode,unlock iphone passcode without computer,ios 17 lock screen,fix iphone passcode not working,get out of security lockout
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## Trouble with Apple iPhone 12 mini Swipe-Up? Try These 11 Solutions
@@ -28,6 +28,9 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
@@ -50,7 +53,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 12 mini can b
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -115,6 +118,9 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 12 mini could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 12 mini. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4. Clean iPhone Screen or Remove Screen Protector
 
 An unresponsive swipe-up gesture on your Apple iPhone 12 mini might be due to dirt, smudges, or interference caused by a screen protector. Power off your Apple iPhone 12 mini to prevent accidental taps during the cleaning process. Carefully clean the screen by softly rubbing it with a fresh and dry microfiber cloth. In addition, ensure the cloth is soft and free from any debris that might scratch the screen.
@@ -163,6 +169,9 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone 12 mini 12 won't swipe up to unlock**:
@@ -205,7 +214,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -244,6 +253,9 @@ Now, adhere to the on-screen prompts provided to enter Recovery Mode based on th
 
 Once the iOS firmware has been successfully downloaded, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will emerge on the screen, requesting confirmation of the process. Enter the code and tap "Unlock" to proceed to the final step. Upon successfully unlocking the iDevice, click the "Done" button to finish the process.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 
@@ -358,6 +370,9 @@ Click **"Remove Now"**
 
 **Step 4:** Dr.Fone will verify and remove your iTunes backup password when the progress bar reaches 100%
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
@@ -548,3 +563,54 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-subscribers-count-in-real-time/"><u>[Updated] Subscribers Count in Real-Time</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-8-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 8 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-8-plus-5-ways-to-get-into-a-locked-apple-iphone-8-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 8 Plus? 5 Ways to get into a Locked Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-embrace-the-thrill-how-to-engage-in-tiktok-livestreams/"><u>[New] In 2024, Embrace the Thrill  How to Engage in TikTok Livestreams</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-8-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 8 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-open-world-opus-top-10-similar-video-games/"><u>[New] 2024 Approved  Open World Opus  Top 10 Similar Video Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-8-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 8 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlocking-composition-magic-with-blend-modes-techniques/"><u>Unlocking Composition Magic with Blend Modes Techniques</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-video-brightness-editors-online-desktop-and-mobile-for-2024/"><u>New The Ultimate List of Video Brightness Editors Online, Desktop, and Mobile for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-8-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 8 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-8-plus-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-8-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 Plus in Lost Mode</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-optimal-steps-to-record-silent-videos/"><u>[New] 2024 Approved  Optimal Steps to Record Silent Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-free-srt-translators-online-an-elite-list-of-8/"><u>[New] Best FREE SRT Translators Online  An Elite List of 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-8-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-phones-to-cameras-diy-setup-guide-for-mobile-video-recording/"><u>[Updated] In 2024, Phones to Cameras  DIY Setup Guide for Mobile Video Recording</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-8-plus-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-fresh-topics-eliciting-engagement-in-audio-formats/"><u>2024 Approved  Fresh Topics  Eliciting Engagement in Audio Formats</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-8-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 8 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pixelpilot-studio-direct-access-screen-recorder/"><u>[Updated] PixelPilot Studio  Direct-Access Screen Recorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-screencast-lifeline-crucial-knowledge-for-success-for-2024/"><u>[Updated] The Screencast Lifeline  Crucial Knowledge for Success for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-8-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 8 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-8-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 8 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-8-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-8-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 8 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-8-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 8 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-8-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 8 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+</ul></div>

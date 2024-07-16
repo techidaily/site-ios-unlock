@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Your iPhone XS Passcode 4 Easy Methods (With or Without iTunes)
-date: 2024-05-19T07:09:56.296Z
-updated: 2024-05-20T07:09:56.296Z
+date: 2024-07-15T00:51:48.580Z
+updated: 2024-07-16T00:51:48.580Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Your iPhone XS Passcode 4 Easy Methods (With or Without iTunes)
 excerpt: This article describes How to Unlock Your iPhone XS Passcode 4 Easy Methods (With or Without iTunes)
 keywords: change apple id email address,apple id not active,what can jailbreak iphone do,change country on iphone app store,fix iphone unavailability,open iphone without home button,lock stolen iphone,remove device supervision from iphone,how to unlock iphone passcode without computer,unlock disabled iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## How to Unlock Your Apple iPhone XS Passcode: 4 Easy Methods (With or Without iTunes)
@@ -42,7 +42,7 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -212,6 +212,9 @@ The Control Center on iPhones is a quick-access panel. You can access it by swip
 - **Step 3:** Tap the red minus (**\-**) sign next to the **Flashlight** icon.
 - **Step 4:** Tap **Remove** to confirm deleting the **Flashlight** icon from the **Control Center**.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![remove flashlight from iphone control center](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-04.jpg)
 
 Quick Fix No. 4: Turn Off Back Tap Shortcut
@@ -249,6 +252,9 @@ To go hands-free and avoid accidental taps, you can use Siri to turn off the fla
 - **Step 2:** Give the commands saying, **"Turn off the flashlight."**
 - **Step 3:** Siri will confirm your request and turn off the flashlight. You'll hear a voice cue and see the flashlight icon on your screen dim.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use siri to turn off flashlight](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-07.jpg)
 
 Remember, even with Siri, ensure your Apple iPhone XS's microphone isn't covered or blocked for successful voice recognition.
@@ -263,7 +269,7 @@ This software effortlessly [<u>bypasses any lock screen</u>](https://drfone.wond
 
 - If you've forgotten your phone's password or bought a second-hand device, here's how Dr.Fone can help you:
 - Bypasses various lock screen types like [<u>pattern</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), 4 or 6-digit passcode, Touch ID, and Face ID without the original passcode.
-- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html)on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
+- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
 - Offers a simple, intuitive interface with clear instructions.
 
 Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. To address this issue, here's a step-by-step guide using Dr.Fone Screen Unlock (iOS):
@@ -333,6 +339,9 @@ Insufficient memory or many background apps running simultaneously can overload 
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 11 Ways To Fix iPhone Swipe up Not Working
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone XS can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
@@ -343,7 +352,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XS can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -456,6 +465,9 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone XS 12 won't swipe up to unlock**:
@@ -478,6 +490,9 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
 ### Fix 11. Reset iPhone All Settings
@@ -498,7 +513,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -563,3 +578,52 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-honor-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Honor using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-content-uploading-numerous-photos-and-videos-to-instagram-for-2024/"><u>Elevate Your Content  Uploading Numerous Photos and Videos to Instagram for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>In 2024, From Script to Screen  YouTube Tutorial & Alternative Pathways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-15-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 15 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-15-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-15-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 15 with iTunes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mov-in-the-cloud-top-six-techniques-for-windows-11-users/"><u>.MOV in the Cloud - Top Six Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-15-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 15</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-discord-nitro-secrets-vip-service-and-acquisition-details-for-2024/"><u>[New] Unlocking Discord Nitro Secrets  VIP Service and Acquisition Details for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-15-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 15 with a Broken Screen?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-6-imei-checker-by-drfone-ios/"><u>Best Free iPhone 6 IMEI Checker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-15-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 15 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/improve-youtube-viewing-of-fb-videos-on-android-for-2024/"><u>Improve YouTube Viewing of FB Videos on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exclusive-no-fee-fb-visual-content-craftsman/"><u>[New] 2024 Approved  Exclusive No-Fee FB Visual Content Craftsman</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-15-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>New In 2024, Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-15-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 15 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-hashtags-that-work-in-gaming-vlogs/"><u>2024 Approved  The Ultimate Guide  Hashtags That Work in Gaming Vlogs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-11r-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus 11R Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 When You Forget the Passcode?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peak-business-sky-storage-for-firms/"><u>[New] Peak Business Sky-Storage for Firms</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-15-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 15 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-content-creators-arena-vs-beta-studio-evolutionary-path/"><u>[Updated] 2024 Approved  Content Creator's Arena  Vs. Beta Studio Evolutionary Path</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-15-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 15 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jokecrafters-log-in-to-make-a-difference/"><u>2024 Approved  JokeCrafters  Log In to Make a Difference</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-ultimate-ranking-best-online-and-physical-mp3-karaoke-tools/"><u>Updated In 2024, The Ultimate Ranking Best Online & Physical MP3 Karaoke Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>In 2024, Boosting Your Instagram Aesthetics  Implementing Borders on Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-high-definition-sw320-4k-monitor-experience/"><u>[New] Exploring High Definition  Sw320 4K Monitor Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-15-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-15-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 15 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g73-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G73 5G Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-15-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 15 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-x7b-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor X7b Face Lock?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Without Passcode Easily</u></a></li>
+</ul></div>

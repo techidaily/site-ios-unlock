@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock iPhone 8 Plus After Forgetting the Passcode?
-date: 2024-05-19T07:09:47.114Z
-updated: 2024-05-20T07:09:47.114Z
+date: 2024-07-15T00:37:28.279Z
+updated: 2024-07-16T00:37:28.279Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Can You Unlock iPhone 8 Plus After Forgetting the Passcode?
 excerpt: This article describes Can You Unlock iPhone 8 Plus After Forgetting the Passcode?
 keywords: iphone auto lock greyed out,unlock iphone passcode,iphone swipe up not working,unlock iphone without passcode,unlock iphone 14,unlock disabled iphone without itunes,remove flashlight from iphone lock screen,how to unlock an iphone 13,iphone passcode not working after update ios 13,how to unlock a found iphone
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode?
@@ -39,6 +39,9 @@ To erase the passcode using the Find My feature on iCloud:
 
 ![find my](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Use Recovery Mode with iTunes
 
 How to bypass the Apple iPhone 8 Plus passcode or eliminate the passcode? The method is to utilize iTunes. However, using iTunes to restore the Apple iPhone 8 Plus in recovery mode will erase all data from the Apple iPhone 8 Plus device.
@@ -246,7 +249,7 @@ This software effortlessly [<u>bypasses any lock screen</u>](https://drfone.wond
 
 - If you've forgotten your phone's password or bought a second-hand device, here's how Dr.Fone can help you:
 - Bypasses various lock screen types like [<u>pattern</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), 4 or 6-digit passcode, Touch ID, and Face ID without the original passcode.
-- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html)on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
+- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
 - Offers a simple, intuitive interface with clear instructions.
 
 Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. To address this issue, here's a step-by-step guide using Dr.Fone Screen Unlock (iOS):
@@ -305,6 +308,9 @@ Get the tool Dr.Fone - Screen Unlock (iOS) downloaded and installed over your co
 
 Now, launch the tool and then opt for the “Unlock” tile from the main screen.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Boot in Recovery/DFU mode**
@@ -325,7 +331,10 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 8 Plus
 
@@ -371,6 +380,9 @@ Note: Since we’re going to unlock your Apple iPhone 8 Plus using Find My iPhon
 
 **Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. How about Apple iPhone 8 Plus restrictions passcode?
 
 Apple iPhone 8 Plus restrictions is a vital setting that is used to lock down a set of functions of the iPhone. These iPhone restrictions are also known as Parental Controls. That implies one can make use of these settings to block or hide songs that have explicit lyrics/content or barring YouTube from running, etc.
@@ -391,6 +403,9 @@ Now, in case you know the Apple iPhone 8 Plus restrictions passcode and just wis
 
 1. Lastly, hit on “Enable Restrictions”. You’ll be asked to set up a new passcode now. Do it and you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set up a new passcode](https://images.wondershare.com/drfone/article/2019/09/reset-restrictions-passcode-iphone.jpg)
 
 
@@ -410,3 +425,66 @@ Now, in case you know the Apple iPhone 8 Plus restrictions passcode and just wis
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-electrical-upgrades/"><u>[Updated] 2024 Approved  Electrical Upgrades</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-f04-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy F04 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-15-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 15 Plus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivating-a-community-building-followers-on-youtube-without-spending-for-2024/"><u>[Updated] Cultivating a Community  Building Followers on YouTube Without Spending for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-15-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enriching-the-instagram-experience-with-background-sounds/"><u>[Updated] Enriching the Instagram Experience with Background Sounds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-15-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 15 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Plus and iPad Securely</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-watermark-free-video-editing-the-best-merging-options/"><u>In 2024, Watermark-Free Video Editing The Best Merging Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-15-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 15 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-android-podcast-apps-top-6/"><u>The Ultimate List of Android Podcast Apps (Top 6)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-15-plus-5-ways-to-get-into-a-locked-iphone-15-plus-by-drfone-ios/"><u>Locked Out of iPhone 15 Plus? 5 Ways to get into a Locked iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-15-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 15 Plus Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 15 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-controlling-playback-rate-the-netflix-speedy-guide/"><u>2024 Approved  Controlling Playback Rate  The Netflix Speedy Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 Plus</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-splice-video-editor-mac-version-free-download/"><u>2024 Approved Splice Video Editor Mac Version Free Download</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/eliminate-payment-for-cam-screen-recording-a-comparative-study-for-2024/"><u>Eliminate Payment for Cam Screen Recording – A Comparative Study for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-channels-image-for-boosted-youtube-subscriptions/"><u>[New] Elevate Your Channels' Image for Boosted YouTube Subscriptions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mac-users-rejoice-top-5-windows-movie-maker-equivalent-video-editors/"><u>New In 2024, Mac Users Rejoice Top 5 Windows Movie Maker Equivalent Video Editors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 Plus With or Without Password</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-from-casual-to-expert-your-path-with-obs-gaming-capture/"><u>[Updated] In 2024, From Casual to Expert  Your Path with OBS Gaming Capture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Samsung</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 15 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-15-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 15 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 15 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-15-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 15 Plus</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-distinguished-makers-elite-instagram-highlight-constructors-for-2024/"><u>[Updated] Distinguished Makers  Elite Instagram Highlight Constructors for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv-for-2024/"><u>The Ultimate Routine for Accessing and Playing FB Videos via Apple TV for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-15-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 15 Plus With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-15-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 15 Plus</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-tunes-unlimited-playlist/"><u>[New] 2024 Approved  FB Tunes  Unlimited Playlist</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-post-a-link-on-instagram-stories-and-posts/"><u>[Updated] In 2024, How to Post a Link on Instagram Stories and Posts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-pros-handbook-to-perfecting-your-gopro-studio-project/"><u>In 2024, The Pro's Handbook to Perfecting Your GoPro Studio Project</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-15-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 15 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-15-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 15 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-androids-elite-mobile-multiplayer-battle-games-for-2024/"><u>[New] Android's Elite Mobile Multiplayer Battle Games for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-15-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 15 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-15-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 15 Plus Without iTunes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-11x-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Realme 11X 5G FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>In 2024, Time-Honored Techniques  Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/professional-tips-for-perfectly-recording-your-powerpoint-sessions/"><u>Professional Tips for Perfectly Recording Your PowerPoint Sessions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-15-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 15 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>2024 Approved  Lighted Paths  Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-15-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 15 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-plus-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Plus Without a Passcode</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevating-business-and-personal-visibility-with-youtube-mobile-edition/"><u>[Updated] 2024 Approved  Elevating Business & Personal Visibility with YouTube, Mobile Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-timeless-videos-with-historical-flair/"><u>[Updated] Crafting Timeless Videos with Historical Flair</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-posts-with-4-effective-video-loop-techniques/"><u>[Updated] Elevate Your Posts with 4 Effective Video Loop Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-15-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 15 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Plus</u></a></li>
+</ul></div>

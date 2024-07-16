@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6s
-date: 2024-05-19T07:09:25.267Z
-updated: 2024-05-20T07:09:25.267Z
+date: 2024-07-15T00:01:53.394Z
+updated: 2024-07-16T00:01:53.394Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s
 keywords: how to unlock an iphone 13,how to remove passcode from iphone,unlock disabled iphone without itunes,disable parental control,iphone lost mode unlock,unlock iphone screen passcode,how to unlock iphone without passcode,how much does unlock a phone cost,iphone passcode not working after update ios 13,iphone swipe up not working,unlock apple watch
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s
@@ -129,6 +129,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
@@ -250,6 +253,9 @@ If you have never tried to sync your device with iTunes or used the Find My iPho
 
 **Step 6:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use Siri (only iOS version 10)
 
 You can use this hack to unlock your Apple iPhone 6s without a passcode. But it just functions on devices running iOS 10 or lower. So, if you are using a newer version of iOS, this method won't work for you.
@@ -272,7 +278,7 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
 
@@ -299,6 +305,9 @@ If you are interested in using this tool, then here's how you can do it:
 
 **Step 4:** Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone 6s.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock iphone 12 without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5:** Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
@@ -358,7 +367,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 6s, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -370,7 +379,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -394,6 +403,9 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 6s or iPad without a 
 
 - **Step 3.** Follow the instructions to put your Apple iPhone 6s into Recovery mode. When your Apple iPhone 6s is in Recovery mode, the software will begin downloading firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![go to recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 4.** When the process is complete, click "Unlock Now", and Dr.Fone will start unlocking. After a while, your device will be unlocked, and you can access your device without a passcode.
@@ -470,6 +482,9 @@ You can perform the steps from your Apple iPhone 6s directly to turn on "Find My
 
 - **Step 1:** Use your computer or someone else's iOS device, visit icloud.com/find, and sign in with your Apple credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![sign in to cloud](https://images.wondershare.com/drfone/article/2017/10/15090391142788.jpg)
 
 - **Step 2:** Then, you need to choose the option "All Devices". _If my iPhone_ is already enabled on your device, you will see your Apple iPhone 6s listed. Simply click on it and choose the option "Erase iPhone." Then all the data, including the passcode, will be removed from your Apple iPhone 6s. Thus, this process unlocks the Apple iPhone 6s without Siri.
@@ -588,3 +603,65 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigate-the-art-of-snapchat-filters-for-beginners/"><u>[New] Navigate the Art of Snapchat Filters for Beginners</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-unraveling-the-mystery-of-hidden-tiktok-penalties/"><u>[New] 2024 Approved  Unraveling the Mystery of Hidden TikTok Penalties</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-leveraging-likes-shares-and-comments-tiktoks-commerce-magic/"><u>2024 Approved  Leveraging Likes, Shares, and Comments  TikTok's Commerce Magic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/chrome-os-native-screen-recorder-for-2024/"><u>Chrome OS Native Screen Recorder for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-12-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 12 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>[Updated] A Compre Written in Sounds  YouTube Playlists Decoded</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-metas-new-privacy-standards-and-impact/"><u>Dissecting Meta's New Privacy Standards and Impact</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-11-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 11 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-playbook-for-twitter-streamers/"><u>[Updated] The Ultimate Playbook for Twitter Streamers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-v30-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V30 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 14 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 Pro in Lost Mode</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-professional-shooters-guide-to-stability/"><u>[New] Professional Shooters' Guide to Stability</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-t2-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo T2 5G FRP Locks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovate-your-images-with-leading-snapchat-effects/"><u>[Updated] In 2024, Innovate Your Images with Leading Snapchat Effects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-mini-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 12 mini Without a Passcode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-12-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi 12 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-visualize-vigor-capture-chuckles-kapwing-maker/"><u>[New] In 2024, Visualize Vigor, Capture Chuckles – Kapwing Maker</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlocking-screen-capture-shortcut-driven-mac-techniques/"><u>[New] 2024 Approved  Unlocking Screen Capture  Shortcut-Driven Mac Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-8-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-12-mini-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 12 mini and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-11-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 11 Pro to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-14-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 14 Pro in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 and iPad Securely</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-xs-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone XS or iPad?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-13-pro-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 13 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-se-2022-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone SE (2022) in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-convert-slow-motion-videos-to-regular-videos-in-your-ios-device-a-how/"><u>Updated 2024 Approved Convert Slow Motion Videos to Regular Videos in Your iOS Device |A How</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-navigating-windows-11s-movie-maker-easily/"><u>[Updated] From Novice to Expert  Navigating Windows 11'S Movie Maker Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 11 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 14 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-innovative-strategies-for-engaging-your-audience-with-puzzles-on-instagram-for-2024/"><u>[New] Innovative Strategies for Engaging Your Audience with Puzzles on Instagram for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 Pro Max</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-multimedia-strategies-for-gamers-on-youtube/"><u>[Updated] Mastering Multimedia Strategies for Gamers on Youtube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-comprehensive-tiktok-tools-and-techniques-a-guide-for-2024/"><u>[Updated] Comprehensive TikTok Tools & Techniques  A Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-snapchat-sponsored-content/"><u>[New] Mastering the Art of Snapchat Sponsored Content</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-automated-generation-of-youtubes-subscribe-page/"><u>2024 Approved  Automated Generation of YouTube's Subscribe Page</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-pro-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xr-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XR in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-12-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 12 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premier-selection-of-windows-11s-high-quality-capture-software/"><u>[Updated] In 2024, Premier Selection of Windows 11'S High-Quality Capture Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/meme-mastery-iphone-edition-for-2024/"><u>Meme Mastery  IPhone Edition for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-14-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 14 Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-palette-playbook-the-filmmakers-guide-to-grading-for-2024/"><u>[New] Palette Playbook  The Filmmaker's Guide to Grading for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen?
-date: 2024-05-19T07:09:20.654Z
-updated: 2024-05-20T07:09:20.654Z
+date: 2024-07-14T23:54:11.609Z
+updated: 2024-07-15T23:54:11.609Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen?
 keywords: how to unlock a found iphone,forgot iphone pin,unlock iphone screen passcode,how to unlock an iphone 13,factory reset locked iphone without itunes,unlock iphone passcode without computer,iphone x iphone xr lock screen,reset iphone backup password,change country on iphone app store,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/CewnPdEDUshSU0PnqqyQxiaIaFw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-language-exchange-websites-1357059-d87c92dbdba3429dbf17d51ba313b1ff.png
+thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b827af6bb095b68b19082ca48f.png
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen?
@@ -224,6 +224,9 @@ For those who prefer the convenience of mobile devices:
 
 - **Step 3:** Tap **Edit** next to your email address, enter your new one, then tap **Next**.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![change apple id on iphone 3](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-08.jpg)
 
 - **Step 4:** Apple will send a verification code to the new email. Enter it, and your Apple ID email on your mobile device is updated.
@@ -251,13 +254,16 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 - **Step 1:** Tap the **Settings** application on your Apple iPhone 6 Plus or iPad.
 - **Step 2:** Go to **Update Apple ID Settings** below your Apple ID settings.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update apple id settings](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-11.jpg)
 
 - **Step 3:** Tap **Continue,** then wait for a few moments. Your Apple ID will then get updated.
 
 By following these steps, you'll ensure that all your Apple devices are synced with your updated email address, providing a seamless and consistent Apple experience across all your gadgets. Now, with your new Apple ID email, you're ready to explore the Apple ecosystem with renewed convenience and security.
 
-## Part III: Unlock iOS Screen With [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+## Part III: Unlock iOS Screen With <u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>
 
 What if you find yourself in a situation where you want to change your Apple ID email address on your iOS device, but you're locked out? Don't worry; Dr.Fone - Screen Unlock (iOS) can rescue you. This handy tool is designed to help you [<u>unlock your iOS device</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html), allowing you to change your Apple ID email address smoothly.
 
@@ -431,6 +437,9 @@ Do you know your Apple ID and simply need to reset the password? You can easily 
 
 - **Step 2.** Next, tap "Change Password" and provide your device passcode. You will need to type in a new password, verify it, and press "Change" from the top-right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change old password after verification](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-9.jpg)
 
 #### Solution 2: Reset Apple ID Password From iForgot Website
@@ -439,10 +448,16 @@ Are you unable to reset your Apple ID password directly from your device? If you
 
 - **Step 1.** Access [iforgot.apple.com](https://iforgot.apple.com/) using a web browser on either your computer or smartphone. Upon reaching the iForgot page, click the "Reset Password" button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reset password via iforgot website](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-10.jpg)
 
 - **Step 2:** Upon reaching the subsequent screen, input the “Email or Phone Number” linked to your Apple ID. Then, verify the CAPTCHA verification and proceed by tapping "Continue." Adhere to the instructions on the screen to finalize the password reset procedure.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter phone and captcha characters](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-11.jpg)
 
 ### Way 4. Check the iCloud Status Page
@@ -482,3 +497,69 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2020-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2020) Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Max Without iTunes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-conquering-the-art-of-snapchats-boomerang-creation/"><u>[New] In 2024, Conquering the Art of Snapchat's Boomerang Creation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unzipping-for-srt-methods-and-tips-for-2024/"><u>Unzipping for SRT  Methods and Tips for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE Without iTunes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ideal-cameras-to-elevate-live-stream-engagement-on-twitch-for-2024/"><u>Ideal Cameras to Elevate Live Stream Engagement on Twitch for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-xs-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6s-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6s Plus Without iTunes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-high-performance-gpu-picks-for-quality-video-streaming/"><u>[New] 2024 Approved  High-Performance GPU Picks for Quality Video Streaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>In 2024, Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Without iTunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-audio-visual-leading-blu-ray-devices/"><u>Premium Audio, Visual  Leading Blu-Ray Devices</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-poco-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Poco</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-free-video-cutter-and-joiner-software-for-beginners-for-2024/"><u>Updated The Ultimate List of Free Video Cutter and Joiner Software for Beginners for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Max Without iTunes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-guide-to-loops-in-ios-video-playback/"><u>[New] Expert Guide to Loops in iOS Video Playback</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2022-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2022) Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Without iTunes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-foodie-frenzy-viral-recipe-hits-from-social-media/"><u>[Updated] In 2024, Foodie Frenzy  Viral Recipe Hits From Social Media</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-mini-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 mini Without iTunes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-sites-for-extracting-text-aesthetics-packs-for-2024/"><u>Leading Sites for Extracting Text Aesthetics Packs for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-converting-ephemeral-content-fb-messenger-video-secrets-revealed/"><u>[New] In 2024, Converting Ephemeral Content  FB Messenger Video Secrets Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/1716183955146-updated-in-2024-how-to-reverse-image-search-instagram/"><u>[Updated] In 2024, How to Reverse Image Search Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6s-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-ingenious-ways-to-modify-voices-for-free/"><u>In 2024, Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Plus Without iTunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-excellent-facial-editors-for-smartphones/"><u>[New] 10 Excellent Facial Editors for Smartphones</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m14-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M14 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maximizing-mobile-video-quality-in-tweets-for-2024/"><u>Maximizing Mobile Video Quality in Tweets for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-steady-and-true-keeping-it-all-together-in-your-youtube-shoots/"><u>[New] Steady and True  Keeping It All Together in Your YouTube Shoots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions-for-2024/"><u>Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-xr-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone XR Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Without iTunes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-transcribing-chats-efficient-techniques-for-fb-live-recordings/"><u>[New] 2024 Approved  Transcribing Chats  Efficient Techniques for FB Live Recordings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-choosing-the-right-partners-for-a-safer-tiktok-expansion-for-2024/"><u>[New] Choosing the Right Partners for a Safer TikTok Expansion for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-video-editors-for-windows-11-free-paid-and-in-between/"><u>New The Ultimate Guide to Video Editors for Windows 11 Free, Paid, and In-Between</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6 Without iTunes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-8-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-mini-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 mini Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-xs-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone XS Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-8-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Without iTunes</u></a></li>
+</ul></div>

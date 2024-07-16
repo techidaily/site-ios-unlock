@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?
-date: 2024-05-19T07:09:16.845Z
-updated: 2024-05-20T07:09:16.845Z
+date: 2024-07-14T23:48:32.059Z
+updated: 2024-07-15T23:48:32.059Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?
 keywords: unlock disabled iphone 13,factory reset locked iphone without itunes,unlock iphone 5 passcode without itunes,disable parental control,bypass ios 14 lock screen,how to remove face id on iphone 13
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen?
@@ -96,6 +96,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
@@ -106,6 +109,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 6 device and let you pick a photo.
@@ -143,6 +149,9 @@ Removing the lock screen requires you to boot your Apple iPhone 6 in Recovery or
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 6.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Screen Now**
@@ -160,6 +169,14 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 
 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Change Country on App Store for Apple iPhone 6 With 7 Methods
 
 **Changing your App Store country** can give you access to apps that are not available in your region. Whether getting region-specific apps, accessing exclusive content, or switching to a country with better app offerings, it's a valuable capability.
@@ -319,6 +336,9 @@ The first step you need to connect your Apple iPhone 6  to your computer. Launch
 
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 6 within seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2: Boot iPhone in DFU Mode**
@@ -412,3 +432,46 @@ Now you know what to do the next time you forget your passcode. Using the simple
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-6s-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 6s Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Without Passcode?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mobile-video-editing-best-apps-to-blur-unwanted-parts-for-2024/"><u>New Mobile Video Editing Best Apps to Blur Unwanted Parts for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-6s-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 6s Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-6s-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 6s</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-splashing-through-the-best-fluid-games-roundup/"><u>[New] Splashing Through the Best Fluid Games Roundup</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-10t-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme 10T 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-6s-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6s-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-6s-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 6s Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6s-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6s Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-6s-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 6s in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-6s-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 6s Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-6s-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-6sipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 6s/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-6s-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 6s Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-6s-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 6s Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-essential-techniques-for-slow-mo-tiktok-content-creation/"><u>In 2024, Essential Techniques for Slow Mo TikTok Content Creation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-essential-adobe-premiere-hotkeys-to-boost-productivity/"><u>2024 Approved Essential Adobe Premiere Hotkeys to Boost Productivity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-6s-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 6s Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-youtube-pros-creating-an-account-rightly/"><u>[New] In 2024, From Zero to YouTube Pros  Creating an Account Rightly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-8-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 8 & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/guide-to-the-best-free-video-conferencing-software-for-corporate-and-educational-sectors-for-2024/"><u>Guide to the Best Free Video Conferencing Software for Corporate and Educational Sectors for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-6s-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 6s? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-6s-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-6s-how-to-unlock-a-disabled-iphone-6s-by-drfone-ios/"><u>In 2024, Disabled iPhone 6s How to Unlock a Disabled iPhone 6s?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-6s-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 6s Prevention & Solution</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/connect-with-more-audiences-smart-multitasking-on-youtube-and-twitch-for-2024/"><u>Connect with More Audiences  Smart Multitasking on YouTube and Twitch for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-6s-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-6s-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 6s Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-6s-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 6s Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-c-span-videos-without-payment/"><u>Unlocking C-Span Videos Without Payment</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sunset-to-silhouette-adobe-guide/"><u>In 2024, Sunset to Silhouette  Adobe Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-technique-for-capturing-time-on-iphone-for-2024/"><u>The Ultimate Technique for Capturing Time on iPhone for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-edge-your-way-to-success-instagrams-finest-border-applications/"><u>[New] Edge Your Way to Success  Instagram's Finest Border Applications</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
-date: 2024-04-04T16:30:58.256Z
-updated: 2024-04-05T16:30:58.256Z
+date: 2024-07-15T03:05:43.101Z
+updated: 2024-07-16T03:05:43.101Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
 keywords: unlock disabled iphone without itunes,open iphone without home button,change apple id email address,unlock apple watch,how to remove passcode from iphone,doctorism unlock review,bypass apple store verification
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
@@ -121,6 +121,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
@@ -182,6 +185,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Open Your Apple iPhone 11 Pro Without a Home Button
 
 Accidents happen, and sometimes they take a toll on your Apple iPhone 11 Pro's essential components, like the Home button. Whether it's a drop, spill, or wear and tear, a damaged Home button can be a problem over time. The frustration peaks when you find yourself locked out, and at a loss.
@@ -222,6 +228,9 @@ The alternative solution for **how to open an iPhone without the Home button but
 
 - **Step 1**: Go to **Settings** > **General** > **Touch** > **Accessibility**, and activate **AssistiveTouch**. The action will display the AssistiveTouch menu button on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![settings to assistivetouch toggle](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-04.jpg)
 
 - **Step 2:** A floating grayscale button will emerge on your screen after verification. Tap on it. A contextual menu will display, offering options to emulate the functions of your Home button.
@@ -288,6 +297,9 @@ For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 
 
 If none of the methods work or Dr.Fone is unavailable to you for some reason, then you can use iCloud. To **unlock your Apple iPhone 11 Pro without the Home button**, visit iCloud.com and sign in with your Apple ID. Next, go to **Find My iPhone**, select your device, and choose **Erase iPhone** to unlock it remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone on icloud](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-13.jpg)
 
 ## Part 2. What To Do if Your Home Button Is Broken
@@ -363,7 +375,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 11 Pro to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 11 Pro device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -393,13 +405,16 @@ To enable the feature of unlocking the Apple iPhone 11 Pro with an Apple Watch, 
 
 After enabling this feature, you can unlock your Apple iPhone 11 Pro with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 11 Pro has been unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -433,3 +448,47 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone X/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-x-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone X Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-quick-guide-downloading-and-setting-up-vrecord-for-2024/"><u>[Updated] Quick Guide  Downloading & Setting Up VRecord for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-x-how-to-unlock-a-disabled-iphone-x-by-drfone-ios/"><u>In 2024, Disabled iPhone X How to Unlock a Disabled iPhone X?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone X Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-x-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone X Properly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-fast-and-reliable-download-your-favorite-youtube-content/"><u>[New] In 2024, Free, Fast and Reliable  Download Your Favorite YouTube Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-x-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone X Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-find-n3-flip-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo Find N3 Flip Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-x-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone X Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-x-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone X When You Forget the Passcode?</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-gaming-potential-android-on-win-11-through-google-services-access/"><u>Unlock Gaming Potential: Android on Win 11 Through Google Services Access</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-aesthetic-backdrops-youtube-thumbnail-boosters/"><u>In 2024, Aesthetic Backdrops  YouTube Thumbnail Boosters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-x-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone X Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone X Lock Screen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-delete-messages-on-discord-in-bulk/"><u>[Updated] How to Delete Messages On Discord In Bulk</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-x-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone X Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-x-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-x-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone X</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-your-go-to-guide-for-the-best-top-10-apps-to-download-facebook-videos-on-android/"><u>[New] Your Go-To Guide for the Best Top 10 Apps to Download Facebook Videos on Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamline-your-digital-footprint-the-ultimate-screen-recording-manual-for-2024/"><u>[Updated] Streamline Your Digital Footprint  The Ultimate Screen Recording Manual for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-x-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone X Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-x-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone X in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-x-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone X Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-x-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone X Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-x-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone X</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-shutting-out-the-world-what-makes-a-video-unlisted-on-youtube/"><u>[Updated] In 2024, Shutting Out the World  What Makes a Video Unlisted on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-x-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone X Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-11-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 11 for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfectly-blending-iphones-multimedia/"><u>2024 Approved  Perfectly Blending iPhones' Multimedia</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unleash-your-brands-potential-with-powerful-tiktok-advertising-techniques-and-campaigns-for-2024/"><u>[Updated] Unleash Your Brand's Potential with Powerful TikTok Advertising Techniques & Campaigns for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2023-best-8-private-video-downloaders/"><u>[New] 2023 | Best 8 Private Video Downloaders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-pics-viewer-high-speed-windows-edition/"><u>[New] Best Pics Viewer  High-Speed Windows Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-list-5-premium-live-stream-recorders/"><u>[Updated] In 2024, The Ultimate List  5 Premium Live Stream Recorders</u></a></li>
+</ul></div>

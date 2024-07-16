@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?
-date: 2024-05-19T07:10:20.473Z
-updated: 2024-05-20T07:10:20.473Z
+date: 2024-07-15T01:31:05.952Z
+updated: 2024-07-16T01:31:05.952Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?
 keywords: how to unlock an iphone 13,remove flashlight from iphone lock screen,how to unlock iphone to use usb accessories,unlock disabled iphone without itunes,apple id not active,change apple id email address
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen?
@@ -84,6 +84,9 @@ You can erase your Apple iPhone 12 mini and its password once you synchronize it
 - Select your Apple iPhone 12 mini in iTunes and pick the latest backup.
 - You'll then see the "Set Up" screen after that. Here, tape on the "Restore from iTunes Backup" choice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Unlock iPhone with Siri If its Screen is broken
 
 Siri is a voice assistant on Apple devices. Like other devices have Alexa and Google Assistant, iPhone has Siri. It empowers you to use the Apple iPhone 12 mini through voice commands. You can converse with Siri to unlock your Apple iPhone 12 mini password.
@@ -143,6 +146,9 @@ Removing the lock screen requires you to boot your Apple iPhone 12 mini in Recov
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 12 mini.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Screen Now**
@@ -174,7 +180,10 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 12 mini Without iTunes/ iCloud.
 
@@ -207,7 +216,7 @@ Do note that all methods that unlock your Apple iPhone 12 mini will necessarily 
 
 Your Apple iPhone 12 mini will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 12 mini device. When you set the Apple iPhone 12 mini device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 12 mini prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 12 mini device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 12 mini Using iTunes or macOS Finder
 
@@ -251,7 +260,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 12 mini from the Apple iPhone 12 mini devices from the left pane, click/ tap your disabled Apple iPhone 12 mini and click/ tap Erase This Device
 
@@ -271,7 +280,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 12 mini easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -292,7 +301,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 12 mini, so
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 12 mini disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 12 mini device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -321,7 +330,7 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
 
-1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html)when your stolen iPhone is still powered on and connected to the internet.
+1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html) when your stolen iPhone is still powered on and connected to the internet.
 2. **iPhone Turned Off or In Airplane Mode:**The last known location before the Apple iPhone 12 mini device was powered down or put in Airplane Mode is accessible, offering a starting point for recovery efforts.
 3. **Offline Finding with Bluetooth:**The Find My service leverages Bluetooth technology to create a vast network of Apple devices. With these, it can securely help locate your Apple iPhone 12 mini, even offline.
 4. **Activation Lock Integration:**This service is also integrated with Activation Lock, adding an extra layer of security. The Activation Lock remains active if a thief attempts to erase your device.
@@ -378,6 +387,9 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
 
 - **Step 3.** If using the iCloud website, tap "Erase This Device" and click "Next" on the upcoming prompt. You will be asked to enter the Apple ID password, after which you can use the on-screen guidelines to finish the process.
@@ -430,6 +442,9 @@ After your Apple iPhone 12 mini is stolen, it becomes essential to bolster the s
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 12 mini when stolen**:
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Precaution #1. Enable Find My on Device
 
 Activating Find My increases the likelihood of recovering your device. Take the following steps to enable the Find My feature on your Apple iPhone 12 mini:
@@ -475,8 +490,8 @@ It provides a hassle-free solution for those locked out of their devices. This p
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
-2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your Apple iPhone 12 mini or iPad if you have forgotten its password.
-3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)and carrier locks using Dr.Fone.
+2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 12 mini or iPad if you have forgotten its password.
+3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -526,3 +541,43 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-7-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 7 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-7-plus-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 7 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-accelerating-livestreams-on-periscope-made-easy-for-2024/"><u>[New] Accelerating Livestreams on Periscope Made Easy for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-7-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 7 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-pc-vr-headsets-ranked/"><u>[New] Best PC VR Headsets Ranked</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-100-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor 100</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boost-video-quality-on-youtube-the-essential-webcams-guide-for-2024/"><u>[New] Boost Video Quality on YouTube - The Essential Webcams Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 7 Plus Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 7 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-7-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 7 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6s-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6s Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-7-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-game-on-gopro-top-tips-for-high-quality-gameplay-videoing/"><u>2024 Approved  Game on, GoPro! Top Tips for High-Quality Gameplay Videoing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-7-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 7 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-way-to-combine-several-xvid-files-into-one-windows-macandroid/"><u>New 2024 Approved Easy Way to Combine Several Xvid Files Into One Windows, Mac，Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-audio-conversion-made-simple-youtube-to-mp3-mac-edition/"><u>[New] 2024 Approved  Audio Conversion Made Simple  YouTube to MP3, Mac Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-7-plus-5-ways-to-get-into-a-locked-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 7 Plus? 5 Ways to get into a Locked Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y36i-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y36i to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-7-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 7 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlock-advanced-broadcast-techniques-with-obs-on-youtube-and-twitch/"><u>[Updated] In 2024, Unlock Advanced Broadcast Techniques with OBS on YouTube & Twitch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/behind-the-scenes-with-top-influencers-insights-into-their-fb-stories-for-2024/"><u>Behind the Scenes with Top Influencers – Insights Into Their FB Stories for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-7-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 7 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-7-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 7 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-enhance-your-video-content-how-to-add-subtitles-and-captions-in-final-cut-pro-x/"><u>New 2024 Approved Enhance Your Video Content How to Add Subtitles and Captions in Final Cut Pro X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-7-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 7 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-internet-radio-streaming-made-easy-your-recording-guidebook/"><u>2024 Approved  Internet Radio Streaming Made Easy  Your Recording Guidebook</u></a></li>
+</ul></div>

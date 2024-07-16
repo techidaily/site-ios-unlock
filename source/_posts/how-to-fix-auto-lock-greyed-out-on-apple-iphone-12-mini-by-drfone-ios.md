@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini
-date: 2024-05-19T07:10:19.820Z
-updated: 2024-05-20T07:10:19.820Z
+date: 2024-07-15T01:29:55.502Z
+updated: 2024-07-16T01:29:55.502Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini
 keywords: how to unlock iphone without passcode,erase iphone when locked,unlock iphone screen passcode,remove device supervision from iphone,how to unlock iphone without passcode or face id,open iphone without home button,solve iphone randomly asking for apple id
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini
@@ -22,6 +22,9 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 12 mini or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -96,6 +99,9 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -125,6 +131,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
@@ -158,6 +167,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -374,6 +386,9 @@ You must put your Apple iPhone 12 mini in recovery mode and then connect it to t
 
 Once Dr. Fone detects your device, you will see the following screen.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step #4: Choose the Appropriate Firmware and Download it:**
@@ -511,3 +526,51 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/artistic-arrangement-adopting-the-best-photo-frame-apps-for-2024/"><u>Artistic Arrangement  Adopting the Best Photo Frame Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-breakdown-of-vivacuts-new-tools-and-features/"><u>2024 Approved  Step-by-Step Breakdown of VivaCut's New Tools and Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-6-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 6 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-6-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Plus Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-c55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme C55 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-14-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 14</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-easy-peasy-automating-the-repetitive-view-of-youtube-videos/"><u>In 2024, Easy Peasy  Automating the Repetitive View of YouTube Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-6-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 6 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-6-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 6 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6 Plus Properly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y77t-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y77t</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-c50-by-drfone-android/"><u>Full Guide to Unlock Your Poco C50</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-6-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 6 Plus Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-find-x7-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find X7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6 Plus Lock Screen</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-can-advanced-audio-equalization-make-a-difference-in-sound-quality/"><u>New 2024 Approved Can Advanced Audio Equalization Make a Difference in Sound Quality?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-6-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 6 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/chortle-checklist-current-stars-of-tiktok-comedy/"><u>Chortle Checklist  Current Stars of TikTok Comedy</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-6-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-6-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 6 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-6-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 6 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-6-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 6 Plus in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-capturing-moments-right-ideal-perspectives-on-iphone/"><u>In 2024, Capturing Moments Right  Ideal Perspectives on iPhone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-choosing-between-slack-and-discord-for-enhanced-team-collaboration/"><u>[New] In 2024, Choosing Between Slack & Discord for Enhanced Team Collaboration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6-plus-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-6-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 6 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-6-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 6 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 6 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-6-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 6 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6-plus-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-6-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 6 Plus When You Forget the Passcode?</u></a></li>
+</ul></div>

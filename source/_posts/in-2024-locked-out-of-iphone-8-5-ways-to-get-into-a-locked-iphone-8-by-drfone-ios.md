@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of iPhone 8? 5 Ways to get into a Locked iPhone 8
-date: 2024-05-19T07:09:51.948Z
-updated: 2024-05-20T07:09:51.948Z
+date: 2024-07-15T00:45:32.670Z
+updated: 2024-07-16T00:45:32.670Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Locked Out of iPhone 8? 5 Ways to get into a Locked iPhone 8
 excerpt: This article describes Locked Out of iPhone 8? 5 Ways to get into a Locked iPhone 8
 keywords: remove iphone from blacklist,how to unlock iphone without passcode or face id,how to unlock iphone with itunes,forgot iphone pin,bypass ios 14 lock screen,iphone locked to owner,lock stolen iphone,forgot passcode on iphone,how much does unlock a phone cost,get out of security lockout
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Locked Out of Apple iPhone 8? 5 Ways to get into a Locked Apple iPhone 8
@@ -26,7 +26,7 @@ Attention: All your data all be erased after you get into your locked Apple iPho
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 8 In 5 Minutes!
 
@@ -81,12 +81,18 @@ This is another popular way to resolve the locked out of the Apple iPhone 8 prob
 - For Apple iPhone 8 7 and 7 Plus, iPod Touch (7th generation): Press and hold the 'Top' ('Side') and 'Volume Down' buttons simultaneously. Keep holding until it enters the Recovery mode.
 - For iPad with Hom buttons and Apple iPhone 8 6s and former Apple iPhone 8: Press and hold the 'Home' and 'Side' ('Top') buttons at the same time. Keep holding both buttons until the iTunes symbol would appear on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14994495356542.jpg "boot in recovery mode")
 
 **Step 3.** Click on the “Restore” button. This would reset your device.
 
 ![restore Apple iPhone 8](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone 8")
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to get into a locked Apple iPhone 8 via Find My Apple iPhone 8?
 
 Apple’s official Find My Apple iPhone 8 is a smart and hassle-free way to locate your lost Apple iPhone 8 or reset it remotely. All you need to remmber is your Apple ID and password. To use this method, preconditions are: Find My Apple iPhone 8 is enabled and internet network is available. Follow these instructions to reset your Apple iPhone 8:
@@ -121,6 +127,9 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 **Step 5.** Out of all the options to share this text, select the Message app.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994492171595.jpg "share on message")
 
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
@@ -231,6 +240,9 @@ You should be aware that resetting the Apple iPhone 8 device to factory settings
 
 On the other hand, it does make it possible for you to generate a fresh backup in iTunes that is not encrypted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Dr.Fone-Screen Unlock
 
 **First step:** After installing Dr.Fone on your device, please run the program and look for the red button labeled **"Screen Unlock."**
@@ -388,6 +400,9 @@ It is necessary to first boot your locked device in recovery or DFU mode. Follow
 
 After the phone is in recovery/DFU mode, the program will show the locked device's information. Here you can see the model and iOS variant of the Apple iPhone 8 device. If it isn't correct, you could choose the right one from the dropdown menu next to it. After that, click the Download button to get the required firmware for your locked phone.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Remove the Screen Lock**
@@ -456,3 +471,63 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-14-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 14 Pro Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 13 Passcode not Working?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/portrait-of-creativity-discover-the-bestiary-of-8-inspiring-ios-drawing-apps/"><u>Portrait of Creativity  Discover the Bestiary of 8 Inspiring iOS Drawing Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-xr-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone XR Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 13 Pro Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 11 Pro Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sticker-removal-strategies-for-tiktok-content/"><u>Sticker Removal Strategies for TikTok Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-blueprint-for-buzz-elevating-interactions-on-instagram-for-2024/"><u>[New] The Blueprint for Buzz  Elevating Interactions on Instagram for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-8-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 8 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-13-mini-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-14-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 14 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11 Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>[New] In 2024, Keywords that Catapult  Hashtag Hacks in Gameplay Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-shortening-success-youtubes-leading-link-minimizers-compared/"><u>2024 Approved  Shortening Success  YouTube's Leading Link Minimizers Compared</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-instagram-desktop-video-upload-for-2024/"><u>The Ultimate Guide to Instagram Desktop Video Upload for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 12 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-the-art-of-capturing-sims-4-essential-techniques-unveiled/"><u>[Updated] 2024 Approved  Mastering the Art of Capturing Sims 4 – Essential Techniques Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 12 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-master-the-art-of-influence-with-trending-tiktok-hashes-for-2024/"><u>[New] Master the Art of Influence with Trending TikTok Hashes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xr-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-12-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 12 Pro Without a Home Button</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-backgrounds-elevating-video-streaming/"><u>[Updated] Top Picks  Backgrounds Elevating Video Streaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/toolwiz-evaluation-the-top-choice-in-mobile-editing/"><u>Toolwiz Evaluation  The Top Choice in Mobile Editing?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-comprehensible-handbook-for-tiktok-emoji-usage/"><u>The Comprehensible Handbook for TikTok Emoji Usage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-srts-potential-in-subtitle-format-sub/"><u>Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-2020-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone SE (2020) Passcode not Working?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-breaking-down-instagrams-hashtag-system-tips-and-techniques-for-2024/"><u>[New] Breaking Down Instagram's Hashtag System  Tips and Techniques for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-mini-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 mini Lock Screen with Notifications?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-voice-easy-a-curated-list-of-software-for-simplified-vocal-recordings/"><u>New 2024 Approved Voice Easy A Curated List of Software for Simplified Vocal Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-xs-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone XS Unavailable Issue With Ease</u></a></li>
+<li><a href="https://facebook.techidaily.com/embrace-privacy-go-incognito-with-social-likes/"><u>Embrace Privacy: Go Incognito with Social Likes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone SE (2022) Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-6-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 6 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-8-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 8 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-xr-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone XR Without a Home Button</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-8-lightweight-video-editors-for-smooth-performance/"><u>Updated 2024 Approved Top 8 Lightweight Video Editors for Smooth Performance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-channel-exploration-guide-the-best-historical-youtube-selections-for-students/"><u>2024 Approved  Channel Exploration Guide  The Best Historical YouTube Selections for Students</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-exclusive-insta-network-upgrades-the-safest-free-follower-aids-for-2024/"><u>[Updated] Exclusive Insta Network Upgrades  The Safest Free Follower Aids for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-8-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Plus Without a Home Button</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fbx-methods-for-perfect-gaming-saves/"><u>[Updated] FBX Methods for Perfect Gaming Saves</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-8-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-xs-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone XS Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-12-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 12 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max</u></a></li>
+</ul></div>

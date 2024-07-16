@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone XS when Phone is Broken?
-date: 2024-05-19T07:09:52.784Z
-updated: 2024-05-20T07:09:52.784Z
+date: 2024-07-15T00:46:57.874Z
+updated: 2024-07-16T00:46:57.874Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone XS when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone XS when Phone is Broken?
 keywords: how to unlock iphone 12,how to create new apple id,iphone lock screen with notifications,forgot passcode iphone 6,how to unlock a found iphone,iphone passcode not working after update ios 13,fix iphone passcode not working,iphone passcode changed itself,get out of security lockout,get into locked iphone,forgot locked note password,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## How to Turn Off Find My Apple iPhone XS when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -135,6 +135,9 @@ Once your Apple iPhone XS shows the Apple logo, it means the Recovery Mode is ac
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone XS is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone XS to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can You Unlock Apple iPhone XS After Forgetting the Passcode?
 
 If you **forget the passcode on your Apple iPhone XS**, you won't have the option to access its information and use it flawlessly. What's more disturbing is that if you keep entering the wrong ones, your Apple iPhone XS will be locked. It would help if you opened it, be it a 4-digit passcode, 6-digit passcode, Fingerprint, or Face ID.
@@ -209,6 +212,9 @@ To erase the lock screen passcode with Siri on iOS 8 to iOS 10.1:
 
 **Step 4.** Click the "Home" button and go to the Home screen. Presently you have effectively bypassed the lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use siri](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-4.jpg)
 
 As you might be aware, this way is helpful because of iOS bugs. This method is also viewed as a method for hacking the iPhone. In later iOS versions, Apple fixed these bugs. In this manner, it works on iPhones running iOS 8.0 to 10.1.
@@ -284,9 +290,12 @@ It offers an absolute way to regain access to your notes and device if you **for
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
-2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your iOS device if you have forgotten its credentials.
+2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone
 
 Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. It incorporates multiple pivotal features necessary for facilitating the unlocking procedure. Here are the steps imperative for unlocking your iOS device:
@@ -304,6 +313,9 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
@@ -326,6 +338,9 @@ If you've locked a note on your Apple iPhone XS but forgot the password, there i
 
 - **Step 2.** You will be prompted to enter the Apple ID password for confirmation. After entering the Apple ID password, tap "Reset Password" again to reset the password. Finalize the process by setting up a new “Password,” “Verify” it, set a “Hint,” and press “Done.”
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
@@ -377,3 +392,61 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-se-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone SE Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-se-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone SE when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-se-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone SE With 7 Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/silent-spectator-of-social-media-snippets/"><u>Silent Spectator of Social Media Snippets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-2023-line-up-of-best-pro-360cameras-reviewed/"><u>The 2023 Line-Up of Best Pro 360°Cameras Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-se-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone SE? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone SE Passcode not Working?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-windows-10-video-editors-the-best-imovie-lookalikes/"><u>2024 Approved Windows 10 Video Editors The Best iMovie Lookalikes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-se-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone SE with iTunes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-expectations-the-new-samsung-ubd-k8500-edition-for-2024/"><u>Beyond Expectations  The New Samsung UBD-K8500 Edition for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-se-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone SE</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screen-recorder-options-for-igadgets/"><u>[New] 2024 Approved  Screen Recorder Options for iGadgets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-se-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone SE After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-advanced-techniques-in-removing-tiktok-brand-images-for-2024/"><u>[Updated] Advanced Techniques in Removing TikTok Brand Images for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE After Forgetting the Passcode?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-secrets-to-massive-channel-subscription-growth/"><u>[Updated] Secrets to Massive Channel Subscription Growth</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-se-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone SE in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>2024 Approved  Crafting Captivating Content  The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-se-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone SE Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-se-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone SE with a Broken Screen?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-insiders-selection-premium-webinar-tools/"><u>2024 Approved  Insider's Selection  Premium Webinar Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone SE Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-screwball-skirmishes-uncovering-the-funniest-tiktok-game-battles-for-2024/"><u>[New] Screwball Skirmishes  Uncovering the Funniest TikTok Game Battles for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easily-sync-audio-with-video-with-filmora-for-2024/"><u>New Easily Sync Audio With Video With Filmora for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-se-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone SE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-13-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/glee-and-gags-the-classic-vhs-of-a-goofy-adventure-for-2024/"><u>'Glee and Gags' - The Classic VHS of A Goofy Adventure for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a34-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A34 5G Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-se-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-se-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone SE</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-edge-40frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Edge 40FRP Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone SE</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-the-best-8-mac-movie-creation-tools-you-need/"><u>Updated The Best of the Best 8 Mac Movie Creation Tools You Need</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-se-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone SE to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/curated-selection-5-superior-android-ps2-game-emulators-for-2024/"><u>Curated Selection  5 Superior Android PS2 Game Emulators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-unison-unit-for-voice-broadcasting/"><u>2024 Approved  Ultimate Unison Unit for Voice Broadcasting</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-best-animated-ideas-making-waves-on-tiktok/"><u>The Best Animated Ideas Making Waves on TikTok</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/universal-vmix-adapter-for-2024/"><u>Universal VMix Adapter for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-se-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone SE When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-se-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone SE Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-se-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone SE With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-by-drfone-ios/"><u>In 2024, Locked Out of iPhone SE? 5 Ways to get into a Locked iPhone SE</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-shooter-showdown-our-best-picks/"><u>2024 Approved  Ultimate Shooter Showdown - Our Best Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-se-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone SE?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>Updated In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-se-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone SE Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-edit-like-a-pro-for-free-top-open-source-video-editors/"><u>In 2024, Edit Like a Pro for Free Top Open-Source Video Editors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-initiating-virtual-gatherings-in-messenger-for-2024/"><u>[Updated] Initiating Virtual Gatherings in Messenger for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-best-action-recorders-with-front-view-panels/"><u>2024 Approved  Best Action Recorders with Front View Panels</u></a></li>
+</ul></div>

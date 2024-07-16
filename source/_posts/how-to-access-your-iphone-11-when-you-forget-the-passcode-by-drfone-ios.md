@@ -1,7 +1,7 @@
 ---
 title: How to Access Your iPhone 11 When You Forget the Passcode?
-date: 2024-05-19T07:10:04.030Z
-updated: 2024-05-20T07:10:04.030Z
+date: 2024-07-15T01:04:39.774Z
+updated: 2024-07-16T01:04:39.774Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your iPhone 11 When You Forget the Passcode?
 excerpt: This article describes How to Access Your iPhone 11 When You Forget the Passcode?
 keywords: factory reset locked iphone without itunes,remove flashlight from iphone lock screen,iphone passcode changed itself,solve iphone randomly asking for apple id,unlock iphone 14,how to unlock iphone 12,doctorism unlock review
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## How to Access Your Apple iPhone 11 When You Forget the Passcode?
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 11
 
@@ -59,6 +59,9 @@ Here we’re going to be familiar with the Apple iPhone 11 passcode reset using 
 
 **Step 2:** Then, hit the “Summary” option from the left panel and then you need to hit the “Restore iPhone” button. Confirm your actions by simply pushing the “Restore” button on the pop-up message and you’re done. Now, just wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![iTunes backup restoring](https://images.wondershare.com/drfone/article/2019/09/restore-iphone-itunes.jpg)
 
 ## Part 3. Restore Apple iPhone 11 in recovery mode to remove screen passcode
@@ -91,6 +94,9 @@ Note: Since we’re going to unlock your Apple iPhone 11 using Find My iPhone se
 
 **Step 4:** Then, you’ll get to witness a pop-up window over your screen. Tap the “Erase iPhone” button over it and then confirm your actions. All the settings and data will be wiped off remotely from your Apple iPhone 11 now.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![erase iPhone](https://images.wondershare.com/drfone/article/2019/09/unlock-iphone-icloud.jpg)
 
 **Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
@@ -107,6 +113,9 @@ Now, in case you know the Apple iPhone 11 restrictions passcode and just wish to
 
 1. Launch “Settings” of your Apple iPhone 11 and then get into “General” followed by “Restrictions”. Now, you’ll be asked to key in the current passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![restrictions passcode](https://images.wondershare.com/drfone/article/2019/09/restrictions-iphone.jpg)
 
 1. Once you’ve entered the current passcode, hit on the “Disable Restrictions” and to confirm your actions, key in your passcode when prompted.
@@ -247,6 +256,9 @@ Another possibility is that someone tried to break into your phone using an ille
 
 Finally, if you have an Apple iPhone 11 with Face ID, it's possible that your phone was locked because it didn't recognize your face. You ought to enter your passcode to unlock your phone if this is the case.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 So, these are some most effective methods to follow and unlock the Apple iPhone 11 XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone 11 lock screen without a passcode.
@@ -259,6 +271,9 @@ There are still chances that you could forget your Apple iPhone 11 backup passwo
 
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Overview of iPhone Backup Password
 
 The Apple iPhone 11 is secured using a combination that is the backup password. Passwords, Wi-Fi settings, browser history, and health records are sensitive information that an encrypted device may back up.
@@ -427,3 +442,61 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-10t-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme 10T 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-youtube-profits-transitioning-from-ads-to-accounts-for-2024/"><u>Maximizing YouTube Profits  Transitioning From Ads to Accounts for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-the-art-of-chatting-with-discords-speaking-function/"><u>Master the Art of Chatting with Discord's Speaking Function</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-13-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 13 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13, Apples New iPhone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-collection-of-free-discord-audio-modifiers/"><u>2024 Approved  The Ultimate Collection of Free Discord Audio Modifiers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 Without Passcode Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-choosing-your-soundtrack-the-podcast-vs-youtube-showdown-for-2024/"><u>[New] Choosing Your Soundtrack  The Podcast Vs. YouTube Showdown for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-13-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 13 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 With or Without Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-13-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 13</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieving-realistic-blur-on-images-using-photoshop-techniques/"><u>[New] Achieving Realistic Blur on Images Using Photoshop Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unparalleled-editing-experience-vimeo-edition-awaits/"><u>In 2024, Unparalleled Editing Experience  Vimeo Edition Awaits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-adding-a-cinematic-touch-ken-burns-in-camtasa-9/"><u>[Updated] In 2024, Adding a Cinematic Touch  Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Without Passcode Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ios-screen-recording-a-no-nonsense-approach/"><u>In 2024, IOS Screen Recording  A No-Nonsense Approach</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-13-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-13-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 13 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-average-podcast-income-whats-the-payoff/"><u>2024 Approved  Average Podcast Income  What's the Payoff?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-13-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 13 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-ios-experience-top-5-ps2-simulators-for-2024/"><u>[New] Elevate Your iOS Experience  Top 5 PS2 Simulators for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-rated-video-editing-tools-for-pc-trimming/"><u>New 2024 Approved Top-Rated Video Editing Tools for PC Trimming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-13-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 13</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-guide-to-turkish-alphabet-an-essential-reading-companion/"><u>Quick Guide To Turkish Alphabet: An Essential Reading Companion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-13-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 13 With 7 Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-ae-techniques-for-memorable-heads-ups/"><u>Essential AE Techniques for Memorable Heads-Ups</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Passcode without a Computer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>YouTube's Prime Stream  Essential Tech, Equipment Guide for Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-6-social-media-channels-fostering-business-innovation/"><u>2024 Approved  Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 13</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capturing-classroom-talks-on-a-mac/"><u>[New] Capturing Classroom Talks on a Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 13 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-5-different-animation-styles-a-simple-but-comprehensive-guide-for-2024/"><u>New 5 Different Animation Styles A Simple but Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-13-5-ways-to-get-into-a-locked-iphone-13-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 13? 5 Ways to get into a Locked iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13? Complete Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gifs-that-speak-volumes-unveiling-6-critical-strategies-for-memetic-design/"><u>GIFs That Speak Volumes  Unveiling 6 Critical Strategies for Memetic Design</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-g24-power-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola G24 Power? Try These Fixes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-no-cost-video-editors-for-beginners-a-comprehensive-list-for-2024/"><u>New No-Cost Video Editors for Beginners A Comprehensive List for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-listenleaders-pursuing-better-podcasts/"><u>2024 Approved  ListenLeaders  Pursuing Better Podcasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
+</ul></div>

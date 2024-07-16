@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone 6s Plus Properly
-date: 2024-05-19T07:09:29.135Z
-updated: 2024-05-20T07:09:29.135Z
+date: 2024-07-15T00:08:13.281Z
+updated: 2024-07-16T00:08:13.281Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Learn How To Lock Stolen Your iPhone 6s Plus Properly
 excerpt: This article describes Learn How To Lock Stolen Your iPhone 6s Plus Properly
 keywords: unlock iphone xs without passcode,erase iphone when locked,iphone swipe up not working,how to remove passcode from iphone,iphone 11 passcode bypass,lock stolen iphone,iphone lost mode unlock,app lock iphone,iphone backup password,reset iphone backup password,bypass iphone passcode,unlock iphone screen passcode
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## Learn How To Lock Stolen Your Apple iPhone 6s Plus Properly
@@ -39,7 +39,7 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
 
-1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html)when your stolen iPhone is still powered on and connected to the internet.
+1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html) when your stolen iPhone is still powered on and connected to the internet.
 2. **iPhone Turned Off or In Airplane Mode:**The last known location before the Apple iPhone 6s Plus device was powered down or put in Airplane Mode is accessible, offering a starting point for recovery efforts.
 3. **Offline Finding with Bluetooth:**The Find My service leverages Bluetooth technology to create a vast network of Apple devices. With these, it can securely help locate your Apple iPhone 6s Plus, even offline.
 4. **Activation Lock Integration:**This service is also integrated with Activation Lock, adding an extra layer of security. The Activation Lock remains active if a thief attempts to erase your device.
@@ -54,6 +54,9 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
 Lost Mode locks the Apple iPhone 6s Plus device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
@@ -112,6 +115,18 @@ If your Apple iPhone 6s Plus is stolen, it is crucial to immediately inform your
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
 You can claim insurance if you have AppleCare+ coverage for your Apple iPhone 6s Plus. AppleCare+ with Theft and Loss for iPhone includes protection against theft and loss incidents. It offers up to two incidents of such coverage every 12 months.
@@ -193,8 +208,8 @@ It provides a hassle-free solution for those locked out of their devices. This p
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
-2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your Apple iPhone 6s Plus or iPad if you have forgotten its password.
-3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)and carrier locks using Dr.Fone.
+2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 6s Plus or iPad if you have forgotten its password.
+3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -350,6 +365,9 @@ Click the "Screen Unlock" option from the main homepage and connect your iDevice
 
 Removing the lock screen requires you to boot your Apple iPhone 6s Plus in Recovery or DFU mode. The Recuperation mode is suggested for iOS devices. But if you can't, you can go for the DFU mode.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3. Confirm your Phone Model**
@@ -387,7 +405,7 @@ You might be anxious if you have locked your Apple iPhone 6s Plus and forgotten 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
 
@@ -474,6 +492,9 @@ Open iCloud.com on your computer and sign with your Apple ID. All the Apple iPho
 
 Click on the Apple iPhone 6s Plus device that needs to be removed. Then click on “Erase iPhone”. Now, you can restore the Apple iPhone 6s Plus from the backup or set up a new one.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![click on erase iphone](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-8.jpg)
 
 **Pros**
@@ -500,6 +521,9 @@ You can also consider unlocking your Apple iPhone 6s Plus through Find My iPhone
 
 **Step 3:** A confirmation message will be provided where you need to tap “Continue” to proceed. When that particular device connects to the internet, the data across it will start to delete automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on continue button](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-11.jpg)
 
 **Pros**
@@ -577,3 +601,52 @@ Human beings are clumsy, and they often forget passcodes to their devices. Howev
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-creative-builders-top-easy-homes-in-minecraft/"><u>2024 Approved  Creative Builders  Top Easy Homes in Minecraft</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 15 Plus Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-15-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 15 Without a Passcode</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-video-appeal-mac-thumbnails-tutorial/"><u>2024 Approved  Enhancing Video Appeal  Mac Thumbnails Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-oceans-choosing-your-best-action-camera/"><u>In 2024, Navigating Oceans  Choosing Your Best Action Camera</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 15 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-free-video-editors-for-windows-beyond-movie-maker/"><u>In 2024, The Best Free Video Editors for Windows (Beyond Movie Maker)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-15-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 15 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-guide-to-mastering-your-discord-broadcasts-for-2024/"><u>In-Depth Guide to Mastering Your Discord Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-screen-seize-techniques-for-mac-devices-under-156-chars-for-2024/"><u>[Updated] Top Screen Seize Techniques for Mac Devices (Under 156 Chars) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-10-truths-about-your-youtube-videos-having-no-viewers/"><u>The 10 Truths About Your YouTube Videos Having No Viewers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-15-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 15 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Passcode Screen?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elite-equipment-showcasing-gameplay-innovations/"><u>[Updated] In 2024, Elite Equipment  Showcasing Gameplay Innovations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instastorysaver-free-storage-beyond-counts/"><u>[Updated] In 2024, InstaStorySaver  Free Storage Beyond Counts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 In Different Conditionsin</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-huawei-p60-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Huawei P60 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-select-your-go-to-teacher-recording-software-now/"><u>[Updated] 2024 Approved  Select Your Go-To Teacher Recording Software Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scaling-up-a-creators-guide-to-major-content-partnerships/"><u>2024 Approved  Scaling Up  A Creator's Guide to Major Content Partnerships</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-profile-pics-templates-available/"><u>2024 Approved  YouTube Profile Pics  Templates Available</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 Plus With or Without Password</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-transformation-hacks-best-filter-strategies-uncovered-for-2024/"><u>[New] TikTok Transformation Hacks  Best Filter Strategies Uncovered for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 15 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cyberlink-screen-recorder-review-for-2024/"><u>Cyberlink Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Plus With 7 Methods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Spark 10 5G FRP</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-15-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-15-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 15 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-15-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 15 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-15-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 15 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-15-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 15 Plus and iPad Securely</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-master-your-media-with-these-pro-screenshot-and-video-editors-iphoneandroid/"><u>2024 Approved  Master Your Media with These Pro Screenshot and Video Editors (iPhone/Android)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-15-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 15 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-15-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 15 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/get-chatty-with-these-17-streetwise-spanish-terms/"><u>Get Chatty with These 17 Streetwise Spanish Terms</u></a></li>
+</ul></div>

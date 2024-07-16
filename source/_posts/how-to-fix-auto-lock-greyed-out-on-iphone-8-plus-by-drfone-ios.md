@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 8 Plus
-date: 2024-05-19T07:09:47.324Z
-updated: 2024-05-20T07:09:47.324Z
+date: 2024-07-15T00:37:52.115Z
+updated: 2024-07-16T00:37:52.115Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 8 Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 8 Plus
 keywords: forgot passcode iphone 6,iphone lock screen with notifications,ios 17 lock screen,remove iphone from blacklist,forgot iphone pin,unlock lost phone,change country on iphone app store,iphone lost mode unlock,iphone asking for outlook password,bypass iphone passcode
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus
@@ -42,6 +42,9 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -54,6 +57,9 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
@@ -202,7 +208,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 8 Plus, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -214,7 +220,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -286,6 +292,9 @@ This method may be a better choice for unlocking your Apple iPhone 8 Plus than u
 - **Step 4:** Click "Erase" to confirm that you want to erase your Apple iPhone 8 Plus.
 - **Step 5:** Wait for the process to complete, and your Apple iPhone 8 Plus will be unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Use the Voice Control to Unlock iPhone (iOS 13 or later)
 
 The use of Voice Control to **unlock iPhone without passcode** is a feature available in iOS 13 or later. Voice Control is a feature that lets you navigate your Apple iPhone 8 Plus using just your voice. It allows you to unlock your Apple iPhone 8 Plus without having to enter a passcode or use Touch ID.
@@ -359,6 +368,9 @@ DFU mode (Device Firmware Update) is a special mode on an iPhone that allows you
 
 Remember that using DFU mode to bypass your Apple iPhone 8 Plus passcode will erase all data from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 9: How to Unlock iPhone Without Passcode by Tricking Siri?
 
 In this part, we give you the solution to unlock your Apple iPhone 8 Plus without a password using Siri. You can consider it a trick or a tip as you wouldn't be losing your Apple iPhone 8 Plus data. It works to give 100% results in even the most tricky situations.
@@ -409,6 +421,9 @@ Once you have backed up your device, you can then restore it using the backup in
 
 If you have an older version of iOS (version 9 or earlier), then there is a bug that allows you to unlock your device using the camera. To do this, simply open the Camera app and make sure it's in selfie mode. Then, hold the Home button until you hear a clicking sound. This will unlock your device without requiring a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is a well-known featured software to unlock iPhone without passcode and works instantly after download. We have proven results, and all the methods listed above are user-friendly to the extent that no knowledge of technology is required to unlock the Apple iPhone 8 Plus without Siri. We advise you to use Dr.Fone as it will work on your Apple iPhone 8 Plus without any damage and give the desired result. However, you may choose any of the above iOS unlocking methods as you see fit.
@@ -454,7 +469,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -490,7 +505,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -526,3 +541,54 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-pro-max-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-infinite-recorders-without-bounds-for-2024/"><u>[Updated] Infinite Recorders Without Bounds for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-skyrocket-your-game-with-these-7-14-stardew-mods/"><u>In 2024, Skyrocket Your Game with These #7-14 Stardew Mods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-up-personalized-video-shots-on-youtube/"><u>Setting Up Personalized Video Shots on YouTube</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-looper-tools-for-endless-playback-on-windows-and-mac/"><u>New Free Video Looper Tools for Endless Playback on Windows and Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Pro Max Without iTunes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/revolutionizing-video-creation-siri-voice-integration-in-tiktok-videos-for-2024/"><u>Revolutionizing Video Creation  Siri Voice Integration in TikTok Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 15 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-15-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 15 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-skald-rage-new-age-of-might/"><u>In 2024, Skald Rage  New Age of Might</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-max-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro Max to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-assistance-how-to-add-and-customize-ringtones-and-sounds-in-android/"><u>In 2024, Step-by-Step Assistance  How To Add and Customize Ringtones & Sounds in Android</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-15-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 15 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-6s-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 6s files after scanning? | Stellar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-solutions-for-your-ultimate-3d-viewing-needs-for-2024/"><u>Innovative Solutions for Your Ultimate 3D Viewing Needs for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-15-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 15 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-get-noticed-the-ideal-facebook-video-cover-size-and-dimensions/"><u>In 2024, Get Noticed The Ideal Facebook Video Cover Size and Dimensions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-15-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 15 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/learn-snapchats-video-mirror-magic-for-2024/"><u>Learn Snapchat's Video Mirror Magic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-review-of-videoshow-24-features-and-updates/"><u>[Updated] Thorough Review of VideoShow '24 Features & Updates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-immediate-fixes-s-facebook-password-woes/"><u>2024 Approved  Immediate Fixes 'S Facebook Password Woes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-15-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 15 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mastering-avi-file-editing-how-to-split-cut-and-trim-with-confidence/"><u>New In 2024, Mastering AVI File Editing How to Split, Cut, and Trim with Confidence</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-15-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 15 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-down-the-fastest-green-screen-methods/"><u>2024 Approved  Breaking Down the Fastest Green Screen Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-12-pro-4g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 12 Pro 4G PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-15-pro-max-5-ways-to-get-into-a-locked-apple-iphone-15-pro-max-by-drfone-ios/"><u>Locked Out of Apple iPhone 15 Pro Max? 5 Ways to get into a Locked Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-information-for-choosing-the-best-video-platform-for-2024/"><u>[Updated] Essential Information for Choosing the Best Video Platform for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-a-complete-strategy-for-superior-animoji-use-on-iphone-x/"><u>In 2024, A Complete Strategy for Superior Animoji Use on iPhone X</u></a></li>
+</ul></div>

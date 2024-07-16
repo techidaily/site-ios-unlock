@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 11 Backup Password? Heres What to Do
-date: 2024-05-19T07:10:04.087Z
-updated: 2024-05-20T07:10:04.087Z
+date: 2024-07-15T01:04:44.430Z
+updated: 2024-07-16T01:04:44.430Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 11 Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 11 Backup Password? Heres What to Do
 keywords: iphone swipe up not working,turn off restricted mode,unlock iphone with apple watch,iphone is disabled,swipe up to unlock iphone,iphone passcode not working after update ios 13,how to remove passcode from iphone
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## Forgot Apple iPhone 11 Backup Password? Here's What to Do
@@ -142,6 +142,9 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
 
@@ -185,13 +188,16 @@ Attention: All your data all be erased after you get into your locked Apple iPho
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 11 In 5 Minutes!
 
 - No special skills are required to get into a locked Apple iPhone 11.
 - Unlock the iDevice effectively whether it is disabled or nobody knows its passcode.
 - Works properly whether if you're using Apple iPhone 11, iPad, and iPod touch.
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,216** people have downloaded it
@@ -210,6 +216,9 @@ You can watch the video below about how to unlock your Apple iPhone 11 without P
 
 **Step 3.** Then on the next screen, this tool will prompt you to enter the DFU mode to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into locked Apple iPhone 11 by activating dfu mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg)
 
 **Step 4.** Provide the essential details about your phone in the next window and Download the firmware update.
@@ -272,6 +281,9 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 **Step 3.** The interface will ask you to search for a location of your choice. Type anything on the search tab and select it to get various options. Tap on the “Select all” text.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select all](https://images.wondershare.com/drfone/article/2017/07/14994491845337.jpg "select all")
 
 **Step 4.** A few added options will be displayed. Tap on “Share” to proceed.
@@ -319,6 +331,9 @@ You may get stuck with any emergency if you do not know how to unlock your Apple
 Normally, you don't believe what you see and start to try entering the passcode to unlock your Apple iPhone 11. However, if you entered an incorrect passcode 10 times, you will receive a messag "[iPhone is disabled, connect to iTunes](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html)". In this case, the only way to unlock your disabled iPhone is to restore it. And that is a situation none of us would like to be in right? Hence, in this article, today, we will elaborate ways on **how to unlock iPhone without passcode** or restore it.
 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Unlocking Your Apple iPhone 11: What Are the 4 Main Causes of Failure?
 
 Unlocking your Apple iPhone 11 can be a frustrating experience, especially when you just want to access the Apple iPhone 11 device. Unfortunately, there are several common reasons why an iPhone may not unlock.
@@ -334,7 +349,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 11, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -346,7 +361,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -562,3 +577,61 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-mini-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 mini Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-13-mini-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 13 mini and iPad Securely</u></a></li>
+<li><a href="https://extra-information.techidaily.com/macpc-vmix-bridge-software/"><u>MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-13-mini-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 13 mini Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-13-mini-how-to-unlock-a-disabled-apple-iphone-13-mini-by-drfone-ios/"><u>Disabled Apple iPhone 13 mini How to Unlock a Disabled Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-13-mini-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 13 mini In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 13 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-13-mini-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 13 mini With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-13-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 13 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-13-mini-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 13 mini With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-zoom-call-management-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Zoom Call Management  A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-13-mini-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 13 mini Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-13-mini-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 13 mini Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-mini-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-sound-essential-imovie-audio-enhancement-techniques/"><u>New In 2024, Mastering Sound Essential iMovie Audio Enhancement Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13 mini</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-discord-gifs-the-ultimate-communication-tool-for-teams/"><u>[New] Mastering Discord GIFs  The Ultimate Communication Tool for Teams</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-13-mini-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 13 mini Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-13-mini-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 13 mini</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 5G Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-concealed-aspects-understanding-the-unique-stories-of-followers/"><u>[Updated] The Concealed Aspects  Understanding the Unique Stories of Followers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-13-mini-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 13 mini With 7 Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-potential-with-the-q500-drone/"><u>Unleashing Potential with the Q500 Drone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-animated-video-creators-top-picks-for-online-success-for-2024/"><u>Best Animated Video Creators Top Picks for Online Success for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-resource-on-affordable-webinars-on-youtube/"><u>[New] In 2024, The Ultimate Resource on Affordable Webinars on Youtube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-tecno-spark-10c-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Tecno Spark 10C to iPod | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-10-free-browser-based-daws-for-creatives/"><u>Updated 2024 Approved Top 10 Free Browser-Based DAWs for Creatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 mini Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-mini-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-mini-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-13-mini-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 13 mini</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-mini-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 mini After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-mini-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 13 mini Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-mini-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13 mini</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone X Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-13-mini-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 13 mini After Forgetting the Passcode?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimal-sony-ps3-reproduction-tools-ranked-pc/"><u>[Updated] Optimal Sony PS3 Reproduction Tools Ranked (PC)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-varied-and-eye-catching-vlog-discussion-points/"><u>In 2024, Varied and Eye-Catching Vlog Discussion Points</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-everything-you-need-to-know-about-becoming-a-motion-graphic-designer-for-2024/"><u>Updated Everything You Need to Know About Becoming a Motion Graphic Designer for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-miniipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 mini/iPad Without Computer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-to-enhance-your-youtube-video-positioning/"><u>[Updated] Strategies to Enhance Your YouTube Video Positioning</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-13-mini-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-13-mini-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 13 mini Prevention & Solution</u></a></li>
+</ul></div>

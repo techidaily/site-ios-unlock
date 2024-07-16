@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro
-date: 2024-03-31 17:36:36
-updated: 2024-04-01 23:31:14
+date: 2024-07-15T01:56:22.712Z
+updated: 2024-07-16T01:56:22.712Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro
 keywords: unlock iphone screen passcode,unlock iphone passcode,erase iphone when locked,apple id not active,lock stolen iphone,bypass apple store verification,disable parental control,change apple id password,unlock iphone xs without passcode,remove flashlight from iphone lock screen,how to unlock iphone with broken screen
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro
@@ -66,6 +66,9 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 - **Step 2:** Go to **Screen Time,** then scroll down.
 - **Step 3:** Tap **Turn Off Screen Time**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
 
 Fix No.3: Remove MDM Configuration Profile
@@ -158,6 +161,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -204,6 +210,9 @@ This is the most common and easy method to remove the passcode from iPhone. You 
 
 However, this method can help you only when you know your Passcode. In case you have forgotten it, you can use the following methods.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Remove via iTunes (Erase iPhone)
 
 This is another popular method that people use to remove Passcode from iPhones. However, it will delete all your data from the Apple iPhone 13 Pro device. So, if you want this method, make sure you have taken a backup of your data first.
@@ -298,6 +307,9 @@ This was the complete process of using the Wondershare Dr.Fone-Screen Unlock fea
 Besides, all the methods discussed in this article work fine with most iPhones, but the ideal method is to remove the Apple iPhone 13 Pro passcode using Dr.Fone-Screen Unlock (iOS). We have tested this method with various iPhones, and it worked perfectly fine. So, if you want a reliable and easy-to-use method, we recommend you use Dr.Fone-Screen Unlock (iOS) without hesitation.
 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
 We know there might be lots of questions running through your mind about this process. So, we have tried responding to frequently asked questions about this process.
@@ -386,6 +398,14 @@ To enter a Recovery Mode, press a combination of buttons on your Apple iPhone 13
 
 As the recovery Mode screen shows up on the iPhone, you will find your Apple iPhone 13 Pro on **iTunes unlock phone** screen. Then, a box shows up with a message saying there is an iPhone issue. It will expect you to update or restore your phone. So, click on Restore.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-1.jpg)
 
 **Step 4.** It then asks you to confirm whether you are sure you need to restore the Apple iPhone 13 Pro to its default factory state. It does so because your media and data will be all erased. Then, click on Restore and Update.
@@ -492,3 +512,49 @@ We hope you found out about **how to unlock iPhone with iTunes**. We likewise di
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-14-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 14 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/camera-hunt-essential-choices-for-new-enthusiasts/"><u>Camera Hunt  Essential Choices for New Enthusiasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-14-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 14 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>[New] Best Practices  Choosing the Top iOS Video Downloaders on FB</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-14-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 14 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-visual-feast-delving-into-the-world-of-asuss-4k-uxga-screen/"><u>[New] A Visual Feast  Delving Into the World of ASUS's 4K UXGA Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-14-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 14 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-14-pro-max-5-ways-to-get-into-a-locked-apple-iphone-14-pro-max-by-drfone-ios/"><u>Locked Out of Apple iPhone 14 Pro Max? 5 Ways to get into a Locked Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-14-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 14 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-v29-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo V29 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bypassing-costs-your-step-by-step-to-fcp/"><u>In 2024, Bypassing Costs  Your Step-by-Step to FCP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/thriving-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante-for-2024/"><u>Thriving as an Independent YouTube Entrepreneur  Dodging the Ad Dilemrante for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-6-virtual-venues-propelling-professional-connections/"><u>2024 Approved  Leading 6 Virtual Venues Propelling Professional Connections</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-14-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 14 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-pro-max-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 14 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-preserving-the-past-a-comprehensible-process-of-photograph-digitization/"><u>[Updated] Preserving the Past  A Comprehensible Process of Photograph Digitization</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-14-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 14 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-rapidly-rise-as-a-social-media-star-on-instagram-for-2024/"><u>[Updated] Rapidly Rise as a Social Media Star on Instagram for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/commencing-your-google-meet-experience-for-2024/"><u>Commencing Your Google Meet Experience for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-wearable-world-how-does-vr-work-in-2024/"><u>Inside the Wearable World  How Does VR Work, In 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-comprehensive-review-of-wave-editor-capabilities-for-new-users/"><u>In 2024, Comprehensive Review of Wave Editor Capabilities for New Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-illuminati-the-top-25-visionaries-you-need-to-see/"><u>[Updated] 2024 Approved  Instagram Illuminati  The Top 25 Visionaries You Need to See</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-14-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-and-fantastic-the-top-10-lut-sources/"><u>2024 Approved  Free & Fantastic  The Top 10 LUT Sources</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-preview-cut-compilation/"><u>Exclusive Preview Cut Compilation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-14-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-14-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 14 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-14-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 14 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+</ul></div>

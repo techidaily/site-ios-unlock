@@ -1,7 +1,7 @@
 ---
 title: iPhone 15 Plus Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-06-24T00:48:41.154Z
-updated: 2024-06-25T00:48:41.154Z
+date: 2024-07-15T02:41:45.674Z
+updated: 2024-07-16T02:41:45.674Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,9 @@ When you use iTunes to create a backup, the backup will probably have a password
 
 In most cases, this occurs when the Encrypt Backup option is activated. As an official iOS feature, its purpose is to provide iOS users with the iTunes backup encryption for further security.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![encrypt local backup](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-2.jpg)
 
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone 15 Plus backup unlocking never set by you.
@@ -180,6 +183,9 @@ After the DFU mode is activated, confirm the Apple iPhone 15 Plus device informa
 
 ![click on unlock button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Remove iPhone Screen Lock Using the Recovery Mode
 
 There are other ways to **unlock screen passcode.** For starters, you can consider resolving this issue using the Recovery mode. It is a troubleshooting operation that lets iTunes fix the issue and erase the old passcode. Follow the procedure below vividly:
@@ -274,6 +280,9 @@ If you do not have any potential source for unlocking your Apple iPhone 15 Plus,
 
 **Step 2:** Siri will display the time with a clock icon on the front. Click on the icon to open the associated interface. Click on the “+” icon and proceed to the next screen. You will find a search box on the next screen. Type random characters and hold the tab until it shows the option of “Select All.”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the typed text](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-12.jpg)
 
 **Step 3:** You will find the option of the “Share” button soon. A pop-up opens after tapping on the button, which shows different options that can be accessed. Click on “Messages” to move to the next screen.
@@ -326,6 +335,9 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -389,6 +401,9 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 1\. Firstly, put your Apple iPhone 15 Plus into recovery mode. To do this, launch an updated version of iTunes on your system and connect it to a lightning cable. Now, long-press the Home button on your device and connect it to the other end of the lightning cable. Release the Home button once the iTunes logo would appear.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
 
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
@@ -438,3 +453,54 @@ After following this informative guide, you would learn how to wipe a locked iPh
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE Without iTunes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-tier-action-cams-for-sports-enthusiasts/"><u>[New] 2024 Approved  Top-Tier Action Cams for Sports Enthusiasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Max Without iTunes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-branding-beyond-words-eye-catching-podcast-graphics/"><u>[New] Branding Beyond Words  Eye-Catching Podcast Graphics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-compendium-of-tiktok-visual-elements/"><u>The Ultimate Compendium of TikTok Visual Elements</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-8-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2022-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2022) Without iTunes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tech-savvy-approach-to-cutting-out-background-noise-in-google-meet/"><u>[New] Tech-Savvy Approach to Cutting Out Background Noise in Google Meet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-razr-40-ultra-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Razr 40 Ultra without backup.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-mini-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 mini Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6s-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-the-art-of-audio-replacement-a-comprehensive-guide-to-video-dubbing-with-wondershare-filmora/"><u>Updated Mastering the Art of Audio Replacement A Comprehensive Guide to Video Dubbing with Wondershare Filmora</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2020-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2020) Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-xr-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone XR Without iTunes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-top-25-leaders-in-digital-influence-for-2024/"><u>[Updated] Instagram's Top 25 Leaders in Digital Influence for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-mini-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 mini Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-keyboard-shortcuts-that-power-up-win11/"><u>In 2024, Keyboard Shortcuts That Power Up Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-xs-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-crafting-professional-ppt-video-content/"><u>[Updated] Crafting Professional PPT Video Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860202313-2024-approved-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>2024 Approved  Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms.</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-complete-walkthrough-to-emoji-enriched-discord-statuses-for-2024/"><u>[Updated] The Complete Walkthrough to Emoji-Enriched Discord Statuses for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6s-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6s Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6 Without iTunes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-online-meetings-zoom-tips-for-chromebooks-for-2024/"><u>Mastering Online Meetings  Zoom Tips for Chromebooks for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-8-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-latest-android-selection-ranked-top-10-apps-for-saving-facebook-videos/"><u>[New] 2024 Approved  Latest Android Selection  Ranked Top 10 Apps for Saving Facebook Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unraveling-the-acoustic-patterns-of-crickets/"><u>New Unraveling the Acoustic Patterns of Crickets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dial-back-unrequested-youtube-recommendations/"><u>[New] 2024 Approved  Dial Back Unrequested YouTube Recommendations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-xs-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone XS Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Without iTunes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-video-streaming-sonic-database-youtube/"><u>2024 Approved Video Streaming Sonic Database - YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-7-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 7 Plus Without iTunes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/your-first-steps-in-online-broadcasting-via-obs/"><u>Your First Steps in Online Broadcasting via OBS</u></a></li>
+</ul></div>

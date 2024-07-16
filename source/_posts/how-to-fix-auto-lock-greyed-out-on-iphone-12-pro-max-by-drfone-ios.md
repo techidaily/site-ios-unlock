@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max
-date: 2024-05-19T07:10:23.954Z
-updated: 2024-05-20T07:10:23.954Z
+date: 2024-07-15T01:36:32.590Z
+updated: 2024-07-16T01:36:32.590Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max
 keywords: unlock iphone with apple watch,how much does unlock a phone cost,reset iphone backup password,how to unlock iphone 7 without passcode,how to unlock iphone 12,how to unlock iphone passcode without computer,swipe up to unlock iphone,how many attempts to unlock iphone,ios 17 lock screen,bypass iphone passcode
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro Max
@@ -214,6 +214,9 @@ Friends and family receiving strange emails from your Apple ID should raise susp
 
 To protect your account from unauthorized access, Apple may lock or disable your account if your password or other account information is entered incorrectly several times.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![apple id locked](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-03.jpg)
 
 Now that you're aware of these signs, it's crucial to know **how to change your Apple ID password** to fortify your account's security. Don't worry; the next section will guide you through the process step by step.
@@ -309,6 +312,9 @@ If you prefer to use your desktop:
 - **Step 1:** From the Apple menu, go to **System Settings**.
 - **Step 2:** Click **Sign in with your Apple ID** and click **Forgot password**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![apple id sign in on mac](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-09.jpg)
 
 - **Step 3:** Follow the on-screen instructions to reset your password or recover your account.
@@ -327,6 +333,9 @@ Losing your phone or being unable to access your iOS device can be a major incon
 
 You can also designate a friend or family member you trust as your account recovery contact. They can help you reset your password if you forget it by providing a recovery code upon request.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get account recovery code](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-11.jpg)
 
 Still Can't Change Your Apple ID Password? Try Account Recovery
@@ -377,6 +386,9 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 5:** Follow the in-app instructions to put your iOS device into Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone in-app instructions for recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 - **Step 6:** Select an option from the **System Version** dropdown list for the **Device Model**, then click **Start**.
@@ -542,6 +554,9 @@ Launch Notes and make a new note to do this. After that, you may protect the mes
 
 You may now easily access your backup password by referring to the note. Though it's not ideal, it's better than losing track of your password and starting over from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 The process to reset iPhone's backup password is not as complicated as you think and can be completed in a matter of minutes. You may quickly and reset your password and go back to using your phone by following the steps outlined above.
@@ -565,3 +580,45 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone XS Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-talking-the-best-free-mac-speech-recognition-apps-with-no-strings-attached/"><u>Updated In 2024, Get Talking The Best Free Mac Speech Recognition Apps with No Strings Attached</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bridging-the-gap-from-individual-photos-to-collage-art/"><u>[Updated] Bridging the Gap  From Individual Photos to Collage Art</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-the-financial-demands-of-music-video-production-for-2024/"><u>[Updated] Understanding the Financial Demands of Music Video Production for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/instant-thumbnails-for-fortnite-gameplay-for-2024/"><u>Instant Thumbnails for Fortnite Gameplay for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-dive-deep-into-tiktok-mastery-50-must-know-quotes/"><u>2024 Approved  Dive Deep Into TikTok Mastery  50 Must-Know Quotes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swing-mastery-kit-for-2024/"><u>Swing Mastery Kit for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-13-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 13 Pro with iTunes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-8-linux-editors-for-media-professionals/"><u>Leading 8 Linux Editors for Media Professionals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-note-30-vip-racing-edition-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Note 30 VIP Racing Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigate-and-neutralize-your-own-overly-green-spectrum-in-youtube-videos-mac/"><u>[Updated] Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-and-save-the-essentials-of-pc-display-recordings/"><u>[Updated] Capture & Save  The Essentials of PC Display Recordings</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Xiaomi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>new 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 mini</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-vertical-vistas-to-virtual-viewers-fb-live-streaming-w-dji-for-2024/"><u>From Vertical Vistas to Virtual Viewers  FB Live Streaming W/ DJI for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-xs-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone XS? Learn All 4 Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>Unlock the Secrets  Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-games-for-free-top-10plus-websites/"><u>In 2024, Download Games for Free Top 10+ Websites</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-xr-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2020-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone SE (2020)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-top-10-discord-dating-servers-to-have-fun-or-find-love/"><u>[New] 2024 Approved  Top 10 Discord Dating Servers to Have Fun or Find Love</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone XS Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro</u></a></li>
+</ul></div>

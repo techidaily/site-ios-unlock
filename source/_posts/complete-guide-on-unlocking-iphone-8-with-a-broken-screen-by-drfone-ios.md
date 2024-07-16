@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 8 with a Broken Screen?
-date: 2024-04-03T07:40:22.823Z
-updated: 2024-04-04T07:40:22.823Z
+date: 2024-07-15T03:03:16.515Z
+updated: 2024-07-16T03:03:16.515Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking iPhone 8 with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking iPhone 8 with a Broken Screen?
 keywords: iphone backup password,ios 17 lock screen,reset iphone backup password,unlock lost phone,turn off restricted mode,apple id not active,how to remove face id on iphone 13,how to unlock iphone without passcode
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?
@@ -208,6 +208,9 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Way 2. By Resetting the Entire iPhone
 
 [Resetting the entire settings of your Apple iPhone 8](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) is a drastic but effective method. It can disable parental controls by removing all settings, including restrictions and passcodes. Note that this process will erase personalized settings on your device. However, it does not delete data like photos, videos, or apps. Below are the steps on **how to remove parental controls iPhone** by resetting:
@@ -220,6 +223,9 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
 
 Disabling parental controls on an iPhone is still possible, even without the password. Below, we explore two methods that can be used to bypass parental controls without requiring a password.
@@ -232,7 +238,7 @@ Among its functions, [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.t
 
 #### Notable Features of Wondershare Dr.Fone
 
-1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/)on their iOS devices without losing their data.
+1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/) on their iOS devices without losing their data.
 2. If your iOS device is stuck at the iCloud Activation Lock, Dr.Fone bypasses this lock without requiring a passcode.
 3. For those facing issues with forgotten Apple ID passwords, Dr.Fone facilitates the removal of Apple ID from devices.
 
@@ -265,6 +271,9 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 - **Step 1.** Ensure that iTunes has been updated to the most recent version before opening the application. Connect your Apple iPhone 8 to the computer and grant iTunes permission to recognize the Apple iPhone 8 device. After detecting the Apple iPhone 8 device, access the "Summary" tab by tapping the Apple iPhone 8 device icon in iTunes. You can access the "Backups" section to create any backup before restoring.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the summary tab within itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-9.jpg)
 
 - **Step 2.** Afterward, initiate the Apple iPhone 8 restoration by selecting "Restore iPhone." A menu box will appear, asking you to create a "Back Up" or not. Choose the preferred option, and another dialog box will appear, alerting you about the deletion of all content and settings on your Apple iPhone 8. You should proceed by clicking "Restore" to confirm. Then, follow the on-screen instructions to finalize the process.
@@ -347,6 +356,9 @@ You may now go to **Reset All Settings** and confirm by entering the security pa
 
 You can also get rid of the password for the last backup without deleting any other apps or data.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
 
 Use a USB cable to link your Apple iPhone 8 to your PC. Look at the small iOS icon in the figure below. Just click on it.
@@ -363,6 +375,9 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 8 backup will be shown.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
@@ -453,3 +468,54 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide/"><u>2024 Approved  Mastering Voice-to-Text Conversion in MS Word  A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-perfecting-video-focus-videoleap-guide/"><u>In 2024, Perfecting Video Focus  Videoleap Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-15-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 15 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-15-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-15-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 15 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-x9b-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor X9b to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-compose-your-story-best-mobile-annotation-tools/"><u>2024 Approved  Compose Your Story  Best Mobile Annotation Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sharpen-the-right-way-selective-blurring-insights/"><u>In 2024, Sharpen the Right Way  Selective Blurring Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-blinking-issues/"><u>How to Fix Monitor Blinking Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-15-pro-max-how-to-unlock-a-disabled-iphone-15-pro-max-by-drfone-ios/"><u>Disabled iPhone 15 Pro Max How to Unlock a Disabled iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-15-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 15 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-15-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 15 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-15-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 15 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-15-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 15 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-15-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 15 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovations-in-mobile-photography-a-look-at-iphone-x/"><u>[Updated] Innovations in Mobile Photography  A Look at iPhone X</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-12-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi 12 5G FRP?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-15-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 15 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-15-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-15-pro-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 15 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-15-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-15-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-tier-gaming-live-broadcast-tools-for-2024/"><u>[Updated] Top-Tier Gaming Live Broadcast Tools for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-note-13-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi Note 13 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-15-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-15-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15 Pro Max/iPad Without Computer</u></a></li>
+</ul></div>

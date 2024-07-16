@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus
-date: 2024-04-07T04:07:49.638Z
-updated: 2024-04-08T04:07:49.638Z
+date: 2024-07-15T03:12:00.499Z
+updated: 2024-07-16T03:12:00.499Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus
 keywords: disable parental control,swipe up to unlock iphone,remove flashlight from iphone lock screen,bypass iphone passcode,how much does unlock a phone cost,what can jailbreak iphone do,solve iphone randomly asking for apple id,forgot iphone pin,how to remove face id on iphone 13
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus
@@ -22,6 +22,9 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 8 Plus or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -158,6 +161,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -236,6 +242,9 @@ Jailbreaking is seen by Apple as a device modification. Doing so can void your d
 
 Jailbreaking may make your system unstable and cause performance problems. When you add unauthorized tweaks or apps, they can clash with iOS. This clash might result in [<u>crashes</u>](https://drfone.wondershare.com/iphone-problems/iphone-apps-crashing-on-ios-13.html), [<u>freezes</u>](https://drfone.wondershare.com/android-issue/fix-samsung-freeze.html), or a general drop in your Apple iPhone 8 Plus's performance.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone apps crashing message](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-03.jpg)
 
 - **Difficulty in Updating**
@@ -262,6 +271,9 @@ iCloud Activation Lock is a security feature that ties an Apple iPhone 8 Plus to
 
 While jailbreaking grants you deeper access to the system, it can't override or bypass the iCloud Activation Lock directly. However, third-party tools that can bypass iCloud activation lock use this access. These software, such as [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), leverage the jailbreak to access crucial system files and implement their bypass methods.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Easily Bypass iCloud Activation Lock Without Password
 
 Security risks? Warranty void? These are valid concerns when considering "**What does it mean to jailbreak an iPhone**?"
@@ -297,6 +309,9 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 - **Step 5:** Use a USB cable to connect your Apple iPhone 8 Plus to the computer. Ensure the software detects your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![in-app instructions to connect iphone](https://images.wondershare.com/drfone/guide/screen-unlock-2.png)
 
 - **Step 6:** Check your Apple iPhone 8 Plus settings for a displayed MEID or ESN number to identify CDMA network support. If an IMEI number is present, the Apple iPhone 8 Plus device supports GSM networks. The findings indicate support for both GSM and CDMA networks. Click **Unlock Now** to proceed.
@@ -348,7 +363,7 @@ You might be anxious if you have locked your Apple iPhone 8 Plus and forgotten t
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
 
@@ -538,3 +553,39 @@ Human beings are clumsy, and they often forget passcodes to their devices. Howev
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-android-compatible-gba-games-simulators-for-2024/"><u>[Updated] Top 10 Android Compatible GBA Games Simulators for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-secrets-to-link-sharing-on-instagram-for-2024/"><u>[New] Unveiling the Secrets to Link Sharing on Instagram for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-6s-plus-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 6s Plus With or Without Password</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-enjoy-every-goal-the-free-football-broadcast-guide-for-2024/"><u>How to Enjoy Every Goal  The FREE Football Broadcast Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6s-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6s Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/reimagine-your-storytelling-with-smartly-scaled-instagram-videos/"><u>Reimagine Your Storytelling with Smartly Scaled Instagram Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-6s-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 6s Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androidios-wedding-timekeeping-mastered-with-our-top-timer-app-picks/"><u>[New] Android/iOS Wedding Timekeeping Mastered with Our Top Timer App Picks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6s Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-6s-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 6s Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-6s-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-apowersoft-screenshot-suite-comprehensive-free-analysis/"><u>2024 Approved  Apowersoft Screenshot Suite  Comprehensive Free Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-snaprecorder-expert-breakdowns/"><u>2024 Approved  SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-6s-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 6s Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-plus-5-ways-to-get-into-a-locked-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s Plus? 5 Ways to get into a Locked Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweeting-at-the-top-discover-how-to-watch-in-full-hd/"><u>2024 Approved  Tweeting at the Top  Discover How to Watch in Full HD</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-6s-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 6s Plus With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-15-free-cinematic-luts-for-your-film/"><u>New 2024 Approved 15 Free Cinematic LUTs for Your Film</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-6s-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 6s Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-6s-plus-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 6s Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-6s-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 6s Plus When Its Locked Within Seconds</u></a></li>
+</ul></div>

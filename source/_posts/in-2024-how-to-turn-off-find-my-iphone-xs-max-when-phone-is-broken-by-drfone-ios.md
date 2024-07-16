@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone XS Max when Phone is Broken?
-date: 2024-05-19T07:09:59.010Z
-updated: 2024-05-20T07:09:59.010Z
+date: 2024-07-15T00:56:35.780Z
+updated: 2024-07-16T00:56:35.780Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone XS Max when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone XS Max when Phone is Broken?
 keywords: bypass apple store verification,unlock disabled iphone 13,iphone backup unlocker,get out of security lockout,fix iphone backup password never set but still asking,unlock disabled iphone without computer,reset iphone backup password,how to unlock iphone with broken screen,what can jailbreak iphone do,unlock iphone 11 12 13 without passcode,iphone is disabled
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -55,6 +55,9 @@ Launch Wondershare Dr.Fone on your computer and connect your Apple iPhone XS Max
 
 Open Wondershare Dr.Fone and select “Screen Unlock” among the other options on the home interface. Now another interface will appear displaying four options. Click on "Unlock Apple ID."
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3: Remove Active Lock**
@@ -226,6 +229,9 @@ The costs are manageable. A plethora of options for controlling iOS and Android 
 - It's not free
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. PassFab iPhone Backup Unlocker
 
 PassFab iPhone Backup Unlocker is considerably different from other iPhone backup unlocking tools that are commercially accessible. The application utilizes GPU acceleration technologies. As a result, the password cracking speed is over a thousand times faster, or at the speed of light.
@@ -342,7 +348,10 @@ Attention: All your data all be erased after you get into your locked Apple iPho
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone XS Max In 5 Minutes!
 
@@ -359,6 +368,9 @@ You can watch the video below about how to unlock your Apple iPhone XS Max witho
 
 **Step 1.** Download Dr.Fone - Screen Unlock, install it on the computer, and launch it whenever you need to unlock your phone. Choose the option of "Screen Unlock" from the main screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![get into locked Apple iPhone XS Max with drfone for ios](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your device with a computer. Afterward, choose the “Unlock iOS Screen”  to get started.
@@ -441,6 +453,9 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
 
 **Step 7.** Then the text will be highlighted. Tap on the add icon.
@@ -484,3 +499,80 @@ We hope that after learning how to get in a locked Apple iPhone XS Max in differ
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/urning-beauty-blogging-into-cash/"><u>[New] Turning Beauty Blogging Into Cash</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-12-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 12 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-12-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 12 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-mac-recording-apps-that-beat-bandicams-offering/"><u>Advanced Mac Recording Apps That Beat Bandicam's Offering</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-12-5-ways-to-get-into-a-locked-iphone-12-by-drfone-ios/"><u>Locked Out of iPhone 12? 5 Ways to get into a Locked iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-12-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-12-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 12 with iTunes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-by-drfone-ios/"><u>How to Unlock iPhone 12?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-12-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 12 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-plan-ahead-on-instagram-rankings-of-the-top-8-scheduling-apps/"><u>[New] Plan Ahead on Instagram  Rankings of The Top 8 Scheduling Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-co-marketing-brands-and-youtubes-dynamic-duo/"><u>2024 Approved  Co-Marketing  Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-simple-steps-to-coordinate-consistent-productive-google-collaboration-times/"><u>2024 Approved  Simple Steps to Coordinate Consistent, Productive Google Collaboration Times</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-12-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-12-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 12 When You Forget the Passcode?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-cover-videos-a-step-by-step-guide/"><u>[Updated] In 2024, Facebook Cover Videos  A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-12-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 12 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-12-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 12 Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discover-the-most-effective-5-screen-capturing-tools-for-chromebook-for-2024/"><u>Discover the Most Effective 5 Screen Capturing Tools for Chromebook for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 12 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-create-your-avatar-free/"><u>How to Create Your Avatar Free</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-12-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 12 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://facebook.techidaily.com/easy-ways-to-detect-unauthorized-pc-access/"><u>Easy Ways to Detect Unauthorized PC Access</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>[New] The Art of Podcast Blurbs  Techniques and Illustrations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-12-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 12 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-12-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 in Lost Mode</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-6-youtuber-quizzes-to-know-which-youtuber-you-are-for-2024/"><u>[Updated] 6 YouTuber Quizzes to Know Which YouTuber You Are for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-name-genius-brainstorming-like-a-pro/"><u>[Updated] In 2024, Channel Name Genius  Brainstorming Like a Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-12-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 12 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-top-humorous-snapchat-emojis-for-record-breaking-engagement/"><u>[Updated] In 2024, Top Humorous Snapchat Emojis for Record-Breaking Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-diy-techniques-transforming-smartphones-into-webcams/"><u>[Updated] 2024 Approved  DIY Techniques  Transforming Smartphones Into Webcams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-assessing-daily-video-consumption-in-gb-units/"><u>[Updated] 2024 Approved  Assessing Daily Video Consumption in GB Units</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12</u></a></li>
+<li><a href="https://driver-install.techidaily.com/acing-startech-on-every-windows-platform-generation/"><u>Acing StarTech on Every Windows Platform Generation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-professional-minecraft-videography-methods/"><u>[New] In 2024, Professional Minecraft Videography Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-the-c1900101-error-in-windows-11-installation/"><u>Addressing the C1900101 Error in Windows 11 Installation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-irreversible-termination-of-youtubes-brevity-mode/"><u>[New] Irreversible Termination of YouTube’s Brevity Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-asus-pa32u-explored-unparalleled-4k-professional-monitoring/"><u>[Updated] Asus PA32U Explored  Unparalleled 4K Professional Monitoring</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-12-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 12 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-a-composers-selection-the-best-10-websites-to-download-and-explore-diverse-montage-music-genres/"><u>New 2024 Approved A Composers Selection The Best 10 Websites to Download and Explore Diverse Montage Music Genres</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 12, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-broadcast-brains-vs-bodies-finding-the-frontier/"><u>2024 Approved  Broadcast Brains Vs Bodies  Finding the Frontier</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-top-10-best-photo-watermarking-software-you-should-try/"><u>[Updated] Top 10 Best Photo Watermarking Software You Should Try</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-8-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 8 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 12 Passcode without a Computer</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-earnings-forecasting-software-for-tiktok-content-makers/"><u>[Updated] Top Earnings Forecasting Software for TikTok Content Makers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-guide-to-clear-cut-and-ship-video/"><u>Advanced Guide to Clear, Cut, and Ship Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>2024 Approved  Bold Creation  Mastering Timelapses & Animations with Movie Maker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 Properly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-8-popular-streaming-audio-recorder-that-you-should-know/"><u>In 2024, 8 Popular Streaming Audio Recorder That You Should Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-the-perfect-introduction-15-viral-youtube-video-intros-for-2024/"><u>[Updated] Crafting the Perfect Introduction  15 Viral YouTube Video Intros for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-12-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 12 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-12-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 12 Lock Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+</ul></div>

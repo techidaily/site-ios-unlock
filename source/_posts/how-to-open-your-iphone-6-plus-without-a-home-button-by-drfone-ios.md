@@ -1,7 +1,7 @@
 ---
 title: How To Open Your iPhone 6 Plus Without a Home Button
-date: 2024-05-19T07:09:21.727Z
-updated: 2024-05-20T07:09:21.727Z
+date: 2024-07-14T23:56:04.272Z
+updated: 2024-07-15T23:56:04.272Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Open Your iPhone 6 Plus Without a Home Button
 excerpt: This article describes How To Open Your iPhone 6 Plus Without a Home Button
 keywords: unlock iphone 5 passcode without itunes,bypass iphone passcode,how to unlock iphone 12,erase iphone when locked,unlock iphone without passcode,unlock iphone with apple watch,get out of security lockout,forgot passcode on iphone
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## How To Open Your Apple iPhone 6 Plus Without a Home Button
@@ -26,6 +26,9 @@ But fear not, for there are ways to **unlock an iPhone without a Home button**. 
 
 If your Apple iPhone 6 Plus's Home button is out of commission, don't worry. There are several ways to regain access to your device. Let's explore seven methods on **how to unlock an iPhone without a Home button.**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Unlock the Apple iPhone 6 Plus Without the Home Button via Touch ID
 
 If your device supports Touch ID, you can use your fingerprint to unlock it. Follow the steps:
@@ -126,6 +129,9 @@ If none of the methods work or Dr.Fone is unavailable to you for some reason, th
 
 When faced with a broken iPhone Home button, several quick fixes and solutions can sometimes help. Here are some effective measures before considering professional assistance:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![broken iphone home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-14.jpg)
 
 **Recalibrate the Home Button**
@@ -196,6 +202,9 @@ Configuring the Outlook mail app to fetch emails too frequently causes the issue
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. \[Fixes\] Solve iPhone/iPad Keeps Asking for Outlook Password
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
@@ -423,13 +432,25 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
 - Remove Apple ID on iOS devices without Password.
 - Support removing 4-digit/6-digit passcode, Touch ID & Face ID.
 - Easy to use it, with no technology background required.
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Compatible with the latest iPhone XS, X, iPhone 8 (Plus) and iOS 12.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **3981454** people have downloaded it
@@ -464,6 +485,9 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 9\. You will be notified by showing the following window once the process is effectively finished.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-process is completed](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
 Now when you know how to unlock iPhone 6 without password, you can disconnect your Apple iPhone 6 Plus and use it as per your needs.
@@ -561,3 +585,77 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-7-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 7 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-7-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 7 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-launching-a-graphics-career-strategies-and-steps/"><u>2024 Approved  Launching a Graphics Career  Strategies and Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 7 Passcode not Working?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experience-effortless-videodownloads-on-pinterest-with-5-best-tools/"><u>In 2024, Experience Effortless Videodownloads on Pinterest with 5 Best Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>2024 Approved  Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-7-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-7-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-7-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 7</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-jaycut-tutorial-unlock-the-power-of-free-online-video-editing/"><u>New 2024 Approved Jaycut Tutorial Unlock the Power of Free Online Video Editing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-empower-your-viewing-experience-with-funimate/"><u>In 2024, Empower Your Viewing Experience with Funimate</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-video-editing-software-round-up-choose-from-7-options-for-2024/"><u>Free Video Editing Software Round-Up  Choose From 7 Options for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beat-to-visuals-an-iphone-guide-for-music-videos/"><u>[Updated] Beat to Visuals  An iPhone Guide for Music Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-7-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 7 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-7-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-network-for-entrepreneurs-how-they-conquered-channels/"><u>[Updated] Top 10 Network for Entrepreneurs  How They Conquered Channels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-7-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-7-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 7 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gratuitous-audio-to-text-conversion-tool/"><u>2024 Approved  Gratuitous Audio to Text Conversion Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-wi-fi-potential-in-windows-11-with-these-tips/"><u>Unlock Full Wi-Fi Potential in Windows 11 with These Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-livestreaming-a-comprehensive-guide/"><u>2024 Approved  Twitter Livestreaming  A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-10-mobile-apps-to-edit-your-face/"><u>Superior 10 Mobile Apps to Edit Your Face</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discover-the-highest-rated-mp3-recorders-for-both-pc-and-mac-environments-for-2024/"><u>New Discover the Highest-Rated MP3 Recorders for Both PC and Mac Environments for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-earning-potential-in-beauty-blogging/"><u>[New] Earning Potential in Beauty Blogging</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-captivate-audiences-from-day-one/"><u>2024 Approved  Captivate Audiences From Day One</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-mastery-the-essential-guide-to-smartphone-screen-recording/"><u>[New] In 2024, Snapchat Mastery  The Essential Guide to Smartphone Screen Recording</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-7-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 7 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-m14-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy M14 4G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-smart-7-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Smart 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 7 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-7-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 7 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/journey-through-fantasy-on-android-the-15-best-games-for-2024/"><u>Journey Through Fantasy on Android  The 15 Best Games for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-comprehending-the-language-of-youtube-seo/"><u>In 2024, Comprehending the Language of YouTube SEO</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-7-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 7 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-7-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 7 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-7ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 7/iPad Without Computer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/invisible-realities-of-stories-a-closer-look-for-viewers/"><u>Invisible Realities of Stories  A Closer Look for Viewers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-7-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 7? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-7-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 7 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-7-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 7 and iPad Securely</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-step-by-step-creating-a-skype-group-on-both-systems/"><u>[New] In 2024, Step-by-Step  Creating a Skype Group on Both Systems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-the-best-virtualdub-alternatives-for-video-post-production/"><u>2024 Approved The Best VirtualDub Alternatives for Video Post-Production</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-7-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 7 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-7-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-7-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 7 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[New] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 7 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-7-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 7 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-7-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 7 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-7-how-to-unlock-a-disabled-apple-iphone-7-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 7 How to Unlock a Disabled Apple iPhone 7?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-7-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 7 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 7</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-quick-recovery-preventing-accidental-tiktok-refreshes/"><u>2024 Approved  Quick Recovery  Preventing Accidental TikTok Refreshes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-convert-tweets-into-audible-format-with-ease/"><u>[New] Convert Tweets Into Audible Format with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pro-tips-record-your-macs-display-for-2024/"><u>Pro Tips  Record Your Mac's Display for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disabling-gpu-directly-in-system-properties-on-windows/"><u>Disabling GPU Directly in System Properties on WIndows</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds
-date: 2024-05-19T07:10:01.470Z
-updated: 2024-05-20T07:10:01.470Z
+date: 2024-07-15T01:00:12.591Z
+updated: 2024-07-16T01:00:12.591Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds
 excerpt: This article describes 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds
 keywords: get into locked iphone,how to turn off find my iphone when phone is broken,iphone swipe up not working,remove iphone from blacklist,unlock disabled iphone without itunes,how to create new apple id
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## 3 Ways to Erase Apple iPhone XR When It's Locked Within Seconds
@@ -24,7 +24,7 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 
@@ -41,6 +41,9 @@ To learn how to erase iPhone when locked, follow these steps:
 
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone XR to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
 
 **Step 2. Click Start button.**
@@ -63,6 +66,9 @@ After putting your device into the DFU mode, the application will automatically 
 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
 
 **Step 5. Start to unlock.**
@@ -91,6 +97,9 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone when locked-connect to itunes](https://images.wondershare.com/drfone/article/2017/07/14993648903843.jpg "connect to itunes")
 
 3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
@@ -155,7 +164,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XR can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -214,6 +223,9 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 **Instructions:** To restart your Apple iPhone XR 6, press the "Wake/Sleep" button on the top edge of the phone. Hold the other "Home" button at the bottom center screen of the phone. Continue holding the buttons until the Apple logo becomes visible on the display. Then, press the "Wake/Sleep" button and the "Home" button.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
 ### Fix 3. Remove the Cover or Case
@@ -256,6 +268,9 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8. Turn Off VoiceOver
 
 VoiceOver is an accessibility feature on iPhones. It assists users with visual impairments by providing spoken feedback for actions on the Apple iPhone XR device. Sometimes, VoiceOver settings can interfere with normal touchscreen gestures like the swipe-up function. Here's how to turn off VoiceOver to resolve **iPhone 13 won’t swipe up to unlock**:
@@ -310,7 +325,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -526,3 +541,57 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unified-video-experience-share-and-stream/"><u>[New] 2024 Approved  Unified Video Experience  Share & Stream</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-12-mini-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 12 mini Without a Passcode</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-visionparts-examination/"><u>2024 Approved  VisionParts Examination</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-social-media-showdown-is-the-future-with-likes-or-sticking-to-tiktok/"><u>[Updated] Social Media Showdown  Is the Future with Likes or Sticking to TikTok?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-8-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 8 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-14-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 14 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-8-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 8 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unleash-potential-the-ultimate-guide-to-spectacous-tiktok-openers-mac/"><u>[New] Unleash Potential  The Ultimate Guide to Spectacous TikTok Openers (Mac)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-elevate-your-content-with-the-best-free-video-translator-apps/"><u>2024 Approved Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nitiate-ideate-implement-step-by-step-guide-to-building-a-youtube-channel/"><u>[New] Initiate, Ideate, Implement  Step-by-Step Guide to Building a YouTube Channel</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-boost-interaction-on-your-tiktok-with-these-5-innovative-caption-methods/"><u>[Updated] 2024 Approved  Boost Interaction on Your TikTok with These 5 Innovative Caption Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-11-pro-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 11 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-12-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 12 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-xs-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone XS Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/future-proof-tools-for-dissecting-and-editing-audio-from-video-media-for-2024/"><u>Future-Proof Tools for Dissecting and Editing Audio From Video Media for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Max Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-13-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 13 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-se-2022-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone SE (2022) Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-xr-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone XR Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-14-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 14 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-mini-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-12-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 12 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-crafting-captivating-content-the-role-of-captions-in-tiktok/"><u>[New] 2024 Approved  Crafting Captivating Content  The Role of Captions in TikTok</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 7 Plus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inside-the-arsenal-the-complete-review-of-sj-cam-s6/"><u>2024 Approved  Inside the Arsenal  The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-mini-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 mini After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-mini-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 mini Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-14-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-11-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 11 Pro Max Lock Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realign-vertical-lines-with-a-simple-tap/"><u>Realign Vertical Lines with a Simple Tap!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-video-editing-essentials-cutting-and-joining-tools-for-starters-for-2024/"><u>New Free Video Editing Essentials Cutting and Joining Tools for Starters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-20-mobiles-perfecting-dji-visual-content/"><u>[Updated] Top 20 Mobiles Perfecting DJi Visual Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smoother-rides-with-htc-vive-anti-nausea-tips/"><u>[Updated] Smoother Rides with HTC Vive  Anti-Nausea Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-10-spotlight-on-popular-pop-chansons-for-visual-media-projects/"><u>Updated In 2024, Top 10 Spotlight on Popular Pop Chansons for Visual Media Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/carve-a-unique-meme-with-precision-today-for-2024/"><u>Carve a Unique Meme with Precision Today for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Pro Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-se-2020-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rewind-designers-toolkit/"><u>[Updated] Rewind Designer's Toolkit</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-xs-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone XS Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies/"><u>New Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies</u></a></li>
+</ul></div>

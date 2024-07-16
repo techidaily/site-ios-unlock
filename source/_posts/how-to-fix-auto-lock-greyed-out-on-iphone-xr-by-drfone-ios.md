@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone XR
-date: 2024-04-04T16:30:58.334Z
-updated: 2024-04-05T16:30:58.334Z
+date: 2024-07-15T03:05:51.080Z
+updated: 2024-07-16T03:05:51.080Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone XR
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone XR
 keywords: apple id not active,how to unlock iphone with broken screen,unlock lost phone,change apple id on ipad,change country on iphone app store,change apple id password,disable parental control
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone XR
@@ -20,6 +20,9 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -96,6 +99,18 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -121,6 +136,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
@@ -172,6 +190,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XR or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -210,6 +231,9 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 5.** Tap on the message icon.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994464494089.jpg "share on message")
 
 **Step 6.** It will open another interface to draft a new message. Wait for a while and write something in the “To” field. Once you are done, tap on the return button on the keyboard.
@@ -480,3 +504,57 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/streamline-and-personalize-the-ultimate-desktop-guide-for-win11-users/"><u>Streamline & Personalize: The Ultimate Desktop Guide for Win11 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-most-reliable-vehicle-monitoring-cameras-ranked/"><u>[Updated] Most Reliable Vehicle Monitoring Cameras Ranked</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-novice-to-nifty-mastering-snapchats-digital-artistry/"><u>[New] In 2024, From Novice to Nifty  Mastering Snapchat’s Digital Artistry</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-8-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 8 Plus Without a Home Button</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-methods-of-acquiring-ipodcasts-for-your-iphone/"><u>The Ultimate Methods of Acquiring IPodcasts for Your iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-8-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 8 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-8-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 8 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximizing-youtube-experience-through-a-subscription/"><u>In 2024, Maximizing YouTube Experience Through a Subscription</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-8-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 8 Plus Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Without Passcode?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-magic-essential-filters-to-make-your-videos-pop-for-2024/"><u>[Updated] Mastering Magic  Essential Filters to Make Your Videos Pop for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-8-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 8 Plus in Lost Mode</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-uncovering-artistic-soundscapes-mimicking-brush-techniques/"><u>2024 Approved Uncovering Artistic Soundscapes Mimicking Brush Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-skys-the-limit-with-dji-spark-an-in-depth-miniature-drone-study/"><u>[New] 2024 Approved  Sky's the Limit with DJI Spark  An In-Depth Miniature Drone Study</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>[New] Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-stunning-glitch-effect-in-photoshop-ultimate-guide-for-2024/"><u>New How to Make Stunning Glitch Effect in Photoshop? Ultimate Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-8-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 8 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 8 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-quotable-content-essential-lyrics-for-virality-on-tiktok/"><u>[New] 2024 Approved  Quotable Content  Essential Lyrics for Virality on TikTok</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-make-viral-reaction-videos-best-ios-and-android-apps-for-2024/"><u>Updated Make Viral Reaction Videos Best iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-spark-20-proplus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Spark 20 Pro+? Here is How | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-streamline-operations-ranking-the-top-8-facebook-task-managers-for-2024/"><u>[Updated] Streamline Operations  Ranking the Top 8 Facebook Task Managers for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-choose-your-perfect-wedding-tales-youtubes-finest-8/"><u>[Updated] Choose Your Perfect Wedding Tales - Youtube's Finest 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailoring-photos-with-photoshops-dynamic-motion-blur-feature-for-2024/"><u>Tailoring Photos with Photoshop's Dynamic Motion Blur Feature for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-acclaimed-mobile-apps-for-gopro-footage-perfection/"><u>[Updated] Acclaimed Mobile Apps for GoPro Footage Perfection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-content-game-on-youtube-top-11-video-seo-insights-for-2024/"><u>[New] Elevate Your Content Game on YouTube  Top 11 Video SEO Insights for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-8-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 8 Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-8-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-8-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-8-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 8 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-elevate-your-brand-the-ultimate-guide-to-linkedin-video-dimensions/"><u>2024 Approved Elevate Your Brand The Ultimate Guide to LinkedIn Video Dimensions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-8-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 8 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-segment-screen-showdown-recorders-leader-status/"><u>In 2024, Segment Screen Showdown  Recorder's Leader Status</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-8-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 8 Plus with a Broken Screen?</u></a></li>
+</ul></div>

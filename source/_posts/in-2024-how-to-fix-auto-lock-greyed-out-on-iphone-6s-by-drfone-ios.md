@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s
-date: 2024-05-19T07:09:27.227Z
-updated: 2024-05-20T07:09:27.227Z
+date: 2024-07-15T00:04:59.496Z
+updated: 2024-07-16T00:04:59.496Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s
 keywords: change apple id email address,unlock disabled iphone without computer,how to unlock iphone without passcode,iphone 11 passcode bypass,unlock iphone 5 passcode without itunes,forgot iphone pin,iphone locked to owner,how to unlock iphone 12
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s
@@ -30,6 +30,9 @@ Low Power Mode
 
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
 Screen Time Restrictions
@@ -42,6 +45,9 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -236,6 +242,9 @@ But if you have forgotten your passcode, don't worry. The next section will show
 
 Different methods can help you bypass the iOS 17 lock screen passcode. Let's discuss them in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Use Emergency call
 
 The first method to bypass the passcode is to use the emergency call feature.
@@ -313,6 +322,9 @@ Depending on your internet connection, you may have to wait for a longer time. B
 
 After the firmware is downloaded, you need to press the Unlock Now button, and Dr.Fone will start to unlock your Apple iPhone 6s without a passcode. Once it is done, you can get into your device without any restriction.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios 17 lock screen without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 
@@ -410,6 +422,9 @@ For those who prefer the convenience of mobile devices:
 
 - **Step 1:** Open the **Settings** app on your Apple iPhone 6s or iPad, then tap your **Apple ID** at the top of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change apple id on iphone 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-06.jpg)
 
 - **Step 2:** Tap **Name, Phone Numbers, Email**.
@@ -451,7 +466,7 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 
 By following these steps, you'll ensure that all your Apple devices are synced with your updated email address, providing a seamless and consistent Apple experience across all your gadgets. Now, with your new Apple ID email, you're ready to explore the Apple ecosystem with renewed convenience and security.
 
-## Part III: Unlock iOS Screen With [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+## Part III: Unlock iOS Screen With <u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>
 
 What if you find yourself in a situation where you want to change your Apple ID email address on your iOS device, but you're locked out? Don't worry; Dr.Fone - Screen Unlock (iOS) can rescue you. This handy tool is designed to help you [<u>unlock your iOS device</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html), allowing you to change your Apple ID email address smoothly.
 
@@ -535,3 +550,37 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 11 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-thumbnail-101-phones-edition/"><u>YouTube Thumbnail 101  Phones Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-vimeo-integration-for-professional-instagram-users/"><u>[Updated] Vimeo Integration for Professional Instagram Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-11-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 11 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-11-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 11 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-11-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-11-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 11 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-11-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 11 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-11-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 11 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-11-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 11 In Different Conditionsin</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-14-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 14 Plus from iCloud</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-modern-professionals-must-have-collect-these-8-innovations-now/"><u>2024 Approved  The Modern Professional's Must-Have  Collect These 8 Innovations Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-enhance-your-game-experience-with-these-5-screen-capture-techniques-for-minecraft-mac/"><u>[Updated] In 2024, Enhance Your Game Experience with These 5 Screen Capture Techniques for Minecraft (Mac)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-11-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y55s-5g-2023-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y55s 5G (2023)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-11-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-software-for-photo-to-video-conversion/"><u>2024 Approved  Ideal Software for Photo-to-Video Conversion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-11-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-hot-30-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Hot 30 5G</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 11 with a Mask On
-date: 2024-05-19T07:10:04.393Z
-updated: 2024-05-20T07:10:04.393Z
+date: 2024-07-15T01:05:14.098Z
+updated: 2024-07-16T01:05:14.098Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 11 with a Mask On
 excerpt: This article describes How to Unlock iPhone 11 with a Mask On
 keywords: forgot passcode iphone 6,how to turn off find my iphone when phone is broken,unlock iphone face id wearing mask,erase iphone when locked,unlock iphone passcode without computer,how much does unlock a phone cost,bypass apple store verification,iphone x iphone xr lock screen
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How to Unlock Apple iPhone 11 with a Mask On
@@ -45,6 +45,18 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone 11. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
@@ -53,7 +65,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 11 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 11 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -75,6 +87,9 @@ To enable the feature of unlocking the Apple iPhone 11 with an Apple Watch, the 
 
 **Step** **1:** Head to the " Settings " app and choose "Face ID & Passcode." Give your passcode for authenticity and proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
@@ -89,7 +104,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -139,6 +154,9 @@ The first step you need to connect your Apple iPhone 11  to your computer. Launc
 
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 11 within seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2: Boot iPhone in DFU Mode**
@@ -313,13 +331,16 @@ This software effortlessly [<u>bypasses any lock screen</u>](https://drfone.wond
 
 - If you've forgotten your phone's password or bought a second-hand device, here's how Dr.Fone can help you:
 - Bypasses various lock screen types like [<u>pattern</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), 4 or 6-digit passcode, Touch ID, and Face ID without the original passcode.
-- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html)on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
+- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
 - Offers a simple, intuitive interface with clear instructions.
 
 Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. To address this issue, here's a step-by-step guide using Dr.Fone Screen Unlock (iOS):
 
 - **Step 1:** Download and install Dr. Fone's desktop app on your computer. Make sure you get the latest version for optimal compatibility. Launch the app and select the **Screen Unlock** option from the **Toolbox** homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 
@@ -333,6 +354,9 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 - **Step 4:** Get your Apple iPhone 11 and a USB cable. Connect the phone to your computer and wait for Dr.Fone to recognize it. Next, put your Apple iPhone 11 into Recovery Mode using specific button combinations for your model.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![on screen instructions for recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 5:** Check your **Device Model**, select the **System Version** you need from the dropdown list, then click **Start**.
@@ -376,3 +400,45 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[New] Overcoming Sync Issues  Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-selecting-8-best-instagram-scheduler-tools/"><u>[Updated] 2024 Approved  The Ultimate Guide to Selecting 8 Best Instagram Scheduler Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-13-pro-max-5-ways-to-get-into-a-locked-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 13 Pro Max? 5 Ways to get into a Locked iPhone 13 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel Files for Free | Stellar</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-soundtrack-synthesis-crafting-the-perfect-youtube-list-for-2024/"><u>[Updated] Soundtrack Synthesis  Crafting the Perfect YouTube List for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-phantom-v-fold-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audio-waveform-to-ringtone-best-places-to-pick-from-youtubemusic/"><u>In 2024, Audio Waveform to Ringtone  Best Places To Pick From YoutubeMusic</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-pro-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-selection-top-8-tools-for-flawless-sub-and-srt-changeover/"><u>In 2024, Expert Selection  Top 8 Tools for Flawless Sub and SRT Changeover</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-13-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 13 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-13-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 13 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-enhancing-engagement-onestream-streaming-best-practices/"><u>2024 Approved  Enhancing Engagement  OneStream Streaming Best Practices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-if-you-do-not-know-how-to-blur-faces-in-a-video-on-iphone-you-are-in-the-right-place-we-have-provided-you-with-all-the-details-you-need-to-lea/"><u>2024 Approved If You Do Not Know How to Blur Faces in a Video on iPhone, You Are in the Right Place. We Have Provided You with All the Details You Need to Learn How to Blur Part of Your Video on Your iOS Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-13-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-simple-steps-for-extracting-video-audio-as-mp3-for-2024/"><u>[New] Simple Steps for Extracting Video Audio as MP3 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-distinctions-of-srgb-and-rgb/"><u>Exploring the Distinctions of Srgb and Rgb</u></a></li>
+</ul></div>

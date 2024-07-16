@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 8 with a Mask On
-date: 2024-05-19T07:09:50.845Z
-updated: 2024-05-20T07:09:50.845Z
+date: 2024-07-15T00:43:35.123Z
+updated: 2024-07-16T00:43:35.123Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 8 with a Mask On
 excerpt: This article describes How to Unlock iPhone 8 with a Mask On
 keywords: unlock lost phone,iphone asking for outlook password,unlock iphone without passcode,bypass iphone passcode,unlock disabled iphone without computer,iphone passcode not working after update ios 13,bypass apple store verification
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## How to Unlock Apple iPhone 8 with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -83,13 +83,16 @@ To enable the feature of unlocking the Apple iPhone 8 with an Apple Watch, the s
 
 After enabling this feature, you can unlock your Apple iPhone 8 with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 8 has been unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -168,6 +171,9 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 3.** Now, you can set up an app lock for iPhone using Restrictions. Simply go to General > Restrictions and turn this feature on for any app of your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![turn on restrictions for the app](https://images.wondershare.com/drfone/article/2017/09/15060135059851.jpg)
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
@@ -178,7 +184,7 @@ It can be a trouble if you forget your Apple iPhone 8 passcode since there are m
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
 
@@ -240,7 +246,7 @@ Get FamiSafe from the App Store and log in using your Wondershare ID or your App
 
 Now, activate Accessibility for FamiSafe by accessing "Settings," tapping "FamiSafe," and enabling "Location." Then, grant access to the Apple iPhone 8 device's photos, microphone, and motion & fitness activity. Now, use a computer and connect your child's device with a USB cable. Activate content blockers in Safari to prevent kids from accessing inappropriate content.
 
-![ enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
+![enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
 
 **Step 3: Connect the Kid's Device to the Computer**
 
@@ -278,6 +284,9 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 This will let your app lock the Apple iPhone 8 without any trouble. You can also go to the “Reset Password Phrase” to change the passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Lock Apps onApple iPhone 8 & iPad using BioProtect
 
 Just like Applocker, BioProtect is another third-party tool that works only on jailbroken devices. It can also be downloaded from Cydia’s repository. Apart from apps, you can also use BioProtect to lock settings, SIM features, folders, and more. It is linked to the Touch ID of the Apple iPhone 8 device and scans the fingerprint of a user to grant (or deny) access to any app. The app only works on iPhone 5s and later devices, having a Touch ID. However, you can also set a passcode as well if your Touch ID is not working. To use the BioProtect app lock for iPhone, follow these steps:
@@ -306,6 +315,9 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone 8 without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone 8 in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
@@ -360,6 +372,9 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 - **Step 2.** Now, switch the slider next to "Content & Privacy Restrictions" to turn it off. It will disable all parental control on the targeted device. However, before it disables, the Apple iPhone 8 will prompt for the Screen Time passcode, which needs to be added.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
 
 ### Way 2. By Resetting the Entire iPhone
@@ -386,7 +401,7 @@ Among its functions, [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.t
 
 #### Notable Features of Wondershare Dr.Fone
 
-1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/)on their iOS devices without losing their data.
+1. It lets users [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/) on their iOS devices without losing their data.
 2. If your iOS device is stuck at the iCloud Activation Lock, Dr.Fone bypasses this lock without requiring a passcode.
 3. For those facing issues with forgotten Apple ID passwords, Dr.Fone facilitates the removal of Apple ID from devices.
 
@@ -448,3 +463,63 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>[Updated] In 2024, OBS Temporal Control  Initiating Countdown Features Seamlessly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-se-2022-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone SE (2022) Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-se-2022-by-drfone-ios/"><u>Remove Device Supervision From your iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-2022-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE (2022) in Lost Mode</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-eyeballs-to-earnings-the-price-of-popular-videos/"><u>[New] 2024 Approved  From Eyeballs to Earnings  The Price of Popular Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-techniques-in-spinning-and-fusing-android-videography/"><u>In 2024, Precision Techniques in Spinning & Fusing Android Videography</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-color-grading-a-look-at-luts-significance-for-2024/"><u>Navigating Color Grading  A Look at LUT's Significance for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastery-through-snips-unveiling-macs-top-5-tools-for-2024/"><u>[Updated] Mastery Through Snips  Unveiling Mac's Top 5 Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagram-utilizing-search-to-expand-your-filters/"><u>[Updated] In 2024, Mastering Instagram  Utilizing Search to Expand Your Filters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-se-2022-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone SE (2022) Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-se-2022-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone SE (2022) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-se-2022ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone SE (2022)/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-se-2022-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone SE (2022) When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-se-2022-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone SE (2022) Lock Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enabling-windows-11-auto-hdr-feature/"><u>[New] In 2024, Enabling Windows 11 Auto HDR Feature</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-se-2022-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone SE (2022) Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-se-2022-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-2022-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-se-2022-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone SE (2022)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>In 2024, From Novice to Pro  Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-gt-5-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme GT 5</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-poco-x6-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco X6 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y100-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo Y100 5G?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-efficient-methods-for-audio-trimming-in-apple-videos/"><u>2024 Approved Efficient Methods for Audio Trimming in Apple Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-seamless-video-transmission-success-in-facebook-messengers-iphoneandroid/"><u>[New] In 2024, Seamless Video Transmission Success in Facebook Messengers, iPhone/Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-itel-a60s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Itel A60s FRP Bypass</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-se-2022-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone SE (2022) Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-se-2022-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone SE (2022) Lock Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-nokia-c300-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nokia C300 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-young-yachtsmens-playtime-pleasures-for-2024/"><u>[Updated] Young Yachtsmen's Playtime Pleasures for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevating-your-youtube-shorts-presence-with-impactful-strategies/"><u>2024 Approved  Elevating Your YouTube Shorts Presence with Impactful Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-se-2022-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE (2022) with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2022-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-sever-disconnect-from-discord/"><u>[New] 2024 Approved  Sever Disconnect From Discord</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone SE (2022) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone SE (2022) Without Passcode Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-id-video-overview-length-aspect-ratio-frame-rate/"><u>[New] 2024 Approved  Facebook ID Video Overview  Length, Aspect Ratio, Frame Rate</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-2022-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE (2022) Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-se-2022-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone SE (2022)? Learn All 4 Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-professionals-way-of-removing-backgrounds/"><u>[Updated] 2024 Approved  The Professional's Way of Removing Backgrounds</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-create-stunning-animations-top-ios-and-android-stop-motion-apps/"><u>2024 Approved Create Stunning Animations Top iOS and Android Stop Motion Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-revamp-twitter-video-summary/"><u>[New] In 2024, Revamp Twitter Video Summary</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-every-note-at-your-fingertips-fb-style/"><u>2024 Approved  Every Note at Your Fingertips - FB Style</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-storytelling-game-on-snapchat-top-15-ideas/"><u>2024 Approved  Elevate Your Storytelling Game on Snapchat (Top 15 Ideas)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a15-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A15 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-se-2022-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unlock-retro-classics-on-android-choose-the-best-ps2-emulators/"><u>In 2024, Unlock Retro Classics on Android – Choose the Best PS2 Emulators</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-se-2022-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone SE (2022) with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-vacation-slideshow-in-5-minutes-for-2024/"><u>Updated How to Make a Vacation Slideshow in 5 Minutes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-how-to-rewind-video-ordering-on-android-for-2024/"><u>Learn How to Rewind Video Ordering on Android for 2024</u></a></li>
+</ul></div>

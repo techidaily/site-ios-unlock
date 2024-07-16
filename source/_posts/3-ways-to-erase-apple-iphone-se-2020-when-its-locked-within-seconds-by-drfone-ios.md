@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone SE (2020) When Its Locked Within Seconds
-date: 2024-06-24T00:49:48.918Z
-updated: 2024-06-25T00:49:48.918Z
+date: 2024-07-15T03:00:03.197Z
+updated: 2024-07-16T03:00:03.197Z
 tags: 
   - unlock
   - remove screen lock
@@ -95,6 +95,9 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![erase iphone when locked-restore backup](https://images.wondershare.com/drfone/article/2017/07/14993649149685.jpg "restore backup")
 
 4\. agree to the pop-up message by clicking on the “Restore” button.
@@ -136,7 +139,7 @@ It offers an absolute way to regain access to your notes and device if you **for
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
-2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your iOS device if you have forgotten its credentials.
+2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
 
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone
@@ -178,6 +181,9 @@ If you've locked a note on your Apple iPhone SE (2020) but forgot the password, 
 
 - **Step 2.** You will be prompted to enter the Apple ID password for confirmation. After entering the Apple ID password, tap "Reset Password" again to reset the password. Finalize the process by setting up a new “Password,” “Verify” it, set a “Hint,” and press “Done.”
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
@@ -200,6 +206,9 @@ Locking notes on your Apple iPhone SE (2020) provides extra security for your se
 
 - **Step 1.** Open the “Note” you want to lock and tap the “three dots” near the top right corner. From the appearing menu, press the "Lock" icon.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone SE (2020) device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
@@ -234,6 +243,9 @@ It is compatible with all the leading iOS devices, including the latest models l
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 Remove iPhone Lock Screen without Hassle.
@@ -285,7 +297,7 @@ Sit back and wait for a while as the application will restart your device. There
 
 In this way, you can learn how to [unlock iPhone without a passcode](https://drfone.wondershare.com/solutions/iphone-lock-screen-password-forgot.html) or Face ID. Though, you should know that the existing data on your phone would be erased. Sadly, there is no solution to unlock an iOS device without deleting its existing data. Therefore, this is a risk you need to take if you wish to unlock your iOS device.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: How to unlock Apple iPhone SE (2020) with iTunes?
 
@@ -353,6 +365,9 @@ Just like Find my iPhone, Find my Friends is a native location-sharing feature d
 
 In this way, if your device is stolen, you can track it immediately with the help of your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock iphone xs without passcode](https://images.wondershare.com/drfone/article/2018/unlock-iphone-x-without-passcode-6.jpeg)
 
 **5.3 Enable two-factor authentication**
@@ -369,7 +384,7 @@ Go to Settings > Face ID & Passcode and turn on the “Erase Data” option. Tho
 
 When you know how to unlock Apple iPhone SE (2020) without the passcode, you can easily fulfill your requirements. Out of all the provided options, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended. This is because using the Dr.Fone toolkit is extremely easy. You won’t face any compatibility issues or need to have the technical experience to use this reliable tool. Try it for free and download it on your system to bypass a locked Apple iPhone SE (2020) right away.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -390,3 +405,61 @@ When you know how to unlock Apple iPhone SE (2020) without the passcode, you can
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/gopro-vs-yi-4k-updated-review-of-ultimate-action-cams/"><u>GoPro Vs. Yi 4K  Updated Review of Ultimate Action Cams</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-se-2020-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone SE (2020)? Complete Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-understanding-permissions-the-key-to-saving-google-meets/"><u>2024 Approved  Understanding Permissions  The Key to Saving Google Meets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-se-2020-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone SE (2020) When You Forget the Passcode?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ace-memes-top-template-compendium/"><u>2024 Approved  Ace Memes  Top Template Compendium</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-watch-in-style-mastering-amazon-prime-videos-display-options/"><u>In 2024, Watch in Style Mastering Amazon Prime Videos Display Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-se-2020-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone SE (2020) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-se-2020-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone SE (2020) After Forgetting the Passcode?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamlined-screens-on-chrome-os/"><u>[New] In 2024, Streamlined Screens on Chrome OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-for-microsoft-pc-manager-on-w11/"><u>Essential Guide for Microsoft PC Manager on W11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-se-2020-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone SE (2020) to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-essential-guide-to-mac-based-lecture-recording/"><u>[Updated] 2024 Approved  The Essential Guide to Mac-Based Lecture Recording</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-se-2020-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone SE (2020) with a Broken Screen?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-multi-image-melding-on-computers-for-2024/"><u>Mastering Multi-Image Melding on Computers for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/delicious-diplomacy-global-tiktok-cuisine-for-2024/"><u>Delicious Diplomacy  Global TikTok Cuisine for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-se-2020-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone SE (2020) with iTunes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigate-10-top-free-web-explorers-for-remote-collaboration/"><u>[Updated] 2024 Approved  Navigate 10 Top Free Web Explorers for Remote Collaboration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2020-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone SE (2020) Unavailable Issue With Ease</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-rip-and-convert-a-step-by-step-guide-to-digitizing-your-dvds/"><u>Updated 2024 Approved Rip & Convert A Step-by-Step Guide to Digitizing Your DVDs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2020-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2020) Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2020-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone SE (2020) Passcode not Working?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-xr-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone XR Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-se-2020-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-update-of-gma-igf-graphics/"><u>Rapid Update of GMA iGF Graphics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2020-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2020) Without Passcode Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-xiaomi-redmi-note-12-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Xiaomi Redmi Note 12 5G?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-elite-10-audio-amplifiers-desktops-to-smartphones/"><u>[Updated] Elite 10 Audio Amplifiers  Desktops to Smartphones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-se-2020-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone SE (2020) in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-se-2020-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone SE (2020) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020), Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi Note 13 5G FRP</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2020-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2020) With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/realms-unchained-guide-to-the-best-of-no-cost-mmos-for-2024/"><u>Realms Unchained  Guide to the Best of No-Cost MMOs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instavoice-top-100-captions-that-define-your-personal-narrative/"><u>[New] InstaVoice  Top 100 Captions That Define Your Personal Narrative</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exceptional-20-no-license-pubg-images/"><u>[New] Exceptional 20 No-License PUBG Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-se-2020-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone SE (2020) Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-footage-makers-the-top-10-cameras-with-anti-shake-tech/"><u>In 2024, Best Footage Makers  The Top 10 Cameras With Anti-Shake Tech</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-simplify-media-handling-with-top-18-free-converters-for-windowsmacos-users/"><u>2024 Approved  Simplify Media Handling With Top 18 Free Converters For Windows/macOS Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-secure-techniques-to-boost-speed-in-spotify-listening/"><u>[New] In 2024, Secure Techniques to Boost Speed in Spotify Listening</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-se-2020-5-ways-to-get-into-a-locked-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone SE (2020)? 5 Ways to get into a Locked Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-se-2020-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2020) Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mplify-your-storytelling-seamlessly-insert-music-into-youtube-videos-for-2024/"><u>[New] Amplify Your Storytelling  Seamlessly Insert Music Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-2020-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE (2020) when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-se-2020-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone SE (2020) Lock Screen</u></a></li>
+</ul></div>

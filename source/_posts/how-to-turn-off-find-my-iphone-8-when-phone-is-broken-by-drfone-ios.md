@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 8 when Phone is Broken?
-date: 2024-05-19T07:09:50.167Z
-updated: 2024-05-20T07:09:50.167Z
+date: 2024-07-15T00:42:53.767Z
+updated: 2024-07-16T00:42:53.767Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 8 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 8 when Phone is Broken?
 keywords: how to unlock iphone 12,iphone swipe up not working,total wireless unlock,change apple id password,iphone lost mode unlock,apple id not active,how to unlock iphone passcode without computer,how to unlock iphone with itunes,unlock disabled iphone without itunes,how much does unlock a phone cost,iphone passcode not working after update ios 13,iphone passcode changed itself
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 8 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -103,6 +103,9 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 8, which you want to remove by clicking on "Remove from account."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
@@ -129,8 +132,14 @@ Once your Apple iPhone 8 shows the Apple logo, it means the Recovery Mode is act
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 8. Once the process is completed, you can set up your Apple iPhone 8 as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 8 is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 8 to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
@@ -162,7 +171,7 @@ iTunes is another great way to bypass the activation screen without a SIM card. 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Passcode.
 
@@ -201,7 +210,7 @@ Once your Apple iPhone 8 is in DFU mode, another window will be displayed on the
 
 After downloading the firmware, select “Unlock Now” to unlock your Apple iPhone 8.
 
-![unlock iphone passcode successfully ](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+![unlock iphone passcode successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
@@ -225,6 +234,9 @@ Now open iTunes. If it asks for a passcode, try another computer that you've syn
 
 Once your device is synced with iTunes, a "Set Up" window will pop up on the screen displaying two options, "Restore" or "Update." Select "Restore" to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore iphone with itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-1.jpg)
 
 **Step 5: Reset Passcode**
@@ -341,6 +353,9 @@ Additional requirements you’ll need to meet include:
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 8 Face ID.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. How To Unlock Apple iPhone 8 With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
@@ -491,3 +506,55 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-13-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 13 Prevention & Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-nord-n30-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Nord N30 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-13-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 13 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-13-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 13 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-13-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 13?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-13-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 13 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-windows-10-screen-capture-software/"><u>[New] Best Windows 10 Screen Capture Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-13-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 13 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-13-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 13</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-creators-guide-to-mastering-youtube-aspect-ratios/"><u>In 2024, The Creator's Guide to Mastering YOUTUBE Aspect Ratios</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 13 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-united-reviews-the-expert-on-easeus/"><u>[Updated] In 2024, United Reviews  The Expert on EaseUS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-art-of-time-manipulation-in-final-cut-pro-x/"><u>Updated The Art of Time Manipulation in Final Cut Pro X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-13-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 13 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-13-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 13 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-list-best-10-terraria-mods/"><u>Comprehensive List  Best 10 Terraria Mods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-divx-video-cutter-reviews-top-6-options-for-2024/"><u>Free Divx Video Cutter Reviews Top 6 Options for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-13-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 13 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Passcode without a Computer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-deep-dive-into-the-fundamentals-of-youtube-shorts-for-2024/"><u>[Updated] A Deep Dive Into The Fundamentals of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-art-of-immutable-image-creation/"><u>[Updated] Master the Art of Immutable Image Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-melody-adding-audio-to-your-canva-videos/"><u>[New] Mastering the Melody  Adding Audio to Your Canva Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-13-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 13? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-13-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 13 in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-13-5-ways-to-get-into-a-locked-apple-iphone-13-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 13? 5 Ways to get into a Locked Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-13-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-cam-repaired-obs-recovery-successful/"><u>[Updated] In 2024, Cam Repaired  OBS Recovery Successful</u></a></li>
+</ul></div>

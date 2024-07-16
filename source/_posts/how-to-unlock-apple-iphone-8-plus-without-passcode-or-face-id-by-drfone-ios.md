@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 8 Plus without Passcode or Face ID
-date: 2024-05-19T07:09:46.561Z
-updated: 2024-05-20T07:09:46.561Z
+date: 2024-07-15T00:36:28.821Z
+updated: 2024-07-16T00:36:28.821Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 8 Plus without Passcode or Face ID
 excerpt: This article describes How to Unlock Apple iPhone 8 Plus without Passcode or Face ID
 keywords: iphone auto lock greyed out,iphone backup password,iphone passcode changed itself,get out of security lockout,factory reset locked iphone without itunes,how to unlock iphone 7 without passcode
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How to Unlock Apple iPhone 8 Plus without Passcode or Face ID
@@ -142,6 +142,9 @@ After the phone is in recovery/DFU mode, the program will show the locked device
 
 After downloading the firmware effectively, click the "Unlock Now" button to let Dr.Fone unlock your Apple iPhone 8 Plus.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Simply in no time, Dr.Fone will successfully unlock your device.
@@ -149,6 +152,9 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 **Note:** This unlocking process will erase everything off your Apple iPhone 8 Plus and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
 Face ID can be a helpful method for unlocking your Apple iPhone 8 Plus - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
@@ -228,6 +234,9 @@ From the available features, proceed with "Unlock iOS Screen" and click “Start
 
 Moving on, you must put your iOS device into Recovery Mode. For this, follow the instructions on the screen based on your Apple iPhone 8 Plus model. Once it is in Recovery Mode successfully, you need to verify the Apple iPhone 8 Plus device details. Verify the “Device Model,” select the specific "System Version," and continue to device unlocking by clicking "Start."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 4. Confirm the Unlocking Process and Successfully Execute**
@@ -260,6 +269,9 @@ Another lifesaver method to unlock stolen iPhones is by utilizing the Recovery M
 - **For iPhone 7 and 7 Plus:** Press and hold the "Volume Down" and "Side/Power" buttons to enable Recovery Mode in iPhone 7 models.
 - **For iPhone 6 and Earlier:** To activate Recovery Mode, press and hold the "Home" and "Side/Power" buttons until the respective screen displays.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![putting iphone in recovery mode](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-8.jpg)
 
 - **Step 2:** Once your Apple iPhone 8 Plus is in Recovery Mode, iTunes will detect it automatically. A pop-up window will appear within iTunes to detect some problems with the Apple iPhone 8 Plus device. Tap the "Restore" button to start the process and unlock your Apple iPhone 8 Plus by erasing all settings and content.
@@ -290,6 +302,18 @@ Forgetting the Apple iPhone 8 Plus or iPad passcode could be the worst nightmare
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T8CJ89bh90c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to unlock disabled Apple iPhone 8 Plus without computer using Siri?
 
 Accessing Siri is the first thing that comes to iOS users' minds whenever they [get locked out of their Apple iPhone 8 Plus](https://drfone.wondershare.com/unlock/get-into-locked-iphone.html). It might surprise you, but you can also take the assistance of Siri to unlock your phone. Most users prefer this technique, as it doesn’t require a computer and can unlock an iOS device without erasing its data.
@@ -432,3 +456,65 @@ By implementing the above suggestions, you can easily make your iOS device more 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-video-editing-apps-for-chrome-os-a-comprehensive-guide/"><u>Updated In 2024, Free Video Editing Apps for Chrome OS A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-14-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 14 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-unparalleled-streaming-experience/"><u>In 2024, The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>[Updated] Boost Your Broadcast  Three Steps to Successful YouTube Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>[Updated] Precision Screen Capturing  Top Tools Reviewed on PC/Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-14-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 14 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-14-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 14 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-most-popular-video-time-stretching-software-for-windows-and-ma/"><u>Updated 2024 Approved Most Popular Video Time Stretching Software for Windows and Ma</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-pro-max-by-drfone-ios/"><u>How To Unlock A Found iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-14-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 14 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-defy-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Defy 2?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-pro-max-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-14-pro-max-5-ways-to-get-into-a-locked-iphone-14-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 14 Pro Max? 5 Ways to get into a Locked iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-make-a-fun-and-cinematic-video-with-an-introductory-text-title-learn-the-stages-of-editing-with-filmora-for-this-effect-here/"><u>New In 2024, Want to Make a Fun and Cinematic Video with an Introductory Text Title? Learn the Stages of Editing with Filmora for This Effect Here</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-depth-analysis-top-webinar-systems/"><u>[New] In-Depth Analysis  Top Webinar Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/gourmet-goals-on-tiktok-culinary-challenges-worth-pursuing-for-2024/"><u>Gourmet Goals on TikTok  Culinary Challenges Worth Pursuing for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Passcode Screen?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-upgrade-plans-standard-studio-or-beta-revolution/"><u>[New] 2024 Approved  Channel Upgrade Plans  Standard Studio or Beta Revolution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-screen-recording-on-a-dell-workstation/"><u>In 2024, The Ultimate Guide to Screen Recording on a Dell Workstation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 14 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-compelling-channel-names-simplified/"><u>Creating Compelling Channel Names Simplified</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-tutorial-on-permanently-removing-your-instagram-profile/"><u>[Updated] 2024 Approved  The Ultimate Tutorial on Permanently Removing Your Instagram Profile</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 14 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>Screen Scenarios Simplified  A Novice's Guide to Pixels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-14-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 14 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-itel-a60s-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel A60s? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-14-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 14 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-bypassing-iphones-in-app-audio-limitation-feature/"><u>2024 Approved Bypassing iPhones In-App Audio Limitation Feature</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-enhance-your-online-skills-a-guide-to-youtube-editing-via-sony-vegas/"><u>[Updated] In 2024, Enhance Your Online Skills  A Guide to YouTube Editing via Sony Vegas</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unleashing-your-contents-potential-journey-towards-gaining-sponsorship-revenue/"><u>In 2024, Unleashing Your Content's Potential  Journey Towards Gaining Sponsorship Revenue</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-silencing-the-noise-how-to-normalize-audio-using-davinci-resolve/"><u>New 2024 Approved Silencing the Noise How to Normalize Audio Using DaVinci Resolve</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023s-social-media-video-extractor-for-all-platforms/"><u>[Updated] 2023'S Social Media Video Extractor for All Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-view-count-value-how-much-does-1-million-matter/"><u>[Updated] View Count Value  How Much Does 1 Million Matter?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-compilation-of-premium-free-srt-translators/"><u>In 2024, The Ultimate Compilation of Premium Free SRT Translators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/adv-screen-recorder-full-review-for-2024/"><u>ADV Screen Recorder Full Review for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-14-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 14 Pro Max</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transform-your-fb-videos-into-1080p720p-mp4-seamlessly-for-free/"><u>[Updated] 2024 Approved  Transform Your FB Videos Into 1080P/720p MP4 Seamlessly, For Free</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others-for-2024/"><u>Charming Calls  Verify if Vocal Alteration Apps Are Real, Then Find Others for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-add-audio-in-after-effects-for-2024/"><u>Updated How to Add Audio in After Effects for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-14-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 14 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-14-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 14 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-acknowledgment-series-free-vs-paid-template-choices/"><u>2024 Approved  Acknowledgment Series  Free vs Paid Template Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-14-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 14 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-hitting-the-high-notes-in-instagram-photography-for-2024/"><u>[New] Hitting the High Notes in Instagram Photography for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-choosing-gopro-wisely-a-comparative-examination/"><u>2024 Approved  Choosing GoPro Wisely  A Comparative Examination</u></a></li>
+</ul></div>

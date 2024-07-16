@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
-date: 2024-06-24T00:49:32.736Z
-updated: 2024-06-25T00:49:32.736Z
+date: 2024-07-15T01:40:18.857Z
+updated: 2024-07-16T01:40:18.857Z
 tags: 
   - unlock
   - remove screen lock
@@ -96,6 +96,9 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -214,6 +217,9 @@ When the lock symbol changes to the unlocked position, you can swipe up to unloc
 
 Note that Face ID will not work in landscape mode on an iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.II Making Purchases Using Face ID on Your Apple iPhone 12 Pro
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
@@ -288,6 +294,9 @@ Step 1: Open a message conversation in the Messages app.
 
 Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to select the desired Animoji/ Memoji you want to send.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recording a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-8.jpg)
 
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
@@ -363,6 +372,9 @@ Accidents happen, and sometimes they take a toll on your Apple iPhone 12 Pro's e
 
 But fear not, for there are ways to **unlock an iPhone without a Home button**. This guide explores ways **how to open an iPhone without a Home button**. In case of a Home button malfunction, explore these quick and easy fixes for a reliable workaround. Read on to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
 
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
@@ -449,6 +461,9 @@ With iOS 15.2, Apple introduced the Erase iPhone feature, aiding users in resett
 
 **_**_Note_**__**_：_**_****Keep in mind that all previous content and data on the phone will be erased during this operation.**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Unlock iPhone via iTunes/Finder
 
 For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 12 Pro without the Home button**. Windows or Mac Mojave users are recommended to use iTunes. Mac Catalina and newer users should use Finder. Before using iTunes or Finder, it's advisable to back up your Apple iPhone 12 Pro on iCloud. Here's how to proceed:
@@ -516,3 +531,56 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/boost-viewership-cost-effectively-with-subscriber-purchase/"><u>Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone SE (2020)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-narzo-n53-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme Narzo N53 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-se-2020ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone SE (2020)/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode Screen?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-12-selection-of-smart-flip-screen-vlog-cameras/"><u>2024 Approved  The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-discover-the-best-vegas-pro-substitutes-for-mac-free-trials-and-paid-options/"><u>Updated Discover the Best Vegas Pro Substitutes for Mac Free Trials and Paid Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 With or Without Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-your-photos-pro-level-pixlr-techniques/"><u>In 2024, Revolutionize Your Photos  Pro-Level Pixlr Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-compile-the-best-6-leading-apps-for-fb-lite-video-downloads/"><u>[New] In 2024, Compile the Best  6 Leading Apps for FB Lite Video Downloads</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered/"><u>2024 Approved  Climb the Popularity Ladder  Essential YouTube SEO Practices Uncovered</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capturing-every-moment-with-switch-hd-tech/"><u>In 2024, Capturing Every Moment with Switch HD Tech</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 12 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-se-2020-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone SE (2020) Without a Passcode</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-building-your-own-whatsapp-collaborative-space/"><u>In 2024, Building Your Own WhatsApp Collaborative Space</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>2024 Approved  Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-instruction-loading-windows-movie-maker-60/"><u>2024 Approved  Step-by-Step Instruction  Loading Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-2020-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE (2020) i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transformative-notetaking-the-mematic-way/"><u>[Updated] Transformative Notetaking  The Mematic Way</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-android-video-editor-showdown-top-10-free-and-paid-options/"><u>Updated In 2024, Android Video Editor Showdown Top 10 Free and Paid Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-transforming-stored-memories-into-dynamic-fb-livestreams-today/"><u>[Updated] In 2024, Transforming Stored Memories Into Dynamic FB Livestreams Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-se-2020-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone SE (2020) In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-12-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-top-9-online-movie-makers-to-make-movie-online-for-free-for-2024/"><u>Updated Top 9 Online Movie Makers to Make Movie Online for Free for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 With 7 Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highest-quality-ai-voice-to-text-software/"><u>2024 Approved  Highest Quality AI Voice to Text Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-se-2020-how-to-unlock-a-disabled-iphone-se-2020-by-drfone-ios/"><u>In 2024, Disabled iPhone SE (2020) How to Unlock a Disabled iPhone SE (2020)?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-introducing-10-elusive-instagram-story-visionaries-for-2024/"><u>[Updated] Introducing 10 Elusive Instagram Story Visionaries for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-best-shortcut-towards-timeline-template/"><u>New 2024 Approved Best Shortcut Towards Timeline Template</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-infographic-social-media-trends/"><u>2024 Approved  Infographic - Social Media Trends</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pro-tips-for-shooting-quality-gopro-time-lapse-videos/"><u>[New] Pro Tips for Shooting Quality GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-show-more-pins-on-win-11-startscreen/"><u>Techniques to Show More Pins on Win 11 Startscreen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-se-2020-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone SE (2020) Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-2020-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE (2020) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without Computer?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>[New] In 2024, Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-2023s-premier-storytelling-channels-on-youtube/"><u>2024 Approved  2023'S Premier Storytelling Channels on YouTube</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 13 when Phone is Broken?
-date: 2024-05-19T07:10:30.366Z
-updated: 2024-05-20T07:10:30.367Z
+date: 2024-07-15T01:46:37.741Z
+updated: 2024-07-16T01:46:37.741Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 13 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 13 when Phone is Broken?
 keywords: turn off restricted mode,unlock iphone with apple watch,iphone locked to owner,app lock iphone,open iphone without home button,how to unlock iphone 12,ios 17 lock screen,change country on iphone app store,change apple id email address
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## How to Turn Off Find My Apple iPhone 13 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -129,6 +129,9 @@ Once your Apple iPhone 13 shows the Apple logo, it means the Recovery Mode is ac
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 13. Once the process is completed, you can set up your Apple iPhone 13 as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
 ### Conclusion
@@ -205,6 +208,9 @@ Step 5: When paying at retail outlets, hold your Apple iPhone 13 (top being clos
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone 13, and wait for the Done message and checkmark to finish the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
@@ -251,6 +257,9 @@ Step 3: Tap the Record button and you now have 30 seconds to do what you want wi
 
 Step 4: When done, the Record button changes to Send:
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sending a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-9.jpg)
 
 Tap Send to send your first Memoji/ Animoji.
@@ -301,7 +310,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -405,6 +414,9 @@ Open the Dr.Fone program on your PC and select "Screen Unlock" among all the opt
 
 Connect your iOS device to the PC through a USB connector. Then, at that point, click the "Unlock iOS Screen" option on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2. Boot iPhone in Recovery or DFU mode**
@@ -417,6 +429,9 @@ Before sidestepping the Apple iPhone 13 lock screen, we want to boot it in Recov
 
 After putting the Apple iPhone 13 device in DFU mode, Dr.Fone will show the Apple iPhone 13 device information, for example, the Apple iPhone 13 device Model and OS Variant. You can choose the correct data from the dropdown menu if the information is incorrect. Then, at that point, click Download to download the firmware for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Apple iPhone 13 screen lock**
@@ -461,3 +476,41 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-briefing-on-simple-strategies-for-crafting-snapchat-duos/"><u>[Updated] 2024 Approved  Briefing on Simple Strategies for Crafting Snapchat Duos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-xr-5-ways-to-get-into-a-locked-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone XR? 5 Ways to get into a Locked Apple iPhone XR</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-xr-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone XR when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-xr-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone XR Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone XR?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-xr-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone XR With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-xr-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone XR Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xr-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone XR Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-xr-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone XR After Forgetting the Passcode?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-free-luts-a-pathway-to-improved-obs-streaming/"><u>[Updated] Leveraging Free LUTs  A Pathway to Improved OBS Streaming</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/pitch-control-made-easy-a-comprehensive-guide-to-altering-voices-with-audacity-for-2024/"><u>Pitch Control Made Easy A Comprehensive Guide to Altering Voices with Audacity for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-xr-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone XR With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xr-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone XR Passcode not Working?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/learning-legends-esteemed-ed-streams-online/"><u>Learning Legends  Esteemed Ed Streams Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xr-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XR in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-smart-7-hd-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Infinix Smart 7 HD to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-xr-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone XR? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-xr-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone XR</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR, Apples New iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-basics-of-digital-imagery-sizes/"><u>[New] Unveiling the Basics of Digital Imagery Sizes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-full-disclosure-gecata-gameplay-tracker-reviewed/"><u>2024 Approved  Full Disclosure  Gecata Gameplay Tracker Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-xr-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone XR After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xr-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XR With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-mystery-of-youtubes-viewer-count-puzzle/"><u>In 2024, The Mystery of YouTube's Viewer Count Puzzle</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-frequencies-fused-mac-studios-soundscapes/"><u>[New] 2024 Approved  Frequencies Fused  Mac Studios Soundscapes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-xr-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone XR Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-xr-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone XR Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+</ul></div>

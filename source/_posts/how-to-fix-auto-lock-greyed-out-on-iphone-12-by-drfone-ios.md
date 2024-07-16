@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12
-date: 2024-05-19T07:10:17.376Z
-updated: 2024-05-20T07:10:17.376Z
+date: 2024-07-15T01:25:54.313Z
+updated: 2024-07-16T01:25:54.313Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 12
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 12
 keywords: change country on iphone app store,fix iphone passcode not working,iphone x iphone xr lock screen,remove flashlight from iphone lock screen,unlock iphone xs without passcode,how to unlock an iphone 13,factory reset locked iphone without itunes,unlock iphone 11 12 13 without passcode,iphone 11 passcode bypass,forgot passcode on iphone
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12
@@ -260,6 +260,9 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 - You will now get new choices, including cut, copy, and so on. Tap on the "Share" button to proceed. You will get options for sharing the text. Click on the Message icon. Your device will open another window. Now, you begin drafting another message. Go to the "To" field, and type any text. Click back to proceed with opening an iPhone without a PC.
 - The text will become green. Yet again, now that your text is chosen, click on "+" to add a symbol. When you tap it, another window will open. Click on "Create new contact" to proceed. You will now see a window where you can add another contact. Tap on "Add Photo" to move.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-4.jpg)
 
 - Click the "Select/Pick Photo" button to choose a photograph from your library. When the library opens, you can see the collections. Do not click anywhere. Wait for a couple of moments, and afterward, tap on the Home button. You will then access the Home screen. That's **how to unlock disabled iPhones without computer.**
@@ -339,11 +342,14 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
 
-1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html)when your stolen iPhone is still powered on and connected to the internet.
+1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html) when your stolen iPhone is still powered on and connected to the internet.
 2. **iPhone Turned Off or In Airplane Mode:**The last known location before the Apple iPhone 12 device was powered down or put in Airplane Mode is accessible, offering a starting point for recovery efforts.
 3. **Offline Finding with Bluetooth:**The Find My service leverages Bluetooth technology to create a vast network of Apple devices. With these, it can securely help locate your Apple iPhone 12, even offline.
 4. **Activation Lock Integration:**This service is also integrated with Activation Lock, adding an extra layer of security. The Activation Lock remains active if a thief attempts to erase your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Use Find My To Locate Your Stolen iPhone
 
 - **Step 1.** Access the Find My app on a trusted device and open it. If you can't access one, use the iCloud website to access Find My service.
@@ -370,6 +376,9 @@ Lost Mode locks the Apple iPhone 12 device and allows users to showcase a person
 
 - **Step 3.** After adding a message, tap "Next" on the following screen and press "Activate" from the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
 
 ### Activating Lost Mode Using iCloud Website
@@ -406,6 +415,9 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 There are additional measures you can take to enhance your overall security apart from understanding **how do I lock my stolen iPhone**. The following are some options you should utilize in case of device loss:
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### To Do List #1. Report to Police
 
 If your Apple iPhone 12 is stolen, it is crucial to immediately inform your local law enforcement agency. It facilitates the recovery process and assists in combatting criminal activities. Provide essential details about your Apple iPhone 12, such as the Model, color, and IMEI number. Share information about your efforts to locate the stolen iPhone using Find My.
@@ -448,6 +460,9 @@ After your Apple iPhone 12 is stolen, it becomes essential to bolster the securi
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 12 when stolen**:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Precaution #1. Enable Find My on Device
 
 Activating Find My increases the likelihood of recovering your device. Take the following steps to enable the Find My feature on your Apple iPhone 12:
@@ -493,8 +508,8 @@ It provides a hassle-free solution for those locked out of their devices. This p
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
-2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your Apple iPhone 12 or iPad if you have forgotten its password.
-3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)and carrier locks using Dr.Fone.
+2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 12 or iPad if you have forgotten its password.
+3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -544,3 +559,46 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-12-mini-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 12 mini Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-12-mini-how-to-unlock-a-disabled-apple-iphone-12-mini-by-drfone-ios/"><u>Disabled Apple iPhone 12 mini How to Unlock a Disabled Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-discreetly-discovering-instagram-stories-online-pc-android-iphone-methods/"><u>[New] 2024 Approved  Discreetly Discovering Instagram Stories Online - PC, Android, iPhone Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-12-mini-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-mini-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-12-mini-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 12 mini Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-visionaries-of-video-workshop/"><u>[New] In 2024, The Visionaries of Video Workshop</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-12-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 12 mini Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-magnification-in-roblox-worlds/"><u>The Art of Magnification in Roblox Worlds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-mini-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 mini Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-12-mini-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-12-miniipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 12 mini/iPad Without Computer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boosting-your-video-income-on-youtube-essentials/"><u>Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-12-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 12 mini Properly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-best-available-free-audio-editing-solutions-for-windows-and-mac-enthusiasts/"><u>Updated Exploring the Best Available Free Audio Editing Solutions for Windows and Mac Enthusiasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-12-mini-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 12 mini Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-12-mini-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-mini-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-youtube-intro-by-filmora/"><u>New How to Make a YouTube Intro by Filmora</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-12-mini-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 mini When You Forget the Passcode?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-around-the-clock-vision-versus-multiplanar-exposures/"><u>2024 Approved  Around-the-Clock Vision Versus Multiplanar Exposures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-12-mini-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 12 mini Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-bots-surge-in-authentic-youtube-interest/"><u>Thwart Bots, Surge in Authentic YouTube Interest</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-15-sci-fi-and-educational-youtube-hubs/"><u>[Updated] Best 15 Sci-Fi & Educational YouTube Hubs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-12-mini-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 12 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-mini-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-xcover-7-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy XCover 7 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-adobe-premiere-pro-secrets-6-time-saving-tips-for-better-video-edits-for-2024/"><u>Updated Adobe Premiere Pro Secrets 6 Time-Saving Tips for Better Video Edits for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-12-mini-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 mini Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-mini-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 mini in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 12 mini Keeps Asking for Outlook Password</u></a></li>
+</ul></div>

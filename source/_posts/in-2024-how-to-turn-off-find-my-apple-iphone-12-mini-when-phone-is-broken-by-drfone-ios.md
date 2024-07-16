@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
-date: 2024-05-19T07:10:21.484Z
-updated: 2024-05-20T07:10:21.484Z
+date: 2024-07-15T01:32:19.889Z
+updated: 2024-07-16T01:32:19.889Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
 keywords: forgot locked note password,doctorism unlock review,iphone 15 unlock,iphone asking for outlook password,remove iphone from blacklist,unlock disabled iphone 13
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -131,6 +131,9 @@ Once your Apple iPhone 12 mini shows the Apple logo, it means the Recovery Mode 
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 12 mini is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 12 mini to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
@@ -172,6 +175,9 @@ After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone
 
 On the screen, you will see instructions to enter DFU mode. Follow them and boot your Apple iPhone 12 mini in DFU.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Confirmation of Model**
@@ -190,6 +196,9 @@ When the firmware is downloaded successfully, all you have to do is click on the
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Part 2: Remove Passcode by Restoring Apple iPhone 12 mini/Apple iPhone 12 mini Plus**
 
 If your Apple iPhone 12 mini has been accidentally locked or disabled, there is an effective method to restore it. You can erase your Apple iPhone 12 mini  data and restore it from iTunes if you have previously backed up with it. Backing up data regularly is an advisable way to avoid the trouble of losing it forever.
@@ -250,7 +259,7 @@ If you have been locked out of your iOS device and would like to know how to unl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXbqfC7JTKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 1: How to unlock Apple iPhone 12 mini passcode with Dr.Fone - Screen Unlock (iOS)?
 
@@ -260,7 +269,10 @@ It is compatible with all the leading iOS versions and devices. All you need to 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Screen Without Password
 
@@ -279,6 +291,9 @@ Unlock iPhone Screen Without Password
 
 3\. As you would connect your Apple iPhone 12 mini to your system, you will get a “Trust this Computer” prompt. Make sure that you close this window by tapping on the “x” button. Once connected, Dr.Fone will ask you to follow some steps to set your device in Recovery mode, allowing it to be detected.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock Apple iPhone 12 mini passcode without itunes-set your device in DFU mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 4\. Meanwhile, the Dr.Fone interface will provide the following screen, asking for various details related to your device. Provide crucial information related to your device (model, iOS version, and more) and click on the “Download” button.
@@ -299,7 +314,7 @@ Unlock iPhone Screen Without Password
 
 In the end, you can simply disconnect your Apple iPhone 12 mini safely from the system and restart it. It would be restarted without any passcode, letting you access it in a trouble-free manner.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 #### **You may also be interested in:**
 
@@ -358,7 +373,7 @@ Even though lots of users have complained about this issue, Apple hasn’t come 
 
 Now when you know how to unlock Apple iPhone 12 mini passcode without iTunes, you can easily access your device. Ideally, you can simply take the assistance of [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device. It can also be used to resolve any other problem related to your Apple iPhone 12 mini/iPad as well. Feel free to give it a try and let us know if you face any problems while using it.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -377,3 +392,62 @@ Now when you know how to unlock Apple iPhone 12 mini passcode without iTunes, yo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-templates-and-makers-insights-for-end-credits/"><u>2024 Approved  Essential Templates & Makers' Insights for End Credits</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-11-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 11 in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-11-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 11 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-11-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 11 Lock Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>[New] The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-watching-wonders-amazon-primes-top-series-on-twitter/"><u>[Updated] Watching Wonders  Amazon Prime's Top Series on Twitter</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-discover-the-top-9-free-online-tools-to-craft-your-logo/"><u>[New] 2024 Approved  Discover the Top 9 Free Online Tools to Craft Your Logo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-11-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 11? Learn All 4 Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-rendering-sounds-with-visuals-for-2024/"><u>[Updated] Rapid Rendering  Sounds with Visuals for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-11-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-whatsapps-telephony-services/"><u>2024 Approved  Understanding WhatsApp’s Telephony Services</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-11-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-11-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 with a Mask On</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-voice-to-print-how-to-transcribe-audio-and-video-files-for-2024/"><u>Updated Voice to Print How to Transcribe Audio and Video Files for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-11-proplus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 11 Pro+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/find-the-suggestions-for-sites-that-are-alternatives-to-the-filmora-coupon-code-reddit-these-coupon-sites-offer-different-deals-and-discounts-for-2024/"><u>Find the Suggestions for Sites that Are Alternatives to the Filmora Coupon Code Reddit. These Coupon Sites Offer Different Deals and Discounts for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-finding-fellowship-adding-friends-in-discord/"><u>[New] Finding Fellowship  Adding Friends in Discord</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-tempo-transformation-techniques-reducing-speed-without-distorting-tonal-characteristics/"><u>New In 2024, Tempo Transformation Techniques Reducing Speed Without Distorting Tonal Characteristics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elite-commanders-showdown-the-pinnacle-total-war-clashes-for-2024/"><u>Elite Commanders' Showdown  The Pinnacle Total War Clashes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-11-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 11 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>[Updated] Bridging Games and Friends  Xbox Live to Facebook Broadcasting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode without Computer?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-beginners-blueprint-for-online-content-simple-straightforward-video-projects/"><u>[New] In 2024, Beginner's Blueprint for Online Content  Simple, Straightforward Video Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/tailoring-auditory-experiences-to-your-videos-with-ease-and-precision-for-2024/"><u>Tailoring Auditory Experiences to Your Videos with Ease and Precision for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-11-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 11 Prevention & Solution</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-premier-screen-capture-device-essential-for-video-sharers/"><u>[Updated] Premier Screen Capture Device  Essential for Video Sharers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-vocal-modulation-in-audacity-an-easy-guide/"><u>In 2024, Mastering Vocal Modulation in Audacity An Easy Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-freeframe-finders-your-path-to-aesthetic-economical-backdrops-on-tiktok/"><u>[Updated] In 2024, FreeFrame Finders  Your Path to Aesthetic, Economical Backdrops on TikTok</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-11-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-11-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-11-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-11-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 11 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-11ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 11/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-11-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 11 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-11-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 11 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-process-for-efficient-use-of-macs-preview-app-for-2024/"><u>Step-by-Step Process for Efficient Use of Mac's Preview App for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-11-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 11 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-odyssey-of-gaming-the-ultimate-list-of-freeware-mmorpgs/"><u>[New] 2024 Approved  Odyssey of Gaming  The Ultimate List of Freeware MMORPGs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-elevating-your-listening-experience-online-techniques-for-speed-and-pitch-alteration/"><u>New Elevating Your Listening Experience Online Techniques for Speed and Pitch Alteration</u></a></li>
+</ul></div>

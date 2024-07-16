@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can You Unlock Apple iPhone 8 After Forgetting the Passcode?
-date: 2024-05-19T07:09:51.114Z
-updated: 2024-05-20T07:09:51.114Z
+date: 2024-07-15T00:44:06.074Z
+updated: 2024-07-16T00:44:06.074Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Can You Unlock Apple iPhone 8 After Forgetting the Passcode?
 excerpt: This article describes Can You Unlock Apple iPhone 8 After Forgetting the Passcode?
 keywords: forgot iphone pin,iphone swipe up not working,unlock iphone 5 passcode without itunes,how to unlock an iphone 13,what can jailbreak iphone do,unlock lost phone,how to remove passcode from iphone,how to turn off find my iphone when phone is broken,unlock disabled iphone without computer,app lock iphone,how to unlock iphone to use usb accessories
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## Can You Unlock Apple iPhone 8 After Forgetting the Passcode?
@@ -62,10 +62,16 @@ Hang tight for the process to wrap up. Then, a short time later, go to your Appl
 
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### 3\. "Erase iPhone" Option
 
 However long the locked iPhone has a functioning WiFi connection, you can now delete the Apple iPhone 8 device from the lock screen. This method only works if it is running iOS 15.2 or above.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-3.jpg)
 
 After several wrong attempts, an "Erase iPhone" choice will appear on the screen's lower part. Just tap on that, confirm you need to erase the Apple iPhone 8 and enter your Apple ID details afterward. The device will then reset itself, completely deleting all data and beginning as a new one.
@@ -212,6 +218,9 @@ You will need to use an alternative strategy, which includes a factory reset if 
 
 **Step 2:** After you have opened the **Settings** app, go to the **General** menu, then to the **Reset** menu, and finally to the **Erase All Content and Settings** option.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset in settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-5.jpg)
 
 **Step 3:** Confirm that you want to reset your Apple iPhone 8 to factory settings, and wait until it is done.
@@ -283,6 +292,9 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 
 **Step 2.** After providing the passcode, select "Other Apps" and check the apps that have Face ID enabled. Remember, you're unable to manually include apps in the list. Only those apps that have sought access to the feature will appear here automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
 
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
@@ -293,6 +305,9 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 **Step 1.** On your Apple iPhone 8, launch the Shortcuts app and select the "Automation" tab from the bottom toolbar. There, tap "New Automation" and use the search bar to look for and select "App."
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose app automation option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-4.jpg)
 
 **Step 2.** Now, tap "Choose" in front of the "App" and select the app you want to lock. Now, move down and select "Is Opened," then move further down to choose "Run Immediately." Here, leave "Notify when Run" deactivated.
@@ -329,7 +344,7 @@ It can be a trouble if you forget your Apple iPhone 8 passcode since there are m
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
 
@@ -391,7 +406,7 @@ Get FamiSafe from the App Store and log in using your Wondershare ID or your App
 
 Now, activate Accessibility for FamiSafe by accessing "Settings," tapping "FamiSafe," and enabling "Location." Then, grant access to the Apple iPhone 8 device's photos, microphone, and motion & fitness activity. Now, use a computer and connect your child's device with a USB cable. Activate content blockers in Safari to prevent kids from accessing inappropriate content.
 
-![ enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
+![enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
 
 **Step 3: Connect the Kid's Device to the Computer**
 
@@ -480,3 +495,55 @@ By following these solutions, you would be able to learn how to lock apps on the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-14-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 14 Plus With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-14-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 14 Plus and iPad Securely</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-asus-rog-phone-8-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Asus ROG Phone 8 by Name | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-expertly-enhance-videos-with-top-10plus-mobile-and-desktop-editors/"><u>[New] Expertly Enhance Videos with Top 10+ Mobile & Desktop Editors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-14-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 14 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 14 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-14-plus-how-to-unlock-a-disabled-apple-iphone-14-plus-by-drfone-ios/"><u>Disabled Apple iPhone 14 Plus How to Unlock a Disabled Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-top-tools-to-create-blend-image-collage-for-2024/"><u>Updated Top Tools To Create Blend Image Collage for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-14-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Plus Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-14-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 14 Plus Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 Plus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-premier-hashtags-monitoring-on-facebook-twitter-and-instagram/"><u>[New] 2024 Approved  Premier Hashtags Monitoring on Facebook, Twitter & Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-plus-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Plus Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-14-plus-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-enhancing-photos-with-chronological-details-for-2024/"><u>[Updated] Enhancing Photos with Chronological Details for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nikons-challenge-to-gopro-hero-black-in-video-realm-for-2024/"><u>Nikon's Challenge to GoPro HERO Black in Video Realm for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-14-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 14 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Plus Prevention & Solution</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-mastering-wax-a-step-by-step-guide-to-editing-videos-for-free/"><u>Updated 2024 Approved Mastering Wax A Step-by-Step Guide to Editing Videos for Free</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-14-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 14 Plus Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-a38-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo A38 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-14-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 14 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-editing-selection-quality-software-for-youtubers-for-2024/"><u>Elite Editing Selection  Quality Software for YouTubers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-14-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 14 Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 14 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-legal-implications-and-tips-when-archiving-whatsapp-call-recordings/"><u>2024 Approved  Legal Implications & Tips When Archiving WhatsApp Call Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-14-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 14 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-14-plus-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-14-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-14-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 14 Plus With 7 Methods</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 12 Backup Password? Heres What to Do
-date: 2024-05-19T07:10:18.959Z
-updated: 2024-05-20T07:10:18.959Z
+date: 2024-07-15T01:28:39.763Z
+updated: 2024-07-16T01:28:39.763Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 12 Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 12 Backup Password? Heres What to Do
 keywords: iphone auto lock greyed out,forgot passcode iphone 6,unlock disabled iphone 13,remove device supervision from iphone,how to remove face id on iphone 13,total wireless unlock,unlock iphone face id wearing mask,ios 17 lock screen,unlock iphone passcode without computer,open iphone without home button,how to create new apple id,change apple id email address
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## Forgot Apple iPhone 12 Backup Password? Here's What to Do
@@ -48,6 +48,9 @@ At this point, a USB cable should be used to connect the Apple iPhone 12 device 
 
 Select the Encrypt Local Backup option in the Backups section directly from either the Summary or General tab of the Backups section.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
 **Step 4:** Create a Password
@@ -86,6 +89,9 @@ You can also get rid of the password for the last backup without deleting any ot
 
 Use a USB cable to link your Apple iPhone 12 to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
@@ -187,7 +193,7 @@ You might be anxious if you have locked your Apple iPhone 12 and forgotten the p
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
 
@@ -224,6 +230,9 @@ After the DFU mode is activated, confirm the Apple iPhone 12 device information,
 
 After the DFU mode is activated, confirm the Apple iPhone 12 device information, and click on “Download.” After it is downloaded, tap on “Unlock Now.”
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on unlock button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## Part 2: How to Remove iPhone Screen Lock Using the Recovery Mode
@@ -320,6 +329,9 @@ If you do not have any potential source for unlocking your Apple iPhone 12, you 
 
 **Step 2:** Siri will display the time with a clock icon on the front. Click on the icon to open the associated interface. Click on the “+” icon and proceed to the next screen. You will find a search box on the next screen. Type random characters and hold the tab until it shows the option of “Select All.”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the typed text](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-12.jpg)
 
 **Step 3:** You will find the option of the “Share” button soon. A pop-up opens after tapping on the button, which shows different options that can be accessed. Click on “Messages” to move to the next screen.
@@ -360,6 +372,9 @@ No, Apple cannot reset the forgotten iPhone passcode. However, they will help yo
 
 Human beings are clumsy, and they often forget passcodes to their devices. However, there is no need to panic as technology has progressed enough to offer loopholes in the situations. The article presented multiple methods to bypass iPhone passcode and steer clear of this mess. Some frequently asked questions were also answered regarding the Apple iPhone 12 screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## How To Remove Flashlight From Apple iPhone 12 Lock Screen
 
 Ever wonder why the flashlight shows up on your Apple iPhone 12 lock screen? Especially when it happens in your pocket or while you're holding it. If you, like many, accidentally turn it on and drain your battery, no need to worry.
@@ -458,7 +473,7 @@ This software effortlessly [<u>bypasses any lock screen</u>](https://drfone.wond
 
 - If you've forgotten your phone's password or bought a second-hand device, here's how Dr.Fone can help you:
 - Bypasses various lock screen types like [<u>pattern</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), 4 or 6-digit passcode, Touch ID, and Face ID without the original passcode.
-- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html)on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
+- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
 - Offers a simple, intuitive interface with clear instructions.
 
 Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. To address this issue, here's a step-by-step guide using Dr.Fone Screen Unlock (iOS):
@@ -521,3 +536,59 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/iphone-15-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 15 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-15-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 15 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-captivate-audiences-in-youtube-live-with-tiny-subscriber-counts/"><u>[Updated] How to Captivate Audiences in YouTube Live with Tiny Subscriber Counts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-15-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 15 Pro Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pathway-to-personalizing-your-virtual-existence-for-2024/"><u>The Pathway to Personalizing Your Virtual Existence for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-hd-screensnap-tools-for-2024/"><u>Premium HD Screensnap Tools for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-melodic-lenswork-capturing-soundscapes-on-ios-for-2024/"><u>[New] Melodic Lenswork  Capturing Soundscapes on iOS for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 15 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/freshwater-frontiers-prime-camers-for-fishing-enthusiasts-for-2024/"><u>Freshwater Frontiers  Prime Camers for Fishing Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-green-blueprint-planning-for-a-resilient-urban-future/"><u>2024 Approved  Green Blueprint  Planning for a Resilient Urban Future</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-15-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Pro with iTunes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-premier-android-and-iphone-applications-for-accurate-speech-conversion-to-text/"><u>New 2024 Approved Premier Android and iPhone Applications for Accurate Speech Conversion to Text</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-15-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-15-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 15 Pro Without a Home Button</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-use-of-analytics-for-2024/"><u>[New] Use of Analytics for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-15-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 Pro to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-p55t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel P55T Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-15-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 15 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-14-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 14 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-the-world-of-tweets-starting-fresh/"><u>In 2024, Navigating the World of Tweets  Starting Fresh</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-pro-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Pro in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-15-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 15 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-15-pro-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 15 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-13c-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi 13C Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-affordable-online-passport-photo-services/"><u>2024 Approved  The Complete Guide to Affordable Online Passport Photo Services</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-15-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 15 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mac-users-mastering-chic-videos-for-your-first-youtube-post/"><u>[Updated] Mac Users  Mastering Chic Videos for Your First YouTube Post</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-trending-vr-adventures-on-oculus/"><u>Top 8 Trending VR Adventures on Oculus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-15-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 15 Pro Without Passcode Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-the-art-of-screen-recording-an-in-depth-look-at-zd-software-tools/"><u>[Updated] Mastering the Art of Screen Recording  An In-Depth Look at ZD Software Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Pro Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-15-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 15 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-the-hidden-potential-of-earnings-on-vimeo-platforms/"><u>[New] In 2024, Unveiling the Hidden Potential of Earnings on Vimeo Platforms</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-15-pro-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 15 Pro Lock Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-xs-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-pro-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 15 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/transform-your-video-footage-with-advanced-screen-recording-tech/"><u>Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 13 Pro Max</u></a></li>
+</ul></div>
