@@ -1,0 +1,146 @@
+---
+title: "Leveraging the Power of AI: What Business Owners Should Know About the Latest ChatGPT & Whisper APIs"
+date: 2024-08-09T10:54:04.686Z
+updated: 2024-08-10T10:54:04.686Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Leveraging the Power of AI: What Business Owners Should Know About the Latest ChatGPT & Whisper APIs"
+excerpt: "This Article Describes Leveraging the Power of AI: What Business Owners Should Know About the Latest ChatGPT & Whisper APIs"
+thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13640403fc40b5c32e2b3cd22.jpg
+---
+
+## No More Waiting for ChatGPT: Unleash the Power of This Amazing Free Open Source Alternative
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-the-art-of-viral-youtube-shorts-content/"><u>[New] 2024 Approved  Mastering the Art of Viral YouTube Shorts Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-echoes-of-the-past-the-top-10-youtube-sources-for-history-lovers/"><u>[New] In 2024, Echoes of the Past  The Top 10 YouTube Sources for History Lovers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mobile-creativity-boost-identifying-the-best-video-editing-tools/"><u>[New] Mobile Creativity Boost  Identifying the Best Video Editing Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-nvidias-screen-recorder-potential/"><u>[New] Unlocking NVIDIA's Screen Recorder Potential</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-zoom-into-clarity-a-comprehensive-checklist-for-youtube-broadcasts-for-2024/"><u>[New] Zoom Into Clarity  A Comprehensive Checklist for YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-overcoming-the-2023-facebook-security-breach/"><u>2024 Approved  Overcoming the 2023 Facebook Security Breach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-lava-blaze-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Lava Blaze Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-14-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 14 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/apple-m1-pro-vs-m1-max-whats-the-difference-for-2024/"><u>Apple M1 Pro Vs. M1 Max  What's the Difference for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-life-from-above-yuneec-breeze-experience-for-2024/"><u>Capturing Life From Above  Yuneec Breeze Experience for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-11-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 11 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-6s-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 6s Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-vivo-v30-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V30 Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-intel-hd-graphics-drivers-instantly-compatible-with-windows-10-and-11-systems/"><u>Get the Newest Intel HD Graphics Drivers Instantly: Compatible with Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-6s-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 6s Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-14-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 14 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-by-drfone-ios/"><u>How to Unlock iPhone 6?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6s-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6s Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-7-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-exploring-the-ai-driven-shooting-modes-in-todays-cameras/"><u>In 2024, Exploring the AI-Driven Shooting Modes in Today's Cameras</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-x-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone X When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 14 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transitioning-playlists-from-spotify-to-a-tailored-youtube-music-list/"><u>In 2024, Transitioning Playlists From Spotify to a Tailored YouTube Music List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-6-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 6 i Do? Get Answers here</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-rotation-rituals-mastering-angles-that-engage-captivate-and-amaze-for-2024/"><u>Insta Rotation Rituals  Mastering Angles that Engage, Captivate, and Amaze for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-8-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 8 Plus Properly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-new-era-with-powerdirector-app-2024-edition/"><u>Navigating the New Era with PowerDirector App 2024 Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlined-steps-for-saving-webcam-dialogues-for-2024/"><u>Streamlined Steps for Saving Webcam Dialogues for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-elite-5-youtube-channel-power-players-for-2024/"><u>The Elite 5  YouTube Channel Power Players for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
