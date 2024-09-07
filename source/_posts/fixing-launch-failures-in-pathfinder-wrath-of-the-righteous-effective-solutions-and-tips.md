@@ -1,7 +1,7 @@
 ---
 title: "Fixing Launch Failures in Pathfinder: Wrath of the Righteous – Effective Solutions and Tips"
-date: 2024-08-09T10:54:27.434Z
-updated: 2024-08-10T10:54:27.434Z
+date: 2024-09-06T21:00:26.407Z
+updated: 2024-09-07T21:00:26.407Z
 tags:
   - win11
   - win10
@@ -17,11 +17,14 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
 ![pathfinder: Wrath of the Righteous](https://images.drivereasy.com/wp-content/uploads/2021/09/pathrider-1200x800.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Pathfinder: Wrath of the Righteous, a sequel to Pathfinder: Kingmaker, is developed by the same Publisher: Owlcat Games and Publisher Deep Silver. However, many players are having issues with this epic saga. If your Pathfinder:**Wrath of the Righteous is not launching** or crashes to the desktop after the game logo, you will find every possible fix in this post.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Failed to start Wrath of the Righteous startup? Try these fixes
 
  First, make sure your PC meets the minimum requirements for Pathfinder: Wrath of the Righteous.
@@ -42,7 +45,10 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 6. [Change the GPU priority](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 1: Restart the Steam client
 
@@ -52,11 +58,20 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
 2) Select**Library** , and then right-click on**Pathfinder: Wrath of the Righteous** \> select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game properties](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…**
 
 ![verify game files in Steam](https://images.drivereasy.com/wp-content/uploads/2021/09/verify.png)
@@ -67,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  Try starting the game and check if the ‘Pathfinder: Wrath of the Righteous not launching’ issue persists. If this method doesn’t do the trick, you can move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  To boost gaming performance, it’s always recommended to keep your drivers up to date, especially your graphics driver (sometimes your audio drivers, too). If your driver is outdated or faulty, you may experience game crashing / not launching issues quite often (newly-released games especially).
@@ -82,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
  3) Click the **Update**  button next to a flagged graphics / audio driver to automatically download and install the correct driver (You can do this with the FREE version).
@@ -104,18 +113,24 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  1) Launch Gog and go to**Setting** s by clicking the GOG icon on the left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![GoG settings](https://images.drivereasy.com/wp-content/uploads/2021/09/46e9a5f8532993ddb8e9c46043a41a5e0e77_740xt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Go to**Game Features** and uncheck**Overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off gog overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/gog.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now you’ve disabled in-game notifications and overlay in GoG. Start your game again to check if**Pathfinder: Wrath of the Righteous not launching** issue persists.
 
  If you’re using an NVIDIA graphics card, you can disable NVIDIA overlay.
@@ -124,21 +139,36 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  2) Right-click the Nvidia icon ![Nvidia_icon.png](https://support-leagueoflegends.riotgames.com/hc/article_attachments/360002415867/Nvidia_icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click **GeForce Experience** .
 
  4) Click on the **Settings** icon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  How to disable the GeForce Experience Share in-game overlay
 
  4) Under the**GENERAL** tab, scroll down and toggle**IN-GAME OVERLAY** to **Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off NVIDIA overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-1200x366.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Close the GeForce Experience window and try starting your game again to test the issue. If your Pathfinder: Wrath of the Righteous is not launching, don’t worry since we have a few fixes for you to try.
 
 ### Fix 4: Modify the Registry
@@ -155,33 +185,12 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  4) Restart your game. Wait for the game to load and don’t alt-tab out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Perform a clean boot
 
  Some applications can interfere with your Pathfinder: Wrath of the Righteous, especially your antivirus software. To check if this is the cause of ‘Pathfinder: Wrath of the Righteous not launching’, you can temporarily uninstall your antivirus software because simply disabling it might not work.
 
  If this doesn’t work, there might be other applications that are conflicting with your game. You might want to **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**  to find the problematic one and uninstall it temporarily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Fix 6: Change the GPU priority
 
  If you have multiple GPUs installed, you might as well try changing the GPU to the dedicated card to see if this helps.
@@ -190,10 +199,22 @@ Key features:
 
 ![nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/09/control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select**Manage 3D Settings** under**3D Settings** .
 
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
  4) Below you will see ‘**Select the preferred graphics processor for this program** ‘. Expand the list and select the dedicated graphics card e.g.**High-performance Nvidia processor** .

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 15
-date: 2024-07-15T02:37:41.025Z
-updated: 2024-07-16T02:37:41.025Z
+date: 2024-09-06T20:57:24.067Z
+updated: 2024-09-07T20:57:24.067Z
 tags: 
   - unlock
   - remove screen lock
@@ -14,6 +14,12 @@ keywords: solve iphone randomly asking for apple id,fix iphone unavailability,fa
 thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 15
 
 Auto-lock on iOS devices serves multiple purposes - it conserves battery life, secures your data, and more. But have you encountered the **Auto-Lock greyed-out** dilemma, fixed at 30 seconds? When this setting becomes inaccessible, it limits your control over screen timeout.
@@ -22,6 +28,12 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 15 or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -32,18 +44,36 @@ When you activate Low Power Mode on your iOS device, you might notice the screen
 
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Screen Time Restrictions
 
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
 Fix No.1: Disable Low Power Mode
@@ -56,6 +86,12 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
 Fix No.2: Check Screen Time Restrictions
@@ -84,6 +120,18 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Fix No.4: Remove Network Settings Installed by MDM
 
 Businesses often use Mobile Device Management (MDM) to remotely manage their employees' iPhones and iPads. MDM lets IT admins push software updates, restrict apps, and remotely wipe a lost device. This keeps corporate data safe and devices under control, whether the company or the employee owns them.
@@ -96,9 +144,6 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -142,11 +187,14 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
 
 Fix No.6: Check and Adjust Auto-Lock Settings
@@ -178,6 +226,18 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 15 or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -188,9 +248,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15
 
 Your Apple ID is the cornerstone of your Apple device experience. It serves as the key to accessing a lot of functions. It plays an essential role, from App Store purchases to [iCloud storage](https://drfone.wondershare.com/icloud-storage-is-full.html) and device syncing. It ensures smooth functionality across Apple devices. Apart from its convenience, the Apple ID serves as an essential element for security.
@@ -199,14 +256,38 @@ Yet, despite its significance, issues can arise, disrupting the active status of
 
 ![apple id not active on device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Reasons Why Apple ID Is Not Active
 
 Understanding the causes behind “ why **my Apple ID is not active**” is necessary for resolving it. Several factors contribute to this problem, requiring attention for a successful resolution. A few of these reasons are outlined below to help you understand the issues with Apple ID:
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Incorrect Login Credentials
 
 An inactive Apple ID results from incorrect login information. Mistyped passwords or forgotten Apple ID usernames can render the account inactive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Account Security Measures
 
 Apple employs strict security measures to protect user accounts. Sometimes, an Apple ID becomes inactive due to suspicious activities. This triggers security locks to safeguard sensitive information.
@@ -223,6 +304,18 @@ At times, issues with Apple's servers or network connectivity problems on your e
 
 System updates or software glitches might also play a role in deactivating an Apple ID. Incompatibility issues can arise from software updates or glitches within the OS. These can interfere with the account's active status.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. \[Direct Solution\] Fix Apple ID Not Active Issue With Wondershare Dr.Fone
 
 When it comes to resolving **my Apple ID, which is not active**, [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as an exceptional solution. It is universally recognized for its reliability and user-friendly interface. Dr.Fone provides an effortless process for [unlocking Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) and restoring accessibility to your device. The tool makes it easy to fix issues related to Apple ID without needing to figure out complicated settings.
@@ -235,6 +328,12 @@ It can permanently bypass the Apple ID lock, even when the Find My feature is ac
 2. It alsooffers the ability to remove iTunes backup encryption without damaging its data.
 3. Allows removing the SIM lock, allowing you to use your device internationally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps To Fix Apple ID Not Active Issue With Dr.Fone
 
 The user-friendly interface of Dr.Fone ensures that all types of users can remove Apple ID from their devices. To fix the **Apple ID not active on iPhone** issue with Dr.Fone - Screen Unlock (iOS), follow these steps:
@@ -258,6 +357,18 @@ To initiate Recovery Mode for your iDevice, follow the on-screen instructions. O
 
 ![start apple id unlock process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 4. Verifying Firmware and Confirming Apple ID Unlock**
 
 Once the firmware download is complete, the platform verifies it. To begin unlocking your Apple ID, select "Unlock Now." A prompt will pop up, requesting you to enter a code to proceed. Input the code and choose "Unlock" to start the unlocking process. After a successful unlocking, a confirmation message will appear on your screen. To conclude the process after the Apple ID is unlocked, click on "Done."
@@ -266,6 +377,12 @@ Once the firmware download is complete, the platform verifies it. To begin unloc
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Some Other Basic Solutions to Apple ID Not Active
 
 Wondershare Dr.Fone - Screen Unlock (iOS) provides a reliable and efficient **Apple ID but is not the active solution**. Yet, there are alternative solutions that are worth considering. These solutions offer different approaches that might suit various preferences or specific situations. Here are some basic solutions to resolve the 'Apple ID not active' issue:
@@ -278,12 +395,24 @@ An inactive Apple ID issue might sometimes stem from a temporary glitch within t
 
 ![restart your ios device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2. Try Changing Wi-Fi or Mobile Data
 
 An inactive Apple ID issue might occasionally arise due to connectivity problems. Switching between Wi-Fi and mobile data can help troubleshoot network-related issues. As a result, it can resolve the error affecting your Apple ID's activity. As a result, the Apple iPhone 15 device can be restored to its normal state.
 
 ![change wifi or mobile data](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 3. Try Resetting Your Apple ID Password
 
 Resetting your Apple ID password is a common solution for addressing problems linked to an inactive ID. This proves particularly effective when issues stem from entering incorrect login details.
@@ -298,9 +427,6 @@ Do you know your Apple ID and simply need to reset the password? You can easily 
 
 - **Step 2.** Next, tap "Change Password" and provide your device passcode. You will need to type in a new password, verify it, and press "Change" from the top-right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change old password after verification](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-9.jpg)
 
 #### Solution 2: Reset Apple ID Password From iForgot Website
@@ -311,6 +437,18 @@ Are you unable to reset your Apple ID password directly from your device? If you
 
 ![reset password via iforgot website](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2:** Upon reaching the subsequent screen, input the “Email or Phone Number” linked to your Apple ID. Then, verify the CAPTCHA verification and proceed by tapping "Continue." Adhere to the instructions on the screen to finalize the password reset procedure.
 
 ![enter phone and captcha characters](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-11.jpg)
@@ -323,6 +461,12 @@ Verifying the status of Apple's services, including iCloud, can help determine i
 
 ![visit apple system status page](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 5. Look Out for Apple Support
 
 When all other troubleshooting methods fail to resolve the issue of an inactive Apple ID, contacting Apple Support is the last step. It can be an essential step if you seek personalized assistance and guidance. Apple's support team comprises experts capable of providing tailored solutions for various iOS issues.
@@ -331,13 +475,28 @@ When connecting with Apple Support, be ready to provide details about your issue
 
 ![get help from apple support](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In conclusion, an **Apple ID that is not active** can disrupt access to essential device services. Various troubleshooting methods offer solutions, including resetting passwords, checking network connections, and consulting Apple Support. Yet, Dr.Fone is a hassle-free and efficient option among the solutions provided.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Reset iTunes Backup Password Of Apple iPhone 15: Prevention & Solution
 
 When you back up the data from your Apple iPhone 15, iPad, or iPod touch, you will have a copy of the information stored on those devices. It's free to use iTunes, iCloud, or both to back up your device.
@@ -348,6 +507,18 @@ To get started, please follow the instructions that are listed below.
 
 ![itunes](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: iPhone Backup Encryption Specifications
 
 A safety precaution that may be taken to prevent unwanted access to your Apple iPhone 15 backups is using a password for the backups themselves.
@@ -388,6 +559,12 @@ Now, go to **Reset All Settings** and confirm by entering the security passcode.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. "Back Up Now" in "iCloud."
 
 If you already have a backup stored in iCloud, you may use iCloud to reset the encryption password iPhone.
@@ -400,6 +577,24 @@ After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Find it back in the macOS keychain
 
 Launch Keychain Access by going to **Application,** then **Utilities,** and choose **Keychain Access** once your Mac has booted up.
@@ -410,6 +605,12 @@ Double-click **Show Password**, and choose it from the drop-down menu. The passw
 
 ![macos keychain](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tips: Best App to Remove iTunes Backup Password
 
 Do you have a loved one's locked iPhone and don't know the passcode?
@@ -449,7 +650,19 @@ Click **"Remove Now"**
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Tips to Keep Your Apple iPhone 15 Backup Password
 
 ### 1\. Use birthday as password
@@ -458,6 +671,12 @@ It is essential to use a password that is both robust and one of a kind if you w
 
 Using your birthdate as the password is one approach that has shown to be useful. This strategy helps guarantee that your password is not readily guessed or cracked while at the same time ensuring that it is simple for you to remember.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Use a third-party app to keep it
 
 There is a wide selection of third-party software on the market that may assist you in maintaining the privacy and integrity of the data stored on your Apple iPhone 15.
@@ -466,6 +685,12 @@ These applications cannot only safeguard your data but also add additional level
 
 KeepSafe and Norton Zone are just examples of the many different programs available. Not only will your Apple iPhone 15 backup password be safe and secure with these programs, but other crucial information stored on your phone will also be protected.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Write it down on a note
 
 If you need to change your Apple iPhone 15's backup password but have forgotten it, you'll know how aggravating it is. Passwords can be difficult to keep straight in your head even after you've exhausted the most obvious possibilities.
@@ -476,6 +701,12 @@ Launch Notes and make a new note to do this. After that, you may protect the mes
 
 You may now easily access your backup password by referring to the note. Though it's not ideal, it's better than losing track of your password and starting over from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 The process to reset iPhone's backup password is not as complicated as you think and can be completed in a matter of minutes. You may quickly and reset your password and go back to using your phone by following the steps outlined above.
@@ -499,3 +730,49 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-screening-youtubes-most-liked-creators/"><u>[New] The Ultimate Screening YouTube's Most Liked Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-bridging-communication-gaps-effective-use-of-slack-and-filmora-for-2024/"><u>[Updated] Bridging Communication Gaps Effective Use of Slack and Filmora for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-fast-fixes-for-capturing-games-on-devices/"><u>[Updated] Fast Fixes for Capturing Games on Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-10-best-action-adventure-games-of-all-time/"><u>[Updated] In 2024, 10 Best Action-Adventure Games of All Time</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-tricks-for-captivating-boomerangs-for-2024/"><u>[Updated] Innovative Tricks for Captivating Boomerangs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-satire-skills-video-comedy-mastery-tips/"><u>[Updated] Satire Skills Video Comedy Mastery Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screenflow-for-mac-full-review-for-2024/"><u>[Updated] ScreenFlow for Mac Full Review for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-srgb-standardization-versus-classic-rgb-model/"><u>2024 Approved Srgb Standardization Versus Classic Rgb Model</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-11-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 11 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-13-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-launch-errors-in-lost-ark-latest-fixes-and-tips/"><u>Defeating Launch Errors in Lost Ark - Latest Fixes and Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-video-decks-smart-description-templates-for-2024/"><u>Elevate Video Decks Smart Description Templates for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-se-2022-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone SE (2022) When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-8-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-15-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 15 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-magic-6-lite-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor Magic 6 Lite Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-12-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 12 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-xr-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone XR Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-14-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 14 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-review-prime-cars-surveillance-devices/"><u>In 2024, Exclusive Review Prime Cars Surveillance Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-7-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 7 Plus With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 14 Pro Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 with a Mask On</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-smartphototech-ai-edition-advantages/"><u>In 2024, Leading SmartPhotoTech AI Edition Advantages</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-pro-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-12-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 12 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Pro Properly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-13-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 13 Pro Prevention & Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-driver-mastery-for-multiple-windows-environments/"><u>StarTech Driver Mastery for Multiple Windows Environments</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamline-media-storage-with-3-tactics/"><u>Streamline Media Storage with 3 Tactics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-mini-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 mini</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-intersection-of-design-and-efficiency-in-professional-environments-for-2024/"><u>The Intersection of Design & Efficiency in Professional Environments for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-13-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 13 Pro i Do? Get Answers here</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Apple iPhone XS Without Passcode? 4 Easy Methods
-date: 2024-08-09T10:49:02.900Z
-updated: 2024-08-10T10:49:02.900Z
+date: 2024-09-06T21:00:36.721Z
+updated: 2024-09-07T21:00:36.721Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,17 +22,26 @@ The Apple iPhone XS are high-end smartphones with many features and capabilities
 
 This blog post will discuss several methods to unlock your Apple iPhone XS without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone XS's passcode or are just looking for ways to unlock iPhones without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is It Possible to Unlock Apple iPhone XS without a Passcode?
 
 Unlocking an iPhone without a passcode is possible, but it's not as simple as entering a code. Besides, there are different methods that you can follow to unlock your Apple iPhone XS on 11/12/13.
 
 And we are going to teach all those methods with some simple steps. So, without any further ado, let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock iphone 11 12 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Easy Ways to Unlock Apple iPhone XS without Passcode by Yourself
 
 ### Use Find My iPhone
@@ -53,12 +62,24 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 
 **Step 6:** Once your device has been erased, you can set it up again and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock it with iTunes
 
 Another way to unlock your Apple iPhone XS without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your Apple iPhone XS:
 
 ![how to unlock iphone 12 without passcode with itunes](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 1:** Connect your Apple iPhone XS to the computer you previously used to sync your device with iTunes.
 
 **Step 2:** Open the iTunes application on your computer and wait for it to recognize your device.
@@ -69,6 +90,18 @@ Another way to unlock your Apple iPhone XS without a passcode is by using iTunes
 
 **Step 5:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock iPhone in Recovery Mode
 
 If you have never tried to sync your device with iTunes or used the Find My iPhone feature, you can use recovery mode to unlock your device. This more complex method will erase all the data on your device. So, ensure that you have backed up your data before proceeding with this method. Here's how you can use recovery mode to unlock your Apple iPhone XS:
@@ -105,18 +138,6 @@ Here's how you can use Siri to bypass the Passcode:
 
 But this method will not work on newer iPhones 11/12/13 and iPhone 14 because they run on the latest iOS.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone-Screen Unlock
 
 
@@ -140,16 +161,34 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![drfone interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Create the connection from your Apple iPhone XS to the computer with a lightning cable.
 
 ![how to unlock iphone 13 without passcode in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Follow the image on the screen to make your device enter in DFU mode or Recovery mode.
 
 **Step 4:** Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone XS.
 
 ![how to unlock iphone 12 without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5:** Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
 
 ![how to unlock iphone 11 without password](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -179,6 +218,12 @@ That's it! Your Passcode is now turned ON, and your device is more secure than e
 
 To shut down the Passcode on your Apple iPhone XS, follow the steps above and toggle the 'Passcode' switch to the 'OFF' position.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 As you see in the article, there are some ways to reset your Apple iPhone XS passcode. However, if you're looking for an easy and effective solution, we recommend using Dr.Fone-Screen Unlock. It is a professional tool that can unlock your Apple iPhone XS without a passcode. Plus, it doesn't cause any damage to the Apple iPhone XS device, which is always a good thing.
@@ -187,6 +232,12 @@ If you're not interested in using a third-party tool, you can try one of the met
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Remove Passcode From Apple iPhone XS? Complete Guide
 
 If you have an iPhone, you've likely set a passcode to protect your device. While this is a great security measure, you may need to remove the passcode. Whether you want to get rid of your code or plan to sell your phone, these instructions will show you how to remove your passcode from your Apple iPhone XS in just a few steps.
@@ -195,6 +246,12 @@ Not just this, we will give you different methods so that you can select the mos
 
 So let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Useful Methods to Remove Passcode from iPhone
 
 Following are some of the most effective methods to remove the passcode from iPhones:
@@ -205,6 +262,12 @@ This is the most common and easy method to remove the passcode from iPhone. You 
 
 ![remove passcode from iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Go to "Settings" and scroll down to find "Touch ID & Passcode (or Face ID & Passcode)."
 2. Click on "Turn Passcode Off"
 3. Confirm with your current passcode
@@ -212,16 +275,10 @@ This is the most common and easy method to remove the passcode from iPhone. You 
 However, this method can help you only when you know your Passcode. In case you have forgotten it, you can use the following methods.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Remove via iTunes (Erase iPhone)
 
@@ -242,6 +299,12 @@ If you have enabled the "Find My" feature on your device, you can remove the pas
 
 ![how to remove passcode from iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Get into iCloud.com from any web browser
 2. Enter your Apple ID and password to log in
 3. Click on "All Devices" at the top of the screen
@@ -254,12 +317,24 @@ So these are some simple methods that you can use to remove passwords from your 
 
 But if you are facing bugs in your Apple iPhone XS while erasing the passcode, you might do nothing because nothing will work fine on your Apple iPhone XS. In this case, you can follow the method given above.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tips: Easy App to Remove Passcode from Your Apple iPhone XS
 
 If you want a hassle-free solution to remove the passcode from your Apple iPhone XS, we recommend you use [Wondershare Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). It is a widely used and trusted tool that can help remove any passcode from your device, including 4/6-digit passcodes, Face/Touch IDs, and even commercial codes.
 
 ![remove passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Here are some of its key features:
 
 - It can remove all passcodes from your device, including 4/6-digit codes, Touch/Face ID, etc.
@@ -286,6 +361,12 @@ Now you need to set up the tool by following the steps given below.
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step #3: Connect your Apple iPhone XS in DFU Mode**
 
 Now you need to connect your Apple iPhone XS to DFU mode.
@@ -302,6 +383,12 @@ After you have put your Apple iPhone XS in DFU mode, the tool will detect it and
 
 ![how to remove a passcode from iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The downloading process might take some time according to your internet connection. So wait patiently until the process is completed.
 
 **Step #5: Unlock your Apple iPhone XS**
@@ -327,6 +414,12 @@ No, removing the Passcode from iPhone without data loss is impossible. But we re
 
 Please remember, if you have already created a backup of your device, it will overwrite the existing backup. So make sure you create a new backup of your device before proceeding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Can I remove the passcode via hard restart?
 
 No, you can't remove the passcode from your device via a hard restart. If you try to do it, it will erase all the data from your device, and there is no possibility of accessing it anymore. So, we recommend you not to try it.
@@ -341,16 +434,40 @@ After that, you can enter the new passcode that you want to set for your device.
 
 Besides, there is no way to change the passcode on your device. So, if you forget your passcode, you will have to factory reset your device to access it again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to remove the passcode if I forgot it?
 
 If you forgot the passcode of your device and you want to remove it, then you can follow the steps given in this article. We have explained the complete process of removing the passcode from your device if you forgot it.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 That's all about how you can remove the Passcode from your Apple iPhone XS. We have explained the complete process of how you can do it. You can follow those steps and easily remove the Passcode from your device. But remember, by doing this, all the data on your device will be erased. So make sure you create a backup of your device before proceeding.
 
 If you have any other questions or doubts about this process, feel free to ask us. We would be sincerely happy to help you out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Apple iPhone XS without Passcode or Face ID
 
 You can't access your Apple iPhone XS because the Face ID isn't working, and you forgot your passcode? So you are considering **how to unlock iPhone without face ID or passcode**. If so, this article will walk you through how to do that.
@@ -359,6 +476,12 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 
 ## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Unlock it via Find My
 
 - Go to the iCloud official site, and sign in to your iCloud account. The site will give you two or three choices when you log in. Click on "Find iPhone" to proceed.
@@ -367,6 +490,12 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 
 ![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Via iTunes
 
 **Step 1. Go to Recovery Mode**
@@ -375,6 +504,12 @@ Entering the recovery mode requires various steps, given your Apple iPhone XS mo
 
 ![enter recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **iPhone 8 and Above:**
 
 - Hold the Side button used to lock your screen and both Volume buttons. The power-off slider will show up on the screen.
@@ -475,6 +610,12 @@ After the phone is in recovery/DFU mode, the program will show the locked device
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4. Remove the Screen Lock**
 
 After downloading the firmware effectively, click the "Unlock Now" button to let Dr.Fone unlock your Apple iPhone XS.
@@ -487,16 +628,16 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
@@ -504,19 +645,34 @@ Face ID can be a helpful method for unlocking your Apple iPhone XS - by simply l
 
 Here's the step-by-step guide to the most effective method to switch off Face ID on the iPhone:
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Open the Settings application
 
 First, tap on your Settings app to open it. That is the one on the home screen with a symbol like the mechanical gear.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Tap on Face ID and Passcode
 
 On the Settings menu, tap on the Face ID and Passcode menu.
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Enter your passcode
 
 At this stage, you'll be approached to enter your passcode, so do this to get to the Face ID and Passcode menu.
@@ -527,6 +683,12 @@ You'll have the option to turn off the switch for Face ID across different activ
 
 ![turn off passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Can I bypass my iPhone Face ID with a picture?
 
 As indicated by Apple, the short and obvious answer is no.
@@ -535,6 +697,18 @@ FaceID isn't simply a camera snapping a picture. It utilizes an exceptional chip
 
 It doesn't work by snapping a picture of your face, but by taking a contour of your face if you utilize a camera that can see infrared. However, a photograph is a level and cannot give a dab matrix required for Face ID to work. You may be holding a clear piece of paper before the phone.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 That's all about our take on **how to unlock iPhone without passcode or face ID 2022.** We have worked hard to make sure you get the right solutions in hand. However, we strongly suggest Dr.Fone if you still face issues with our solutions. Even if the above methods fail, Dr.Fone will ensure you unlock your phone.

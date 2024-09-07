@@ -1,7 +1,7 @@
 ---
 title: iPhone XS Max Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-08-09T10:46:03.962Z
-updated: 2024-08-10T10:46:03.962Z
+date: 2024-09-06T21:00:30.734Z
+updated: 2024-09-07T21:00:30.734Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,18 @@ Unfortunately, this capability may also become problematic if you inadvertently 
 
 But the good news is you have some possible fixes. So, let's talk about them.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
 Many iPhone users have problems with iTunes when they back up their devices.
@@ -46,6 +58,12 @@ A significant possibility is that you encrypted the iTunes backup with the same 
 
 Therefore, before doing anything further, try all passwords to configure your iTunes account. For example, try entering 0000, 123456, name123, or 1111.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Find the password from Keychain on macOS
 
 You may also attempt to find the password for the iTunes backup using the keychain approach if you are working on a Mac.
@@ -70,6 +88,12 @@ Here are what you can do with your iOS smartphone if it has iOS 11 or a later ve
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Once the reset has been completed, your previous password will be deleted.
 
 **Step 4:** The next thing you should do is take a fresh backup of your Apple iPhone XS Max using iTunes, and then establish a new password for the backup that iTunes creates.
@@ -82,6 +106,12 @@ You will need to use an alternative strategy, which includes a factory reset if 
 
 ![reset in settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Confirm that you want to reset your Apple iPhone XS Max to factory settings, and wait until it is done.
 
 **Step 4:** Once the factory data reset is finished, you must restore your iCloud backup. To do this, follow the steps for setting up iOS until you reach the **Apps & Data** option.
@@ -92,19 +122,28 @@ You should be aware that resetting the Apple iPhone XS Max device to factory set
 
 On the other hand, it does make it possible for you to generate a fresh backup in iTunes that is not encrypted.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Dr.Fone-Screen Unlock
 
 **First step:** After installing Dr.Fone on your device, please run the program and look for the red button labeled **"Screen Unlock."**
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** When brought to this screen, please use a USB cord to connect your iOS device to your personal computer. If Dr.Fone can identify this relationship, the following picture will appear for you to see.
 
 Please read the following three notes carefully before clicking the **"Remove Now"** button:
@@ -115,24 +154,57 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone XS Max backup never set in the first place!
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone XS Max backup password. The first method is to try all the passwords you use on your Apple iPhone XS Max. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone XS Max.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
 
 In today’s world, your phone is your most important asset. Especially when you own an iPhone, you’re much more careful because it is pretty expensive than normal phones. You're always making sure to keep it safe and secure, but Apple has ways to keep you away from this hassle.
@@ -176,6 +248,12 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
@@ -200,12 +278,30 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 7: Turn off Find My iPhone**
 
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
 iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone XS Max with other iOS devices so you can share your data, documents, and location with other iCloud users.
@@ -220,14 +316,38 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone XS Max, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone XS Max allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone XS Max updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -291,13 +411,16 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 ![how to factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step #4: Choose the Appropriate Firmware and Download it:**
 
 After your Apple iPhone XS Max is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step #5: Reset your Apple iPhone XS Max:**
@@ -310,6 +433,12 @@ The process will take a few minutes if you have a strong internet connection bec
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
 Besides the above-given method, other methods can also help you factory reset your locked iPhone without iTunes.
@@ -322,6 +451,12 @@ Resetting your locked iPhone without iTunes is one of the most effective methods
 
 ![via the find My Apple iPhone XS Max feature](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To do this, you need to follow these steps:
 
 **Step 1:** Go to icloud.com from any web browser and log in with your Apple ID and password.
@@ -338,9 +473,6 @@ Now that your device has been erased, you can reset it as a new one.
 
 This is another method you can use if you have the " Find My iPhone " feature on your device. You can use this method to remotely factory reset your locked iPhone without iTunes by using another iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the find my iphone on another device](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-2.jpg)
 
 To do this, you need to follow these steps:
@@ -359,9 +491,6 @@ Your device will now be erased, and you can set it up as a new device.
 
 If you want to factory reset your locked iPhone without iTunes and any data loss, then this is the method you should use. This method will put your device into recovery mode, and then you can restore it from a previous backup.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![the recover mode on finder](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-3.jpg)
 
 To do this, you need to follow these steps:
@@ -374,8 +503,20 @@ To do this, you need to follow these steps:
 
 Your device will now be erased, and it'll become a new device.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Can a Factory Reset Bypass the Lock screen Passcode on iPhone?
 
 Yes. A factory reset will bypass the lock screen passcode on your Apple iPhone XS Max and allow you to access it without a passcode. However, all your data will disappear, so make sure you have a backup.
@@ -386,6 +527,12 @@ No. If you want a factory reset, all your data will be erased, so make a backup 
 
 But if you want your Apple iPhone XS Max set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
@@ -396,6 +543,12 @@ To force your Apple iPhone XS Max to factory reset with buttons, you need to fol
 
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
 
 **Step 2:** After 10 seconds have passed, release the " Sleep/Wake " button but keep holding the " Home " button.
@@ -410,6 +563,12 @@ Your device will now be reset, and you will have a phone like a new one.
 
 If you have lost the passcode of your Apple iPhone XS Max, then you can use the Dr.Fone-Screen Unlock tool to factory reset your device. To do this, you need to proceed with the steps given above. They are easy to follow and will help you reset your device without risk.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 These are some of the most effective methods that can help you factory reset your locked iPhone without iTunes. You can use any of these methods to reset your device and get rid of the lock screen.

@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Streaming Device: Roku Vs. Amazon Fire TV Stick"
-date: 2024-08-09T10:54:21.652Z
-updated: 2024-08-10T10:54:21.652Z
+date: 2024-09-06T21:00:26.503Z
+updated: 2024-09-07T21:00:26.503Z
 categories:
   - BestProducts
 description: "This Article Describes Choosing the Right Streaming Device: Roku Vs. Amazon Fire TV Stick"
@@ -13,13 +13,22 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
 4.6
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Amazon Fire TV Cube
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/K_gugGZBSXUKggkCqocQEu_IF2U=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire/Emily Ramirez
 
  What We Like
@@ -42,12 +51,14 @@ Lifewire/Emily Ramirez
 
 4.6
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Amazon Fire TV Cube
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/WzC13ETTqm-8PU2bc8-jh9O3G7c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
 
 Lifewire/Emily Ramirez
@@ -71,16 +82,16 @@ Lifewire/Emily Ramirez
 
  Updated for 2019, the Amazon Fire TV Cube brings powerful hardware that can stream thousands of channels and apps in full[4K HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) with Dolby Vision encoding. The glowing cube also takes voice commands, basically making it an Echo speaker, but is Alexa’s brainpower and its beefy hexacore processor enough to justify its relatively hefty price tag? I spent 15 hours putting it to the test, read on to see how I liked it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/XdJMKZTDX0bcXYVWQa5F4sXhnt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroHoriz-bb386a84025b49d2a22d3d34c6974007.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Futuristic design powered by Alexa**
 
  The Fire TV Cube is a cute, futuristic-looking block that will stand out on your home console despite its 4-inch sides. On the outside, it’s virtually unchanged from the first-generation model. Across the top, there’s a blue LED bar that lights up whenever the Cube takes action. The sides of the cube have a glossy black finish that’s a fingerprint magnet. There’s volume and menu buttons on the top, as well, but we don’t foresee a lot of use for them considering that the Cube comes with a remote. In the back, there’s an[HDMI connector](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a power adapter port, and a micro USB port.
@@ -113,6 +124,12 @@ Lifewire/Emily Ramirez
 
 Lifewire/Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Heavily biased toward Amazon services**
 
  Software is simultaneously Fire TV’s strongest and weakest point. On the one hand, the quantity of content available on the Fire TV platform is astounding—there’s over 5,000 apps to choose from, as well as a meager library of simple games to play. If you’re looking for something, you will find it.
@@ -127,16 +144,15 @@ Lifewire/Emily Ramirez
 
  If you’re interested in a Cube because you love Amazon products and content, you’ll be pleased with Prime’s selection of video. There are many, many shows included with your Prime subscription, a lot of them with a stellar production team. Almost all Amazon originals are filmed in 4K, so you can get the most out of your Cube’s performance capabilities. If you haven’t already, you should watch The Expanse and The Marvelous Mrs. Maisel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/21Mjfh9xUyCrX05R6TQdh9JX64c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_02-603b91304a21457c94312ceb97dfcf74.jpg)
 
 Lifewire/Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: On the expensive side**
 
@@ -155,7 +171,16 @@ Lifewire/Emily Ramirez
  The Amazon Fire TV Cube is a fantastic streamer for those committed to the Alexa ecosystem. However, it’s a little expensive if you only want reliable 4K streaming, in which case you may be better served by the Fire TV Stick 4K or the Roku Streaming Stick+ for $50.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

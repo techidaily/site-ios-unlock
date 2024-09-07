@@ -1,7 +1,7 @@
 ---
 title: Unlock Apple iPhone XS Without Passcode Easily
-date: 2024-08-09T10:44:50.280Z
-updated: 2024-08-10T10:44:50.280Z
+date: 2024-09-06T21:00:28.094Z
+updated: 2024-09-07T21:00:28.094Z
 tags: 
   - unlock
   - remove screen lock
@@ -14,6 +14,18 @@ keywords: change apple id on ipad,how to unlock iphone 12,how to unlock iphone w
 thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlock Apple iPhone XS Without Passcode Easily
 
 In the ever-growing world of smartphones and the latest tech, Apple has always earned its place among the top. However, as is bound to happen with every other device, you can frequently face issues with your Apple iPhone XS along the way.
@@ -43,6 +55,12 @@ The first step you need to connect your Apple iPhone XS  to your computer. Launc
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone XS within seconds.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -69,6 +87,12 @@ When the firmware is downloaded successfully, all you have to do is click on the
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Part 2: Remove Passcode by Restoring Apple iPhone XS/Apple iPhone XS Plus**
 
 If your Apple iPhone XS has been accidentally locked or disabled, there is an effective method to restore it. You can erase your Apple iPhone XS  data and restore it from iTunes if you have previously backed up with it. Backing up data regularly is an advisable way to avoid the trouble of losing it forever.
@@ -82,9 +106,6 @@ Here are the steps to recover Apple iPhone XS  via iTunes backup.
 
 3. From there, look for the “Restore Backup” option and click on it. A confirmation window will pop up. Confirm your action.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
     ![feasible ways to unlock Apple iPhone XS 2](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-2.jpg)
 
 4. You shall be asked to enter your iTunes account information. Enter the previously used account to set up the Apple iPhone XS and navigate through the instructions to register.
@@ -93,6 +114,12 @@ Here are the steps to recover Apple iPhone XS  via iTunes backup.
 
     ![feasible ways to unlock Apple iPhone XS 3](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Part 3: How to Change Passcode on Apple iPhone XS?**
 
 If you wish to know how to change the passcodes on Apple iPhone XS, you are at the right place. Changing the passcode on one’s device is a rather mundane task and is not at all as laborious a task as it may seem. Various types of passcodes are available to be configured in your device, as suited by a user’s personal preference.
@@ -109,17 +136,41 @@ If you wish to change the passcode on Apple iPhone XS , simply follow the steps 
 
     ![feasible ways to unlock Apple iPhone XS 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Once again, enter your current password.
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
 
     ![feasible ways to unlock Apple iPhone XS 6](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Select a specific passcode type, enter your new password and click on "Next."
 
     ![feasible ways to unlock Apple iPhone XS 7](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-7.jpg)
 
 8. Enter your new password once again for confirmation and conclude the process by clicking on "Done."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Closing
 
 Now you know what to do the next time you forget your passcode. Using the simple methods and techniques mentioned above, you can easily restore your Apple iPhone XS the passcode, or you can unlock your Apple iPhone XS without knowing the passcode, avoiding much trouble. Hopefully, this could prove to be of service to you.
@@ -130,21 +181,39 @@ The Apple iPhone XS are high-end smartphones with many features and capabilities
 
 ![unlock iphone 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This blog post will discuss several methods to unlock your Apple iPhone XS without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone XS's passcode or are just looking for ways to unlock iPhones without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is It Possible to Unlock Apple iPhone XS without a Passcode?
 
 Unlocking an iPhone without a passcode is possible, but it's not as simple as entering a code. Besides, there are different methods that you can follow to unlock your Apple iPhone XS on 11/12/13.
 
 And we are going to teach all those methods with some simple steps. So, without any further ado, let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock iphone 11 12 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5 Easy Ways to Unlock Apple iPhone XS without Passcode by Yourself
 
@@ -154,6 +223,12 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 
 ![use find My Apple iPhone XS to unlock iphone 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 1:** Go to icloud.com from any web browser on your computer or another iOS device.
 
 **Step 2:** Enter your Apple ID and password to log into your iCloud account.
@@ -166,12 +241,24 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 
 **Step 6:** Once your device has been erased, you can set it up again and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock it with iTunes
 
 Another way to unlock your Apple iPhone XS without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your Apple iPhone XS:
 
 ![how to unlock iphone 12 without passcode with itunes](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 1:** Connect your Apple iPhone XS to the computer you previously used to sync your device with iTunes.
 
 **Step 2:** Open the iTunes application on your computer and wait for it to recognize your device.
@@ -182,12 +269,30 @@ Another way to unlock your Apple iPhone XS without a passcode is by using iTunes
 
 **Step 5:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock iPhone in Recovery Mode
 
 If you have never tried to sync your device with iTunes or used the Find My iPhone feature, you can use recovery mode to unlock your device. This more complex method will erase all the data on your device. So, ensure that you have backed up your data before proceeding with this method. Here's how you can use recovery mode to unlock your Apple iPhone XS:
 
 ![how to unlock iphone 11 without password in recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 1:** Connect your Apple iPhone XS to the computer and launch the iTunes application.
 
 **Step 2:** Press and hold down the 'Volume' and 'Power' buttons simultaneously for a few seconds.
@@ -222,6 +327,18 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
@@ -245,6 +362,12 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![how to unlock iphone 13 without passcode in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Follow the image on the screen to make your device enter in DFU mode or Recovery mode.
 
 **Step 4:** Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone XS.
@@ -255,6 +378,12 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![how to unlock iphone 11 without password](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You only need to wait for some time as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your Apple iPhone XS.
 
 Once the process is completed, your Apple iPhone XS will be unlocked, and you can choose a new passcode.
@@ -262,6 +391,12 @@ Once the process is completed, your Apple iPhone XS will be unlocked, and you ca
 This is the easiest and most effective way to reset your Apple iPhone XS passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
 If you want to turn the Passcode ON your Apple iPhone XS, then follow these steps:
@@ -270,6 +405,12 @@ If you want to turn the Passcode ON your Apple iPhone XS, then follow these step
 
 ![how to turn passcode on or off on iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Enter your current Passcode when prompted.
 
 **Step 3:** Scroll down and toggle the 'Passcode' switch to the 'ON' position.
@@ -294,6 +435,12 @@ That is why you want to unlock that iPhone. So, in this article, we will teach y
 
 So, let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Efficient Ways to Unlock a Found iPhone
 
 Unlocking an iPhone seems challenging, especially when it's not yours, but it's not impossible. You have various ways to unlock a found iPhone, but most are a waste of time. So, to save time and energy, we have compiled 3 efficient ways to unlock a found iPhone.
@@ -318,6 +465,12 @@ If you want to unlock an iPhone 7 or older model in Recovery Mode, follow these 
 
 ![put iphone 7 plus or older in recovery mode](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. First, connect your Apple iPhone XS to the computer with a lightning cable and launch iTunes.
 2. Now, turn off your Apple iPhone XS and then press and hold the Home button and Sleep/Wake button simultaneously. Keep holding both buttons until you see the recovery mode screen.
 3. Once you see the recovery mode screen, release both buttons. Now, you will see a message in iTunes saying, "There is a problem with the Apple iPhone XS that requires it to be updated or restored."
@@ -338,13 +491,22 @@ The process of unlocking an iPhone 8 or newer model differs from the older model
 
 Now, set up your Apple iPhone XS, and you are good to go.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Unlock it via the DNS server
 
 If the above method doesn't work or iTunes is not detecting that iPhone, you can follow this method.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![found iphone how to unlock via dns](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-5.jpg)
 
 1. This method is easy to follow and doesn't require any technical skills.
@@ -369,6 +531,12 @@ Here are the simple steps that can help you.
 
 ![drfone screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Now, click on the Screen Unlock option from the main interface.
 3. After that, click on the iOS Screen Unlock to begin the process.
 
@@ -379,6 +547,12 @@ Here are the simple steps that can help you.
 
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Once your Apple iPhone XS is in DFU mode or Recovery mode, the software will ask you to start downloading the necessary firmware for your device. So, choose an appropriate firmware according to the Apple iPhone XS model.
 
 ![unlock ios screen by drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -412,20 +586,14 @@ The rightful owner of the Apple iPhone XS activates lost mode. You can see the l
 
 There is a feature in the Apple iPhone XS known as medical ID. This feature can help you contact the owner of the found iPhone if they are unavailable.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contact the owner with the help of emergency medical id](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To do this, go to the emergency call screen and tap on the Medical ID option. Here, you can find out the name and phone number of the owner. So, you can use this information to contact the owner and return the iPhone.
 
 ### Take photos to communicate with the owner via iCloud
@@ -434,12 +602,30 @@ This is a great way to contact the owner of a lost iPhone. You can use this meth
 
 ![contact the owner with the picloud share photo library](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To do this, go to Settings -> iCloud -> Photos and turn on the iCloud Photo Library. Now, take some pictures with the found iPhone, and they will be automatically uploaded to iCloud.
 
 Most people who have lost their iPhones often check their iCloud, and once they find out that someone is taking pictures and uploading them to their iCloud, they will try to communicate with you.
 
 And that's how you can also communicate with them and ask for contact details so that you can return their phone and be a good citizen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 So, that's how you can unlock a found iPhone and contact its owner. I hope this article will help you find the lost iPhone owner and return it to them.
