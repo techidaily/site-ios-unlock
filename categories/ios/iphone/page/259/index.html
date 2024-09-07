@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"ios-unlock.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='07-15'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-02'>
                 
                     
-                        <a href="/in-2024-how-to-bypass-apple-iphone-15-passcode-easily-video-inside-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">In 2024, How to Bypass Apple iPhone 15 Passcode Easily Video Inside</span>
+                        <a href="/how-to-remove-passcode-from-iphone-6-complete-guide-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How To Remove Passcode From iPhone 6? Complete Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/in-2024-unlocking-apple-iphone-15-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">In 2024, Unlocking Apple iPhone 15 Lock Screen 3 Foolproof Methods that Actually Work</span>
+                        <a href="/how-to-remove-and-reset-face-id-on-iphone-6-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Remove and Reset Face ID on iPhone 6</span>
                         </a>
                     
               
                 
                     
-                        <a href="/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15</span>
+                        <a href="/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Easy Steps on How To Create a New Apple ID Account On iPhone 6</span>
                         </a>
                     
               
                 
                     
-                        <a href="/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15</span>
+                        <a href="/how-many-attempts-to-unlock-iphone-6-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How Many Attempts To Unlock iPhone 6</span>
                         </a>
                     
               
                 
                     
-                        <a href="/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-and-ipad-securely-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">In 2024, 7 Ways to Lock Apps on Apple iPhone 15 and iPad Securely</span>
+                        <a href="/is-your-iphone-6-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Is Your iPhone 6 in Security Lockout? Proper Ways To Unlock</span>
                         </a>
                     
               
                 
                     
-                        <a href="/what-does-jailbreaking-iphone-15-i-do-get-answers-here-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">What Does Jailbreaking iPhone 15 i Do? Get Answers here</span>
+                        <a href="/locked-out-of-iphone-6-5-ways-to-get-into-a-locked-iphone-6-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Locked Out of iPhone 6? 5 Ways to get into a Locked iPhone 6</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-unlock-stolen-iphone-15-in-different-conditionsin-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How To Unlock Stolen iPhone 15 In Different Conditionsin</span>
+                        <a href="/can-you-unlock-iphone-6-after-forgetting-the-passcode-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Can You Unlock iPhone 6 After Forgetting the Passcode?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/3-ways-to-unlock-iphone-15-without-passcode-or-face-id-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">3 Ways to Unlock iPhone 15 without Passcode or Face ID</span>
+                        <a href="/unlock-iphone-6-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Unlock iPhone 6 With Forgotten Passcode Different Methods You Can Try</span>
                         </a>
                     
               
                 
                     
-                        <a href="/8-safe-and-effective-methods-to-unlock-your-iphone-15-without-a-passcode-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">8 Safe and Effective Methods to Unlock Your iPhone 15 Without a Passcode</span>
+                        <a href="/forgot-locked-iphone-6-password-learn-the-best-methods-to-unlock-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Forgot Locked iPhone 6 Password? Learn the Best Methods To Unlock</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-unlock-iphone-15-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Unlock iPhone 15 With an Apple Watch &amp; What to Do if It Doesnt Work</span>
+                        <a href="/how-can-i-unlock-my-iphone-6-after-forgetting-my-pin-code-by-drfone-ios/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How Can I Unlock My iPhone 6 After Forgetting my PIN Code?</span>
                         </a>
                     
               
