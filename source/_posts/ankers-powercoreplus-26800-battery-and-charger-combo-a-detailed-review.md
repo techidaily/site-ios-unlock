@@ -1,7 +1,7 @@
 ---
 title: "Anker's PowerCore+ 26800 Battery & Charger Combo: A Detailed Review"
-date: 2024-09-11T12:03:39.057Z
-updated: 2024-09-12T12:03:39.057Z
+date: 2024-09-15T16:02:37.147Z
+updated: 2024-09-17T16:43:28.115Z
 categories:
   - BestProducts
 description: "This Article Describes Anker's PowerCore+ 26800 Battery & Charger Combo: A Detailed Review"
@@ -43,19 +43,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer AX6000](https://www.lifewire.com/thmb/PKIUt9-fqOH0kq7Gyw0UkO-1DRQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAX600_HeroSquare-4b6dc2ee305045fbb10c84c93951a653.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Erika Rawes
 
 [View On Amazon $190](https://www.amazon.com/dp/B07L56SN8M/?tag=lifewire-onsite-prod-20&ascsubtag=5025099%7Cnd3413ed782214361892779feef58737820%7CB07L56SN8M) [View On Walmart $190](https://www.walmart.com/ip/369715781) [View On B&H Photo Video $240](https://www.bhphotovideo.com/c/product/1445370-REG/tp%5Flink%5Farcher%5Fax6000%5Fus%5F1%5F0%5Farcher%5Fax6000%5Fwi%5Ffi%5Frouter.html)
@@ -79,13 +66,6 @@ Lifewire / Erika Rawes
 
 [Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) routers, like the TP-Link Archer AX6000, continue to hit the market, promising faster speeds and better network performance. You may be hearing more about[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) —the next generation of Wi-Fi that can help improve data flow on crowded networks, and even promote improved battery efficiency on your connected devices. Most Wi-Fi 6 routers are still pretty expensive, with prices hovering in the $250 to $500 (plus) range. The TP-Link Archer AX600 is priced in the lower range, but it still has an impressive spec list, including smart home compatibility, multiple ports, powerful hardware, and some of the latest and greatest features. I tested the TP-Link Archer AX6000 to see how the[long range router](https://www.lifewire.com/best-long-range-routers-4122554) performs in the real world.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Multiple antennas**
 
  The TP-Link Archer isn’t exactly a showstopper, but it’s reasonably attractive. It’s all black, square-shaped, and it has a significant amount of venting along the top. The unit resembles an upside down spider when it’s antennas are in the up position. The router is on the larger side, but it doesn’t look too bulky or obtrusive. It’s a 10.3 inch by 10.3 inch square, and the antennas swing out from the sides. The antennas only adjust 90 degrees, from flat to upwards, and you can’t adjust them multi-directionally.
@@ -96,24 +76,18 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup: Quick and easy**
 
  The setup process took about five minutes. You can use the TP Link portal, or you can use the Tether app on your mobile device. There’s a QR code in the quick start guide, so you can find the app, or you can just search for it in the App Store. Once you download the app, you just click the + button to add a device, select Archer AX6000, and follow the prompts.
 
  I created a separate 2.4 and 5 GHz network, but there’s also a smart connect option where you can have the system assign a network band based on optimal performance.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: 8 streams and Wi-Fi 6**
 
@@ -126,10 +100,16 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Network performance: The fastest router I’ve tested**
@@ -144,13 +124,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Key features: TP-Link HomeCare**
 
  Under the hood, the AX6000 boasts a 1.8 GHz quad-core CPU, 1 GB of RAM, and 128 MB flash memory. Because the Archer AX6000 is a Wi-Fi 6 router, it includes advanced technologies like OFDMA that promote a faster and more efficient network. Beamforming technology gives it the ability to concentrate Wi-Fi signals on the devices that matter to you most, while range boost allows the signal to travel farther. Upon its release, the Archer AX6000 was still awaiting WPA3 encryption, but the company says in its website that WPA3 should be coming soon.
@@ -158,13 +131,6 @@ Lifewire / Erika Rawes
  The AX6000 has a USB-A and a USB-C port, so you can connect an external hard drive and share files across your network. It’s also compatible with Alexa and IFTTT, so you can use voice commands to control your router. You can say things like, “Alexa, pause PlayStation for 30 minutes,” or “Alexa, ask TP-Link to enable guest network.”
 
  There's also a smart connect option where you can have the system assign a network band based on optimal performance.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
 
@@ -177,16 +143,10 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Not bad**
@@ -196,16 +156,10 @@ Lifewire / Erika Rawes
 This is the fastest router I’ve ever tested.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **TP-Link Archer AX6000 vs. Netgear Nighthawk AX12 AX6000**
@@ -253,20 +207,19 @@ This is the fastest router I’ve ever tested.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-cultivation-of-a-connected-crowd-the-subscriber-surge-strategy/"><u>[Updated] 2024 Approved Cultivation of a Connected Crowd The Subscriber Surge Strategy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>2024 Approved Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-12-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 12 to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/an-intro-to-digital-realms-vr-simplified/"><u>An Intro to Digital Realms VR Simplified</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-8-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 8 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-logitech-momowheels-gamepad-dedicated-steering-wheel-controller-download-for-windows/"><u>Free Logitech MomoWheels Gamepad - Dedicated Steering Wheel Controller Download for Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-8-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Without Passcode Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 6s Plus i Do? Get Answers here</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oneplus-nord-n30-se-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your OnePlus Nord N30 SE Phone Network-Ready</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-backspace-abnormalities-in-modern-os/"><u>Overcoming Backspace Abnormalities in Modern OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-11-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 11 Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/video-host-vs-stream-pro-the-battle-of-obs-and-twitch-studio/"><u>Video Host Vs. Stream Pro - The Battle of OBS and Twitch Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-your-blueprint-for-an-instantaneously-crafted-virtual-avatar-for-2024/"><u>[New] Your Blueprint for an Instantaneously Crafted Virtual Avatar for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-a-compelling-video-story-with-b-roll-variety/"><u>Crafting a Compelling Video Story with B-Roll Variety</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-12-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 12 Without a Home Button</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-k70-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi K70 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone X Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-11-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 11 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-8-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-8-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 8 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-frustration-solutions-for-constant-collapses-in-the-finals-on-pc/"><u>Stop the Frustration: Solutions for Constant Collapses in The Finals on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-mp4-file-extension-a-guide-to-mpeg-4-part-14/"><u>Understanding the MP4 File Extension: A Guide to MPEG-4 Part 14</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-motorola-razr-40-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Razr 40 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-effortless-gopro-video-editing-a-step-by-step-guide-for-2024/"><u>Updated Effortless GoPro Video Editing A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 
