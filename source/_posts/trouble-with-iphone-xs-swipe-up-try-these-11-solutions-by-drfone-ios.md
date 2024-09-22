@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone XS Swipe-Up? Try These 11 Solutions
-date: 2024-09-13T16:15:40.268Z
-updated: 2024-09-17T16:29:23.655Z
+date: 2024-09-16T16:17:40.217Z
+updated: 2024-09-22T16:35:37.338Z
 tags: 
   - unlock
   - remove screen lock
@@ -126,13 +126,6 @@ If your Apple iPhone XS swipe-up gesture isn't working specifically on the lock 
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
@@ -153,19 +146,6 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![check for software update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** If an update is available, press the "Update Now" button to commence the updating process. During the process, make sure to follow the prompts carefully to avoid issues.
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
@@ -183,10 +163,10 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9. Customize Touch Accommodations
@@ -201,6 +181,13 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10. Turn Off Reduce Motion
 
 Reduce Motion is an accessibility setting on iPhones designed to reduce animations and visual effects. It is particularly for users sensitive to motion effects. However, enabling this feature might affect certain gestures or animations on the Apple iPhone XS device. Thus potentially causing issues with the swipe-up function. Here's how to turn off Reduce Motion to fix the **iPhone 11 won’t swipe up to unlock**:
@@ -208,6 +195,13 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 **Step 1.** Go through your iOS device Settings to open the "Accessibility" tab. Here, find and tap the "Motion" option to proceed.
 
 ![navigate motion features in accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
@@ -220,13 +214,6 @@ Resetting all settings on your Apple iPhone XS can help resolve software-related
 **Step 1.** Go to your device's "General" settings and scroll down to tap the second last option, "Transfer or Reset iPhone." On the following screen, press "Reset" from the available two options.
 
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone XS is restored to its original settings.
 
@@ -283,13 +270,6 @@ Having trouble with **swipe up not working on an iPhone** can be annoying. It st
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone XS. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone XS even when gestures aren't working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Unlock Apple iPhone XS with a Mask On
 
 Are you tired of wearing a mask in this pandemic? Apple introduced a new feature through which people can unlock **iPhone face ID while wearing a mask**. Before this, people either had to use other types of passwords or put off the mask to use Face ID. However, this feature is only available on iOS 15.4, depicting that iPhones containing earlier iOS versions won’t be able to enjoy this feature.
@@ -322,6 +302,19 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone XS. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
 
@@ -516,6 +509,19 @@ Now, see how you can easily unlock your Apple iPhone XS's SIM by following the g
 
 ![drfone sim lock removed](https://images.wondershare.com/drfone/guide/remove-iphone-sim-7.png)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In a world where staying connected is vital, understanding and fixing iPhone blacklist issues is crucial. You've learned that a blacklisted iPhone can mean no calls, texts, or internet – a frustrating experience. But fear not because you have **free iPhone blacklist removal** options at your disposal. And remember, prevention is the key. By checking an iPhone's history before purchase and keeping your device secure, you can avoid blacklist troubles altogether.
@@ -536,12 +542,20 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-leading-rogue-adventures-10-game-compilation-for-2024/"><u>[New] Leading Rogue Adventures #10 Game Compilation for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-innovative-visual-alteration-solutions-pixelpioneers-edge/"><u>[Updated] 2024 Approved Innovative Visual Alteration Solutions PixelPioneer's Edge</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/game-on-with-razer-portal-the-ultimate-guide-to-wi-fi-solutions/"><u>Game On with Razer Portal: The Ultimate Guide to Wi-Fi Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-8-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 8 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 11 Pro Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-action-an-insight-into-sj-cam-s6/"><u>In 2024, Mastering Action An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>[New] How to Create Impactful Online Ads on a Limited Budget</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tepwise-instructions-for-enhancing-youtube-clips-in-wmm/"><u>[New] Stepwise Instructions for Enhancing YouTube Clips in WMM</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/design-your-brand-free-logo-templates-and-personalization-for-2024/"><u>Design Your Brand Free Logo Templates & Personalization for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-roleplay-with-these-veiled-in-mystique-this-title-promises-readers-a-secretive-guide-to-enhancing-their-gaming-experience-through-an-innovative15/"><u>Elevate Your Roleplay with These Veiled in Mystique, This Title Promises Readers a Secretive Guide to Enhancing Their Gaming Experience Through an Innovative Tool</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Passcode without Computer?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-humor-hub-creator/"><u>In 2024, Humor Hub Creator</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-rewind-and-play-instagrams-backwards-videos-unveiled/"><u>In 2024, Rewind and Play Instagram's Backwards Videos Unveiled</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-transforming-social-media-traffic-into-revenue/"><u>In 2024, Transforming Social Media Traffic Into Revenue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-15-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-15-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 15 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-6-plus-5-ways-to-get-into-a-locked-iphone-6-plus-by-drfone-ios/"><u>Locked Out of iPhone 6 Plus? 5 Ways to get into a Locked iPhone 6 Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-palworld-effective-solutions-when-the-game-wont-start/"><u>Troubleshooting Palworld: Effective Solutions When the Game Won't Start</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-se-2022-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone SE (2022) Passcode without a Computer</u></a></li>
 </ul></div>
 

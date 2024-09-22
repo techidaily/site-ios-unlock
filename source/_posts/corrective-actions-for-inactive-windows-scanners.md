@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions for Inactive Windows Scanners
-date: 2024-09-12T16:35:52.182Z
-updated: 2024-09-17T17:20:56.911Z
+date: 2024-09-20T17:03:12.375Z
+updated: 2024-09-22T16:20:55.437Z
 tags:
   - win11
   - win10
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
@@ -74,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -102,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your scanner driver (Windows PC)
 
  A missing or outdated scanner driver can cause your HP scanner not to work, so you should update your scanner driver up to date.
@@ -128,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the Update button next to your scanner to download the latest driver (you can do this with the FREE version), then install it on your computer.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all problem drivers in your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
@@ -166,6 +145,13 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Run System File Checker
 
  System File Checker (SFC) is a built-in Windows feature that scans corrupted system files and repairs it automatically.
@@ -175,6 +161,14 @@ Then try scanning with your scanner to see if it works.
 1. Type**cmd** in the search box, right-click Command Prompt, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
@@ -182,10 +176,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
@@ -199,6 +193,13 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -224,21 +225,18 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>[New] 2024 Approved The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>[Updated] 2024 Approved The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
-<li><a href="https://win11.techidaily.com/begin-your-windows-journey-with-a-voice-guide/"><u>Begin Your Windows Journey with a Voice Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevate-your-fb-profile-with-impactful-covers/"><u>Elevate Your Fb Profile With Impactful Covers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 14, Apples New iPhone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Pro Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-f25-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo F25 Pro 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone XR Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-se-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone SE i Do? Get Answers here</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715701234308-learn-to-record-mac-display-like-a-pro/"><u>Learn to Record MAC Display Like a Pro!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-gt-5-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme GT 5 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-eye-straining-flicker-on-your-display/"><u>Resolved: How to Stop Eye-Straining Flicker on Your Display</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-selecting-an-iphone-for-optimal-gameplay/"><u>The Ultimate Guide to Selecting an iPhone for Optimal Gameplay</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-master-the-mind-discovering-elite-game-rooms/"><u>[New] 2024 Approved Master the Mind Discovering Elite Game Rooms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-make-screenshots-and-recordings-on-imac-simple/"><u>[Updated] Make Screenshots & Recordings on iMac Simple</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-10-extensions-for-maxed-out-terria/"><u>2024 Approved Top 10 Extensions for Maxed-Out Terria</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-6s-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 6s Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-se-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone SE with a Broken Screen?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-ghost-touch-on-iphone-with-these-10-easy-troubleshooting-steps/"><u>Conquer Ghost Touch on iPhone with These 10 Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 6, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-affordable-gopros-where-to-buy-with-best-price/"><u>In 2024, Affordable GoPros Where to Buy with Best Price</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with a Mask On</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-stereo-amplifiers-on-the-market-expert-picks-for-2n24/"><u>Leading Stereo Amplifiers on the Market - Expert Picks for 2N24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/luminous-levels-in-android-videography-for-2024/"><u>Luminous Levels in Android Videography for 2024</u></a></li>
 </ul></div>
 

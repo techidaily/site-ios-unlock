@@ -1,7 +1,7 @@
 ---
 title: Asus RT-AC68U Review
-date: 2024-09-11T16:25:33.649Z
-updated: 2024-09-17T17:12:03.013Z
+date: 2024-09-18T17:02:27.297Z
+updated: 2024-09-22T16:28:09.950Z
 categories:
   - BestProducts
 description: This Article Describes Asus RT-AC68U Review
@@ -91,19 +91,6 @@ Lifewire / Andy Zahn
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
@@ -119,10 +106,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Autofocus: Blazing fast**
@@ -132,6 +119,13 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -177,13 +171,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -195,16 +182,16 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
@@ -212,6 +199,13 @@ Lifewire / Andy Zahn
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -269,17 +263,17 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-add-music-to-instagram-story-for-2024/"><u>[Updated] How to Add Music to Instagram Story for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unleash-the-power-of-first-impressions-with-top-30-youtube-intra-craftsmen/"><u>[Updated] Unleash the Power of First Impressions with Top 30 YouTube Intra Craftsmen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-13-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 13 Pro to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/flip-the-script-accelerating-tiktok-video-creation/"><u>Flip-the-Script Accelerating TikTok Video Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-imposters-alert-guard-against-illicit-data-access/"><u>GPT Imposters Alert: Guard Against Illicit Data Access!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Max Without iTunes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-blueprint-for-a-personalized-high-definition-editing-haven/"><u>In 2024, Blueprint for a Personalized, High-Definition Editing Haven</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-coexistence-of-linktree-and-tiktok-biographies/"><u>In 2024, Flawless Coexistence of Linktree and TikTok Biographies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-15-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 15 Pro Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leveraging-likeability-strategies-for-going-viral-on-facebook/"><u>[Updated] 2024 Approved Leveraging Likeability Strategies for Going Viral on Facebook</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-boost-your-tiktok-presence-advanced-mac-video-techniques/"><u>[Updated] In 2024, Boost Your TikTok Presence Advanced Mac Video Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-decoding-instagram-the-technique-for-video-downloads-on-pcmac-devices/"><u>2024 Approved Decoding Instagram The Technique for Video Downloads on PC/Mac Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/future-proof-your-gameplay-ps5-vs-ps4-pro-edition/"><u>Future-Proof Your Gameplay: PS5 vs PS4 Pro Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-x90s-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo X90S to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-clearview-techniques-for-superior-video-with-vce-2-written-by-john-doe-phd/"><u>In 2024, ClearView Techniques for Superior Video with VCE 2 Written by John Doe, PhD</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-13-mini-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 13 mini Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 15 Passcode not Working?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/sitcom-spotlight-15-hilarious-channels-for-relaxation/"><u>Sitcom Spotlight 15 Hilarious Channels for Relaxation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6 Plus</u></a></li>
 </ul></div>
 

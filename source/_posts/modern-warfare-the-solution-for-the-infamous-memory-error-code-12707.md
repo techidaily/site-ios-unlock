@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare The Solution for the Infamous Memory Error Code 12707
-date: 2024-09-13T17:04:35.696Z
-updated: 2024-09-17T16:16:45.112Z
+date: 2024-09-19T17:06:16.318Z
+updated: 2024-09-22T16:33:13.410Z
 tags:
   - win11
   - win10
@@ -57,6 +57,19 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -86,10 +99,16 @@ If this didn’t help in resolving your problem, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -110,13 +129,6 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click**Terraria** and select **Properties.**
 
@@ -174,10 +186,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Download and install _Terraria_  again.
@@ -194,13 +206,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
@@ -216,6 +221,13 @@ If this didn’t work for you, check the fix, below.
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -234,10 +246,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
@@ -265,20 +277,18 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nnovative-orderings-in-youtube-music-playlists-for-2024/"><u>[New] Innovative Orderings in YouTube Music Playlists for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-is-inshot-leading-video-cutting-tech-deep-insight-reviewed/"><u>[Updated] Is InShot Leading Video Cutting Tech? Deep Insight Reviewed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone X in Lost Mode</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-shapley-explainer-shape-features-and-uses/"><u>A Comprehensive Guide to OpenAI's Shapley Explainer (ShapE): Features & Uses</u></a></li>
-<li><a href="https://fox-links.techidaily.com/conversion-sans-frais-transformer-des-fichiers-wtv-en-mp4-via-internet-logiciel-video-movavi/"><u>Conversion Sans Frais: Transformer Des Fichiers WTV en MP4 via Internet - Logiciel Vidéo Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-something-went-wrong-with-outlook-on-pcs/"><u>Decoding Something Went Wrong with Outlook on PCs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Lock Screen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elitemac-hd-video-and-sound-recordist/"><u>In 2024, EliteMac HD Video & Sound Recordist</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 14</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14 Plus/iPad Without Computer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-lyric-locators-discovering-hit-songs-of-the-year-updated-for-2024/"><u>New Lyric Locators Discovering Hit Songs of the Year, Updated for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-audio-glitches-effective-methods-to-restore-realtek-microphone-functionality/"><u>Resolve Audio Glitches: Effective Methods to Restore Realtek Microphone Functionality</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-10-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 10 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crafting-vivid-instagram-profile-previews/"><u>[Updated] In 2024, Crafting Vivid Instagram Profile Previews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-mac-gif-videographer/"><u>[Updated] Ultimate Mac Gif Videographer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-beginners-guide-to-navigating-digital-marketing-with-reddit-savvy/"><u>2024 Approved A Beginner's Guide to Navigating Digital Marketing with Reddit Savvy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-imovie-beats-and-sounds/"><u>2024 Approved Mastering iMovie Beats and Sounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>2024 Approved Perfecting the Art of Zooming Expert Strategies for Snapchat Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/bellylaugh-beats-top-choices-for-laughable-ringtone-downloads-for-2024/"><u>BellyLaugh Beats Top Choices for Laughable Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-pro-max-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y55s-5g-2023-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y55s 5G (2023) online without jailbreak</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a18-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A18 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-in-depth-analysis-of-sound-forges-audio-processing-features/"><u>New In 2024, In-Depth Analysis of Sound Forges Audio Processing Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-13-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Pro Without iTunes in 5 Ways</u></a></li>
 </ul></div>
 

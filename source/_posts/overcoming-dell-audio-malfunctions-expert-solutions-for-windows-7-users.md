@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Dell Audio Malfunctions: Expert Solutions for Windows 7 Users"
-date: 2024-09-13T16:30:04.230Z
-updated: 2024-09-17T16:02:20.501Z
+date: 2024-09-17T16:17:26.990Z
+updated: 2024-09-22T16:11:11.426Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
@@ -62,20 +69,33 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
@@ -91,22 +111,8 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -119,17 +125,17 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
@@ -148,17 +154,17 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fast-tracking-social-scanning-mastering-fb-profiles-for-2024/"><u>[New] Fast-Tracking Social Scanning Mastering FB Profiles for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-decide-your-videoclip-layout-fbs-dilemma-for-2024/"><u>[Updated] Decide Your Videoclip Layout FB’s Dilemma for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>[Updated] The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos-for-2024/"><u>[Updated] Top Tips to Flawlessly Integrate Timely Text in Your FB Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>Achieve High-Quality Streams YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-an-ideal-oculus-rift-environment/"><u>Creating an Ideal Oculus Rift Environment</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6? Learn All 4 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-7-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 7 Plus? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-13-mini-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 13 mini Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone SE (2020)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X, Apples New iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-secrets-to-soaring-podcast-rankings-with-seo/"><u>In 2024, Unraveling the Secrets to Soaring Podcast Rankings with SEO</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-underwater-photographys-leading-seven-cams/"><u>[New] 2024 Approved Underwater Photography's Leading Seven Cams</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-blueprint-to-thriving-in-spotify-ads-for-2024/"><u>[New] The Ultimate Blueprint to Thriving in Spotify Ads for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-the-potential-of-youtube-tv-services-for-2024/"><u>[New] Unlocking the Potential of YouTube TV Services for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-choreographing-a-memorable-tiktok-fade-out-for-2024/"><u>[Updated] Choreographing a Memorable TikTok Fade-Out for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mimicking-marvels-how-to-create-comedic-videos/"><u>[Updated] In 2024, Mimicking Marvels How to Create Comedic Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-maximizing-your-search-for-stellar-pexels-artwork/"><u>[Updated] Maximizing Your Search for Stellar Pexels Artwork</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-6s-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 6s in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-8-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 8 Prevention & Solution</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-6-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 6 for Parents | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s Plus i Do? Get Answers here</u></a></li>
 </ul></div>
 

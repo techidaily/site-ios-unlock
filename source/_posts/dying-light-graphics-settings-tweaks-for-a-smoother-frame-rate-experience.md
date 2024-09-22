@@ -1,7 +1,7 @@
 ---
 title: Dying Light Graphics Settings Tweaks for a Smoother Frame Rate Experience
-date: 2024-09-14T16:35:32.953Z
-updated: 2024-09-17T17:32:01.505Z
+date: 2024-09-17T16:43:21.151Z
+updated: 2024-09-22T16:20:34.403Z
 tags:
   - win11
   - win10
@@ -73,19 +73,32 @@ If the issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch the game in DX11 mode
 
@@ -102,6 +115,13 @@ If the crashing issue remains, continue to the next fix.
 
 If this fix doesn’t do the trick, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Check your firewall and antivirus settings
 
  Sometimes your Windows Firewall or antivirus software could block the normal operation of Psychonauts 2 and cause the game crashes. To ensure that Psychonauts 2 works properly, you should allow the game through the firewall or add it as an exception to your antivirus software.
@@ -111,6 +131,14 @@ Allow Psychonauts 2 through Windows Firewall:
 1. On your keyboard, press the**Windows logo key** , and type**firewall** in the search box. Then click**Firewall & network protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
@@ -119,42 +147,21 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Psychonauts 2
 
@@ -181,21 +188,15 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-amplifying-impact-youtube-visibility-techniques/"><u>[New] 2024 Approved Amplifying Impact YouTube Visibility Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-videography-instagram-captioning-techniques/"><u>[New] Elevate Your Videography Instagram Captioning Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-maximizing-video-playback-speed-on-facebook/"><u>[New] In 2024, Maximizing Video Playback Speed on Facebook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insights-into-instagram-an-in-depth-analysis-guide-for-professionals/"><u>[New] Insights Into Instagram An In-Depth Analysis Guide for Professionals</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-viral-hits-the-top-10-music-videos-on-fb-now/"><u>[New] Viral Hits The Top 10 Music Videos on FB Now</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-cross-platform-filmography-syncing-smartphones-and-systems/"><u>[Updated] Cross-Platform Filmography Syncing Smartphones and Systems</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elite-content-makers-top-paid-online-stars/"><u>[Updated] In 2024, Elite Content Makers Top Paid Online Stars</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>[Updated] The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-12-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 12 Without iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-8-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 8 Plus Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-8-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 8 Plus Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-se-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone SE when Phone is Broken?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/techniques-for-tightening-up-every-iphone-video/"><u>Techniques for Tightening Up Every iPhone Video</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-7-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 7 Without Passcode Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-an-engaging-film-teaser/"><u>[New] Crafting an Engaging Film Teaser</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-maximizing-your-impact-with-periscope-live/"><u>[New] In 2024, Maximizing Your Impact with Periscope Live</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-past-accelerated-access-to-archived-content/"><u>[Updated] Navigating the Past Accelerated Access to Archived Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>[Updated] Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlocking-laughter-in-vr-crafting-metaverse-humor-for-2024/"><u>[Updated] Unlocking Laughter in VR Crafting Metaverse Humor for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>2024 Approved Elevate Your Channel Hit the 10,000 View Mark Fast</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Pro Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6, Apples New iPhone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/state-of-the-art-methods-for-documenting-digital-education/"><u>State-of-the-Art Methods for Documenting Digital Education</u></a></li>
 </ul></div>
 

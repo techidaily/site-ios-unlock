@@ -1,7 +1,7 @@
 ---
 title: Defeat the Crash Bug in Star Wars Battlefront II - A Comprehensive Fix
-date: 2024-09-13T17:05:03.550Z
-updated: 2024-09-17T16:06:16.612Z
+date: 2024-09-18T16:04:40.543Z
+updated: 2024-09-22T16:37:41.256Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Change launch directory
 
  Some gamers have fixed this issue by changing launch directory. If you didn’t try this fix, you can give it a shot.
@@ -75,32 +82,19 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -127,13 +121,26 @@ To perform a clean boot, just follow the steps below:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
@@ -143,10 +150,10 @@ To perform a clean boot, just follow the steps below:
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Minecraft and Lunar Client
@@ -177,16 +184,13 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ptimize-youtube-traffic-select-best-rankers-explained/"><u>[New] Optimize YouTube Traffic Select Best Rankers Explained</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevating-your-instagram-highlights-with-exquisite-photography/"><u>[Updated] 2024 Approved Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-audiovideo-settings-in-win11s-zoom-app/"><u>[Updated] The Complete Guide to Audio/Video Settings in Win11's Zoom App</u></a></li>
-<li><a href="https://fox-info.techidaily.com/5-secrets-to-successful-and-memorable-titles-for-2024/"><u>5 Secrets to Successful and Memorable Titles for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-13-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 13</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x50-gt-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 12 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-your-creativity-best-movie-trailer-software-for-mac-and-windows/"><u>Updated In 2024, Unleash Your Creativity Best Movie Trailer Software for Mac and Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[New] 2024 Approved Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-heart-of-vimeo-celebrating-independent-cinema/"><u>[New] In 2024, The Heart of Vimeo Celebrating Independent Cinema</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-monetizing-content-understanding-youtubes-cpm/"><u>[Updated] In 2024, Monetizing Content Understanding YouTube's CPM</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-se-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone SE Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-download-and-install-compatible-ricoh-printing-software-for-windows-systems/"><u>Easy Steps to Download & Install Compatible Ricoh Printing Software for Windows Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-frame-makers-revealed-2024-edition/"><u>Top 10 Frame Makers Revealed 2024 Edition</u></a></li>
 </ul></div>
 
