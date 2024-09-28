@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Locked Apple iPhone 8 Plus Password? Learn the Best Methods To Unlock
-date: 2024-08-09T10:51:52.705Z
-updated: 2024-08-10T10:51:52.705Z
+date: 2024-09-23T12:05:06.196Z
+updated: 2024-09-28T02:17:05.824Z
 tags: 
   - unlock
   - remove screen lock
@@ -44,17 +44,20 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone 8 Plus device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
 
@@ -65,8 +68,12 @@ When the firmware is displayed after verification, press "Unlock Now." Upon trig
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2. How To Unlock Notes on iPhone Through Settings
 
 If you've locked a note on your Apple iPhone 8 Plus but forgot the password, there is no need to worry. You can unlock the notes through “Settings” on your device as long as you have your Apple ID credentials. The following are the steps for **what to do if you forgot your notes password**:
@@ -81,9 +88,6 @@ If you've locked a note on your Apple iPhone 8 Plus but forgot the password, the
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -98,6 +102,13 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
 Locking notes on your Apple iPhone 8 Plus provides extra security for your sensitive information. Regularly reviewing and updating your password settings can enhance the security of your locked notes. Here's a simple and effective method to lock notes on your Apple iPhone 8 Plus:
@@ -110,9 +121,6 @@ Locking notes on your Apple iPhone 8 Plus provides extra security for your sensi
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
@@ -134,6 +142,13 @@ Sometimes, the touch screen may need recalibration. This can cause the swipe-up 
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Full Memory or Background Apps
 
@@ -195,7 +210,6 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
-
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 8 Plus. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -212,10 +226,14 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 **Instructions:** To restart your Apple iPhone 8 Plus 6, press the "Wake/Sleep" button on the top edge of the phone. Hold the other "Home" button at the bottom center screen of the phone. Continue holding the buttons until the Apple logo becomes visible on the display. Then, press the "Wake/Sleep" button and the "Home" button.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3. Remove the Cover or Case
 
@@ -244,6 +262,13 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 **Instructions:** Navigate to Settings on your Apple iPhone 8 Plus and access "Control Center." On the following screen, activate the toggle next to "Access Within Apps." It will allow you to access the Control Center when using apps.
 
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7. Update to the Latest iOS Version
 
@@ -309,8 +334,6 @@ Resetting all settings on your Apple iPhone 8 Plus can help resolve software-rel
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 8 Plus device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 8 Plus without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
@@ -352,14 +375,18 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 8 Plus and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone 8 Plus. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone 8 Plus even when gestures aren't working properly.
-
-
 
 ## How to Unlock Apple iPhone 8 Plus, Apple's New iPhone
 
@@ -372,8 +399,6 @@ There can be a few reasons why your Apple iPhone 8 Plus is locked, the primary o
 We understand how frustrating it can be when your newly purchased Apple iPhone 8 Plus does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone 8 Plus passcode screen using Dr.Fone - Screen Unlock (iOS).
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 8 Plus
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -423,6 +448,13 @@ Step 1: If you have any other Apple device that is logged in with the same Apple
 Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), select your Apple iPhone 8 Plus and click Erase iPhone and confirm.
 
 ![find my iphone](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That's it. You will have wiped and unlocked your Apple iPhone 8 Plus and it will start with factory settings. Note that this works only if the Apple iPhone 8 Plus was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
 
@@ -476,7 +508,6 @@ All Apple iPhone 8 Plus models feature the same IP68 water resistance (that is a
 
 A locked Apple iPhone 8 Plus is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone 8 Plus and remove the passcode from your Apple iPhone 8 Plus. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone 8 Plus for you when you need help removing the passcode from your Apple iPhone 8 Plus and unlocking it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,11 +520,20 @@ A locked Apple iPhone 8 Plus is never a pretty sight. Fortunately, there are a c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-securing-your-online-discussions-for-2024/"><u>[Updated] Securing Your Online Discussions for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-15-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 15 with iTunes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 6 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-40-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 40</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/lead-the-charge-with-our-12-best-tycoon-games-ever-played-for-2024/"><u>Lead the Charge with Our #12 Best Tycoon Games Ever Played for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992606787-psychonauts-2-pc-stability-issues-solved-no-more-freezes/"><u>Psychonauts 2 PC Stability Issues Solved - No More Freezes!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sketch-masters-on-ipados-top-8-artistic-apps-for-2024/"><u>Sketch Masters on iPadOS Top 8 Artistic Apps for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-5-cozy-winter-scenes-for-video-aesthetics/"><u>Top 5 Cozy Winter Scenes for Video Aesthetics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-of-teslas-autonomous-cab-service-pricing-info-expected-debut-specs-plus-rumors/"><u>Unveiling of Tesla's Autonomous Cab Service: Pricing Info, Expected Debut, Specs + Rumors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?
-date: 2024-09-21T16:48:06.494Z
-updated: 2024-09-22T16:17:10.668Z
+date: 2024-09-26T08:14:18.598Z
+updated: 2024-09-28T11:06:58.177Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,6 +34,13 @@ While we said, you shouldn’t type in random numbers to try and guess the passw
 
 ![iphone random passcodes](https://images.wondershare.com/drfone/iphone-random-passcodes-.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
 
 ### 2.2 Unlock iPhone with an unlock tool
@@ -55,19 +62,6 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
@@ -121,6 +115,13 @@ Of course, this will only work if the Find My iPhone features have been enabled 
 
 ![find my iphone](https://images.wondershare.com/drfone/find-my-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Once signed in, scroll down the menu of features and select the Find iPhone feature. Click on the All Devices option at the top.
 
 **Step 3.** From the list of devices connected to your account, click the Apple iPhone 8 device name with the locked screen and then click the Erase option. This will clear everything from your device, much like the process we’ve spoken about in the methods above.
@@ -165,6 +166,13 @@ When the lock symbol changes to the unlocked position, you can swipe up to unloc
 
 Note that Face ID will not work in landscape mode on an iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### II.II Making Purchases Using Face ID on Your Apple iPhone 8
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
@@ -205,13 +213,6 @@ Face ID also enables what Apple calls Attention Aware features that are convenie
 
 ![attention aware features](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Setting up and using Attention Aware features is easy:
 
 Step 1: Go to Settings > Face ID and passcode.
@@ -248,13 +249,6 @@ Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to selec
 
 ![recording a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
 
 Step 4: When done, the Record button changes to Send:
@@ -262,6 +256,13 @@ Step 4: When done, the Record button changes to Send:
 ![sending a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-9.jpg)
 
 Tap Send to send your first Memoji/ Animoji.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part III: How to Remove Face ID on Apple iPhone 8
 
@@ -279,13 +280,6 @@ Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Appl
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 8
 
 Sometimes, you may just want to disable Face ID temporarily or the issue gets solved, and want to activate Face ID again. Setting up a Face ID on your Apple iPhone 8 13 is easy. To set up Face ID, sit in a comfortable spot with adequate lighting and follow these steps:
@@ -297,6 +291,13 @@ Step 2: Tap Set Up Face ID to start the process.
 Step 3: Hold your Apple iPhone 8 in the portrait orientation at about an arm‘s length away from your face and then tap Get Started.
 
 ![setting up face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Adjust to have your face inside the shown circle and then slowly rotate your head in a smooth motion to complete the circle. This step will be done one more time.
 
@@ -314,6 +315,13 @@ If this does not resolve it, you need to take the Apple iPhone 8 device to the n
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone 8 (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone 8 can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone 8 with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -323,20 +331,14 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4,395,217** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes
 
@@ -377,6 +379,13 @@ Once Dr. Fone detects your device, you will see the following screen.
 After your Apple iPhone 8 is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
 
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step #5: Reset your Apple iPhone 8:**
 
@@ -502,5 +511,22 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/command-your-android-fun-mastering-controller-based-buttons/"><u>Command Your Android Fun: Mastering Controller-Based Buttons</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/edunet-global-empowerment-through-collaboration/"><u>Edunet Global: Empowerment Through Collaboration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-14-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 14 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-xripad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone XR/iPad Without Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-11-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 11 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-8-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 8 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-se-5-ways-to-get-into-a-locked-apple-iphone-se-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone SE? 5 Ways to get into a Locked Apple iPhone SE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/konnen-sie-mit-handbrake-av1-videos-codieren/"><u>Können Sie Mit HandBrake AV1-Videos Codieren?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/notable-top-5-superlight-action-camera-picks/"><u>Notable Top 5 Superlight Action Camera Picks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/offline-masterpieces-top-10-ios-game-selections-without-internet-for-2024/"><u>Offline Masterpieces Top 10 iOS Game Selections Without Internet for 2024</u></a></li>
+</ul></div>
 

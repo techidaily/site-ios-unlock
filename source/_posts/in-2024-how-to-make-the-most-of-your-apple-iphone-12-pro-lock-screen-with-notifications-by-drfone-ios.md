@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?
-date: 2024-08-09T10:50:19.734Z
-updated: 2024-08-10T10:50:19.734Z
+date: 2024-09-25T02:39:01.196Z
+updated: 2024-09-27T18:03:58.237Z
 tags: 
   - unlock
   - remove screen lock
@@ -60,10 +60,14 @@ Sometimes, people can access our private information just by looking at our noti
 
 5\. If you simply want to turn off notifications on lock screen, then switch off the option of “Show on Lock Screen”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
@@ -73,9 +77,6 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 1\. Firstly, unlock your device and got to its Settings > Touch ID & Passcode option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
 
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
@@ -112,8 +113,6 @@ If you want to click pictures instantly, then simply swipe left the lock screen.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
 
-
-
 ## Forgot Locked Apple iPhone 12 Pro Password? Learn the Best Methods To Unlock
 
 The note-taking apps are pivotal in organizing thoughts, reminders, and sensitive data. Notably, Apple's Notes app stands out for smooth blending into the Apple ecosystem while boasting a user-friendly interface. It is recognized for its effortless integration and robust security.
@@ -146,7 +145,6 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
@@ -170,6 +168,13 @@ If you've locked a note on your Apple iPhone 12 Pro but forgot the password, the
 - **Step 1.** Begin the process by accessing Settings and then navigating to "Notes." Within the "Notes" tab, press "Password" followed by tapping "Reset Password."
 
 ![reset notes password via settings](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** You will be prompted to enter the Apple ID password for confirmation. After entering the Apple ID password, tap "Reset Password" again to reset the password. Finalize the process by setting up a new “Password,” “Verify” it, set a “Hint,” and press “Done.”
 
@@ -195,10 +200,14 @@ Locking notes on your Apple iPhone 12 Pro provides extra security for your sensi
 
 - **Step 1.** Open the “Note” you want to lock and tap the “three dots” near the top right corner. From the appearing menu, press the "Lock" icon.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone 12 Pro device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
 
@@ -208,6 +217,13 @@ Locking notes on your Apple iPhone 12 Pro provides extra security for your sensi
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
 
 Auto-lock on iOS devices serves multiple purposes - it conserves battery life, secures your data, and more. But have you encountered the **Auto-Lock greyed-out** dilemma, fixed at 30 seconds? When this setting becomes inaccessible, it limits your control over screen timeout.
@@ -215,6 +231,13 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -237,6 +260,19 @@ MDM Profile Restrictions
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -292,6 +328,13 @@ If your IT team gives the green light, you might also be able to remove the netw
 
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
 
 Fix No.5: Use Dr.Fone To Bypass MDM Lock Without Data Loss
@@ -327,9 +370,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
@@ -370,8 +410,12 @@ Here's **how to change Auto-Lock on iPhone** devices:
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 12 Pro or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -379,7 +423,6 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -393,11 +436,24 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-digital-time-machine-tracking-back-through-facebooks-history-device-based-for-2024/"><u>[New] Digital Time Machine Tracking Back Through Facebook's History (Device-Based) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/brisksnatch-slowframe-capture/"><u>BriskSnatch SlowFrame Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-enhancing-your-kodi-experience-with-custom-addons/"><u>Easy Steps to Enhancing Your Kodi Experience with Custom Addons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-dlc-issues-how-to-successfully-install-disco-elysium-expansion-packs-on-your-pc/"><u>Fixing DLC Issues: How to Successfully Install Disco Elysium Expansion Packs on Your PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-find-out-what-version-of-powershell-youre-using-on-windows-11/"><u>How To Find Out What Version of PowerShell You're Using on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://win-info.techidaily.com/ifixit-amazed-by-microsofts-easy-to-repair-latest-laptop-line-setting-a-new-benchmark-for-competitors-including-apple/"><u>IFixit Amazed by Microsoft's Easy-to-Repair Latest Laptop Line: Setting a New Benchmark for Competitors Including Apple</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-13-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 13 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xr-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone XR With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726223996859-movavigifmp4/"><u>Movaviで簡単に無料GIF変換!オンラインMP4ビデオを最適化してください</u></a></li>
+<li><a href="https://techidaily.com/remove-honor-x7b-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Honor X7b unlock screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-simple-video-editing-with-microsoft-on-windows/"><u>Updated 2024 Approved Unleash Your Creativity Simple Video Editing with Microsoft on Windows</u></a></li>
+</ul></div>
 

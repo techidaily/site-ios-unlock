@@ -1,7 +1,7 @@
 ---
 title: Unlocking Apple iPhone 8 Plus Passcode without a Computer
-date: 2024-09-21T16:07:26.845Z
-updated: 2024-09-22T16:50:35.304Z
+date: 2024-09-27T12:22:48.654Z
+updated: 2024-09-28T06:24:08.179Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,6 +54,13 @@ Since iOS 15.2, Apple presented an "Erase iPhone" choice from the Security Locko
 - Tap your Apple iPhone 8 Plus in the Finder sidebar on Macintosh or iTunes on the PC.
 - Pick Restore when you see the decision to Restore. Let the download finish, and your phone leaves the recovery mode screen. Yet again, then switch off your Apple iPhone 8 Plus and begin.
 - Disconnect your iDevice, then turn it on and set it up. That is all you must do.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use Find My
 
@@ -115,6 +122,13 @@ Use a connector to connect your Apple iPhone 8 Plus to the PC. After this, click
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2. Access the Recovery or DFU Mode**
 
 Before the Apple iPhone 8 Plus lock screen removal, we need to boot the phone in Recovery or DFU. If you have to do so, follow the steps given in the image below:
@@ -128,6 +142,13 @@ We suggest you open the recovery mode to remove the iOS screen lock. However, if
 After going to the DFU mode, Dr.Fone will show the information about your Apple iPhone 8 Plus. From the following screen, confirm your phone model and iOS version. If it is isn't correctly given, select the correct data pair from the drop-down menu. Then download the firmware package for your Apple iPhone 8 Plus.
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4. Open the Lock**
 
@@ -150,6 +171,13 @@ Is your Apple iPhone 8 Plus screen broken, and you're wondering **how to unlock 
 Locking an iPhone with a passcode is a great way to prevent it from getting into the wrong hands. However, some misfortunes can happen, and you might be left with a broken screen. In such cases, you won't be able to get the data inside your phone. So, to get back at your files or to reset your device, you will need to unlock your phone first.
 
 In this detailed guide, we will elaborate on the best possible methods you can employ to **unlock iPhone with broken screen.** Moreover, we will introduce you to the best unlocking tools available for your situation. So stay with us till the end.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Use the Feature "Find My iPhone" to Unlock an iPhone with Broken Screen
 
@@ -237,6 +265,13 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 8 Plus device and let you pick a photo.
 
 **Step 8.** When the photo library is open, tap on the home button or return button to get back to the unlock screen to get to the Settings symbol.
@@ -244,6 +279,13 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 **Step 9.** When you open your settings, you can now refresh your credentials. This might work by making a Face ID rather than a password to unlock your Apple iPhone 8 Plus.
 
 Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the later versions of the Apple iPhone 8 Plus and won't assist you with fooling Siri into unlocking your Apple iPhone 8 Plus.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
@@ -279,14 +321,14 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-In almost no time, the software will unlock your Apple iPhone 8 Plus effectively. However, note that this unlocking will likewise wipe your user data.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+In almost no time, the software will unlock your Apple iPhone 8 Plus effectively. However, note that this unlocking will likewise wipe your user data.
 
 ### The Bottom Line
 
@@ -350,13 +392,6 @@ If you are worried about losing data such as purchases and contacts, don't worry
 
 ![enter a new apple id interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Select **Change Apple ID** to proceed.
 - **Step 5:** Check your email to get a verification code sent by Apple to ensure that only you can change it to a third-party email address. Enter the code to complete the update.
 
@@ -374,25 +409,11 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 ![click edit on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Go to the **Delete** icon next to your mobile number and follow the directions given.
 - **Step 5:** Enter the code sent to the mobile number you added as your new Apple ID to verify it.
 - **Step 6:** Log into all Apple services using your new Apple ID.
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
@@ -433,10 +454,16 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3:** Select **Remove AppleID** from the available **Screen Unlock** tools.
@@ -523,5 +550,22 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-macos-sierra-installation-procedures/"><u>[New] 2024 Approved Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-anonymous-instagram-story-browsing-on-pc-tablet-and-phones/"><u>[New] In 2024, Master Anonymous Instagram Story Browsing on PC, Tablet & Phones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-visual-archive-top-hd-video-recorders-unveiled-for-2024/"><u>[New] The Visual Archive Top HD Video Recorders Unveiled for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[Updated] 2024 Approved From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-poco-x5-pro-frp-bypass-by-drfone-android/"><u>About Poco X5 Pro FRP Bypass</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-12-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-13-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 13 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-13-mini-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 13 mini After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-hot-30-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Hot 30 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 14</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-gt-neo-5-se-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme GT Neo 5 SE – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-13-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 13 Pro Prevention & Solution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlock-quality-video-recording-top-5-recorder-brands/"><u>Unlock Quality Video Recording - Top 5 Recorder Brands</u></a></li>
+</ul></div>
 

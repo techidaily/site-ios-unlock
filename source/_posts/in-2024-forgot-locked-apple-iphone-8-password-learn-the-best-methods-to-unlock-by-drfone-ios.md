@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Locked Apple iPhone 8 Password? Learn the Best Methods To Unlock
-date: 2024-08-09T10:51:53.928Z
-updated: 2024-08-10T10:51:53.928Z
+date: 2024-09-22T19:25:23.049Z
+updated: 2024-09-28T12:39:20.962Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,7 +46,6 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
@@ -85,6 +84,19 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
@@ -105,14 +117,18 @@ Locking notes on your Apple iPhone 8 provides extra security for your sensitive 
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
 
-
-
 ## 8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Without a Passcode
 
 You may get stuck with any emergency if you do not know how to unlock your Apple iPhone 8/iPad without a passcode. It can happen under various circumstances; let's say, if you change the passcode too often, you may forget the Apple iPhone 8 passcode later; your spouse may change your passcode without telling you; your naughty child accidentally locks your Apple iPhone 8. So, what to do then?
 
 Normally, you don't believe what you see and start to try entering the passcode to unlock your Apple iPhone 8. However, if you entered an incorrect passcode 10 times, you will receive a messag "[iPhone is disabled, connect to iTunes](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html)". In this case, the only way to unlock your disabled iPhone is to restore it. And that is a situation none of us would like to be in right? Hence, in this article, today, we will elaborate ways on **how to unlock iPhone without passcode** or restore it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Unlocking Your Apple iPhone 8: What Are the 4 Main Causes of Failure?
 
@@ -129,9 +145,6 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 8, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
@@ -141,8 +154,6 @@ Keep reading to learn more feasible ways to unlock iPhone without passcode in de
 ## Part 2: How to Unlock iPhone/iPad Without a Passcode? (iOS 7.0 or later)
 
 Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDevice without a passcode. It supports all iPhone models from iPhone 6 to iPhone 15, and all iPad models. Dr.Fone-Screen Unlock is easy to use and can be used to bypass the lock screen in just a few simple steps. It can also be used to reset the Apple iPhone 8 device to its factory settings, allowing you to start fresh. In this section, we will learn about this important tool for iPhone lock screen removal. Thus, instead of thinking hard about **how to unlock iPhone without a passcode**, you can use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to do the needful.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -166,6 +177,13 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 8 or iPad without a p
 
 ![unlock ios](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** Follow the instructions to put your Apple iPhone 8 into Recovery mode. When your Apple iPhone 8 is in Recovery mode, the software will begin downloading firmware.
 
 ![go to recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
@@ -173,7 +191,6 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 8 or iPad without a p
 - **Step 4.** When the process is complete, click "Unlock Now", and Dr.Fone will start unlocking. After a while, your device will be unlocked, and you can access your device without a passcode.
 
 ![lock screen opened](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 _Unlock your Apple iPhone 8/iPad without a passcode now!_
 
@@ -236,6 +253,13 @@ When you’re finished, you can use your voice to unlock your Apple iPhone 8. To
 - **Step 2.** You will then see authenticate using Face ID, Touch ID, or your passcode.
 - **Step 3.** Once you've authenticated, your Apple iPhone 8 will be unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: How to Unlock iPhone Without a Passcord Using Find My iPhone?
 
 How to unlock iPhone without Siri and passcode using "Find My iPhone" is another method. It just takes several minutes to clean up your device. It securely removes your Apple iPhone 8 lock screen without tapping the passcode. If you want to restore your Apple iPhone 8 data, this is another great method to enable the features in all terms specifically.
@@ -249,6 +273,13 @@ You can perform the steps from your Apple iPhone 8 directly to turn on "Find My 
 - **Step 2:** Then, you need to choose the option "All Devices". _If my iPhone_ is already enabled on your device, you will see your Apple iPhone 8 listed. Simply click on it and choose the option "Erase iPhone." Then all the data, including the passcode, will be removed from your Apple iPhone 8. Thus, this process unlocks the Apple iPhone 8 without Siri.
 
 ![click erase iphone](https://images.wondershare.com/drfone/article/2017/10/15090391641568.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Now, your device will reboot without a passcode. It has a strategy to [restore your data](https://drfone.wondershare.com/restore-iphone/restore-iphone-from-backup.html) and reboot into a new iPhone, thus going for a secret passcode to unlock any iPhone.
 
@@ -299,9 +330,6 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 1:** To enable the Siri feature on your Apple iPhone 8 device, press and hold the home button. It will immediately activate Siri on your Apple iPhone 8 device. Once it gets activated, it is ready to respond to your voice. Now, ask Siri to open the clock to rectify how to unlock a disabled iPhone. Once it displays the clock on your iOS screen, just touch it to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable siri](https://images.wondershare.com/drfone/article/2017/10/15090666111442.jpg)
 
 - **Step 2:** The World clock appears with the list of tunes you have to select for the alarm clock.
@@ -319,7 +347,6 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 You will see that you can now access your Apple iPhone 8 without the passcode as Siri helped unlock iPhone.
 
 _**Tips:** This is only used for iOS 10.3.2 and 10.3.3. If you have updated your iOS system, we recommend you try the previous methods. To make it easier, just use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)._
-
 
 ## FAQs about iPhone Unlock Issues
 
@@ -424,10 +451,6 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 8. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -465,6 +488,26 @@ If your Apple iPhone 8 swipe-up gesture isn't working specifically on the lock s
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6. Enable Control Center Within Apps
 
@@ -522,6 +565,13 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 8 can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -534,14 +584,9 @@ Resetting all settings on your Apple iPhone 8 can help resolve software-related 
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 8 device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 8 without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -576,9 +621,6 @@ Upon downloading and installing Wondershare Dr.Fone onto your computer, access t
 
 Now, adhere to the on-screen prompts provided to enter Recovery Mode based on the specific model of your iDevice. Then, the platform automatically recognizes and exhibits the Apple iPhone 8 device Model. If necessary, change the model and choose the system version as per your preferences. Upon completion, click on "Start" to continue the process.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![follow on-screen prompts](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Unlock Your iOS Device Successfully**
@@ -587,13 +629,11 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 8 and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone 8. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone 8 even when gestures aren't working properly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -607,11 +647,24 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elegant-toolset-top-5-for-syncing-imagery-with-music/"><u>[New] 2024 Approved Elegant Toolset Top 5 for Syncing Imagery with Music</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-online-accessory-fb-stories-capture-app/"><u>[Updated] 2024 Approved Online Accessory Fb Stories Capture App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-no-cost-live-streaming-tools-android-and-iphone-guide/"><u>10 Best No-Cost Live Streaming Tools Android & iPhone Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rhythmic-revelations-songs-that-will-echo-yes/"><u>2024 Approved Rhythmic Revelations Songs That Will Echo 'Yes'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-guidelines-for-breaking-through-cover-art/"><u>2024 Approved Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-xs-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone XS to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-se-2022-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone SE (2022) Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a14-4g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A14 4G Phone Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-x-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-optimal-cinematography-best-lenses-for-immaculate-4k-output/"><u>In 2024, Optimal Cinematography Best Lenses for Immaculate 4K Output</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Prevention & Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-chivalry-2-stability-problems-for-smooth-gameplay/"><u>Overcoming Chivalry 2 Stability Problems for Smooth Gameplay</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-xs-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone XS Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/podcasts-vs-youtube-which-one-is-the-right-choice-for-2024/"><u>Podcasts Vs. YouTube Which One Is the Right Choice for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-xs-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone XS Max Passcode without a Computer</u></a></li>
+</ul></div>
 

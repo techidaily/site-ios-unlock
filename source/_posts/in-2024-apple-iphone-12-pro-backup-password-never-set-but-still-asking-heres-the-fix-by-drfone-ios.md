@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple iPhone 12 Pro Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-08-09T10:53:06.227Z
-updated: 2024-08-10T10:53:06.227Z
+date: 2024-09-25T12:52:34.477Z
+updated: 2024-09-28T00:59:05.919Z
 tags: 
   - unlock
   - remove screen lock
@@ -82,6 +82,13 @@ You will need to use an alternative strategy, which includes a factory reset if 
 
 ![reset in settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Confirm that you want to reset your Apple iPhone 12 Pro to factory settings, and wait until it is done.
 
 **Step 4:** Once the factory data reset is finished, you must restore your iCloud backup. To do this, follow the steps for setting up iOS until you reach the **Apps & Data** option.
@@ -97,6 +104,13 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 **First step:** After installing Dr.Fone on your device, please run the program and look for the red button labeled **"Screen Unlock."**
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
@@ -116,18 +130,29 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone 12 Pro backup never set in the first place!
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 12 Pro backup password. The first method is to try all the passwords you use on your Apple iPhone 12 Pro. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 12 Pro.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
-
 
 ## How to Turn Off Find My Apple iPhone 12 Pro when Phone is Broken?
 
@@ -146,8 +171,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -188,9 +211,6 @@ Jailbreak your Apple iPhone 12 Pro by following the instructions given by the sy
 
 A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
 **Step 6: Unlock your Apple iPhone 12 Pro**
@@ -219,6 +239,13 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 12 Pro, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
@@ -227,9 +254,6 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone 12 Pro allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone 12 Pro updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -262,9 +286,6 @@ Forgetting your Apple iPhone 12 Pro backup password can be a real pain. Not only
 
 There are still chances that you could forget your Apple iPhone 12 Pro backup password. Fortunately, you have a chance to recover your password. So, if you're having trouble remembering your Apple iPhone 12 Pro backup password, don't despair. There are still ways to get it back!
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
 
 ## Part 1: Overview of iPhone Backup Password
@@ -295,6 +316,13 @@ Select the Encrypt Local Backup option in the Backups section directly from eith
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Create a Password
 
 When prompted in the window, create a password for the account. Make it powerful yet that is simple for you to remember. You might also save it somewhere secure to help you recall it later.
@@ -317,9 +345,6 @@ The typical method that each individual attempts for the first time is to input 
 - Passcode for the administrator
 - Passcode for the iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. "Reset All Settings" via "Settings"
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
@@ -338,6 +363,13 @@ Use a USB cable to link your Apple iPhone 12 Pro to your PC. Look at the small i
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Find your password in the macOS keychain
 
 **Step 1:** Launch Keychain Access by going to **Application** \> **Utilities** \> **Keychain Access** once your Mac has booted up.
@@ -346,9 +378,6 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 12 Pro backup will be shown.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
@@ -377,6 +406,13 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** When you get to this page, use a USB cable to connect your iOS device to the PC. If Dr.Fone can find this connection, you will see the picture below.
 
 Before you click **Remove Now**, please carefully read the following three notes:
@@ -394,7 +430,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -424,7 +459,6 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -437,11 +471,21 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-skype-audiovideo-windows-and-mac-tips/"><u>[Updated] 2024 Approved Capturing Skype Audio/Video Windows & Mac Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb-for-2024/"><u>[Updated] From Conventional to Cutting-Edge The Shift From Rgb to Srgb for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tier-hdr-cameras-explained-and-compared/"><u>[Updated] Top-Tier HDR Cameras Explained & Compared</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-elite-list-of-youtube-player-applications/"><u>2024 Approved The Elite List of YouTube Player Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-zte-nubia-z60-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on ZTE Nubia Z60 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c300-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C300 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-7-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 7 Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-insights-pro-tips-for-downloading-igtv-videos-on-computers/"><u>In 2024, Instagram Insights Pro Tips for Downloading IGTV Videos on Computers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-7-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 7</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/silent-streaming-rankings-of-the-top-8-secret-downloaders-2023-for-2024/"><u>Silent Streaming Rankings of the Top 8 Secret Downloaders, 2023 for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-restoring-deleted-data-post-iphone-factory-reset/"><u>Step-by-Step Guide: Restoring Deleted Data Post-iPhone Factory Reset</u></a></li>
+</ul></div>
 
