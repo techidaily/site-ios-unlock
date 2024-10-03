@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your Apple iPhone XS Properly
-date: 2024-09-22T17:56:47.070Z
-updated: 2024-09-28T07:12:27.486Z
+date: 2024-09-26T17:54:32.836Z
+updated: 2024-10-03T17:17:37.245Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,6 +34,13 @@ A lost iPhone can become susceptible to a myriad of threats. It could compromise
 On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My</u>](https://www.icloud.com/find) feature emerges as a beacon of hope. It uses a combination of GPS, Wi-Fi, and Bluetooth signals to locate your Apple iPhone XS accurately.
 
 ![using find my to locate iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Scenarios Where Find My Works
 
@@ -82,13 +89,6 @@ Lost Mode locks the Apple iPhone XS device and allows users to showcase a person
 
 ![access lost mode option](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
@@ -119,6 +119,13 @@ If your Apple iPhone XS is stolen, it is crucial to immediately inform your loca
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
 You can claim insurance if you have AppleCare+ coverage for your Apple iPhone XS. AppleCare+ with Theft and Loss for iPhone includes protection against theft and loss incidents. It offers up to two incidents of such coverage every 12 months.
@@ -126,6 +133,13 @@ You can claim insurance if you have AppleCare+ coverage for your Apple iPhone XS
 To qualify for theft or loss coverage, it is necessary for Find My to be enabled on your device at the time it goes missing. Moreover, it should remain enabled alongside Lost Mode throughout the claims process.
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
@@ -239,40 +253,13 @@ _How do I unlock my Apple iPhone XS? I know you're supposed to connect it to the
 
 ![unlock-iPhone-to-use-accessories](https://images.wondershare.com/drfone/unlock-new/unlock-usb/unlock-iPhone-to-use-accessories.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You may have had the experience of connecting your Apple iPhone XS to a computer with USB accessories. Usually, "**Unlock Apple iPhone XS to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Why You Need to "Unlock Apple iPhone XS to Use Accessories"?
 
 The command comes from Apple’s significant privacy safeguard **“USB Restricted Mode”**. It means after an hour of your iOS device is unlocked, the system cuts off the lightning port and limits it to charging only. Simply put, when your Apple iPhone XS is locked for more than an hour, it needs to be unlocked to allow the connection of USB accessories. Sometimes, when you unlock your Apple iPhone XS screen to use USB accessories, it can’t charge anymore.
 
 In 2017, a password cracking tool called GrayKey was launched, which can bypass any iPhone screen lock passcode. The FBI, the police, and some government agencies have all become GrayKey customers. To combat hackers including GrayKey and protect iOS users' data security, the USB Restricted Mode feature arrived with iOS 11.4.1 in July 2018 and be improved in iOS12.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Disable USB Restricted Mode?
 
@@ -337,13 +324,6 @@ With iCloud, you can quickly clean up your Apple iPhone XS, remove screen locks,
 
 ![icloud-erase-phone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/icloud-erase-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, your Apple iPhone XS will reboot without a passcode. Then, you can unlock Apple iPhone XS to use accessories and bypass the passcode.
 
 ## Part 5: How to Unlock Apple iPhone XS to Use USB Accessories without Passcode via iTunes?
@@ -382,10 +362,10 @@ If you have forgotten your Apple ID or password and have not synced iCloud and i
 Now, you'll get an iPhone which is like being factory reset. And you could unlock the screen to use USB accessories when you forget the passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 7: Hot FAQ about USB Accessories on iPhone
@@ -397,6 +377,13 @@ From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning 
 ### Q2: Why does My iPhone Think My Charger is a USB Accessory?
 
 It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q3: What to Do If My iPhone Not Charging after Unlock to Use Accessories?
 
@@ -481,6 +468,13 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 ![Unlock iPhone Passcode-process is completed](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now when you know how to unlock iPhone 6 without password, you can disconnect your Apple iPhone XS and use it as per your needs.
 
 ## Part 3: How to unlock iPhone passcode without iTunes using iCloud?
@@ -513,6 +507,13 @@ As you can see, in all the above-stated solutions, your Apple iPhone XS data wou
 
 ![Unlock iPhone Passcode by tricking Siri-get the current time](https://images.wondershare.com/drfone/article/2017/10/15081780467773.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Tap on the clock icon to open the world clock interface.
 
 4\. Here, you need to add another clock. Tap on the “+” icon to do it.
@@ -531,13 +532,6 @@ As you can see, in all the above-stated solutions, your Apple iPhone XS data wou
 
 ![Unlock iPhone Passcode-Go with the message option](https://images.wondershare.com/drfone/article/2017/10/15081781746988.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8\. A new interface will be opened to draft a message. Type something in the “To” field.
 
 9\. After typing, tap on the Return button.
@@ -545,10 +539,10 @@ As you can see, in all the above-stated solutions, your Apple iPhone XS data wou
 ![Unlock iPhone Passcode-tap on the Return button](https://images.wondershare.com/drfone/article/2017/10/15081782154662.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10\. This will turn the text in green colour. Now, you need to tap on the add icon beside it.
@@ -587,22 +581,20 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-bur-background-in-google-meet/"><u>[New] 2024 Approved How to Bur Background in Google Meet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>[New] Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secure-and-quick-screen-captures-on-android-devices/"><u>[Updated] In 2024, Secure & Quick Screen Captures on Android Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-art-of-perfecting-vocal-recordings-for-video-projects/"><u>[Updated] The Art of Perfecting Vocal Recordings for Video Projects</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-15-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 15 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-7-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 7 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-6-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 6 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-se-2020-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone SE (2020) With or Without Password</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-6-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 6 Plus Smoothly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xs-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone XS when Phone is Broken?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mov-file-preservation-securing-and-organizing-on-windows-systems/"><u>In 2024, .mov File Preservation Securing & Organizing on Windows Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-xs-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone XS Max When Its Locked Within Seconds</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 mini</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y100a-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y100A Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-redragon-microphone-compatibility-issue-with-computer/"><u>Troubleshooting Guide: Fixing a Malfunctioning Redragon Microphone Compatibility Issue with Computer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-compact-guide-setting-up-snapchat-macos-style-for-2024/"><u>[New] Compact Guide Setting up Snapchat macOS-Style for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>[New] No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-this-years-most-engrossing-channel-list-youtube-storytellers/"><u>[Updated] 2024 Approved This Year’s Most Engrossing Channel List YouTube Storytellers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/catching-up-in-time-the-instagram-video-inversion-method-for-2024/"><u>Catching Up in Time The Instagram Video Inversion Method for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-to-correct-the-launchdllnotpresent-complication/"><u>Comprehensive Fixes to Correct the LaunchDllNotPresent Complication</u></a></li>
+<li><a href="https://windows11.techidaily.com/defining-new-default-for-reading-pdfs-on-pc/"><u>Defining New Default for Reading PDFs on PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-14-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 14 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-15-plus-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 15 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/double-tap-for-apks-a-user-friendly-guide-in-win-11/"><u>Double-Tap for APKs: A User-Friendly Guide in Win 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-apple-iphone-8-plus-by-drfone-ios/"><u>How Do I SIM Unlock My Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-se-2022-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-14-5-ways-to-get-into-a-locked-apple-iphone-14-by-drfone-ios/"><u>Locked Out of Apple iPhone 14? 5 Ways to get into a Locked Apple iPhone 14</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-simplest-way-to-hunt-down-profiles-on-facebook-a-guide-to-effective-searches/"><u>The Simplest Way to Hunt Down Profiles on Facebook – A Guide to Effective Searches</u></a></li>
 </ul></div>
 

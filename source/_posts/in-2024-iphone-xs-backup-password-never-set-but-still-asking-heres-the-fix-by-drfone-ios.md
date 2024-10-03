@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone XS Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-09-26T18:14:17.568Z
-updated: 2024-09-28T01:39:15.931Z
+date: 2024-09-30T17:17:06.898Z
+updated: 2024-10-03T17:40:33.526Z
 tags: 
   - unlock
   - remove screen lock
@@ -29,10 +29,16 @@ Unfortunately, this capability may also become problematic if you inadvertently 
 But the good news is you have some possible fixes. So, let's talk about them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
@@ -65,6 +71,13 @@ The likelihood of success with this approach is relatively low. However, it is s
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. "Reset All Settings"
 
 Resetting the password is another option at your disposal if you encounter the Apple iPhone XS backup password never set problem. How you do this will be different depending on the version of iOS that you have installed.
@@ -88,6 +101,13 @@ You will need to use an alternative strategy, which includes a factory reset if 
 **Step 2:** After you have opened the **Settings** app, go to the **General** menu, then to the **Reset** menu, and finally to the **Erase All Content and Settings** option.
 
 ![reset in settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Confirm that you want to reset your Apple iPhone XS to factory settings, and wait until it is done.
 
@@ -124,10 +144,10 @@ Please read the following three notes carefully before clicking the **"Remove No
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone XS backup never set in the first place!
@@ -149,6 +169,13 @@ These solutions are all relatively simple to implement and pose very little thre
 ![itunes backup](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-1.jpg)
 
 ## Part 1: iPhone Backup Unlocker Specifications
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is an iPhone backup password?
 
@@ -193,6 +220,13 @@ After downloading Dr.Fone, please run it and locate the red button **"Screen Unl
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To start, tap "Remove iTunes BackUp Encryption" in the bottom right corner of the Screen Unlock window.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-1.png)
@@ -235,13 +269,6 @@ The costs are manageable. A plethora of options for controlling iOS and Android 
 PassFab iPhone Backup Unlocker is considerably different from other iPhone backup unlocking tools that are commercially accessible. The application utilizes GPU acceleration technologies. As a result, the password cracking speed is over a thousand times faster, or at the speed of light.
 
 ![passfab](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Why do Users like it? (Review)**
 
@@ -348,10 +375,10 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -376,13 +403,6 @@ If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
 Fix No.1: Disable Low Power Mode
@@ -406,6 +426,13 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 - **Step 3:** Tap **Turn Off Screen Time**.
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Fix No.3: Remove MDM Configuration Profile
 
@@ -474,13 +501,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
@@ -488,13 +508,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Fix No.6: Check and Adjust Auto-Lock Settings
 
@@ -525,13 +538,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XS or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -554,14 +560,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-freesync-fidelity-meets-4k-bliss-with-samsung-ue590/"><u>[New] FreeSync Fidelity Meets 4K Bliss with Samsung UE590</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[Updated] 2024 Approved Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-power-to-download-igtv-videos-effortlessly-for-2024/"><u>[Updated] Unlock the Power to Download IGTV Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/complete-tutorial-on-converting-shockwave-swf-animations-to-quicktime-movie-mov-file-extension/"><u>Complete Tutorial on Converting Shockwave (SWF) Animations to QuickTime Movie (MOV) File Extension</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-11-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 11 Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-obtain-free-licensed-tunes-for-your-games/"><u>In 2024, How to Obtain Free, Licensed Tunes for Your Games</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone XR?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-15-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 15?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-video-production-essential-lessons-for-beginners/"><u>[New] 2024 Approved Mastering Video Production Essential Lessons for Beginners</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-essential-tips-for-effective-fb-live-split-screens/"><u>[New] Essential Tips for Effective FB Live Split Screens</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-the-secrets-to-stellar-sims-gameplay-recording-for-2024/"><u>[New] Unlocking the Secrets to Stellar Sims Gameplay Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-seamless-streaming-tackle-instagram-video-woes/"><u>[Updated] Seamless Streaming Tackle Instagram Video Woes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-x-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone X Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-x-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone X Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 11, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Passcode without Computer?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twittrek-toolkit-a-comprehensive-approach-to-saving-tweets-visuals/"><u>In 2024, TwitTrek Toolkit A Comprehensive Approach to Saving Tweets' Visuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-creating-a-personalized-speech-to-text-app-for-windows/"><u>Quick Guide to Creating a Personalized Speech-to-Text App for Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-mp4-video-converter-apps-for-windows-10-and-11-speedy-trustworthy-and-user-friendly-solutions/"><u>Top 5 MP4 Video Converter Apps for Windows 10 & 11: Speedy, Trustworthy, and User-Friendly Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-10-webm-to-mp4-conversion-tools-you-need-to-know-for-2024/"><u>Updated Top 10 WebM to MP4 Conversion Tools You Need to Know for 2024</u></a></li>
 </ul></div>
 

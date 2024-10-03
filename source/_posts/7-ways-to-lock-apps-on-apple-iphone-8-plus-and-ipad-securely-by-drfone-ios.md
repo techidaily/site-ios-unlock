@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Lock Apps on Apple iPhone 8 Plus and iPad Securely
-date: 2024-08-23T21:31:04.093Z
-updated: 2024-08-24T21:31:04.093Z
+date: 2024-09-30T16:18:17.008Z
+updated: 2024-10-03T17:46:43.311Z
 tags: 
   - unlock
   - remove screen lock
@@ -40,6 +40,13 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
 
 If you are unable to lock the targeted app directly with Face ID, there is no need to worry. There exist workarounds that you can use, and one of them is using the Shortcuts app. It won't directly lock apps with the Face ID. Instead, it provides a workaround by creating a shortcut that redirects to the lock screen.
@@ -74,18 +81,20 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 3.** Now, you can set up an app lock for iPhone using Restrictions. Simply go to General > Restrictions and turn this feature on for any app of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![turn on restrictions for the app](https://images.wondershare.com/drfone/article/2017/09/15060135059851.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone 8 Plus passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -98,6 +107,13 @@ Remove iPhone iPhone-locked screen without Hassle.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,008,670** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Lock Apps on iPhone Using Guided Access?
 
@@ -123,9 +139,6 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![exit guided access](https://images.wondershare.com/drfone/article/2017/09/15060136247710.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: How to Lock Apps on iPhone with Touch ID?
 
 On the Apple iPhone 8 Plus 8 Series and iPhone SE, Apple offers Touch ID for security. In the process, it is similar to the Face ID available on the later iPhones. If you have an iOS device with Touch ID, here are the steps you can follow for the **app lock iPhone** process:
@@ -217,6 +230,26 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 **Step 9.** After setting the lock, you would be asked to authenticate using your fingerprint to access the protected app.
 
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wrap it up
 
@@ -425,11 +458,7 @@ While you figure out **how much does it cost to unlock an iPhone,** Wondershare 
 
 Start with connecting the Apple iPhone 8 Plus to the computer and select the "Screen Unlock" function from the "Toolbox." Then, choose "iOS" to start a related process. On the next window, click on the "Unlock iOS Screen" option to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![access drfone screen unlock function](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Proceed and Put Your Apple iPhone 8 Plus in Recovery Mode**
 
@@ -441,9 +470,6 @@ Hit the "Start" button to initiate unlocking the iPhone. After that, you will ne
 
 The tool starts downloading the iOS firmware and shows the download progress. After downloading, click on the "Unlock Now" button. Enter the code in the confirmation box to verify the process and start unlocking the screen. At last, hit the "Done" button to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove locked screen successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ### Steps To Remove Apple ID Using Wondershare Dr.Fone
@@ -488,8 +514,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -529,9 +553,6 @@ After putting your device into the DFU mode, the application will automatically 
 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
 
 **Step 5. Start to unlock.**
@@ -545,6 +566,13 @@ Once it is done, the application will automatically start resolving the issue on
 After completing the operation successfully, the interface will provide the following message.
 
 ![erase iphone when locked-repair system complete](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg "repair system complete")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can check if you can unlock your phone or not. If you still have an issue, then click on the “Try Again” button. Else, you can safely remove your phone and use it without any constraint. By following this method, you would learn how to wipe a locked iPhone with Dr.Fone - Screen Unlock (iOS).
 
@@ -570,6 +598,13 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Erase locked iPhone by Find My iPhone
 
 If you haven’t already taken a backup of your phone, then you might find it hard to recover it with iTunes. Another popular way to wipe locked iPhone is by using the Find My iPhone tool. This is mostly implemented in case of a stolen or lost device. One of the best features of Find My iPhone is that it can be used to reset your device remotely. With this, you can protect your personal data without much trouble. Implement these steps to learn how to erase iPhone when locked using Find My iPhone.
@@ -584,12 +619,16 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 
 ![erase iphone when locked-erase iphone](https://images.wondershare.com/drfone/article/2017/07/14993650012081.jpg "erase iphone")
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -603,9 +642,23 @@ After following this informative guide, you would learn how to wipe a locked iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-the-soundscape-downloading-and-instaling-vrecorder/"><u>[New] 2024 Approved Navigating the Soundscape Downloading and Instaling VRecorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-efficiently-upload-and-render-youtube-videos-with-precision-for-2024/"><u>[New] Efficiently Upload and Render YouTube Videos with Precision for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-gold-class-selection-of-unseen-video-extractors/"><u>[Updated] In 2024, Gold-Class Selection of Unseen Video Extractors</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s18e-by-drfone-android/"><u>How to Bypass FRP from Vivo S18e?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-13-pro-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 13 Pro The Right Way</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-xs-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 Pro When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max with a Mask On</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-liberated-chatgpt-on-windows/"><u>Launching Liberated ChatGPT on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/snap-and-save-securely-downloading-vids-from-twitter-for-2024/"><u>Snap & Save Securely Downloading Vids From Twitter for 2024</u></a></li>
+</ul></div>
 

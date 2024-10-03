@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
-date: 2024-08-16T17:05:46.449Z
-updated: 2024-08-17T17:05:46.449Z
+date: 2024-09-26T16:56:50.607Z
+updated: 2024-10-03T16:57:24.101Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,8 +31,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -87,6 +85,13 @@ As your activation lock is removed, go to the settings and remove your Apple ID.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
 iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone 12 mini with other iOS devices so you can share your data, documents, and location with other iCloud users.
@@ -131,9 +136,29 @@ Once your Apple iPhone 12 mini shows the Apple logo, it means the Recovery Mode 
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 12 mini is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 12 mini to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 mini
 
@@ -147,9 +172,6 @@ This guide will take you through the simple process of **changing your Apple ID 
 
 Your Apple ID email helps you access your apps, music, and more. But sometimes, you might need to change it for simple reasons. Let's look at why you might want to change your Apple ID email in easy-to-understand terms.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![why change your apple id email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-02.jpg)
 
 - Your email address is part of your identity. Changing it to something that better suits you can make your Apple experience more personal.
@@ -222,9 +244,6 @@ If you prefer the simplicity of a web browser:
 - **Step 4:** Input your new email address and click **Continue**.
 - **Step 5:** A verification code will be sent to your new email. Enter it to confirm your email change.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### B. Updating Your Apple ID
 
 Now that you've successfully changed your Apple ID email, it's crucial to ensure that all your Apple devices are on the same page:
@@ -243,7 +262,6 @@ By following these steps, you'll ensure that all your Apple devices are synced w
 What if you find yourself in a situation where you want to change your Apple ID email address on your iOS device, but you're locked out? Don't worry; Dr.Fone - Screen Unlock (iOS) can rescue you. This handy tool is designed to help you [<u>unlock your iOS device</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html), allowing you to change your Apple ID email address smoothly.
 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
@@ -269,14 +287,18 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 **Note:** If **Recovery Mode** does not work, try hitting the **Try DFU Mode** button at the bottom to access the instructions for [<u>putting the iDevice in DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html).
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone unlock ios screen recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 4:** After successfully entering your device into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
 
 ![drfone unlock ios screen device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** The next screen shows the progress of your [<u>iOS firmware download</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). If at any point you decide you'd rather call it quits, hit the **Stop** button. If the iOS firmware takes a long time to download on your platform, you can copy the download link by clicking the **Copy** option.
 
@@ -285,6 +307,13 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 - **Step 6:** After a successful download, the iOS firmware is checked and shown on the next screen. Select the **Unlock Now** option again to proceed with the unlocking procedure. A confirmation popup displays, requesting you to confirm the action. Enter the unlock code and press the **Unlock** button to continue.
 
 ![drfone unlock screen ios unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** You'll see the unlocking status of your iOS device on the following screen. Don't forget that keeping the gadget plugged in is necessary to avoid bricking it.
 - **Step 8:** Click the **Done** button once the iDevice has been unlocked. If you're still stuck with a locked iPhone, iPad, or iPod, select **Try Again** to retry the process.
@@ -300,7 +329,6 @@ By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device
 [<u>A Detailed Guide to Fix All iPad Email Problems [2023]</u>](https://drfone.wondershare.com/iphone-problems/ipad-email-problems.html)
 
 [<u>How to Fix Email Disappeared from iPhone?</u>](https://drfone.wondershare.com/iphone-problems/email-disappeared-from-iphone.html)
-
 
 ## Conclusion
 
@@ -354,14 +382,15 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone 12 mini to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
 By taking the assistance of Apple’s native Restrictions feature, you can app lock the Apple iPhone 12 mini without any trouble. In this way, you can set up a passcode that needs to be matched before accessing any app. This iPhone app lock is also a great way to restrict your kids from accessing certain apps or making purchases. To learn how to lock apps on iPhone or iPad using Restrictions, follow these steps:
@@ -381,8 +410,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone 12 mini passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -429,6 +456,13 @@ On the Apple iPhone 12 mini 8 Series and iPhone SE, Apple offers Touch ID for se
 ![proceed into touch id settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-8.jpg)
 
 ## Part 7: How to Lock Apps on iPhone Using Third-Party Apps?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Lock Apps onApple iPhone 12 mini & iPad via Famisafe
 
@@ -504,6 +538,13 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![protected applications](https://images.wondershare.com/drfone/article/2017/09/15060137256044.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 7.** Simply turn on (or off) the feature of the app that you wish to lock.
 
 **Step 8.** You can also go to the “Touch ID” feature to further calibrate the app.
@@ -515,9 +556,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone 12 mini without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone 12 mini in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -531,9 +569,19 @@ By following these solutions, you would be able to learn how to lock apps on the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>[Updated] Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-transition-the-ultimate-subcap-guide/"><u>2024 Approved SRT Transition The Ultimate SUBCAP Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xs-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XS Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/delayed-recovery-from-infections/"><u>Delayed Recovery From Infections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-n3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find N3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-turn-your-cracked-iphone-into-cash-expert-tips-and-advice/"><u>How to Turn Your Cracked iPhone Into Cash: Expert Tips and Advice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 15 with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-6s-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 6s After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-ark-for-pc-troubleshooting-and-fixing-persistent-crash-errors/"><u>Lost Ark for PC: Troubleshooting and Fixing Persistent Crash Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oneplus-nord-ce-3-lite-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from OnePlus Nord CE 3 Lite 5G</u></a></li>
+</ul></div>
 

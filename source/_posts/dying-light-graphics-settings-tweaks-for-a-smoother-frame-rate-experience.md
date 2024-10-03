@@ -1,7 +1,7 @@
 ---
 title: Dying Light Graphics Settings Tweaks for a Smoother Frame Rate Experience
-date: 2024-09-27T01:40:44.851Z
-updated: 2024-09-27T23:59:36.245Z
+date: 2024-09-26T16:51:27.449Z
+updated: 2024-10-03T16:55:49.861Z
 tags:
   - win11
   - win10
@@ -56,14 +56,21 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -81,10 +88,10 @@ If the issue persists, go ahead with the next fix.
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
@@ -93,13 +100,6 @@ If the issue persists, go ahead with the next fix.
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Launch the game in DX11 mode
 
@@ -111,13 +111,6 @@ If the crashing issue remains, continue to the next fix.
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
@@ -134,29 +127,37 @@ Allow Psychonauts 2 through Windows Firewall:
 2. Click**Allow an app through firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
@@ -189,18 +190,24 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>[New] 2024 Approved The Path to Higher Rankings A Podcast SEO Guidebook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-remove-image-background-in-photopea/"><u>[Updated] 2024 Approved How to Remove Image Background In Photopea</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inspirational-article-leaderboard-maker/"><u>2024 Approved Inspirational Article Leaderboard Maker</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/front-seat-escapades-beyond-athletic-viewing/"><u>Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-6-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 6 Plus When You Forget the Passcode?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-12-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus 12 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-6-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 6 and iPad?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-6-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 6 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-7-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 7 When You Forget the Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Passcode without a Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/multimedia-artists-cyber-meeting-room-for-2024/"><u>Multimedia Artists' Cyber Meeting Room for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit-for-2024/"><u>The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2023s-leading-pc-vr-headsets-revealed/"><u>[New] 2023'S Leading PC VR Headsets Revealed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/dvanced-array-manipulations-and-sorting-algorithms/"><u>[New] Advanced Array Manipulations and Sorting Algorithms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>[New] Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-13-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 13 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dslrs-place-among-mirrorless-cameras-for-videos-for-2024/"><u>DSLR's Place Among Mirrorless Cameras for Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-overcome-frontiers-crash-problems-on-a-computer-system/"><u>Effective Solutions to Overcome Frontier's Crash Problems on a Computer System</u></a></li>
+<li><a href="https://fox-info.techidaily.com/expertise-in-mobile-lut-apps-for-2024/"><u>Expertise in Mobile LUT Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-7-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 7 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-7-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 7 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 6s Plus</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-gratuitous-audio-to-text-conversion-tool/"><u>In 2024, Gratuitous Audio to Text Conversion Tool</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-7-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 7 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-firewall-barriers-to-establish-a-secure-firefox-internet-session/"><u>Overcoming Firewall Barriers to Establish a Secure Firefox Internet Session</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mkv-files-into-flv-format-using-windows-11/"><u>Step-by-Step Guide: Transforming MKV Files Into FLV Format Using Windows 11</u></a></li>
 </ul></div>
 

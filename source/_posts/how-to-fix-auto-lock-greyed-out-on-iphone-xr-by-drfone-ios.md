@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone XR
-date: 2024-08-16T17:06:32.543Z
-updated: 2024-08-17T17:06:32.543Z
+date: 2024-09-28T17:50:45.577Z
+updated: 2024-10-03T16:55:59.376Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,9 +20,6 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -99,18 +96,6 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -136,9 +121,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
@@ -190,9 +172,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XR or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -217,6 +196,13 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14994463688829.jpg "hey siri")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Tap on the Add (plus) icon.
 
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994463891817.jpg)
@@ -231,14 +217,18 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 5.** Tap on the message icon.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994464494089.jpg "share on message")
 
 **Step 6.** It will open another interface to draft a new message. Wait for a while and write something in the “To” field. Once you are done, tap on the return button on the keyboard.
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994464718727.jpg "send to")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7.** This will highlight your text in green. Now, tap on the add icon located nearby.
 
@@ -262,6 +252,13 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 By following this technique, you would also learn how to unlock the disabled Apple iPhone XR 4. Though, you need to ensure that the iOS device you are using would support this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to unlock disabled Apple iPhone XR using Find My Apple iPhone XR?
 
 The chances are that your iOS device might not work with the above-stated solution, or it's latest iOS version. Therefore, you would be required to take the assistance of another method to unlock your device. With the help of Apple’s official [Find My Apple iPhone XR](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html) service, you can easily restore your device remotely. It is also used to locate an iOS device, play a sound, and lock it remotely.
@@ -273,6 +270,13 @@ After implementing this solution, your iOS device will reset, and your data woul
 **Step 2.** Visit the Find My Apple iPhone XR service. Under the “All Devices” category, you can view all the iOS devices linked to your Apple ID. Select the Apple iPhone XR device you want to reset.
 
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994465948766.jpg "icloud all devices")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** Select the feature of the Erase device and confirm your choice. Wait for a while as your Apple iPhone XR or iPad would be restored remotely.
 
@@ -305,9 +309,23 @@ Select device information on Dr.Fone
 
 ![download Apple iPhone XR firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** Start to Unlock. The phone will be unlocked after that.
 
 ![download Apple iPhone XR firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Tips to protect your Apple iPhone XR from being unlocked by thieves
 
@@ -335,7 +353,12 @@ One of the best ways to secure your iOS device is by adding secure passwords. To
 
 By implementing the above suggestions, you can easily make your iOS device more secure. Additionally, we have also listed two stepwise solutions that can unlock your iPad or Apple iPhone XR without taking the assistance of a computer. Now when you know how to unlock a disabled Apple iPhone XR without a computer, you can easily make the most out of your iOS device.
 
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does Jailbreaking Apple iPhone XR i Do? Get Answers here
 
@@ -437,7 +460,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 - **Step 1:** Download Dr.Fone and set up the software on your computer.
 
-
 - **Step 2:** Open the program and select **Screen Unlock** from the available options on the **Toolbox** page.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -453,6 +475,13 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 - **Step 5:** Use a USB cable to connect your Apple iPhone XR to the computer. Ensure the software detects your device.
 
 ![in-app instructions to connect iphone](https://images.wondershare.com/drfone/guide/screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** Check your Apple iPhone XR settings for a displayed MEID or ESN number to identify CDMA network support. If an IMEI number is present, the Apple iPhone XR device supports GSM networks. The findings indicate support for both GSM and CDMA networks. Click **Unlock Now** to proceed.
 
@@ -489,7 +518,6 @@ Jailbreaking your Apple iPhone XR weakens its iOS security, possibly exposing yo
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -502,9 +530,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-blueprinting-engaging-content-layouts-on-youtube/"><u>[New] 2024 Approved Blueprinting Engaging Content Layouts on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-connecting-to-google-meet-laptop-plus-mobile/"><u>[Updated] Connecting to Google Meet Laptop + Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-7-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 7? Learn All 4 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 7 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-network-growth-strategy-share-twitch-live-links-on-fb/"><u>In 2024, Network Growth Strategy Share Twitch Live Links on FB</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-11-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-microsoft-teams-with-ai-tips-on-leveraging-copilot/"><u>Mastering Microsoft Teams with AI: Tips on Leveraging Copilot</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/netgear-orbi-range-extender-rbs5-model-50y-a-backyard-wifi-game-changer/"><u>Netgear Orbi Range Extender (RBS5#) Model 50Y - A Backyard WiFi Game Changer?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-unfixable-whea-errors-on-pc-a-comprehensive-tutorial/"><u>Overcoming Unfixable WHEA Errors on PC: A Comprehensive Tutorial</u></a></li>
+</ul></div>
 

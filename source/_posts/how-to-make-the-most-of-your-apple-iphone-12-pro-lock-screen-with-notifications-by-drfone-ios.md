@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?
-date: 2024-08-16T17:06:22.699Z
-updated: 2024-08-17T17:06:22.699Z
+date: 2024-10-01T17:34:17.812Z
+updated: 2024-10-03T17:47:23.316Z
 tags: 
   - unlock
   - remove screen lock
@@ -90,9 +90,6 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 1
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -122,6 +119,13 @@ So, let's get started.
 Unlocking an iPhone seems challenging, especially when it's not yours, but it's not impossible. You have various ways to unlock a found iPhone, but most are a waste of time. So, to save time and energy, we have compiled 3 efficient ways to unlock a found iPhone.
 
 ![i found an iphone how do i unlock it](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 These methods will be easy to follow because of the detailed step-by-step guide.
 
@@ -154,6 +158,13 @@ The process of unlocking an iPhone 8 or newer model differs from the older model
 
 ![put iphone 8 and newer iphones in recovery mode](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. First, connect your Apple iPhone 12 Pro to the computer with a lightning cable and launch iTunes.
 2. Now, turn off your Apple iPhone 12 Pro and press and quickly release the Volume Up button. After that, press and release the Volume Down button immediately, and hold the Side button until you are in the recovery mode screen.
 3. Once you see the recovery mode screen, release the Side button. Now, you will see a message in iTunes that says, "There is a problem with the Apple iPhone 12 Pro that requires it to be updated or restored." Or another message that says restore this iPhone. You can click on any option.
@@ -182,7 +193,6 @@ If the above method doesn't work or iTunes is not detecting that iPhone, you can
 
 If none of the above methods can be used for you, there is an ultimate method that will surely help you if you want to unlock a found iPhone.
 
-
 Here are the simple steps that can help you.
 
 1. First, connect your Apple iPhone 12 Pro to the computer with a lightning cable and launch Dr.Fone on your computer.
@@ -199,6 +209,13 @@ Here are the simple steps that can help you.
 
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Once your Apple iPhone 12 Pro is in DFU mode or Recovery mode, the software will ask you to start downloading the necessary firmware for your device. So, choose an appropriate firmware according to the Apple iPhone 12 Pro model.
 
 ![unlock ios screen by drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -209,13 +226,9 @@ Here are the simple steps that can help you.
 
 8. Once the process is completed, your Apple iPhone 12 Pro will be unlocked, and you can set it up again.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 So that's how you can easily unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
-
 
 ## What Can I Do to Contact Its Owner?
 
@@ -231,6 +244,19 @@ Many iPhone owners habitually put their phone numbers in lost mode. So, you can 
 
 The rightful owner of the Apple iPhone 12 Pro activates lost mode. You can see the lost mode on the notification panel, where a message will show that the phone is lost. The owner can also remotely lock the phone using this mode.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check medical ID in an emergency call
 
 There is a feature in the Apple iPhone 12 Pro known as medical ID. This feature can help you contact the owner of the found iPhone if they are unavailable.
@@ -239,9 +265,6 @@ There is a feature in the Apple iPhone 12 Pro known as medical ID. This feature 
 
 To do this, go to the emergency call screen and tap on the Medical ID option. Here, you can find out the name and phone number of the owner. So, you can use this information to contact the owner and return the iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Take photos to communicate with the owner via iCloud
 
 This is a great way to contact the owner of a lost iPhone. You can use this method if you cannot find the owner's phone number in the lost mode or medical ID.
@@ -262,17 +285,12 @@ All the methods mentioned above have a high success ratio, but the last ultimate
 
 Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
 
-
-
 ## How To Change Your Apple ID on Apple iPhone 12 Pro With or Without Password
 
 The Apple ID is a unique identifier used to log in to all Apple services, including iCloud, the App Store, Apple Music, and more. You can track purchases and manage your account settings through your Apple ID. But what if you need a new one for security or moving to a new location?
 
 Whatever the reason, learning **how to change your Apple ID on your iPad** is straightforward. And this guide will show the steps and provide some tips at the end.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![browsing on an ipad pro](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-01.jpg)
 
 ## Part 1: Reasons Why You Might Need To Change Your Apple ID
@@ -348,6 +366,19 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
 **Changing your Apple ID on an iPad** is usually easy. However, there can be setbacks during the process. Now, here's what to do if you find yourself unable to do it and why it might be happening:
@@ -382,13 +413,16 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
 
-
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Remove AppleID** from the available **Screen Unlock** tools.
 
@@ -406,6 +440,13 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![confirm two-factor authentication enabled](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Follow the on-screen instructions to put your iPad in [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html).
 
 ![put device in recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
@@ -417,6 +458,13 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 - **Step 9:** The [<u>iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) will start downloading, and you can see the progress on the next screen. If you're experiencing slow download speeds, click **Copy** to get the link and download it.
 
 ![firmware download in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 10:** Review the **Device Model** and **System Version**, then click **Unlock Now** to proceed.
 
@@ -462,7 +510,6 @@ If not already enabled, turn on 2FA for an extra layer of security. It's simple 
 
 And if you need to remove your Apple ID without a password, Dr.Fone is a good option. Dr.Fone is a powerful iOS toolkit that can help you with various phone solutions. It's easy to use and can help you solve mobile problems in just a few minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -475,9 +522,24 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-high-quality-photo-for-free/"><u>[New] Mastering the Art of High Quality Photo for Free</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-xbox-live-streaming/"><u>[Updated] 2024 Approved The Ultimate Guide to Xbox Live Streaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-investigating-magix-audio-mixer-mastery/"><u>2024 Approved Investigating MAGIX Audio Mixer Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-the-top-9-sites-for-accessing-cutting-edge-3d-font-art/"><u>2024 Approved Unveiling the Top 9 Sites for Accessing Cutting-Edge 3D Font Art</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 7 with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-14-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Plus? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-6-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 6?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g13-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G13 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/neural-net-versus-algorithm-which-dominates/"><u>Neural Net Versus Algorithm: Which Dominates?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-x50-gt-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor X50 GT has been deleted.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-stop-code-0x0000005c-hal-initialization-failed/"><u>Solving the Mystery of Stop Code 0X0000005C (HAL Initialization Failed)</u></a></li>
+</ul></div>
 

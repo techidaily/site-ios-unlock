@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Lock Apps on iPhone XS and iPad Securely
-date: 2024-08-23T21:31:00.568Z
-updated: 2024-08-24T21:31:00.568Z
+date: 2024-09-29T17:33:44.483Z
+updated: 2024-10-03T17:13:37.119Z
 tags: 
   - unlock
   - remove screen lock
@@ -38,10 +38,14 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 
 **Step 2.** After providing the passcode, select "Other Apps" and check the apps that have Face ID enabled. Remember, you're unable to manually include apps in the list. Only those apps that have sought access to the feature will appear here automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
 
@@ -55,9 +59,6 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 **Step 2.** Now, tap "Choose" in front of the "App" and select the app you want to lock. Now, move down and select "Is Opened," then move further down to choose "Run Immediately." Here, leave "Notify when Run" deactivated.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
@@ -88,8 +89,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 It can be a trouble if you forget your Apple iPhone XS passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
@@ -114,13 +113,17 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![guided access password](https://images.wondershare.com/drfone/article/2017/09/15060135537597.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** After selecting the “Set Guided Access Passcode” option, you can set up a passcode to use it as an app lock for iPhone.
 
 **Step 4.** Now, simply launch the app that you want to restrict and tap the Home button three times. This will start the Guided Access mode.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
 
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
@@ -129,15 +132,19 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![exit guided access](https://images.wondershare.com/drfone/article/2017/09/15060136247710.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: How to Lock Apps on iPhone with Touch ID?
 
 On the Apple iPhone XS 8 Series and iPhone SE, Apple offers Touch ID for security. In the process, it is similar to the Face ID available on the later iPhones. If you have an iOS device with Touch ID, here are the steps you can follow for the **app lock iPhone** process:
 
 **Instructions:** To start, open the Settings application. Now scroll down to locate and select the "Touch ID & Passcode" option. On the following screen, you can deactivate or activate Touch ID for apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![proceed into touch id settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-8.jpg)
 
 ## Part 7: How to Lock Apps on iPhone Using Third-Party Apps?
@@ -224,6 +231,13 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone XS without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone XS in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
@@ -289,6 +303,13 @@ Again, iPhone will show the Apple iPhone XS locked message. You then need to rem
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Use iTunes**
 
 You can erase your Apple iPhone XS and its password once you synchronize it with iTunes. Follow these steps:
@@ -312,6 +333,19 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -333,7 +367,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -367,7 +400,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone XS effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
@@ -385,7 +417,6 @@ Let's get started.
 ## Easy App to Factory Reset Locked iPhone
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone XS and help you unlock your device within a few minutes.
-
 
 For this, you will need to follow the steps given below.
 
@@ -435,6 +466,13 @@ Resetting your locked iPhone without iTunes is one of the most effective methods
 
 ![via the find My Apple iPhone XS feature](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do this, you need to follow these steps:
 
 **Step 1:** Go to icloud.com from any web browser and log in with your Apple ID and password.
@@ -471,6 +509,13 @@ If you want to factory reset your locked iPhone without iTunes and any data loss
 
 ![the recover mode on finder](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do this, you need to follow these steps:
 
 **Step 1:** Open Finder on your computer and connect your Apple iPhone XS.
@@ -493,9 +538,6 @@ No. If you want a factory reset, all your data will be erased, so make a backup 
 
 But if you want your Apple iPhone XS set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
@@ -528,9 +570,6 @@ However, if you want to factory reset your Apple iPhone XS because you have forg
 
 This app can help you factory reset your locked iPhone without iTunes in just a few minutes, and it is very easy to use. So, if you want to reset your device without any data loss, we recommend using this app.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -543,9 +582,24 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-above-average-cloud-service-selections/"><u>[New] 2024 Approved Above-Average Cloud Service Selections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-science-behind-effective-instagram-puzzle-posts-for-2024/"><u>[New] The Science Behind Effective Instagram Puzzle Posts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-lenovo-screen-casting/"><u>[Updated] Effortless Lenovo Screen Casting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-firefox-pip-simplified-for-the-everyday-user/"><u>[Updated] Firefox PIP Simplified for the Everyday User</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy XCover 6 Pro Tactical Edition to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Passcode Screen?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-free-clipart-use-in-projects/"><u>In 2024, Best Practices for Free Clipart Use in Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-14-pro-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 14 Pro with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-14-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 14 Pro With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6s-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6s In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-6s-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 6s Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-14-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 14 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://techidaily.com/s17-video-recovery-recover-deleted-videos-from-s17-by-fonelab-android-recover-video/"><u>S17 Video Recovery - Recover Deleted Videos from S17</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smiles-in-screens-make-with-kapwing/"><u>Smiles in Screens Make with Kapwing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-your-personal-touch-is-missing-on-your-windows-pc-reclaiming-ownership/"><u>Why Your Personal Touch Is Missing on Your Windows PC: Reclaiming Ownership</u></a></li>
+</ul></div>
 

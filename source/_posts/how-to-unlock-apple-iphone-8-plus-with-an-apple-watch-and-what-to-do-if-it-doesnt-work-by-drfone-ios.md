@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-08-16T17:05:07.435Z
-updated: 2024-08-17T17:05:07.435Z
+date: 2024-09-30T16:52:50.039Z
+updated: 2024-10-03T16:41:44.463Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,10 +28,6 @@ Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone
 
 Now, you cannot just **unlock any Apple iPhone 8 Plus with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 8 Plus?
 
 ![phone, earphones, and apple watch on a table](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-2.jpg)
@@ -45,6 +41,13 @@ The problem is that neither face ID nor traditional passcodes aren’t always th
 What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone 8 Plus model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Requirements for Unlocking Apple iPhone 8 Plus With Apple Watch
 
@@ -105,9 +108,6 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 8 Plus With a Watch
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![person wearing face mask unlocking their Apple iPhone 8 Plus](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
 
 Generally speaking, unlocking your Apple iPhone 8 Plus with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
@@ -134,6 +134,13 @@ Remember, you only need WiFi and Bluetooth on but don’t need to be connected t
 
 If the problem persists, you could also restart your devices and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3. Reset Your Face ID
 
 In some instances, it’s the Face ID feature that’s causing trouble, so you might want to try and reset it. It’s much easier than it may sound, you just need to follow the next few steps:
@@ -147,8 +154,12 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4. Do a System Repair on Your Apple iPhone 8 Plus
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -167,6 +178,13 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 5:** Select **iOS repair**;
 
 ![dr.fone ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** Select **Standard Repair Mode**;
 - **Step 7:** Follow the on-screen instructions and select **Enter Recovery Mode**;
@@ -254,9 +272,6 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 - **Step 2.** Now, switch the slider next to "Content & Privacy Restrictions" to turn it off. It will disable all parental control on the targeted device. However, before it disables, the Apple iPhone 8 Plus will prompt for the Screen Time passcode, which needs to be added.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
 
 ### Way 2. By Resetting the Entire iPhone
@@ -297,7 +312,6 @@ To initiate the procedure, open Wondershare Dr.Fone on your computer. Navigate t
 
 ![choose to unlock screen time passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
 
-
 - **Step 2. Start Unlocking by Disabling Find My Feature**
 
 Upon connecting the Apple iPhone 8 Plus device, the platform will detect the iDevice and showcase its status on the screen. Afterward, you are required to proceed by clicking on the "Unlock Now" button. However, it is necessary to deactivate the Find My service as indicated in the prompt. Navigate to your Apple iPhone 8 Plus's Settings and select the Apple ID at the top of the settings menu. Access the “Find My” settings and toggle off the “Find My iPhone” feature.
@@ -316,22 +330,24 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 - **Step 1.** Ensure that iTunes has been updated to the most recent version before opening the application. Connect your Apple iPhone 8 Plus to the computer and grant iTunes permission to recognize the Apple iPhone 8 Plus device. After detecting the Apple iPhone 8 Plus device, access the "Summary" tab by tapping the Apple iPhone 8 Plus device icon in iTunes. You can access the "Backups" section to create any backup before restoring.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![access the summary tab within itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-9.jpg)
 
 - **Step 2.** Afterward, initiate the Apple iPhone 8 Plus restoration by selecting "Restore iPhone." A menu box will appear, asking you to create a "Back Up" or not. Choose the preferred option, and another dialog box will appear, alerting you about the deletion of all content and settings on your Apple iPhone 8 Plus. You should proceed by clicking "Restore" to confirm. Then, follow the on-screen instructions to finalize the process.
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In summary, this article explored **how to disable restrictions on iPhones without a password** and with a password. Accessing settings with a passcode simplifies the process. Wondershare Dr.Fone stands out as the optimal solution for those seeking **how to delete parental controls without password**. When passcode access is limited, Dr.Fone – Screen Unlock (iOS) offers the most efficient solution.
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
 
@@ -347,11 +363,16 @@ Find My iPhone is an application forged by Apple that keeps track of your Apple 
 
 The best part about this application is that it is free of cost. It usually comes built-in your Apple iPhone 8 Plus already, but if not, you can easily download it from the app store. Sign in with your Apple ID, and it will automatically locate your Apple iPhone 8 Plus no matter where you go.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -399,6 +420,13 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7: Turn off Find My iPhone**
 
@@ -450,10 +478,16 @@ Once your Apple iPhone 8 Plus shows the Apple logo, it means the Recovery Mode i
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 8 Plus is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 8 Plus to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -467,11 +501,26 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-driving-income-from-views-on-youtube/"><u>[New] In 2024, Driving Income From Views on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-revenue-with-youtube-short-videos-a-complete-plan-for-2024/"><u>[Updated] Boosting Revenue with YouTube Short Videos – A Complete Plan for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-stories-that-keep-you-watching-within-limit/"><u>[Updated] Immersive Stories That Keep You Watching (Within Limit)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/anime-soundtracks-setting-the-mood-for-viral-shorts/"><u>Anime Soundtracks Setting the Mood for Viral Shorts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-resolving-the-ocidll-not-found-issue-on-your-computer/"><u>Essential Tips for Resolving the 'oci.dll Not Found' Issue on Your Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 12 mini Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-se-2022-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone SE (2022) After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-7-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 7 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Pro Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-xr-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone XR Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-high-definition-screens-for-ps5/"><u>In 2024, Top 5 High-Definition Screens for PS5</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mobile-stellar-eraser-standard-deletion-on-mac-seamless-data-cleanse/"><u>Mobile Stellar Eraser: Standard Deletion on Mac - Seamless Data Cleanse</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-motion-tracking-software-top-picks-for-this-year/"><u>New 2024 Approved Motion Tracking Software Top Picks for This Year</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-repair-software-photo-preservation-redefined/"><u>Stellar's Repair Software: Photo Preservation Redefined</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tiny-film-plot-proposal-for-2024/"><u>Tiny Film Plot Proposal for 2024</u></a></li>
+</ul></div>
 

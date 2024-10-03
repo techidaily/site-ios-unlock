@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 14 Plus
-date: 2024-08-16T17:06:38.130Z
-updated: 2024-08-17T17:06:38.130Z
+date: 2024-10-01T17:55:31.187Z
+updated: 2024-10-03T17:10:28.252Z
 tags: 
   - unlock
   - remove screen lock
@@ -172,9 +172,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 14 Plus or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -182,6 +179,13 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Unlock Apple iPhone 14 Plus without Passcode or Face ID
 
@@ -237,9 +241,6 @@ After entering recovery mode, you'll have to continue on your Macintosh or PC. T
 - Go to the Finder window.
 - Your Apple iPhone 14 Plus will appear on the left half of the Finder window under Locations. You can tap on it to choose it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![macos catalina requirements](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-3.jpg)
 
 **macOS Mojave or a Windows with iTunes**
@@ -283,7 +284,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ### 4\. Dr.Fone-Screen Unlock
 
-
 This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
 
 Dr.Fone will not only remove the screen lock but also make sure to keep your identity safe. In addition, it is the easiest method and requires no prior knowledge. So if you are someone new to this technology, we suggest you follow the steps below:
@@ -296,18 +296,12 @@ After successfully installing Dr.Fone on your PC, open it and select the "Screen
 
 Next, connect your locked phone to the system through a wired connection. Then go for the iOS screen unlock feature.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2. Recovery or DFU Mode Boot**
 
 It is necessary to first boot your locked device in recovery or DFU mode. Follow the guidelines on your screen to do so. The Recovery mode is the suggested way for iOS screen locks. If you can't actuate this mode, go for the DFU mode boot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3. Select your Apple iPhone 14 Plus Model**
@@ -322,10 +316,16 @@ After downloading the firmware effectively, click the "Unlock Now" button to let
 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Simply in no time, Dr.Fone will successfully unlock your device.
 
 **Note:** This unlocking process will erase everything off your Apple iPhone 14 Plus and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
-
 
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
@@ -342,6 +342,26 @@ First, tap on your Settings app to open it. That is the one on the home screen w
 On the Settings menu, tap on the Face ID and Passcode menu.
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Enter your passcode
 
@@ -364,6 +384,13 @@ It doesn't work by snapping a picture of your face, but by taking a contour of y
 ### The Bottom Line
 
 That's all about our take on **how to unlock iPhone without passcode or face ID 2022.** We have worked hard to make sure you get the right solutions in hand. However, we strongly suggest Dr.Fone if you still face issues with our solutions. Even if the above methods fail, Dr.Fone will ensure you unlock your phone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Can I Unlock My Apple iPhone 14 Plus After Forgetting my PIN Code?
 
@@ -417,6 +444,13 @@ To unlock iPhone through iCloud:
 
 ![icloud unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Unlock it with iTunes
 
 Suppose you use iTunes to restore the Apple iPhone 14 Plus in recovery mode; it will install the latest iOS to your device. Doing so will erase all user data from the Apple iPhone 14 Plus device, including the lock screen. So, this is also an excellent way to unlock your Apple iPhone 14 Plus. However, you must keep a backup of your important files before doing so.
@@ -445,7 +479,6 @@ Keep waiting until the restoration completes. Then, a short time later, go to yo
 
 ### 4\. Dr.Fone-Screen Unlock
 
-
 What to do if you **forgot iPhone PIN code**? As a reference, you have to erase your device to remove the lock. Aside from iTunes, you can use an outsider iPhone unlocker like Dr.Fone-Screen Unlock to unlock your device without a code.
 
 With such software, you don't have to master some professional skills. Instead, stick to the on-screen directions in Wondershare Dr.Fone-Screen Unlock. Then, you can reset your locked device without any problem. Dr.Fone will eliminate it for you, whether it's a four-digit code, six-digit code, Contact ID, or Face ID. Here's how:
@@ -472,6 +505,19 @@ After opening the recovery mode, you can see your Device Model and iOS version. 
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4. Remove the Screen Lock Passcode**
 
 After getting the required firmware, click the "Unlock Now" button to begin the process.
@@ -479,7 +525,6 @@ After getting the required firmware, click the "Unlock Now" button to begin the 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Simply in almost no time, your Apple iPhone 14 Plus will be unlocked effectively. However, kindly note this unlocking system will likewise wipe all the files and settings on your device. Therefore, you must have a backup of your essential documents beforehand.
-
 
 ## Part 2: FAQs
 
@@ -495,18 +540,6 @@ Simply in almost no time, your Apple iPhone 14 Plus will be unlocked effectively
 
 ![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to do after unlocking my iPhone?
 
 There are certain things you must do after unlocking your iDevice. First, you must immediately set a new PIN for your iDevice. Apart from that, restore your previous data if you have a backup. Having done so, you are good to go.
@@ -515,12 +548,16 @@ There are certain things you must do after unlocking your iDevice. First, you mu
 
 No, you cannot unlock a locked iDevice without losing your data. Apple has made some outstanding security features in their phones. Therefore, you must erase all its content and settings if you need to get your hands on an unlocked phone again.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 Due to one reason or another, you may have **forgotten iPhone PIN.** However, it is not that big a deal. In this article, we have proposed some of the best ways you can employ to erase this issue. However, we strongly recommend you use Dr.Fone for a quick solution.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -534,9 +571,22 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-120plus-snapchat-private-story-name-ideas-to-make-you-unique/"><u>[New] 120+ Snapchat Private Story Name Ideas to Make You Unique</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Without iTunes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967336310-enhance-gameplay-with-the-latest-geforce-rtx-2080-ti-drivers-update-now/"><u>Enhance Gameplay with the Latest GeForce RTX 2080 Ti Drivers - Update Now!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-12-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 12 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-motorola-g24-power-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola G24 Power Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-xr-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone XR in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-se-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone SE</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-x-flip-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo X Flip</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-11-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 11 Pro Max Lock Screen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-thinkpad-x1-titanium-yoga-review/"><u>Lenovo ThinkPad X1 Titanium Yoga Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamlining-your-gaming-playback-for-2024/"><u>Streamlining Your Gaming Playback for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a25-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A25 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-eye-catching-animations-top-10-text-generator-tools/"><u>Updated In 2024, Unlock Eye-Catching Animations Top 10 Text Generator Tools</u></a></li>
+</ul></div>
 

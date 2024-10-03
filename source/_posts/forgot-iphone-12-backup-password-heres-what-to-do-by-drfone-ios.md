@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 12 Backup Password? Heres What to Do
-date: 2024-08-16T17:08:06.901Z
-updated: 2024-08-17T17:08:06.901Z
+date: 2024-10-01T17:29:57.405Z
+updated: 2024-10-03T17:08:28.421Z
 tags: 
   - unlock
   - remove screen lock
@@ -90,9 +90,6 @@ Use a USB cable to link your Apple iPhone 12 to your PC. Look at the small iOS i
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Find your password in the macOS keychain
 
 **Step 1:** Launch Keychain Access by going to **Application** \> **Utilities** \> **Keychain Access** once your Mac has booted up.
@@ -123,14 +120,24 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 **Step 1:** After installing Dr.Fone, open it and look for the red **Screen Unlock** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** In the Screen Unlock interface, tap **Remove iTunes BackUp Encryption** in the bottom right corner to move forward.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** When you get to this page, use a USB cable to connect your iOS device to the PC. If Dr.Fone can find this connection, you will see the picture below.
 
@@ -149,7 +156,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -189,8 +195,6 @@ If you are locked out of Apple iPhone 12, you should only use a reliable and sec
 
 Attention: All your data all be erased after you get into your locked Apple iPhone 12.Please make sure if you have backed up all your data.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 12 In 5 Minutes!
@@ -199,6 +203,13 @@ Get Into Locked Apple iPhone 12 In 5 Minutes!
 - Unlock the iDevice effectively whether it is disabled or nobody knows its passcode.
 - Works properly whether if you're using Apple iPhone 12, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -213,6 +224,13 @@ You can watch the video below about how to unlock your Apple iPhone 12 without P
 **Step 2.** Connect your device with a computer. Afterward, choose the “Unlock iOS Screen”  to get started.
 
 ![connect Apple iPhone 12 to pc to get into locked Apple iPhone 12](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** Then on the next screen, this tool will prompt you to enter the DFU mode to continue.
 
@@ -234,6 +252,13 @@ You can watch the video below about how to unlock your Apple iPhone 12 without P
 
 ![got into locked Apple iPhone 12 successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to get into a locked Apple iPhone 12 with iTunes?
 
 This is another popular way to resolve the locked out of the Apple iPhone 12 problem. It can get a little complicated to start with, but in the end, your data would be erased. On Mac with macOS Catalina, you need to open Finder. On Windows PC and Mac with other macOS, you can use iTunes. Implement the following steps to restore your Apple iPhone 12.
@@ -252,6 +277,13 @@ This is another popular way to resolve the locked out of the Apple iPhone 12 pro
 
 ![restore Apple iPhone 12](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone 12")
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to get into a locked Apple iPhone 12 via Find My Apple iPhone 12?
 
 Apple’s official Find My Apple iPhone 12 is a smart and hassle-free way to locate your lost Apple iPhone 12 or reset it remotely. All you need to remmber is your Apple ID and password. To use this method, preconditions are: Find My Apple iPhone 12 is enabled and internet network is available. Follow these instructions to reset your Apple iPhone 12:
@@ -264,9 +296,6 @@ Apple’s official Find My Apple iPhone 12 is a smart and hassle-free way to loc
 
 ![erase Apple iPhone 12](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone 12")
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to get into a locked Apple iPhone 12 with Siri?
 
 If you don’t want to erase your device’s data while resolving this issue, you can use Siri. You should know that this is not an official fix and only works for limited iOS devices (iOS 8.0 to iOS 13). Ideally, it is considered a loophole in iOS, which can be exploited to fix a disabled phone. You can learn how to get in a locked Apple iPhone 12 by implementing the following steps:
@@ -319,8 +348,6 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 We hope that after learning how to get in a locked Apple iPhone 12 in different ways, you would be able to resolve the issue on your iOS device. Choose the way you prefer and fix the locked out of the Apple iPhone 12 problem. We recommend using Dr.Fone - Screen Unlock to get an easy fix to your issue without much trouble.
 
-
-
 ## How to Fix Apple iPhone 12 Passcode not Working?
 
 Apple has always been one of the top successful companies. The reason for its success can be clearly seen through its efforts in pioneering top-notch products. It not only puts its efforts into ensuring the perfect working of the Apple iPhone 12 device but also provides the user with essential security measures to protect the data of the Apple iPhone 12 device from unauthorized access.
@@ -328,7 +355,6 @@ Apple has always been one of the top successful companies. The reason for its su
 This is the sole reason why Apple focuses so much on privacy through passcodes. But sometimes, these passcodes can be a hurdle in the working of the iPhone.
 
 If you're facing this issue, then you've come to the right place. This article shall cover your queries regarding fixing the Apple iPhone 12 passcode that is not working and providing full-depth details for your ease.
-
 
 ## Part 1: Why iPhone is Saying Passcode is Wrong?
 
@@ -345,8 +371,6 @@ Everyone in the field of tech is familiar with Wondershare as it is the most inn
 When it comes to fixing your Apple iPhone 12 passcode, which is not working, Wondershare Dr.Fone - [Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) does wonders.
 
 iTunes is another great way to bypass the activation screen without a SIM card. If you’re new to this, here's a small guide on how to use iTunes to bypass the activation screen.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -365,11 +389,25 @@ The first step is to connect your Apple iPhone 12 to your computer via cable and
 
 ![download and open dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Screen Unlock Tool**
 
 Select the "Screen Unlock" tool from the given tools on the home interface. Another interface will be displayed on the screen in which you've to select "Unlock iOS Screen."
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: DFU Mode**
 
@@ -389,13 +427,17 @@ After downloading the firmware, select “Unlock Now” to unlock your Apple iPh
 
 ![unlock iphone passcode successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
 This part shall assert its focus on the effective ways of resolving the issue involving the Apple iPhone 12 password not working on your device. It revolves around the methods involving iTunes, iCloud, and iPhone Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.1 By using iTunes and iPhone Cables
 
 iTunes is one of the most used and innovational software pioneered by Apple. It has proved to be the best software out there through its versatility and exceptional performance. This software is your savior if you’re looking for something to organize your files in iPhone as it has great integration with iOS.
@@ -442,9 +484,6 @@ Click on "Find My iPhone" and select "All devices," and a list of devices will c
 
 Now click on the option of “Erase iPhone” to erase all your data and even your passcode. You have the autonomy to set up your Apple iPhone 12 from a previous backup or set it up as a new device.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
 
 ### 3.3 Using iPhone Recovery Mode
@@ -481,7 +520,6 @@ This article has provided you the reasons and best possible ways to fix the issu
 
 We hope we have covered every bit of this article perfectly and you have successfully unlocked your Apple iPhone 12 without any hassle.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -494,9 +532,22 @@ We hope we have covered every bit of this article perfectly and you have success
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-reviewing-window-recording-the-sprout-experience-for-2024/"><u>[New] Reviewing Window Recording - The Sprout Experience for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-reno-9a-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Reno 9A Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-11-pro-max-how-to-unlock-a-disabled-iphone-11-pro-max-by-drfone-ios/"><u>Disabled iPhone 11 Pro Max How to Unlock a Disabled iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-v-purse-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor V Purse Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Plus Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-xs-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone XS Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-animation-advantage-boosting-profits-in-social-media-ads/"><u>In 2024, The Animation Advantage Boosting Profits in Social Media Ads</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastered-obs-glitches-now-your-screenshare-records-perfectly/"><u>Mastered OBS Glitches: Now Your Screenshare Records Perfectly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-strategies-for-constructing-mcc-homes/"><u>Prime Strategies for Constructing MCC Homes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-redmi-12-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi Redmi 12 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-efficiently-producing-high-quality-small-images-for-2024/"><u>The Ultimate Guide to Efficiently Producing High-Quality Small Images for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2020-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-xs-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone XS Max Swipe-Up? Try These 11 Solutions</u></a></li>
+</ul></div>
 

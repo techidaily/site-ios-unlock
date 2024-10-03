@@ -1,7 +1,7 @@
 ---
 title: Asus RT-AC68U Review
-date: 2024-09-24T21:03:58.334Z
-updated: 2024-09-28T01:32:36.210Z
+date: 2024-09-28T16:54:23.184Z
+updated: 2024-10-03T18:02:48.271Z
 categories:
   - BestProducts
 description: This Article Describes Asus RT-AC68U Review
@@ -44,10 +44,10 @@ Lifewire / Andy Zahn
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -82,13 +82,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -100,6 +93,13 @@ Lifewire / Andy Zahn
 [Mini HDMI](https://www.lifewire.com/hdmi-cables-and-connectors-what-you-need-to-know-4685377) , Remote shutter, USB, and microphone ports are included, though unfortunately for audio monitoring, the SX70 HS lacks a headphone jack and hot shoe mount. The port covers are durable and easy to use, and we appreciated the well-placed location of the 3.5mm microphone jack.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
@@ -120,10 +120,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Autofocus: Blazing fast**
@@ -135,10 +135,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
@@ -171,13 +171,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -207,6 +200,13 @@ Lifewire / Andy Zahn
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -264,20 +264,19 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-maximizing-media-flexibility-in-vlc-through-mp4-conversions/"><u>[Updated] 2024 Approved Maximizing Media Flexibility in VLC Through MP4 Conversions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-6s-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 6s When Its Locked Within Seconds</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-x100-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo X100</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-xr-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone XR Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Plus Lock Screen with Notifications?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-elite-iphone-and-android-edits-to-improve-gopro-content/"><u>In 2024, Elite iPhone & Android Edits to Improve GoPro Content</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-15-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 15 Pro Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-c53-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme C53 Devices</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-7-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 7 Without Passcode Easily</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-most-watched-wonders-the-ultimate-guide/"><u>In 2024, YouTube’s Most-Watched Wonders The Ultimate Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/insert-signature-in-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .wbk file</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/masterclass-on-monetizing-moments-gaining-income-via-insta-sponsors-for-2024/"><u>Masterclass on Monetizing Moments Gaining Income via Insta-Sponsors for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-14-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 14</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-exciting-pc-clickers-you-cant-miss/"><u>[Updated] 2024 Approved The Ultimate List of Exciting PC Clickers You Can't Miss</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-tips-for-mobile-content-capture/"><u>[Updated] In 2024, Ultimate Tips for Mobile Content Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>2024 Approved How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/becoming-a-meet-maestro-chat-techniques-unveiled/"><u>Becoming a Meet Maestro Chat Techniques Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-8-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Plus Without Passcode Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-8-plus-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 8 Plus Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone SE Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-15-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 15 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c55-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme C55 Phone without Any Data Loss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-11-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 11 Properly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/kostenlose-methode-zum-ubertragen-von-filmen-wie-du-eine-dvd-auf-einem-usb-flash-drive-speicherst/"><u>Kostenlose Methode Zum Übertragen Von Filmen: Wie Du Eine DVD Auf Einem USB-Flash Drive Speicherst</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-xr-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 

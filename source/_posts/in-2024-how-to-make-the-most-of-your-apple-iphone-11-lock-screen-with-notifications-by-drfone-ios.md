@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications?
-date: 2024-09-24T09:36:50.736Z
-updated: 2024-09-28T06:09:40.172Z
+date: 2024-09-27T17:49:45.446Z
+updated: 2024-10-03T16:12:01.549Z
 tags: 
   - unlock
   - remove screen lock
@@ -62,21 +62,7 @@ Sometimes, people can access our private information just by looking at our noti
 
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to turn off notification view on iPhone lock screen?
 
@@ -85,6 +71,13 @@ The notification view can be used to see previous notifications on the Apple iPh
 1\. Firstly, unlock your device and got to its Settings > Touch ID & Passcode option.
 
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
 
@@ -169,18 +162,18 @@ The user is now supposed to make the connection between iPhone and the system an
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Activate DFU Mode**
 
 Once the system has detected the phone, the user is advised to activate the DFU mode by turning off the phone and connecting it to the computer.
 
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Information for Confirmation**
 
@@ -206,19 +199,6 @@ Provide the system with an on-screen confirmation code to continue the process. 
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
 People keep on switching between Android and iOS. Not everyone sticks to one thing, and so do passionate mobile users do. But suppose someone is changing their phone and they want to delete the Apple iPhone 11 from iCloud, both the Apple ID and its password; what should be done in such a scenario?
@@ -237,6 +217,13 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 5. After you have done that, a list of all the Apple iPhone 11 devices will appear. You are now supposed to select your device and click on the option of 'Erase iPhone.'
 
     ![ways to bypass Apple iPhone 11  lock screen 2](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Doing this will wipe all the data, settings and, also the password.
 
@@ -309,6 +296,13 @@ It can permanently bypass the Apple ID lock, even when the Find My feature is ac
 2. It alsooffers the ability to remove iTunes backup encryption without damaging its data.
 3. Allows removing the SIM lock, allowing you to use your device internationally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps To Fix Apple ID Not Active Issue With Dr.Fone
 
 The user-friendly interface of Dr.Fone ensures that all types of users can remove Apple ID from their devices. To fix the **Apple ID not active on iPhone** issue with Dr.Fone - Screen Unlock (iOS), follow these steps:
@@ -357,13 +351,6 @@ An inactive Apple ID issue might occasionally arise due to connectivity problems
 
 ![change wifi or mobile data](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 3. Try Resetting Your Apple ID Password
 
 Resetting your Apple ID password is a common solution for addressing problems linked to an inactive ID. This proves particularly effective when issues stem from entering incorrect login details.
@@ -389,10 +376,10 @@ Are you unable to reset your Apple ID password directly from your device? If you
 ![reset password via iforgot website](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2:** Upon reaching the subsequent screen, input the “Email or Phone Number” linked to your Apple ID. Then, verify the CAPTCHA verification and proceed by tapping "Continue." Adhere to the instructions on the screen to finalize the password reset procedure.
@@ -400,10 +387,16 @@ Are you unable to reset your Apple ID password directly from your device? If you
 ![enter phone and captcha characters](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 4. Check the iCloud Status Page
@@ -415,10 +408,10 @@ Verifying the status of Apple's services, including iCloud, can help determine i
 ![visit apple system status page](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 5. Look Out for Apple Support
@@ -428,6 +421,13 @@ When all other troubleshooting methods fail to resolve the issue of an inactive 
 When connecting with Apple Support, be ready to provide details about your issue. Explain that your Apple ID appears inactive despite trying various troubleshooting methods. Apple Support will guide you through specific steps or may provide further assistance to resolve the issue. Follow their instructions carefully and provide any necessary information or verification as requested.
 
 ![get help from apple support](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -447,16 +447,19 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-best-in-show-a-compreeved-list-of-top-18-4k-recording-devices/"><u>[New] Best in Show A Compreeved List of Top 18 4K Recording Devices</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-pro-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Pro? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Without a Passcode</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-your-iphoneipad-display-now/"><u>In 2024, Capturing Your iPhone/iPad Display Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone X</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-x-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone X Properly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-command-prompt-techniques-for-windows-users/"><u>Mastering File Deletion: Command Prompt Techniques for Windows Users</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-break-free-from-sony-vegas-explore-these-exceptional-windows-alternatives-for-2024/"><u>New Break Free From Sony Vegas Explore These Exceptional Windows Alternatives for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-seamless-screen-customization-timely-adjustments-for-teams-calls-for-2024/"><u>[New] Seamless Screen Customization Timely Adjustments for Teams Calls for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-2023s-best-rated-ps3-virtual-players-for-pc/"><u>[Updated] In 2024, 2023'S Best-Rated PS3 Virtual Players for PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-free-online-video-editors-for-youtube/"><u>[Updated] In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-se-2020-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone SE (2020) in Lost Mode</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/blend-acoustic-elements-with-visual-content-in-premiere-pro/"><u>Blend Acoustic Elements with Visual Content in Premiere Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-14-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 14 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-se-2020-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone SE (2020) With 7 Methods</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-neo-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT Neo 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-12-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 12 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-7-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 7 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-steps-when-finals-wont-start/"><u>Ultimate Guide: Troubleshooting Steps When Finals Won't Start</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-test-drives-the-ultimate-guide-to-holy-stone-racing-cartoon-vehicles-for-family-entertainment/"><u>Unboxing & Test Drives: The Ultimate Guide to Holy Stone Racing Cartoon Vehicles for Family Entertainment</u></a></li>
 </ul></div>
 

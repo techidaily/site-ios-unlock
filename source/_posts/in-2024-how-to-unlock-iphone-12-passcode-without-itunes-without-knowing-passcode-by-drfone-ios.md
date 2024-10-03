@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode?
-date: 2024-09-23T17:07:10.533Z
-updated: 2024-09-28T01:12:31.990Z
+date: 2024-09-27T17:13:48.812Z
+updated: 2024-10-03T17:24:49.137Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,19 +45,6 @@ Unlock iPhone Screen Without Password
 
 ![how to unlock Apple iPhone 12 passcode without itunes-start to unlock Apple iPhone 12](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. As you would connect your Apple iPhone 12 to your system, you will get a “Trust this Computer” prompt. Make sure that you close this window by tapping on the “x” button. Once connected, Dr.Fone will ask you to follow some steps to set your device in Recovery mode, allowing it to be detected.
 
 ![how to unlock Apple iPhone 12 passcode without itunes-set your device in DFU mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
@@ -65,19 +52,6 @@ Unlock iPhone Screen Without Password
 4\. Meanwhile, the Dr.Fone interface will provide the following screen, asking for various details related to your device. Provide crucial information related to your device (model, iOS version, and more) and click on the “Download” button.
 
 ![how to unlock Apple iPhone 12 passcode without itunes-download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5\. Wait for a while, as the application will download the related firmware for your device and make it ready. It might take a while for the firmware to be downloaded completely.
 
@@ -90,6 +64,13 @@ Unlock iPhone Screen Without Password
 8\. In a matter of a few seconds, your device will be reset, and its passcode would also be removed. You will get the following message once the process is completed.
 
 ![how to unlock Apple iPhone 12 passcode without itunes-unlock Apple iPhone 12 successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the end, you can simply disconnect your Apple iPhone 12 safely from the system and restart it. It would be restarted without any passcode, letting you access it in a trouble-free manner.
 
@@ -110,25 +91,11 @@ Apple also allows its users to remotely locate, lock, and erase their devices. T
 
 ![how to unlock Apple iPhone 12 passcode without itunes-log in icloud.com](https://images.wondershare.com/drfone/article/2017/09/15060131172457.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. From the home screen, you can access several features. Select “Find my iPhone” to proceed.
 
 3\. Now, click on the “All Device” dropdown button to select the Apple iPhone 12 device that you want to unlock.
 
 ![how to unlock Apple iPhone 12 passcode without itunes-select Apple iPhone 12](https://images.wondershare.com/drfone/article/2017/09/15060131563681.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. After selecting your device, you will get an option to ring it, lock it, or erase it. Click on the “Erase iPhone” option.
 
@@ -155,6 +122,19 @@ If none of the above-mentioned solutions would work, then you can always choose 
 5\. Simply agree to it and let iTunes restore your device.
 
 Once your device has been restored, you can access it without any screen lock.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: About data loss after unlocking Apple iPhone 12 passcode
 
@@ -204,13 +184,6 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
 
 ![enable face id with mask option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
@@ -306,6 +279,13 @@ If you're a Mac enthusiast, changing your Apple ID email is straightforward:
 
 ![change apple id on mac 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Click **System Preferences**, and then select **Apple ID**.
 
 ![change apple id on mac 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-04.jpg)
@@ -313,13 +293,6 @@ If you're a Mac enthusiast, changing your Apple ID email is straightforward:
 - **Step 3:** Navigate to the **Name, Phone, Email** section, then click **Edit** next to your email address.
 
 ![change apple id on mac 3](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Input your new email address, and Apple will send a verification code to it.
 - **Step 5:** Check your new email for the verification code, enter it, and voilà! Your Apple ID email is updated on your Mac.
@@ -336,16 +309,16 @@ For those who prefer the convenience of mobile devices:
 
 ![change apple id on iphone 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Tap **Edit** next to your email address, enter your new one, then tap **Next**.
 
 ![change apple id on iphone 3](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Apple will send a verification code to the new email. Enter it, and your Apple ID email on your mobile device is updated.
 
@@ -356,6 +329,13 @@ If you prefer the simplicity of a web browser:
 - **Step 1:** Open the web browser your prefer and go to the [<u>Apple ID</u>](https://appleid.apple.com/) account management page.
 
 ![change apple id on browser 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Click **Sign In** and tap your **Email or Phone Number** and **Password**.
 
@@ -385,10 +365,10 @@ What if you find yourself in a situation where you want to change your Apple ID 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
@@ -399,6 +379,13 @@ Check out the key features that Dr.Fone has to offer:
 - It fits a wide range of iOS devices, including iPhones and iPads, ensuring that you can unlock your device no matter which one you have.
 - **Multiple Unlock Modes.**Fone offers different unlock modes to cater to various scenarios. Whether you've forgotten your passcode, have a disabled device, or are dealing with a locked Apple ID, Dr.Fone has a solution.
 - **No Data Loss.**One of the most significant advantages of Dr.Fone is that it unlocks your device without causing any data loss. Your photos, apps, and important information remain intact.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide on Using Dr.Fone - Screen Unlock (iOS)
 
@@ -424,6 +411,19 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 - **Step 5:** The next screen shows the progress of your [<u>iOS firmware download</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). If at any point you decide you'd rather call it quits, hit the **Stop** button. If the iOS firmware takes a long time to download on your platform, you can copy the download link by clicking the **Copy** option.
 
 ![drfone unlock screen ios firmware download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** After a successful download, the iOS firmware is checked and shown on the next screen. Select the **Unlock Now** option again to proceed with the unlocking procedure. A confirmation popup displays, requesting you to confirm the action. Enter the unlock code and press the **Unlock** button to continue.
 
@@ -464,14 +464,24 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-15-youtube-originals-premium-unboxing-sessions/"><u>2024 Approved Top 15 YouTube Originals Premium Unboxing Sessions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-90-gt-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor 90 GT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-comedy-capabilities-an-insight-into-whether-machines-can-truly-be-funny/"><u>ChatGPT's Comedy Capabilities: An Insight Into Whether Machines Can Truly Be Funny</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s17t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S17t to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 11 Pro?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-14-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 14?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-6s-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 6s Plus Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/vanguard-voyager-full-featured-hefty-stand-explored/"><u>Vanguard Voyager: Full-Featured, Hefty Stand Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shades-and-tints-in-action-practical-application/"><u>[Updated] Shades & Tints in Action Practical Application</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/building-unique-instagram-profile-thumbnails-for-2024/"><u>Building Unique Instagram Profile Thumbnails for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-ads-from-win-11s-start-interface/"><u>Eliminating Ads From Win 11'S Start Interface</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/exclusive-tools-to-elevate-your-horizontal-and-vertical-igtv-posts-for-2024/"><u>Exclusive Tools to Elevate Your Horizontal and Vertical IGTV Posts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-unfreezing-the-windows-10-taskbar-effectively/"><u>Expert Tips for Unfreezing the Windows 10 Taskbar Effectively</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-14-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 14 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6s-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6s and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone X</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-zte-nubia-z60-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on ZTE Nubia Z60 Ultra Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-pro-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-pro-5-ways-to-get-into-a-locked-iphone-15-pro-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15 Pro? 5 Ways to get into a Locked iPhone 15 Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content/"><u>Leveraging Eco-Friendly Visual Effects Revolutionizing Online Video Content</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-social-media-friend-management-on-facebook/"><u>Strategic Social Media Friend Management on Facebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-7-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962348208-upgrade-to-enhanced-performance-free-download-of-updated-killer-network-drivers-for-all-win-users/"><u>Upgrade to Enhanced Performance: Free Download of Updated Killer Network Drivers for All Win Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/utmana-mxf-filer-till-mp4-pa-macwindows-de-basta-metoderna/"><u>Utmana MXF-Filer Till MP4 På Mac/Windows - De Bästa Metoderna</u></a></li>
 </ul></div>
 

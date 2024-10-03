@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone X with a Mask On
-date: 2024-09-21T23:33:50.450Z
-updated: 2024-09-28T11:31:37.295Z
+date: 2024-09-27T16:05:11.013Z
+updated: 2024-10-03T17:27:48.690Z
 tags: 
   - unlock
   - remove screen lock
@@ -77,31 +77,25 @@ To enable the feature of unlocking the Apple iPhone X with an Apple Watch, the s
 
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After enabling this feature, you can unlock your Apple iPhone X with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone X has been unlocked.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
@@ -116,29 +110,22 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS 11,12,13.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3981454** people have downloaded it
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/qxEIOKjeNZE" frameborder="0"></iframe>
 
 You can also unlock Apple ID and iCloud passwords without losing the data. Also, while unlocking iPhone Screen Time Passcode through this platform, all of your data and information will be kept intact, and you can function your phone normally again.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone X Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone X Face ID while wearing a mask.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Remove Restricted Mode on Apple iPhone X
 
@@ -201,13 +188,6 @@ For users on iOS 12 and above, turning off Restricted Mode is straightforward:
 
 ![turning off restrictions mode ios 12](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2**: Toggle off the switch next to **Content & Privacy Restrictions**. This action turns off Restricted Mode on your Apple iPhone X.
 
 ### Method 2: Turn Off Restricted Mode on iOS 11 and Below
@@ -252,16 +232,10 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 ![unlocking finished window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
@@ -316,11 +290,25 @@ It allows them to manage their children's access to certain content and function
 
 ![disabling parental controls on iphone](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. Defining Parental Controls on iPhone and Why People Want To Disable/Remove It?
 
 Parental controls on an iPhone refer to features designed to allow parents to track various aspects of the Apple iPhone X device's usage. These controls aim to provide younger users with a safer, more regulated digital experience. They include a range of functions, such as [screen time limits](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) and app restrictions. Moreover, content filtering and purchase controls also fall under parental control.
 
 Primarily, parental controls serve as a protective measure. They enable parents to safeguard their children from potential online dangers. These include inappropriate content and excessive screen time. It turns out valuable for managing a child's interaction with digital devices.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why Do People Want To Disable/Remove Parental Control?
 
@@ -358,13 +346,6 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 2. By Resetting the Entire iPhone
 
 [Resetting the entire settings of your Apple iPhone X](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) is a drastic but effective method. It can disable parental controls by removing all settings, including restrictions and passcodes. Note that this process will erase personalized settings on your device. However, it does not delete data like photos, videos, or apps. Below are the steps on **how to remove parental controls iPhone** by resetting:
@@ -377,16 +358,22 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
 
 Disabling parental controls on an iPhone is still possible, even without the password. Below, we explore two methods that can be used to bypass parental controls without requiring a password.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 1. Wondershare Dr.Fone - Screen Unlock (iOS)
 
@@ -434,6 +421,13 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In summary, this article explored **how to disable restrictions on iPhones without a password** and with a password. Accessing settings with a passcode simplifies the process. Wondershare Dr.Fone stands out as the optimal solution for those seeking **how to delete parental controls without password**. When passcode access is limited, Dr.Fone – Screen Unlock (iOS) offers the most efficient solution.
@@ -454,24 +448,22 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-youtube-video-editing-tips-for-beginner-editors/"><u>[New] Top 10 YouTube Video Editing Tips for Beginner Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-multi-platform-skype-group-formation-explained-for-2024/"><u>[Updated] Effortless Multi-Platform Skype Group Formation Explained for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-depth-zoom-techniques-for-exceptional-podcasts/"><u>[Updated] In 2024, In-Depth Zoom Techniques for Exceptional Podcasts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-11-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Lock Screen</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-jackery-powerbar-unit-featuring-inbuilt-ac-socket/"><u>Comprehensive Guide to the Jackery PowerBar Unit Featuring Inbuilt AC Socket</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-the-inside-scoop-from-toms-equipment-guide/"><u>Decoding Tech Specs: The Inside Scoop From Tom's Equipment Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-mini-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 mini With or Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-se-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone SE Without a Home Button</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-plus-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 Plus when Phone is Broken?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-se-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone SE to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra Bootloader Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-7-plus-5-ways-to-get-into-a-locked-iphone-7-plus-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 7 Plus? 5 Ways to get into a Locked iPhone 7 Plus</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-to-get-windows-movie-maker-6-installed/"><u>Navigating to Get Windows Movie Maker 6 Installed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-sailing-in-borderlands-3-optimize-gameplay-with-these-pc-fixes-for-ultimate-fps/"><u>Smooth Sailing in Borderlands 3: Optimize Gameplay with These PC Fixes for Ultimate FPS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-6s-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 6s Plus Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-game-saves-mastering-fbx-recording/"><u>[New] 2024 Approved Streamline Game Saves Mastering FBX Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-easy-way-change-clownfish-tone-in-windows-for-2024/"><u>[New] Easy Way Change Clownfish Tone in Windows for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-buys-in-the-realm-of-4k-video-tools-for-2024/"><u>Best Buys in the Realm of 4K Video Tools for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722119868042-experience-the-ultimate-4-ai-online-deduction-escapades-become-an-internet-detective-today/"><u>Experience the Ultimate 4 AI Online Deduction Escapades - Become an Internet Detective Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-2020-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xs-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XS?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone X?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 Pro Max Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-15-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 15 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-xs-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone XS Without Passcode Easily</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker/"><u>Updated Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-image-camouflage-techniques-for-zip-files/"><u>Win11 Image Camouflage Techniques for ZIP Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Properly
-date: 2024-09-21T19:15:11.462Z
-updated: 2024-09-28T03:06:03.588Z
+date: 2024-10-02T17:14:39.336Z
+updated: 2024-10-03T17:03:05.571Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,6 +58,13 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 Lost Mode locks the Apple iPhone 12 device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Activating Lost Mode Using Your Smartphone
 
 - **Step 1.** Within the Find My app, tap "Devices" from the bottom toolbar and select your lost device. Now, scroll down to "Mark As Lost" and tap "Activate."
@@ -72,6 +79,13 @@ Lost Mode locks the Apple iPhone 12 device and allows users to showcase a person
 
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Activating Lost Mode Using iCloud Website
 
 - **Step 1.** Access the iCloud website via your computer's web browser. Sign in using your Apple ID, continue to click the “Grid” icon in the top right corner, and select “Find My.”
@@ -81,6 +95,13 @@ Lost Mode locks the Apple iPhone 12 device and allows users to showcase a person
 - **Step 2.** In Find My, add your Apple ID password again to access "All Devices." Now, choose the lost device from the list of all devices in the top left corner. Then, click "Mark As Lost," and the following pop-up Lost Mode prompt, tap "Next."
 
 ![access lost mode option](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
@@ -102,13 +123,6 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5. Other Things To Do iPhone Is Stolen
 
 There are additional measures you can take to enhance your overall security apart from understanding **how do I lock my stolen iPhone**. The following are some options you should utilize in case of device loss:
@@ -118,13 +132,6 @@ There are additional measures you can take to enhance your overall security apar
 If your Apple iPhone 12 is stolen, it is crucial to immediately inform your local law enforcement agency. It facilitates the recovery process and assists in combatting criminal activities. Provide essential details about your Apple iPhone 12, such as the Model, color, and IMEI number. Share information about your efforts to locate the stolen iPhone using Find My.
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
@@ -194,6 +201,13 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 
 ![open security settings iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-24.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
@@ -203,13 +217,6 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 Recovering your stolen iPhone successfully can be a joyous event. Yet, the frustration of discovering your device locked due to a forgotten password can be disheartening. [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) offers a solution to regain access to your device. This robust tool is crafted to help users unlock various iOS screen lock scenarios.
 
 It provides a hassle-free solution for those locked out of their devices. This powerful tool effortlessly removes various lock screens on iPhones and iPads. It can [<u>bypass the iCloud activation lock without the need for a password</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -270,13 +277,6 @@ Here's a breakdown of the reasons why you should **create a new Apple ID for you
 - If you're using Apple services for different purposes, such as work and personal use, having separate Apple IDs can help keep everything organized and distinct.
 
 ![create a free apple id account](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### B. Scenarios Where a New ID Is Needed
 
@@ -348,6 +348,13 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -365,28 +372,21 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
 ![set up screen lock](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Check if **Two-Factor Authentication** is set up on all your iOS devices. If not, switch it on before confirming your decision to unlock your Apple ID.
 
@@ -399,13 +399,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone 12 device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
 
 ![choose device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
@@ -463,18 +456,25 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Connect your Apple iPhone 12 to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
 ![start to remove iphone lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Follow the guides to boot your device in Recovery or DFU mode. The Recovery mode is recommended for iOS lock screen removal by default. If you fail to turn on recovery mode, you can turn to activate DFU mode. DFU means Device Firmware Upgrade, and the operation is more mandatory.
 
@@ -581,18 +581,17 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-capture-your-screen-on-chromebook-methods-4-you-in-2024/"><u>[New] Capture Your Screen on Chromebook Methods 4 You, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-outstanding-mac-programming-alternatives-to-bandicam-for-2024/"><u>[New] Outstanding Mac Programming Alternatives to Bandicam for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-social-medias-shadowy-side-spotting-fake-likes/"><u>[Updated] In 2024, Navigating Social Media's Shadowy Side Spotting Fake Likes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-11-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 11 Pro Max When Its Locked Within Seconds</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/building-a-tailored-chatgpt-bot-with-unique-data-a-comprehensive-walkthrough/"><u>Building a Tailored ChatGPT Bot with Unique Data - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-12-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 12 Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-e13-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto E13</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-xr-5-ways-to-get-into-a-locked-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone XR? 5 Ways to get into a Locked Apple iPhone XR</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15 Plus</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/professional-screenshot-and-recorder-win10-edition-for-2024/"><u>Professional Screenshot & Recorder, Win10 Edition for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A25 5G Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-engineer-meme-creation-in-adobe/"><u>[New] Engineer Meme Creation in Adobe</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uide-to-rapid-or-slowdown-youtubes-playback-adjustments/"><u>[New] Guide to Rapid or Slowdown YouTube's Playback Adjustments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beatboxing-basics-add-audio-to-windows-11-projects-with-ease-for-2024/"><u>Beatboxing Basics Add Audio to Windows 11 Projects with Ease for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cd-revival-why-physical-music-formats-are-making-a-comeback/"><u>CD Revival: Why Physical Music Formats Are Making a Comeback</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-free-editing-software-rankings-for-2024/"><u>Essential Free Editing Software Rankings for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone XS Max Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y02t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y02T Activity | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-se-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone SE Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-x-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone X Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/past-meets-present-assessing-the-competence-of-the-vintage-netgear-cable-modem-router/"><u>Past Meets Present: Assessing the Competence of the Vintage Netgear Cable Modem Router</u></a></li>
 </ul></div>
 
