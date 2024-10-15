@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Pro Properly
-date: 2024-10-02T20:09:41.847Z
-updated: 2024-10-08T19:51:49.710Z
+date: 2024-10-13T17:32:28.624Z
+updated: 2024-10-15T03:15:40.424Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,19 +50,6 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![open find my app](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
@@ -71,32 +58,39 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 Lost Mode locks the Apple iPhone 12 Pro device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Activating Lost Mode Using Your Smartphone
 
 - **Step 1.** Within the Find My app, tap "Devices" from the bottom toolbar and select your lost device. Now, scroll down to "Mark As Lost" and tap "Activate."
 
 ![proceed to activate lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** After adding a message, tap "Next" on the following screen and press "Activate" from the top right corner.
 
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Activating Lost Mode Using iCloud Website
@@ -138,6 +132,13 @@ There are additional measures you can take to enhance your overall security apar
 If your Apple iPhone 12 Pro is stolen, it is crucial to immediately inform your local law enforcement agency. It facilitates the recovery process and assists in combatting criminal activities. Provide essential details about your Apple iPhone 12 Pro, such as the Model, color, and IMEI number. Share information about your efforts to locate the stolen iPhone using Find My.
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
@@ -188,10 +189,16 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Precaution #2. Enable Separation Alerts on iPhone
@@ -229,13 +236,6 @@ It provides a hassle-free solution for those locked out of their devices. This p
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
 2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 12 Pro or iPad if you have forgotten its password.
 3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -301,6 +301,13 @@ The steps below work if your Apple iPhone 12 Pro or iPad runs iOS 15.2 or later 
 
 - Disconnect your Apple iPhone 12 Pro, then, at that point, turn it on and set it up. That's all you need to do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use Find My iPhone in iCloud
 
 Apple allows clients to erase iPhone data to safeguard it from others remotely. However, your lock screen can still protect your data if you don't erase the iPhone. No one can unlock the screen unless they enter the correct password. After too many wrong password attempts, your Apple iPhone 12 Pro will be locked. So no one can then touch your user data.
@@ -344,13 +351,6 @@ After you connect your Apple iPhone 12 Pro to the PC, you will see a popup windo
 Keep waiting until the restoration completes. Then, a short time later, go to your Apple iPhone 12 Pro and follow the on-screen directions. That will allow you to set up and utilize your device.
 
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone-Screen Unlock
 
@@ -401,6 +401,13 @@ Simply in almost no time, your Apple iPhone 12 Pro will be unlocked effectively.
 - Click again to agree, and you're good to go.
 
 ![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do after unlocking my iPhone?
 
@@ -482,13 +489,6 @@ You may also use Find My on the iCloud website to unlock your disabled iPhone, i
 
 The Apple iPhone 12 Pro will be erased and restored to factory default settings. After that, you will have to set up the Apple iPhone 12 Pro again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.IV: Unlock Disabled iPhone Without A Computer (Find My App)
 
 Not so long ago, a computer was a necessity in every household for various reasons. Then, smartphones changed everything, and Apple spearheaded that change with the Apple iPhone 12 Pro and iPad.
@@ -536,10 +536,10 @@ A good passcode is one that you will remember, but it takes work for everyone to
 If you use Face ID, it will significantly minimize the instances you will have to enter your passcode, so make sure you do remember your passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -562,18 +562,22 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-cost-free-match-mastery-how-to-stream-and-slice/"><u>[New] In 2024, Cost-Free Match Mastery How to Stream and Slice</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oneplus-11r-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track OnePlus 11R without App | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-infinix-zero-5g-2023-turbo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Zero 5G 2023 Turbo Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/compose-cover-videos-for-friends-facebooks/"><u>Compose Cover Videos for Friends' Facebooks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-hp-deskjet-ink-advantage-2652-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download HP Deskjet Ink Advantage 2652 Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-15-pro-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 15 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro When Its Locked Within Seconds</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Plus Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-blueant-soundblade-stylish-and-sonorous-performance/"><u>In-Depth Look at the BlueAnt Soundblade - Stylish and Sonorous Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-no-spin-lock-available-error-a-step-by-step-guide/"><u>Resolving the No Spin Lock Available Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-resolving-valheim-pc-game-crash-issues/"><u>Ultimate Troubleshooting Guide: Resolving Valheim PC Game Crash Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-youtube-to-webm-tools-a-compreenasive-review-and-ranking/"><u>[New] 2024 Approved Best YouTube-to-WebM Tools A Compreenasive Review & Ranking</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-compact-cost-free-livestreaming-solutions-listed-in-a-nutshell/"><u>[New] Compact, Cost-Free LiveStreaming Solutions Listed in a Nutshell</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-memes-to-your-device-iosandroid-gif-collection-tips/"><u>[Updated] From Memes to Your Device IOS/Android GIF Collection Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-repurpose-images-and-videos/"><u>[Updated] Instagram Repurpose Images & Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-method-for-removing-downloaded-youtube-videos/"><u>[Updated] Method for Removing Downloaded YouTube Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-xs-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone XS Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993154796-crack-the-code-to-successfully-run-resident-evil-5-on-your-personal-computer-no-more-launch-failures/"><u>Crack the Code to Successfully Run Resident Evil 5 on Your Personal Computer, No More Launch Failures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone XR Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-x-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone X Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-14-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 14 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-12-mini-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 12 mini Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 7 Plus?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-your-essential-top-10-playlist/"><u>In 2024, Your Essential Top 10 Playlist</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tackling-chatgpts-recent-legal-hurdles-insights-into-revamped-google-news-platforms-and-how-to-maintain-strong-mobile-signals-while-vacationing/"><u>Tackling ChatGPT's Recent Legal Hurdles: Insights Into Revamped Google News Platforms & How to Maintain Strong Mobile Signals While Vacationing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
 

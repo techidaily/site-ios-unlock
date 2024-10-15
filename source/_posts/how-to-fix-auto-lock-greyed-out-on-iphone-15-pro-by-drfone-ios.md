@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 15 Pro
-date: 2024-09-02T10:50:47.359Z
-updated: 2024-09-03T10:50:47.359Z
+date: 2024-10-09T18:27:20.781Z
+updated: 2024-10-15T05:02:06.909Z
 tags: 
   - unlock
   - remove screen lock
@@ -185,8 +185,18 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 Are you concerned about your privacy and would like to secure certain apps on your iOS device? Don’t worry! There are plenty of ways to app lock the Apple iPhone 15 Pro and protect your privacy. You can follow the same drill to restrict the usage of certain apps for your kids as well by taking the assistance of the Apple iPhone 15 Pro app lock feature. The app lock for iPhone and iPad options can be used pretty easily. There are plenty of native and third-party solutions out there that you can use. In this post, we will make you familiar with seven different techniques on how to lock apps on iPhones and iPads.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How to Lock Apps on iPhone with Screen Time?
 
 Utilizing Screen Time on your Apple iPhone 15 Pro offers a versatile way to manage app access. It is done through time restrictions and a dedicated passcode. By implementing Screen Time settings, you can exercise control over app usage. It ensures added security and regulated access to your preferred applications. Now, let's walk through the steps to learn **how to lock apps on iPhone** Screen Time:
@@ -197,9 +207,6 @@ Utilizing Screen Time on your Apple iPhone 15 Pro offers a versatile way to mana
 
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on add limit option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-2.jpg)
 
 ## Part 2: How to Lock Apps on iPhone with Face ID & Passcode?
@@ -210,9 +217,6 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 
 **Step 2.** After providing the passcode, select "Other Apps" and check the apps that have Face ID enabled. Remember, you're unable to manually include apps in the list. Only those apps that have sought access to the feature will appear here automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
 
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
@@ -229,9 +233,23 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
 
 ![search for lock screen option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone 15 Pro to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
 
@@ -245,6 +263,13 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 ![setup iphone restrictions](https://images.wondershare.com/drfone/article/2017/09/15060134646367.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Turn the feature on and set up a passcode for app restrictions. To provide added security, you can set up a passcode that is not similar to your lock screen passcode.
 
 **Step 3.** Now, you can set up an app lock for iPhone using Restrictions. Simply go to General > Restrictions and turn this feature on for any app of your choice.
@@ -257,8 +282,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 It can be a trouble if you forget your Apple iPhone 15 Pro passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
@@ -268,6 +291,13 @@ Remove iPhone iPhone-locked screen without Hassle.
 - Free your sim out of any carrier worldwide.
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4,008,670** people have downloaded it
 
@@ -279,6 +309,13 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![enable guided access](https://images.wondershare.com/drfone/article/2017/09/15060135337469.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Turn on the “Guided Access” feature and tap on the “Passcode Settings”.
 
 ![guided access password](https://images.wondershare.com/drfone/article/2017/09/15060135537597.jpg)
@@ -288,6 +325,13 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 4.** Now, simply launch the app that you want to restrict and tap the Home button three times. This will start the Guided Access mode.
 
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
 
@@ -359,6 +403,13 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 This will let your app lock the Apple iPhone 15 Pro without any trouble. You can also go to the “Reset Password Phrase” to change the passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Lock Apps onApple iPhone 15 Pro & iPad using BioProtect
 
 Just like Applocker, BioProtect is another third-party tool that works only on jailbroken devices. It can also be downloaded from Cydia’s repository. Apart from apps, you can also use BioProtect to lock settings, SIM features, folders, and more. It is linked to the Touch ID of the Apple iPhone 15 Pro device and scans the fingerprint of a user to grant (or deny) access to any app. The app only works on iPhone 5s and later devices, having a Touch ID. However, you can also set a passcode as well if your Touch ID is not working. To use the BioProtect app lock for iPhone, follow these steps:
@@ -391,14 +442,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone 15 Pro without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone 15 Pro in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unlock Apple iPhone 15 Pro Passcode without Computer?
 
 _“How to unlock Apple iPhone 15 Pro passcode without computer? I have been locked out of my iPhone and can’t seem to remember its passcode!”_
@@ -432,8 +475,6 @@ If you remember your iCloud credentials, then you can easily learn how to unlock
 As you can see, the Find my iPhone service was majorly introduced to discover the location of a lost iOS device. Though, you can use it to ring your device or erase it remotely as well. In this way, you can learn how to unlock iPhone 5 passcode without computer. The technique can also be implemented in other iPhone versions like Apple iPhone 15 Pro, 6 Plus, 7, 7 Plus, and more.
 
 Attention: All your data will be erased while you are unlocking with this tool.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -496,9 +537,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 14\. As the photo library will be launched, you can browse the album of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access iphone photo library](https://images.wondershare.com/drfone/article/2017/10/15075517954207.jpg)
 
 15\. Wait for a few seconds and tap on the Home button one more time. This will lead you to the Home screen of your device.
@@ -508,9 +546,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 By following these simple steps, you can learn how to unlock iPhone 5 passcode without computer. The same procedure can also be applied to other versions of iPhone as well to unlock it without any data loss.
 
 You can follow either of these solutions to learn how to unlock iPhone 5 passcode without computer. Since iCloud will erase your iOS device, you can take advantage of Siri’s vulnerability. This will let you unlock your device without losing your data. Go ahead and give these solutions a try and let us know about your experience in the comments below.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -524,11 +559,21 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/1723205352887-fixed-windows-smartscreen-cant-be-reached-right-now/"><u>[FIXED] Windows SmartScreen Can't Be Reached Right Now</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-zipping-to-captions-direct-method-for-srt-file-creation-for-2024/"><u>[Updated] Zipping to Captions Direct Method for .Srt File Creation for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-observers-lens-reportage/"><u>2024 Approved Observer's Lens Reportage</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-change-with-confidence-mastering-life-at-a-workplace-transformed-by-artifice-intelligence/"><u>Embrace Change with Confidence: Mastering Life at a Workplace Transformed by Artifice Intelligence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expedited-photographic-viewing-in-windows-10-for-2024/"><u>Expedited Photographic Viewing in Windows 10 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 11 Pro With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-90-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor 90 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 14 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-defy-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Defy 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+</ul></div>
 

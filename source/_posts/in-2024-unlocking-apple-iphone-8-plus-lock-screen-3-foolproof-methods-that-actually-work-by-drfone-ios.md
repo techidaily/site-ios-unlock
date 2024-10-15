@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking Apple iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work
-date: 2024-10-04T23:05:35.693Z
-updated: 2024-10-09T00:04:15.416Z
+date: 2024-10-07T16:00:25.059Z
+updated: 2024-10-14T22:21:50.188Z
 tags: 
   - unlock
   - remove screen lock
@@ -33,6 +33,13 @@ The phones that are iOS 7 or above versions do not need to manually enable the l
 Apple’s activation server saves your Apple ID, and in case the phone is turned off, or any erasing activity is observed, then the Apple iPhone 8 Plus device will ask to unlock the iCloud activation. Suppose you have purchased a phone from someone, and it asks for an activation lock. That is because the Apple iPhone 8 Plus device is still linked with the old owner and hence, will not allow you to access the phone.
 
 For this, if the Apple iPhone 8 Plus device is asking for an activation lock, the user cannot bypass the Apple iPhone 8 Plus  activation lock. The only way to get rid of that is to break the link between the Apple device and the prior owner, but that requires Apple ID.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 2. Bypass iPhone Lock Screen Apple iPhone 8 Plus  without Passcode \[No iTunes\]**
 
@@ -93,13 +100,6 @@ Provide the system with an on-screen confirmation code to continue the process. 
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
 People keep on switching between Android and iOS. Not everyone sticks to one thing, and so do passionate mobile users do. But suppose someone is changing their phone and they want to delete the Apple iPhone 8 Plus from iCloud, both the Apple ID and its password; what should be done in such a scenario?
@@ -110,6 +110,13 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 
     ![ways to bypass Apple iPhone 8 Plus  lock screen-1](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     In case the user has enabled the two-factor authentication on iPhone, then they should hit 'Trust' and enter the six-digit verification code sent to their iPhones on the iCloud web.
 
 2. Once that is done, and you have logged in to iCloud, select the option of 'Find iPhone.'
@@ -118,13 +125,6 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 5. After you have done that, a list of all the Apple iPhone 8 Plus devices will appear. You are now supposed to select your device and click on the option of 'Erase iPhone.'
 
     ![ways to bypass Apple iPhone 8 Plus  lock screen 2](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Doing this will wipe all the data, settings and, also the password.
 
@@ -144,6 +144,13 @@ iPhone users can even restore their phones to factory settings without losing an
 
     ![ways to bypass Apple iPhone 8 Plus  lock screen 4](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Selecting the restore option, a confirmation window will appear on the screen, asking the user to confirm the decision of the restore process.
 6. As soon as iTunes has finished the restoring process, the phone is ready and reset.
 
@@ -152,19 +159,6 @@ Users can now retrieve all the data that has been backed up on iTunes.
 ### Conclusion
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone 8 Plus . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Remove Restricted Mode on Apple iPhone 8 Plus
 
@@ -184,6 +178,13 @@ iPhone's Restricted Mode is a comprehensive set of features to enhance user cont
 - **Parental controls.**Targeting family use, Restricted Mode incorporates robust parental controls. Parents can manage and monitor screen time for a balanced, age-appropriate digital experience for their children.
 
 ![front view child using iphone](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Why Can't I Remove Restricted Mode?
 
@@ -272,6 +273,13 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus. How To Turn Restricted Mode On or Off on YouTube
 
 YouTube's Restricted Mode on iPhone is valuable for users seeking a more controlled and family-friendly viewing experience. It serves to screen out mature content and ensures a safer environment, especially for younger audiences. Here's a breakdown of what YouTube's Restricted Mode does:
@@ -291,13 +299,6 @@ YouTube's Restricted Mode operates on both the browser and device levels. Once a
 **Different from Age-Restricting Videos**
 
 It's important to note that Restricted Mode differs from age-restricting videos. While age restriction applies to specific videos, Restricted Mode filters content across the entire platform, providing a broader safety net.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Turn Restricted Mode On or Off on YouTube
 
@@ -437,13 +438,6 @@ If your Apple iPhone 8 Plus swipe-up gesture isn't working specifically on the l
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -465,10 +459,10 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8. Turn Off VoiceOver
@@ -507,13 +501,6 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 8 Plus can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -525,6 +512,13 @@ Resetting all settings on your Apple iPhone 8 Plus can help resolve software-rel
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 8 Plus is restored to its original settings.
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Unlock iPhone Without Swiping Up
 
@@ -572,10 +566,10 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -598,17 +592,19 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-calculating-the-storage-space-of-24-hour-videos-for-2024/"><u>[New] Calculating the Storage Space of 24-Hour Videos for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-masterful-screenshots-made-simple-top-10-free-mac-apps-for-2024/"><u>[New] Masterful Screenshots Made Simple – Top 10 FREE Mac Apps for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unveiling-the-secrets-of-discord-spoilers/"><u>[Updated] Unveiling the Secrets of Discord Spoilers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-quick-fixes-for-missing-sound-in-obs/"><u>2024 Approved Quick Fixes for Missing Sound in OBS</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-hp-printer-scan-utility-on-windows-pc/"><u>Download & Set Up HP Printer Scan Utility on Windows PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-dvd-to-audio-converter-hochwertige-qualitatsaufnahme-von-filmen-auf-dvd/"><u>Gratis DVD-to-Audio Converter: Hochwertige Qualitätsaufnahme Von Filmen Auf DVD</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-14-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 14 Pro Max When You Forget the Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-12-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 12 In Different Conditionsin</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfecting-live-video-capture-with-logitech-webcam-technology/"><u>[New] 2024 Approved Perfecting Live Video Capture with Logitech Webcam Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-scrolling-through-youtube-comment-threads/"><u>2024 Approved Guide to Scrolling Through YouTube Comment Threads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-130-music-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia 130 Music to Roku | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-utilizing-the-apple-watch-for-enhanced-sleep-analysis/"><u>A Comprehensive Guide: Utilizing the Apple Watch for Enhanced Sleep Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-competitors-to-geforce-rtx-4060-ti-graphics-card/"><u>Best Competitors to GeForce RTX 4060 Ti Graphics Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970168793-download-and-install-the-latest-epson-wf-3620-printer-driver-for-windows-11-8-and-7/"><u>Download and Install the Latest Epson WF-3620 Printer Driver for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-8-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-7-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 7 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-broadcasting-higher-integrating-dji-drones-for-facebook-live/"><u>In 2024, Broadcasting Higher - Integrating DJI Drones for Facebook Live</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-pro-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-mini-5-ways-to-get-into-a-locked-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 mini? 5 Ways to get into a Locked Apple iPhone 12 mini</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-update-and-download-procedures-for-your-epson-printer-drivers-with-windows-11-compatibility/"><u>Seamless Update & Download Procedures for Your Epson Printer Drivers with Windows 11 Compatibility</u></a></li>
 </ul></div>
 
