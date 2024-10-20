@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Pro Max
-date: 2024-10-10T18:14:33.550Z
-updated: 2024-10-14T20:19:55.911Z
+date: 2024-10-19T20:36:29.452Z
+updated: 2024-10-20T16:19:34.710Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,6 +34,13 @@ The Activation Lock works by associating a device with the iCloud account of the
 
 Once enabled, Activation Lock securely stores the Apple iPhone 14 Pro Max device's unique identifier (IMEI or serial number). It also stores the associated iCloud account details on Apple's servers. This information is used to verify the Apple iPhone 14 Pro Max device's status during activation and prevent unauthorized use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Locking Mechanism
 
 If a device with Activation Lock is lost or stolen, the owner can activate Lost Mode using the Find My app or iCloud website. Lost Mode remotely locks the Apple iPhone 14 Pro Max device, preventing anyone from accessing the user's data. It also prevents device use without the owner's Apple ID and password.
@@ -45,6 +52,13 @@ In Lost Mode, the owner can provide contact information and display a custom mes
 ### iCloud Activation Lock Bypass
 
 With Activation Lock, you get an added layer of security. This makes it challenging for unauthorized individuals to use a locked device. Apple's servers confirm the Apple iPhone 14 Pro Max device's activation status before allowing access to the OS. Thus, bypassing Activation Lock requires the original owner's Apple ID and password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Activation Lock on Used Devices
 
@@ -63,13 +77,6 @@ To proceed, you will need to contact the previous owner of the Apple iPhone 14 P
 - ****Step:**** Access your locked iPhone and tap "Unlock with Passcode." On the following screen, enter the old passcode to remove the Activation Lock.
 
     ![tap unlock with passcode](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Ask the Owner To Erase the Apple iPhone 14 Pro Max device Using iCloud
 
@@ -115,20 +122,6 @@ Ensure your device IMEI is not blacklisted before sending it for the unlocking p
 
 ![use directunlocks icloud activation removal](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Remove the iCloud Activation Lock With the Best Screen Unlock Tool – Wondershare Dr.Fone
 
 Not having access to your purchased iPhone and no solution working to resolve the ****locked-to-owner iPhone**** issue can be disheartening. However, worrying is unnecessary as we have the best solution. To bypass the iCloud Activation lock, the best tool to use is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). With this tool's help, you can remove the lock and access your Apple iPhone 14 Pro Max without restrictions.
@@ -151,6 +144,13 @@ After launching the Dr.Fone on your computer, move to "Screen Unlock" in the "To
 
 ![choose icloud activation lock removal](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - ****Step 2: Initiate the iCloud Activation Lock Removal Process****
 
 Afterward, tap "Start" to begin the iCloud Activation Lock bypassing process. You will first have to confirm whether your device is GSM or CDMA. If the Apple iPhone 14 Pro Max device is GSM, the unlocking process won't harm it. However, you will lose calling or other cellular functions if it is CDMA.
@@ -162,13 +162,6 @@ Afterward, tap "Start" to begin the iCloud Activation Lock bypassing process. Yo
 After thoroughly considering the ramifications, tap "Unlock Now" to proceed. Now you will need to jailbreak your Apple iPhone 14 Pro Max, which you can do using the guides provided in the program. Once you have jailbroken your Apple iPhone 14 Pro Max, the iCloud Activation Lock bypassing process will start. Wait for the process to complete; once it does, tap "Done."
 
 ![click on unlock now](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -191,6 +184,19 @@ Your iPhone passcode can be reset in a variety of ways, depending on whether you
 If you've activated Find My iPhone, you can use it to reset your passcode. Resetting your passcode this way is probably the simplest method, as it doesn't require any technical knowledge or special tools.
 
 ![find My Apple iPhone 14 Pro Max](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Just follow the steps below and get started.
 
@@ -220,6 +226,13 @@ If you're running iOS 8 or later, you may be able to use Siri to bypass the lock
 
 ![siri](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Just follow the instructions.
 
 - **Step 1:** Press and hold the Home button to activate Siri.
@@ -233,13 +246,6 @@ While this method doesn't give you direct access to the home screen, it does all
 
 If none of the above-mentioned methods works for you, or you don't want to use them, there is another method that will surely work for you. Dr.Fone - Screen Unlock is a powerful software that can unlock your Apple iPhone 14 Pro Max without a passcode. The software is extremely easy to use and supports all iOS devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode
@@ -250,6 +256,13 @@ Unlock iPhone Without Passcode
 - No tech knowledge required, Simple, click-through, process.
 
 **3,981,454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Unlock iPhone Without Passcode Using Dr.Fone?
 
@@ -263,13 +276,6 @@ Unlock iPhone Without Passcode
 
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Once your device enters into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone 14 Pro Max 6.
 
 **Step 5:** Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click “Unlock Now” to remove the passcode.
@@ -281,10 +287,10 @@ You need to wait as the process may take several minutes. So be patient and don'
 ![unlock iphone successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This is a very easy-to-use way to reset your Apple iPhone 14 Pro Max passcode. So, if you're looking for a hassle-free solution, this is the one you should obtain.
@@ -301,13 +307,6 @@ Firstly, you need to download and install Dr.Fone on your computer. Once it's in
 
 ![forgot passcode iphone 6](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step #2: Connect your Apple iPhone 14 Pro Max 6**
 
 Now you will need to connect your Apple iPhone 14 Pro Max 6 to the computer with a lightning cable and click "Back Up Now" to start backing up your device. Dr.Fone will now start scanning your Apple iPhone 14 Pro Max for data. Once it's finished, you can move on to the next step.
@@ -319,6 +318,13 @@ Now you will need to connect your Apple iPhone 14 Pro Max 6 to the computer with
 Once it's finished, you can safely disconnect your Apple iPhone 14 Pro Max and keep the backup file safe. So that is how you can safely back up your Apple iPhone 14 Pro Max without losing any data.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -471,20 +477,24 @@ A locked Apple iPhone 14 Pro Max is never a pretty sight. Fortunately, there are
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-eliminating-noise-methods-for-soundless-recording/"><u>[New] 2024 Approved Eliminating Noise Methods for Soundless Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-workflow-essential-tips-to-record-on-hp-laptop/"><u>2024 Approved Streamline Your Workflow Essential Tips to Record on HP Laptop</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 11 Pro Max in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-xs-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone XS with a Broken Screen?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-13-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 13 When You Forget the Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-x-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone X Passcode Easily Video Inside</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to others devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-12-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 12 Pro Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-2020-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE (2020) Prevention & Solution</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-samsung-galaxy-a05s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A05s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-note-30-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Note 30 5G Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/proven-solutions-to-helldivers-2-pc-crash-issues/"><u>Proven Solutions to Helldivers 2 PC Crash Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-transforming-text-to-visual-art-through-chatgpt/"><u>Unlocking Creative Potential: Transforming Text to Visual Art Through ChatGPT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-personal-emblem-creation-fashioning-an-exaggerated-self/"><u>[New] 2024 Approved Personal Emblem Creation Fashioning an Exaggerated Self</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-opening-and-managing-srt-files-seamlessly/"><u>[Updated] 2024 Approved Opening and Managing SRT Files Seamlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-crafting-channel-graphics-icons-banners-and-thumbnails/"><u>[Updated] In 2024, Crafting Channel Graphics Icons, Banners & Thumbnails</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-world-meal-mastery-favorite-international-creations/"><u>[Updated] World Meal Mastery Favorite International Creations</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-guide-to-different-software-installation-methods/"><u>Comprehensive Guide to Different Software Installation Methods</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/download-free-recovery-images-for-dell-hp-lenovo-and-microsoft-surface-systems-using-windowslinux/"><u>Download FREE Recovery Images for Dell, HP, Lenovo & Microsoft Surface Systems Using Windows/Linux</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/download-twitch-streams-and-vods-legally-top-free-techniques-unveiled/"><u>Download Twitch Streams & VODs Legally: Top Free Techniques Unveiled</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/freeware-fur-die-wiederherstellung-verlorener-datentragerpartitionen-in-windows-1187/"><u>Freeware Für Die Wiederherstellung Verlorener Datenträgerpartitionen in Windows 11/8/7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-mini-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 mini</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-audio-anomalies-essential-rhythm-altering-tools/"><u>In 2024, Audio Anomalies Essential Rhythm Altering Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-14-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 14 Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-5-ways-to-get-into-a-locked-iphone-15-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15? 5 Ways to get into a Locked iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/inside-look-whatsapps-voice-message-technology/"><u>Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-13-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 13 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
 

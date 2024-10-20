@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XS?
-date: 2024-10-10T19:48:55.695Z
-updated: 2024-10-14T16:12:31.871Z
+date: 2024-10-15T20:45:00.551Z
+updated: 2024-10-20T19:02:29.605Z
 tags: 
   - unlock
   - remove screen lock
@@ -57,18 +57,18 @@ In the second step, the user should connect their phone to the system and let Dr
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Recovery Mode Activation**
 
 Once the application has detected your Apple iPhone XS, you now need to activate the Recovery mode. A step by step illustration on how to activate Recovery mode is shared on-screen.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Download Firmware Update**
 
@@ -80,6 +80,19 @@ The user is requested to wait for some time, as the firmware update is being dow
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Confirmation Code**
 
 The application will now ask for the confirmation code. Just provide the on-screen confirmation code and let the process complete itself. As soon as that is done, the application will notify you through the interface. The process can also be repeated by clicking on the 'Try Again' button.
@@ -87,6 +100,13 @@ The application will now ask for the confirmation code. Just provide the on-scre
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 2. Unlock Locked iPhone 12 by Restoring it to Default Settings – iTunes**
 
@@ -106,6 +126,13 @@ Let us show you how to unlock Apple iPhone XS without using a passcode;
 
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 6. As soon as that is done and iTunes has finished the process, your Apple iPhone XS 12 will be restored to default settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3. Unlock Disabled iPhone 12 by Erasing iPhone in iCloud**
 
@@ -143,13 +170,6 @@ The known and famous application among iPhone users helps them recover data, unl
 2. The Apple iPhone XS must be in DFU mode for the process to unlock the screen.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using iTunes
 
@@ -209,6 +229,13 @@ Unlocking an iPhone involves a series of attempts, each with distinct consequenc
 
 ![iphone is disabled 1 minute](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7th Attempt**
 
 - Disabled for 5 minutes.
@@ -250,19 +277,6 @@ Safeguard your personal information with these simple steps to remotely wipe you
 
 - **Step 2**: Scroll down and find the Erase Data option. Toggle the button to activate the feature.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How To Disable Erase Data Mode
 
 Here are the steps to disable Erase Data Mode on your Apple iPhone XS, ensuring controlled access to your device.
@@ -279,6 +293,13 @@ When wondering **how many tries to unlock an iPhone**, consider the following me
 When facing a disabled iPhone, [<u>Wondershare Dr.Fone - Screen Unlock (iOS) </u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) stands out as a reliable solution. It's a comprehensive platform that unlocks iOS devices without a passcode. Here are some of the tool's key features to help you get started:
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Removes all types of lock screens.** Fone Screen Unlock tackles various lock screen types, like [<u>pattern lock</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), etc. It offers a comprehensive solution for different scenarios.
 - **Unlock Apple ID without a password.** The tool provides a secure method to [<u>unlock Apple ID without needing a password</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html).
@@ -301,6 +322,13 @@ After **many failed passcode attempts on your Apple iPhone XS**,Dr.Fone can help
 
 ![successful firmware download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Using iTunes To Unlock a Locked or Disabled iPhone
 
 An alternative method to unlock your Apple iPhone XS when locked or disabled involves using iTunes. Note that if your iTunes is not synchronized with the iPhone, you risk losing your existing data. Here's how:
@@ -319,13 +347,6 @@ Activating Recovery mode is another useful method for accessing a locked phone. 
 - **Step 2**: For iPhone 8 models or newer, press and release the volume up button, followed by the volume down button. Next, press and hold the power button. If executed, the iTunes connect screen will appear. For earlier iPhone models, you can refer to [<u>here</u>](https://support.apple.com/en-ph/guide/iphone/iph8903c3ee6/15.0).
 
 ![iphone hard reset](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** iTunes will prompt you to either restore or update your Apple iPhone XS. Choose the **Restore iPhone** option to reset your device to its factory settings. If the restoration process extends beyond 15 minutes and your Apple iPhone XS exits recovery mode, you'll need to repeat the steps.
 
@@ -391,13 +412,6 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -424,6 +438,13 @@ The next step is verifying your identity. Check out the steps below:
 
 ![create your apple id step 2](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
 
 ### C. Setting Up Security Questions
@@ -439,13 +460,6 @@ To finalize the creation process, refer to the steps given below:
 - **Step 7:** Read through Apple's Terms and Conditions and Privacy Policy. Once you've understood them, tick the box to confirm that you've read and agree to the iCloud and Apple Media Services Terms and Conditions. Then click **Agree** to proceed. Remember that it's essential to be familiar with Apple's policies to ensure a secure and smooth experience.
 
 ![create your apple id step 3](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 8:** After completing these steps, Apple will send a confirmation email to the address you provided. Go to your email and open the verification link to confirm your new Apple ID.
 
@@ -468,13 +482,6 @@ This versatile tool offers the following key features in the context of Apple ID
 - **Multiple Unlock Modes.**Fone offers various unlock modes to cater to different scenarios, including removing the previous Apple ID. This flexibility ensures that you have the right solution for your specific situation.
 - **Data Security.**Fone - Screen Unlock (iOS) prioritizes data security, ensuring that your personal information and content remain intact during the Apple ID removal process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide on Using Dr.Fone Screen Unlock (iOS)
 
 Check out the steps on how to remove an Apple ID account using Dr.Fone below:
@@ -482,13 +489,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 1:** Launch Wondershare Dr.Fone on your PC to use the **Screen Unlock** function and then navigate to **Toolbox**. Click the **Screen Unlock** section, then choose **iOS**.
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -540,20 +540,19 @@ Should you encounter any challenges while managing your Apple ID, such as removi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>[New] Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-fundamentals-unveiling-internet-storys-essence-for-2024/"><u>[Updated] Fundamentals Unveiling Internet Story's Essence for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 8 Plus</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-side-by-side-assembly-version-mismatch-error-on-windows-11/"><u>Fixing the 'Side-by-Side Assembly Version' Mismatch Error on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Pro Lock Screen with Notifications?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-15-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 15</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2020-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2020) when Phone is Broken?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 13C 5G?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-13-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 13 Pro Max Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/macs-best-top-3-mkv-video-trimmers-for-2024/"><u>Macs Best Top 3 MKV Video Trimmers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/marvelous-monitors-top-10-macbooks-with-4k-resolution-for-2024/"><u>Marvelous Monitors Top 10 MacBooks with 4K Resolution for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Passcode without a Computer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-lenovo-screens-drivers-with-this-simple-download-tool/"><u>Update Your Lenovo Screen's Drivers with This Simple Download Tool</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-12-pro-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 12 Pro?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-master-your-images-top-15-instagram-downloader-apps-for-2024/"><u>[New] Master Your Images Top 15 Instagram Downloader Apps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picshots-wizardry-in-photo-collage-crafting/"><u>[New] Picshot's Wizardry in Photo Collage Crafting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-12-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 12 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-steps-for-gopro-hero5-timelapse-cinematography/"><u>Essential Steps for GoPro Hero5 Timelapse Cinematography</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-15-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 15? Learn All 4 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-does-microsoft-make-money-from-windows-11/"><u>How Does Microsoft Make Money From Windows 11?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-8-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 8 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-quick-method-stop-spotify-from-suggesting-podcasts/"><u>In 2024, Quick Method Stop Spotify From Suggesting Podcasts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/kulturkompetenz-deutsche-grussformeln-ohne-hallo/"><u>Kulturkompetenz: Deutsche Grußformeln Ohne 'Hallo'</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/large-display-medium-network-selection-tips-for-2024/"><u>Large Display Medium Network Selection Tips for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unraveling-the-myths-around-language-mastery-duration/"><u>Unraveling the Myths Around Language Mastery Duration</u></a></li>
 </ul></div>
 
