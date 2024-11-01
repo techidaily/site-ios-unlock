@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11
-date: 2024-10-25T16:05:45.431Z
-updated: 2024-10-26T16:43:08.722Z
+date: 2024-10-30T23:41:37.285Z
+updated: 2024-11-01T07:13:33.429Z
 tags: 
   - unlock
   - remove screen lock
@@ -26,6 +26,13 @@ Activation Lock is a strong and innovative security feature introduced by Apple.
 
 ![iphone to owner error](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Device Association
 
 The Activation Lock works by associating a device with the iCloud account of the owner. When the Apple iPhone 11 device is set up or restored, it prompts the user to sign in with their Apple ID and activates Activation Lock.
@@ -46,6 +53,13 @@ In Lost Mode, the owner can provide contact information and display a custom mes
 
 With Activation Lock, you get an added layer of security. This makes it challenging for unauthorized individuals to use a locked device. Apple's servers confirm the Apple iPhone 11 device's activation status before allowing access to the OS. Thus, bypassing Activation Lock requires the original owner's Apple ID and password.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Activation Lock on Used Devices
 
 When purchasing a used Apple device, you should ensure that Activation Lock is disabled. Otherwise, the Apple iPhone 11 device will remain locked to the previous owner's iCloud account. Apple provides guidelines and procedures for sellers to remove Activation Lock.
@@ -53,6 +67,13 @@ When purchasing a used Apple device, you should ensure that Activation Lock is d
 ## Part 2: 5 Best Methods To Remove the Apple iPhone 11 Locked to Owner Security
 
 Having an iPhone locked to its previous owner's security can be frustrating. That's why finding effective methods to remove the lock is crucial. Luckily, various methods exist to ****bypass the Apple iPhone 11 locked to the owner for free****. Given below are the top 5 methods to resolve this issue:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Use the Old iOS Passcode To Unlock the Apple iPhone 11 device
 
@@ -63,13 +84,6 @@ To proceed, you will need to contact the previous owner of the Apple iPhone 11 d
 - ****Step:**** Access your locked iPhone and tap "Unlock with Passcode." On the following screen, enter the old passcode to remove the Activation Lock.
 
     ![tap unlock with passcode](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Ask the Owner To Erase the Apple iPhone 11 device Using iCloud
 
@@ -114,20 +128,6 @@ Ensure your device IMEI is not blacklisted before sending it for the unlocking p
 - ****Step 2:**** Once you have entered the details, tap "Remove Activation Lock." Afterward, select a payment method to pay for the service. It will take up to 48 hours to unlock your device.
 
 ![use directunlocks icloud activation removal](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Remove the iCloud Activation Lock With the Best Screen Unlock Tool – Wondershare Dr.Fone
 
@@ -195,13 +195,6 @@ Follow the steps to do this.
 2. Once you launch iTunes, you see few devices available to connect. So, select your device from the list.
 3. Now you will have two options under your Apple iPhone 11's specifications. So you will have to click on the other option named **Restore iPhone**.
 4. By clicking this button, you will be asked again for confirmation. After confirmation, iTunes will wipe out everything on your Apple iPhone 11, and once the process is completed, you will be able to unlock your Apple iPhone 11 XR lock screen without any passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method #2: Unlock It Via Find My iPhone
 
@@ -273,10 +266,10 @@ Once the process is completed, you can unlock your Apple iPhone 11 XR lock scree
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -327,6 +320,13 @@ You might have heard the term "blacklisted iPhone" before, but what does it mean
 
 ![iphone blacklisted](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Is a Blacklisted iPhone?
 
 When an iPhone is blacklisted, it's been labeled as "not-so-friendly" in the digital world. It's like when you're not allowed into an establishment because you broke the rules. In this case, the Apple iPhone 11 has done something that makes it unwelcome on specific networks.
@@ -374,6 +374,13 @@ If your carrier blacklisted the phone in error, you can request it be removed fr
 
 Both of these methods are free and can work like a charm. However, they might take some time and effort on your part. But if you're patient and persistent, you could end up with a fully functional iPhone again. Remember, staying polite and patient when dealing with the original owner or the carrier is critical.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Preventive Measures To Avoid Getting an iPhone Blacklisted
 
 Now that you've learned how to [rescue a blacklisted iPhone](https://drfone.wondershare.com/unlock/iphone-has-bad-esn-or-blacklisted-iemi.html) let's talk about how to keep it out of trouble in the first place. Prevention is always better than a cure, right? Here are some easy steps to make sure your Apple iPhone 11 stays in the clear.
@@ -388,13 +395,6 @@ Before you hand over your hard-earned money, check the iPhone's background. Make
 
 Just like you lock your front door, secure your Apple iPhone 11. Use a strong passcode, Face ID, or Touch ID to protect your phone from unauthorized access. This simple step can prevent it from being misused and reported as stolen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pay Your Bills on Time
 
 Your iPhone needs its "phone allowance" paid on time, too. Ensure you pay your monthly bills to your carrier. Unpaid invoices can lead to your Apple iPhone 11 getting blacklisted.
@@ -407,30 +407,37 @@ iCloud is like a protective bubble for your Apple iPhone 11's data. Don't share 
 
 If your Apple iPhone 11 ever goes missing, report it to your carrier and the police immediately. The step will help prevent someone else from using it and getting it blacklisted.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Beware of Scams
 
 Stay vigilant for scams and sketchy deals. If something sounds too good to be true, it probably is. Avoid buying iPhones from unreliable sources or individuals you don't trust.
 
 By following these simple preventive measures, you can keep your device clear and avoid the hassle of dealing with the whole **iPhone blacklist removal** process. Remember, a little caution goes a long way.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: The Blacklist Problem Resolved, but What To Do if I Have a Locked SIM?
 
 So, this article has talked a lot about **iPhone blacklist removal**, but what about your trusty SIM card? A little chip plays a significant role in keeping you connected. Sometimes, SIM cards encounter issues, too, and they need a helping hand. Enter [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – Sim Unlock, your go-to solution for all SIM-related issues like SIMs not supported, [locked or invalid SIMs](https://drfone.wondershare.com/unlock/free-for-samsung-galaxy-sim-unlock.html), and SIMs without network service.
 
 ![drfone v13 home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -449,13 +456,6 @@ Now, see how you can easily unlock your Apple iPhone 11's SIM by following the g
 - **Step 2:** Once in the new window, click the **Remove SIM Locked** function to begin the process.
 
 ![drfone remove sim locked](https://images.wondershare.com/drfone/guide/remove-iphone-sim-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Click **Start** to begin the process on the next **Remove SIM** locks page.
 
@@ -494,22 +494,20 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-6-awesome-free-webcam-games-for-computer/"><u>[New] 2024 Approved 6 Awesome Free Webcam Games for Computer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-beginners-blueprint-for-effective-facebook-analytics/"><u>[New] In 2024, A Beginner's Blueprint for Effective Facebook Analytics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-dual-life-of-a-professional-youtuber-and-employee/"><u>[Updated] The Dual Life of a Professional YouTuber & Employee</u></a></li>
-<li><a href="https://win-dash.techidaily.com/44cm44kq44ov44op44kk44oz44gr5lplusd5a2y44gz44kl44gf44kb44gu44oa44km44oz44ot44o844oj44gn44gn44gq44ge5yuv55s75aplusplus562w5rov44cn/"><u>「オフラインに保存するためのダウンロードできない動画対策法」</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-14-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 14 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-12-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 Without a Home Button</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-14-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 14 Plus Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-6s-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 6s Plus Without Passcode Now</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 Pro Max If Youve Tried Everything</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-13t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi 13T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/seamless-convert-tool-for-multiple-video-codes-switch-between-mkv-mp4-dvd-avi-and-more/"><u>Seamless Convert Tool for Multiple Video Codes - Switch Between MKV, MP4, DVD, AVI, and More</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-test-of-strength-a-deep-dive-into-the-performance-of-the-beatit-bt-d11-jump-starter/"><u>The Ultimate Test of Strength: A Deep Dive Into the Performance of the Beatit BT-D11 Jump Starter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-analyzing-the-significance-of-instagrams-selfie-verification/"><u>[New] In 2024, Analyzing the Significance of Instagram's Selfie Verification</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-content-protection-can-you-record-playbacks/"><u>[New] YouTube Content Protection Can You Record Playbacks?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-should-you-review-off-facebook-histories-security-tips-and-tricks/"><u>[Updated] 2024 Approved Should You Review Off-Facebook Histories? Security Tips & Tricks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-microcapture-screen-capture-tool-analysis/"><u>[Updated] In 2024, MicroCapture Screen Capture Tool Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-follower-deletion-identification/"><u>[Updated] Instagram Follower Deletion Identification</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-x-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone X Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-mini-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-xs-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 Plus and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-secure-your-cash-ranking-safe-and-effective-posts/"><u>In 2024, Secure Your Cash Ranking Safe & Effective Posts</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-origin-issues-now-fixed-regain-access/"><u>Resolved: Origin Issues Now Fixed - Regain Access</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-spyro-trilogy-rebooted-diminutive-dragon-with-substantial-impact/"><u>Review of Spyro Trilogy Rebooted: Diminutive Dragon with Substantial Impact</u></a></li>
 </ul></div>
 

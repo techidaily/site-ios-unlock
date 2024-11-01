@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications?
-date: 2024-10-15T21:12:57.629Z
-updated: 2024-10-20T19:36:27.666Z
+date: 2024-10-29T04:04:50.151Z
+updated: 2024-11-01T09:57:12.884Z
 tags: 
   - unlock
   - remove screen lock
@@ -91,6 +91,13 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 1
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
 
@@ -182,22 +189,15 @@ You will see the option “Save to.” Guide the path, and all taken screenshots
 ![select “ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Provide the system with an on-screen confirmation code to continue the process. When that is done, the interface will notify you. By clicking on the 'Try Again' button, you can repeat the process.
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
@@ -220,13 +220,6 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 
 6. Doing this will wipe all the data, settings and, also the password.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4. Restore Apple iPhone 11  Apple iPhone 11 to Factory Reset by iTunes
 
 Most iPhone users have synced the Apple device to iTunes. This helps them to recover the data in case it is lost. If the user has created an appropriate backup across iTunes, they can easily carry out the process of bypassing the lock screen. In other words, iPhone users have everything saved without the fear of being lost.
@@ -239,23 +232,9 @@ iPhone users can even restore their phones to factory settings without losing an
 
     ![ways to bypass Apple iPhone 11  lock screen 3](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. A new window will appear, the Summary window. From this, the user is supposed to select the option of 'Restore iPhone.'
 
     ![ways to bypass Apple iPhone 11  lock screen 4](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Selecting the restore option, a confirmation window will appear on the screen, asking the user to confirm the decision of the restore process.
 6. As soon as iTunes has finished the restoring process, the phone is ready and reset.
@@ -275,10 +254,10 @@ Yet, despite its significance, issues can arise, disrupting the active status of
 ![apple id not active on device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1. Reasons Why Apple ID Is Not Active
@@ -292,6 +271,13 @@ An inactive Apple ID results from incorrect login information. Mistyped password
 ### 2\. Account Security Measures
 
 Apple employs strict security measures to protect user accounts. Sometimes, an Apple ID becomes inactive due to suspicious activities. This triggers security locks to safeguard sensitive information.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Payment or Billing Issues
 
@@ -317,6 +303,13 @@ It can permanently bypass the Apple ID lock, even when the Find My feature is ac
 2. It alsooffers the ability to remove iTunes backup encryption without damaging its data.
 3. Allows removing the SIM lock, allowing you to use your device internationally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps To Fix Apple ID Not Active Issue With Dr.Fone
 
 The user-friendly interface of Dr.Fone ensures that all types of users can remove Apple ID from their devices. To fix the **Apple ID not active on iPhone** issue with Dr.Fone - Screen Unlock (iOS), follow these steps:
@@ -339,6 +332,13 @@ To initiate Recovery Mode for your iDevice, follow the on-screen instructions. O
 
 ![start apple id unlock process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4. Verifying Firmware and Confirming Apple ID Unlock**
 
 Once the firmware download is complete, the platform verifies it. To begin unlocking your Apple ID, select "Unlock Now." A prompt will pop up, requesting you to enter a code to proceed. Input the code and choose "Unlock" to start the unlocking process. After a successful unlocking, a confirmation message will appear on your screen. To conclude the process after the Apple ID is unlocked, click on "Done."
@@ -350,13 +350,6 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 ## Part 3. Some Other Basic Solutions to Apple ID Not Active
 
 Wondershare Dr.Fone - Screen Unlock (iOS) provides a reliable and efficient **Apple ID but is not the active solution**. Yet, there are alternative solutions that are worth considering. These solutions offer different approaches that might suit various preferences or specific situations. Here are some basic solutions to resolve the 'Apple ID not active' issue:
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 1. Try Restarting the iOS Device
 
@@ -372,6 +365,13 @@ An inactive Apple ID issue might occasionally arise due to connectivity problems
 
 ![change wifi or mobile data](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 3. Try Resetting Your Apple ID Password
 
 Resetting your Apple ID password is a common solution for addressing problems linked to an inactive ID. This proves particularly effective when issues stem from entering incorrect login details.
@@ -383,6 +383,13 @@ Do you know your Apple ID and simply need to reset the password? You can easily 
 - **Step 1.** Initially, access the “Settings” on your device and select the "Apple ID" at the top. Press "Sign-In & Security" on the following screen to proceed further.
 
 ![access sign in and security options](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Next, tap "Change Password" and provide your device passcode. You will need to type in a new password, verify it, and press "Change" from the top-right corner.
 
@@ -407,13 +414,6 @@ Verifying the status of Apple's services, including iCloud, can help determine i
 **Instructions.** Using a web browser on your computer or smartphone, go to the [System Status](https://www.apple.com/support/systemstatus/) page provided by Apple. Check the status for services such as “Apple ID,” “iCloud Accounts & Sign In,” and other services. The fault lies at Apple's end if the indicators in front of these services are another color than green.
 
 ![visit apple system status page](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 5. Look Out for Apple Support
 
@@ -441,17 +441,18 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-chronology-conundrum-best-podcast-times/"><u>[New] In 2024, Chronology Conundrum Best Podcast Times</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-painting-with-light-an-experts-guide-to-color-grading/"><u>[New] Painting with Light An Expert's Guide to Color Grading</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-hypergame-hub-your-portal-to-infinite-titles-for-2024/"><u>[Updated] HyperGame Hub Your Portal to Infinite Titles for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-captivating-anime-concepts-that-topped-the-tiktok-list/"><u>2024 Approved Captivating Anime Concepts that Topped the TikTok List</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-12-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus, Apples New iPhone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 8 Plus When You Forget the Passcode?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-camon-20-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Camon 20 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://fox-that.techidaily.com/instantly-resolve-non-functioning-emoji-suggestions-on-ios-devices/"><u>Instantly Resolve Non-Functioning Emoji Suggestions on iOS Devices</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-cream-of-the-crop-top-iphone-apps-reviewed/"><u>New 2024 Approved The Cream of the Crop Top iPhone Apps , Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-latest-graphics-milestone-ai-powered-dlss-update-35/"><u>Nvidia's Latest Graphics Milestone: AI-Powered DLSS Update 3.5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-tailoring-web-clarity-with-advanced-zoom-tools/"><u>[New] In 2024, Tailoring Web Clarity with Advanced Zoom Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-phones-for-video-stability-optimal-image-stabilization-included/"><u>[Updated] Best Phones for Video Stability Optimal Image Stabilization Included</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>[Updated] Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-exclusive-selection-of-elite-race-games/"><u>2024 Approved Exclusive Selection of Elite Race Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-x-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone X Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-nexiq-usb-link-2-drives-comprehensive-instructions-and-download-links/"><u>Easy Installation of NEXIQ USB-Link 2 Drives: Comprehensive Instructions and Download Links</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone XS Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionized-search-microsoft-enhances-bing-with-ai/"><u>Revolutionized Search: Microsoft Enhances Bing with AI</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-sims-4-gameplay-capture-for-2024/"><u>The Ultimate Guide to Sims 4 Gameplay Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-htc-u23-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My HTC U23 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 
