@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken?
-date: 2024-11-04T05:37:42.577Z
-updated: 2024-11-07T02:30:39.595Z
+date: 2024-11-15T19:08:48.954Z
+updated: 2024-11-17T04:37:18.683Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,16 +28,16 @@ Find My iPhone is an application forged by Apple that keeps track of your Apple 
 
 The best part about this application is that it is free of cost. It usually comes built-in your Apple iPhone 12 Pro Max already, but if not, you can easily download it from the app store. Sign in with your Apple ID, and it will automatically locate your Apple iPhone 12 Pro Max no matter where you go.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -62,13 +62,6 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
@@ -81,6 +74,19 @@ Jailbreak your Apple iPhone 12 Pro Max by following the instructions given by th
 
 ![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Confirmation Window**
 
 A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
@@ -88,10 +94,10 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 6: Unlock your Apple iPhone 12 Pro Max**
@@ -119,6 +125,13 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 2:** Click on the "Find My iPhone" icon at the end of the page. The app will start locating your device, but as your Apple iPhone 12 Pro Max is damaged, it might not find anything.
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 12 Pro Max, which you want to remove by clicking on "Remove from account."
 
@@ -153,19 +166,6 @@ Once your Apple iPhone 12 Pro Max shows the Apple logo, it means the Recovery Mo
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 12 Pro Max is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 12 Pro Max to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Unlock Apple iPhone 12 Pro Max Without Passcode?
 
@@ -240,10 +240,10 @@ After installing Dr.Fone on your computer, you will need to launch the Software 
 ![unlock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 (Using the original iPhone cable will make it easy to connect your Apple iPhone 12 Pro Max to the computer)
@@ -271,16 +271,10 @@ Once the process is completed, you can unlock your Apple iPhone 12 Pro Max XR lo
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -345,13 +339,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![share](https://images.wondershare.com/drfone/article/2017/07/14994464322068.jpg "share")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5.** Tap on the message icon.
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994464494089.jpg "share on message")
@@ -364,6 +351,13 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994464865459.jpg "add contact")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 8.** A new interface would be launched to add a new contact. From here, tap on the “Create New Contact” button.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994465192610.jpg "create new contact")
@@ -375,13 +369,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 **Step 10.** This will open your device’s gallery. You can browse your photo library from here.
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994465537722.jpg "iphone photo library")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 11.** After a while, press the Home button. If everything goes right, you will enter the Home screen of your iOS device after unlocking it.
 
@@ -406,6 +393,13 @@ After implementing this solution, your iOS device will reset, and your data woul
 ![erase Apple iPhone 12 Pro Max](https://images.wondershare.com/drfone/article/2017/07/14994466099482.jpg "erase Apple iPhone 12 Pro Max")
 
 By following this method, you can learn how to unlock the iPad passcode without a computer remotely.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Unlock disabled Apple iPhone 12 Pro Max/iPad using Dr.Fone - Screen Unlock?
 
@@ -476,18 +470,24 @@ By implementing the above suggestions, you can easily make your iOS device more 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-14-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 14 Pro Max to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 6 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/immediate-fixes-for-missing-steam-items/"><u>Immediate Fixes for Missing Steam Items</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-12-proplus-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme 12 Pro+ 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Pro Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 15 Plus Passcode not Working?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x6-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X6 To Phone | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Max Passcode without a Computer</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-of-printer-finalized/"><u>Installation of Printer Finalized</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-drivers-available-enhance-your-pc-with-intels-iris-xe-graphics-support/"><u>Latest Drivers Available: Enhance Your PC with Intel's Iris Xe Graphics Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-use-of-chatgpt-for-mental-health-top-6-insights/"><u>Navigating the Use of ChatGPT for Mental Health: Top 6 Insights</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-8-best-daw-for-hip-hop-music-production/"><u>Updated 2024 Approved 8 Best DAW for Hip-Hop Music Production</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/023s-must-watch-alternatives-to-top-films-for-2024/"><u>[New] 2023'S Must-Watch Alternatives to Top Films for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-elevate-your-gaming-experience-with-voice-customization-in-free-fire/"><u>[New] The Ultimate Guide Elevate Your Gaming Experience with Voice Customization in Free Fire</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-behind-the-scenes-unpacking-instagram-stories/"><u>[Updated] Behind the Scenes Unpacking Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-effective-ways-how-to-block-facebook-video-ads-in-2024/"><u>[Updated] Effective Ways | How to Block Facebook Video Ads, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-use-of-hashtags-in-gaming-vlog-production/"><u>[Updated] Strategic Use of Hashtags in Gaming Vlog Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-copy-pro-dvdisodvd/"><u>公式 WinX DVD Copy Pro 使い方詳しく解説 - 無料で手軽にDVDをISOやDVDイメージ、フォルダへ容易にコピー</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-x-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone X Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-14-pro-how-to-unlock-a-disabled-iphone-14-pro-by-drfone-ios/"><u>Disabled iPhone 14 Pro How to Unlock a Disabled iPhone 14 Pro?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-12-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 12 mini with iTunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/funny-facades-top-quality-free-meme-files/"><u>Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-7-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 7 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-11-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 11 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-xs-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone XS Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-x-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone X Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xs-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-11-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 11 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tiktok-boosts-indonesian-digital-economy-with-15-billion-investment-insights-and-implications/"><u>TikTok Boosts Indonesian Digital Economy with $1.5 Billion Investment: Insights and Implications</u></a></li>
 </ul></div>
 

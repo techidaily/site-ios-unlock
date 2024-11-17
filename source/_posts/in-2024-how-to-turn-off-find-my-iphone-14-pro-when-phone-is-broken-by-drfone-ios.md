@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 14 Pro when Phone is Broken?
-date: 2024-11-06T04:09:53.853Z
-updated: 2024-11-07T05:27:45.468Z
+date: 2024-11-14T18:08:28.507Z
+updated: 2024-11-17T01:02:56.748Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,13 +32,6 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
@@ -62,18 +55,24 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
 
 ![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Jailbreak your Apple iPhone 14 Pro**
 
@@ -86,6 +85,13 @@ Jailbreak your Apple iPhone 14 Pro by following the instructions given by the sy
 A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6: Unlock your Apple iPhone 14 Pro**
 
@@ -117,16 +123,16 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
@@ -146,23 +152,16 @@ Once your Apple iPhone 14 Pro shows the Apple logo, it means the Recovery Mode i
 
 ![wait for apple logo to appear](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 14 Pro. Once the process is completed, you can set up your Apple iPhone 14 Pro as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -206,10 +205,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 ![enable face id with mask option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 14 Pro to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 14 Pro device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
@@ -221,13 +220,6 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock iPhone Face ID Using Apple Watch
 
@@ -245,11 +237,25 @@ To enable the feature of unlocking the Apple iPhone 14 Pro with an Apple Watch, 
 
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
 
 After enabling this feature, you can unlock your Apple iPhone 14 Pro with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 14 Pro has been unlocked.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
@@ -368,13 +374,6 @@ Get your locked iPhone connected to the system utilizing a lightning USB connect
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2. Boot the Recovery/DFU Mode on your Device**
 
 To unlock iPhone, you need to boot it in Recovery/DFU mode by following the guidelines on your screen. Therefore, the Recovery mode is a better choice for iPhone unlock. Yet, if you face problems while going for the Recovery mode, you may enact the DFU mode.
@@ -386,6 +385,19 @@ To unlock iPhone, you need to boot it in Recovery/DFU mode by following the guid
 After opening the recovery mode, you can see your Device Model and iOS version. You must select the correct data from the dropdown menu if the information is incorrect. After doing so, click download to download the suitable firmware package for your phone model.
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4. Remove the Screen Lock Passcode**
 
@@ -435,18 +447,22 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-adobes-path-to-perfection-the-premier-lut-list/"><u>[Updated] Adobe’s Path to Perfection The Premier LUT List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-5-best-snipping-tool-for-chromebook/"><u>2024 Approved 5 Best Snipping Tool For Chromebook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-seamlessly-personalize-your-youtube-shorts-with-custom-thumbnails/"><u>2024 Approved Seamlessly Personalize Your Youtube Shorts with Custom Thumbnails</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/altering-gender-display-in-digital-photographs-step-by-step-guide/"><u>Altering Gender Display in Digital Photographs Step by Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx492-drivers-download-and-update-in-windows-mx-series-printer-drivers/"><u>Canon MX492 Drivers Download & Update in Windows - MX Series Printer Drivers</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-digital-photography-expert-guide-on-easy-automated-screenshots/"><u>Effortless Digital Photography: Expert Guide on Easy Automated Screenshots</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE Without Passcode Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2022-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone SE (2022) Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-11-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 11 Pro Max Lock Screen with Notifications?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mirrorless-vs-dslr-cameras-which-is-better-for-videos/"><u>Mirrorless Vs. DSLR Cameras Which Is Better for Videos?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-premier-ranking-of-outstanding-stop-motion-films/"><u>The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/visual-victory-amd-radeon-evolution-for-2024/"><u>Visual Victory AMD Radeon Evolution for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>[New] 2024 Approved Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unlocking-the-full-potential-of-googles-podcast-tools/"><u>[New] In 2024, Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-dimming-curtain-call-fade-techniques-for-pro/"><u>2024 Approved The Dimming Curtain Call Fade Techniques for Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unpacking-presenter-8s-features-against-the-best/"><u>2024 Approved Unpacking Presenter 8’S Features Against the Best</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210816443-9781644116661-alphabets-and-the-mystery-traditions/"><u>Alphabets and the Mystery Traditions | Free Book</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y36i-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y36i Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-f5-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco F5 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/by-step-designing-striking-youtube-thumbnails-with-macos-for-2024/"><u>Step-by-Step Designing Striking Youtube Thumbnails with macOS for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-15-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 15 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-11-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 11 Pro Max i Do? Get Answers here</u></a></li>
 </ul></div>
 

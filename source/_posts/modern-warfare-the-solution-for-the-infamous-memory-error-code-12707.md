@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare The Solution for the Infamous Memory Error Code 12707
-date: 2024-11-06T04:05:45.076Z
-updated: 2024-11-06T21:16:33.749Z
+date: 2024-11-10T04:24:25.821Z
+updated: 2024-11-16T16:40:13.358Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 
 If this didn’t help in resolving your problem, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: **Run your game as an administrator**
 
  By default, Windows runs programs as a user, with limited permission to access system control. This means that_Terraria_ doesn’t have full access to all game files and folders on your computer.
@@ -67,13 +60,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
@@ -100,10 +86,10 @@ If this didn’t help in resolving your problem, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -125,16 +111,22 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Terraria** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-251.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -166,13 +158,6 @@ If not, try the next fix.
 
 If this didn’t work for you, check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Reinstall your game and/or Steam
 
  If none of the fixes worked for you, your issue might be caused by corrupted or damaged game files. In this case, reinstalling**_Terraria_** and/or Steam is very likely the solution to your issue. Here is how to do it:
@@ -191,22 +176,15 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Download and install _Terraria_  again.
 
@@ -218,6 +196,13 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -225,6 +210,13 @@ If this didn’t work for you, check the fix, below.
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -243,10 +235,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -257,9 +249,23 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -286,20 +292,18 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-zoom-and-fb-live-effortlessly/"><u>[New] Integrating ZOOM and FB Live Effortlessly</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum-for-2024/"><u>[New] Smooth Shifts Audio Transition Wisdom From Sonar by Platinum for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-dos-and-donts-of-adding-tags-to-youtube-videos/"><u>[New] The Do's and Don'ts of Adding Tags to YouTube Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-palette-perfection-a-guide-to-grading-filmmaking/"><u>2024 Approved Palette Perfection A Guide to Grading Filmmaking</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-se-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone SE in Lost Mode</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-novices-guide-to-selecting-key-gopro-enhancements-for-2024/"><u>A Novice's Guide to Selecting Key GoPro Enhancements for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-error-code-0xc0000022-how-to-resolve-issues-with-adobe-software/"><u>Fixing Error Code 0xC0000022 - How to Resolve Issues with Adobe Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-huawei-nova-y71-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei Nova Y71 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6s-plus-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6s Plus when Phone is Broken?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-6-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 6 Plus Prevention & Solution</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-8-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 8 Properly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-15-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 15 Plus Prevention & Solution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211030963-9781088251874-trust-the-signs/"><u>Trust the Signs | Free Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/watch-bollywood-blockbusters-ahead-of-release-top-12-legitimate-and-free-platforms/"><u>Watch Bollywood Blockbusters Ahead of Release - Top 12 Legitimate & Free Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-7-exceptional-drone-gimbals-unveiled/"><u>[New] In 2024, 7 Exceptional Drone Gimbals Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-7-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 7 Plus in Lost Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/advantages-disadvantages-in-portable-games/"><u>Advantages, Disadvantages in Portable Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-your-personalized-ai-steps-to-build-a-tailored-chatgpt/"><u>Crafting Your Personalized AI: Steps to Build a Tailored ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-like-a-pro-66-twitter-accounts-for-insider-travel-bargains-suggestions-and-epic-adventures/"><u>Explore Like a Pro: 66 Twitter Accounts for Insider Travel Bargains, Suggestions & Epic Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-online-convertidor-de-archivos-aif-a-m4a-con-movavi-version-gratuita/"><u>Gratuito Online: Convertidor De Archivos AIF a M4A Con Movavi - Versión Gratuita</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/herocam-pro-mastering-advanced-features-for-2024/"><u>HeroCam Pro Mastering Advanced Features for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-magic-v2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor Magic V2 Activity | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-6s-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 6s With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-6-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 6 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Pro Properly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/la-solution-definitive-pour-gerer-des-fichiers-vob-top-5-lecteurs-compatibles-avec-windows-et-mac-explique/"><u>La Solution Définitive Pour Gérer Des Fichiers VOB : Top 5 Lecteurs Compatibles Avec Windows Et Mac, Expliqué!</u></a></li>
 </ul></div>
 

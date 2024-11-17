@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking iPhone SE (2022) with a Broken Screen?
-date: 2024-07-15T02:11:02.343Z
-updated: 2024-07-16T02:11:02.343Z
+date: 2024-11-14T04:14:48.221Z
+updated: 2024-11-17T06:29:43.351Z
 tags: 
   - unlock
   - remove screen lock
@@ -98,6 +98,19 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -107,6 +120,13 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone SE (2022) device and let you pick a photo.
 
@@ -119,7 +139,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -143,9 +162,6 @@ Removing the lock screen requires you to boot your Apple iPhone SE (2022) in Rec
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone SE (2022).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Screen Now**
@@ -155,7 +171,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 In almost no time, the software will unlock your Apple iPhone SE (2022) effectively. However, note that this unlocking will likewise wipe your user data.
-
 
 ### The Bottom Line
 
@@ -171,13 +186,9 @@ Here are some ways to finish the factory reset on a locked iPhone without iTunes
 
 Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easy App to Factory Reset Locked iPhone
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone SE (2022) and help you unlock your device within a few minutes.
-
 
 For this, you will need to follow the steps given below.
 
@@ -205,6 +216,13 @@ After your Apple iPhone SE (2022) is in recovery mode, you need to select the ap
 
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step #5: Reset your Apple iPhone SE (2022):**
 
 Once the firmware is downloaded, you can click on the "Unlock Now" button to begin resetting your device.
@@ -214,6 +232,13 @@ Your locked iPhone has now been successfully unlocked without iTunes after the r
 The process will take a few minutes if you have a strong internet connection because the Firmware may take some time to download. So be patient and wait for the process to be completed.
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
@@ -238,6 +263,13 @@ To do this, you need to follow these steps:
 **Step 4:** Enter your Apple ID password when prompted, and click the " Erase " button to proceed.
 
 Now that your device has been erased, you can reset it as a new one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
@@ -325,9 +357,6 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone SE (2022) or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -336,9 +365,6 @@ Low Power Mode
 
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
 Screen Time Restrictions
@@ -376,6 +402,13 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 - **Step 3:** Tap **Turn Off Screen Time**.
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Fix No.3: Remove MDM Configuration Profile
 
@@ -426,6 +459,13 @@ Have you ever bought a used iPad or Apple iPhone SE (2022) to find the Auto-Lock
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
@@ -448,6 +488,13 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
@@ -467,9 +514,6 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -492,9 +536,6 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -507,7 +548,26 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-architecting-an-inspiring-tiktok-conclusion/"><u>[New] Architecting an Inspiring TikTok Conclusion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-analysis-of-the-high-def-sony-fdr-x1000-videographer/"><u>[New] Complete Analysis of the High-Def Sony FDR-X1000 Videographer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-hashtag-hits-videoviral-trends-on-twitter/"><u>[New] Hashtag Hits #VideoViral Trends on Twitter</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-enter-the-arena-your-guide-to-social-tiktok-streaming/"><u>[Updated] Enter the Arena Your Guide to Social TikTok Streaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-14-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 14 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-14-plus-how-to-unlock-a-disabled-apple-iphone-14-plus-by-drfone-ios/"><u>Disabled Apple iPhone 14 Plus How to Unlock a Disabled Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-darkroom-to-digital-mastering-modern-grading-techniques-for-2024/"><u>From Darkroom to Digital Mastering Modern Grading Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/gain-admin-rights-to-fix-operation-requires-elevation-message-on-windows-11107/"><u>Gain Admin Rights to Fix 'Operation Requires Elevation' Message on Windows 11/10/7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-14-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 14 Pro With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nokia-g42-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nokia G42 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-15-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 15 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xs-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XS Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>In 2024, Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-choices-with-toms-expert-analysis/"><u>Navigating Hardware Choices with Tom's Expert Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-lexmark-printer-driver-easily/"><u>Update Lexmark Printer Driver Easily</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Lock Apps on iPhone SE (2022) and iPad Securely
-date: 2024-07-15T02:10:26.916Z
-updated: 2024-07-16T02:10:26.916Z
+date: 2024-11-10T17:37:00.025Z
+updated: 2024-11-16T23:30:49.869Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,8 +31,12 @@ Utilizing Screen Time on your Apple iPhone SE (2022) offers a versatile way to m
 ![tap on add limit option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Lock Apps on iPhone with Face ID & Passcode?
 
 Leveraging the advanced security capabilities of Face ID or Passcode on your Apple iPhone SE (2022) X or later models effectively fortifies app access. By using facial recognition or passcodes, you can put in place an extra layer of protection. It can be done for specific apps, safeguarding your sensitive data from unauthorized access. Now, let's proceed with the detailed steps to lock apps using Face ID or Passcode on your iOS device:
@@ -53,6 +57,13 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 ![choose app automation option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Now, tap "Choose" in front of the "App" and select the app you want to lock. Now, move down and select "Is Opened," then move further down to choose "Run Immediately." Here, leave "Notify when Run" deactivated.
 
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
@@ -60,6 +71,13 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
 
 ![search for lock screen option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone SE (2022) to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
 
@@ -81,14 +99,9 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone SE (2022) passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -99,6 +112,13 @@ Remove iPhone iPhone-locked screen without Hassle.
 - Free your sim out of any carrier worldwide.
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4,008,670** people have downloaded it
 
@@ -120,6 +140,13 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
 
 **Step 6.** To exit the Guided Access mode, tap the Home screen three times and provide the respective passcode.
@@ -133,6 +160,13 @@ On the Apple iPhone SE (2022) 8 Series and iPhone SE, Apple offers Touch ID for 
 **Instructions:** To start, open the Settings application. Now scroll down to locate and select the "Touch ID & Passcode" option. On the following screen, you can deactivate or activate Touch ID for apps.
 
 ![proceed into touch id settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 7: How to Lock Apps on iPhone Using Third-Party Apps?
 
@@ -222,8 +256,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone SE (2022) without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone SE (2022) in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
 
-
-
 ## iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2022)
 
 ## Part I: Is It Possible To Unlock A Disabled iPhone?
@@ -231,6 +263,13 @@ By following these solutions, you would be able to learn how to lock apps on the
 First things first, the short answer is yes. It is entirely possible to unlock a disabled iPhone and use it again. But there is a catch-all data on the Apple iPhone SE (2022) device that will be erased as the process wipes the Apple iPhone SE (2022) clean. There is no other way around it.
 
 ![iphone is disabled](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part II: Unlock Disabled iPhone
 
@@ -243,7 +282,6 @@ Of course, you want to unlock your disabled iPhone as quickly as possible, so we
 What is Dr.Fone? Dr.Fone is a suite of apps designed to help you with tasks on your smartphones and tablets. These tasks include erasing data, wiping the Apple iPhone SE (2022) device, repairing the system, taking and restoring backups, unlocking the screen, transferring WhatsApp chats, and even going as fancy as spoofing device location to help with location-aware games or prank friends and family.
 
 This is a must-have set of tools designed for every smartphone owner, regardless of the operating system. It works on both Windows and macOS and supports both Android and iOS. Download [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) here.
-
 
 **Step 1:** Connect your device to the computer and select Screen Unlock in Dr.Fone.
 
@@ -264,7 +302,6 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 **Step 5:** When Dr.Fone is ready to unlock disabled iPhone, click Unlock Now and wait until the notification of a successful unlock is shown.
 
 ![unlock disabled iphone with drfone screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ### II.II: Unlock Disabled iPhone With iTunes/ macOS Finder
 
@@ -376,11 +413,7 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone SE (2022) device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -396,6 +429,13 @@ When the firmware is displayed after verification, press "Unlock Now." Upon trig
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How To Unlock Notes on iPhone Through Settings
 
 If you've locked a note on your Apple iPhone SE (2022) but forgot the password, there is no need to worry. You can unlock the notes through “Settings” on your device as long as you have your Apple ID credentials. The following are the steps for **what to do if you forgot your notes password**:
@@ -410,9 +450,6 @@ If you've locked a note on your Apple iPhone SE (2022) but forgot the password, 
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -433,9 +470,6 @@ Locking notes on your Apple iPhone SE (2022) provides extra security for your se
 
 - **Step 1.** Open the “Note” you want to lock and tap the “three dots” near the top right corner. From the appearing menu, press the "Lock" icon.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone SE (2022) device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
@@ -445,7 +479,6 @@ Locking notes on your Apple iPhone SE (2022) provides extra security for your se
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -459,7 +492,22 @@ In conclusion, this article addressed methods for **how to recover locked notes 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-instagram-accessing-free-filters-via-searches/"><u>[New] 2024 Approved Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-is-there-money-behind-the-curtain-of-vlog-critiques/"><u>[Updated] In 2024, Is There Money Behind the Curtain of Vlog Critiques?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfecting-your-reel-integrating-music-on-instagram/"><u>2024 Approved Perfecting Your Reel Integrating Music on Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/banish-the-automatic-post-proposals-on-instagram/"><u>Banish the Automatic Post Proposals on Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-frustrating-lags-solving-pubg-pc-crashes-and-responsiveness-problems/"><u>Eliminate Frustrating Lags: Solving PUBG PC Crashes and Responsiveness Problems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-7-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 7 Passcode not Working?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-synchronization-woes-heres-what-to-do/"><u>ICloud Synchronization Woes? Here's What To Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-8-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 8 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-14-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi 14 Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tackling-heavy-graphics-card-support-gigabytes-latest-motherboard-redefined-for-up-to-128-pounds-but-pcb-integrity-still-an-issue-despite-durable-connectors76/"><u>Tackling Heavy Graphics Card Support: Gigabyte's Latest Motherboard Redefined for Up To 128 Pounds - But PCB Integrity Still an Issue Despite Durable Connectors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-must-watch-family-flicks-on-amazon-prime-this-july-2024/"><u>The Ultimate List of Must-Watch Family Flicks on Amazon Prime This July 2024</u></a></li>
+</ul></div>
 

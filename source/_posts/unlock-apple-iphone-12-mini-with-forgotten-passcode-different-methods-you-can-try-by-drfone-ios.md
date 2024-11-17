@@ -1,7 +1,7 @@
 ---
 title: Unlock Apple iPhone 12 mini With Forgotten Passcode Different Methods You Can Try
-date: 2024-11-05T01:08:31.477Z
-updated: 2024-11-06T23:52:58.986Z
+date: 2024-11-15T16:47:47.781Z
+updated: 2024-11-16T19:51:27.537Z
 tags: 
   - unlock
   - remove screen lock
@@ -89,18 +89,18 @@ Unlock iPhone Without Passcode
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** To connect your Apple iPhone 12 mini to the computer, you require a USB cable.
 
 **Step 3:** Follow the instructions below to put your device in DFU or Recovery mode.
 
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Once your device enters into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone 12 mini 6.
 
@@ -125,6 +125,13 @@ As we told you earlier, any method you follow will lose your data, as there is n
 Firstly, you need to download and install Dr.Fone on your computer. Once it's installed, launch the program and select "Backup Device" from the main interface.
 
 ![forgot passcode iphone 6](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step #2: Connect your Apple iPhone 12 mini 6**
 
@@ -151,19 +158,6 @@ As we mentioned before, there is no way to reset your device without losing your
 ### 3\. Can I unlock my iPhone 6 without a passcode?
 
 You can unlock your Apple iPhone 12 mini 6 without a passcode by following the steps mentioned in this article. However, this will erase all your data, so ensure you have a backup before proceeding.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. I tried unlocking my iPhone using iTunes, but it's not working. What should I do?
 
@@ -223,13 +217,6 @@ Sometimes, people can access our private information just by looking at our noti
 
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
 ## Part 3: How to turn off notification view on iPhone lock screen?
@@ -239,6 +226,13 @@ The notification view can be used to see previous notifications on the Apple iPh
 1\. Firstly, unlock your device and got to its Settings > Touch ID & Passcode option.
 
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
 
@@ -260,13 +254,6 @@ Some people find it a little tricky to access the lock screen notifications iPho
 
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
 
 Nevertheless, you can swipe from the top to access the cover sheet.
@@ -277,22 +264,16 @@ This is undoubtedly one of the most evident new features of the Apple iPhone 12 
 
 ![iphone lock screen with notifications-ios 18 notification new feature](https://images.wondershare.com/drfone/article/2017/09/15063941093235.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to click pictures instantly, then simply swipe left the lock screen. This will launch the Camera on your device, letting you click pictures on the go. Similarly, by swiping right, you can access your Today View. This includes vital data from apps and widgets that your smartphone assumes is important for you regarding the day.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Complete Fixes To Solve Apple iPhone 12 mini Randomly Asking for Apple ID Password
 
@@ -349,10 +330,10 @@ Sign out and then sign back in your Apple ID. This method can refresh the creden
 ![Sign in and sign out Apple ID](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Method 3: Remove Apple ID with Wondershare Dr. Fone**
@@ -403,6 +384,19 @@ Once you download the firmware, it will be verified by the software. Click Unloc
 
 ![Input the code to unlock the Apple ID](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 9:** Monitor Apple ID Removal Progress
 
 Keep your device connected and avoid any disconnections. Once the Apple ID is unlocked, the software will prompt the completion. Click Done to conclude the process. If the Apple ID is not unlocked, you can click Try Again.
@@ -413,18 +407,18 @@ Keep your device connected and avoid any disconnections. Once the Apple ID is un
 
 ![Reset iCloud account setting](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Method 5: Check App Store/iTunes Purchase**
 
 Verify and complete any pending app purchases or downloads from the App Store or iTunes. If there was an issue with a previous transaction, resolving it can stop the password prompts.
 
 ![Check the purchased history](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Method 6: Disable iCloud Keychain**
 
@@ -438,13 +432,6 @@ Make sure that your Apple iPhone 12 mini has a reliable internet connection. Wea
 
 ![Check your network connection](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Method 8: Contact Apple Support**
 
 If none of the above methods work, contacting Apple Support can be a viable option. They can provide further assistance and guidance in resolving the issue.
@@ -452,6 +439,13 @@ If none of the above methods work, contacting Apple Support can be a viable opti
 These are some of the methods that can help you stop your Apple iPhone 12 mini from randomly asking for your Apple ID password. Don't forget to always back up your data before changing your Apple iPhone 12 mini settings.
 
 If the issue persists, it's recommended to visit an authorized Apple service center.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bonus Part: How To Get Your Apple ID Password Back if You Forget It**
 
@@ -493,18 +487,14 @@ It’s essential to use secure and unique passwords for your accounts. Then, con
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-perfecting-your-mobile-video-recordings-on-snapchat-for-2024/"><u>[New] Perfecting Your Mobile Video Recordings on Snapchat for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-pioneers-leading-the-charge-in-virtual-experiences-for-2024/"><u>[New] Pioneers Leading the Charge in Virtual Experiences for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-reviewing-vlc-as-a-multimedia-recorder-for-2024/"><u>[New] Reviewing VLC as a Multimedia Recorder for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[Updated] How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-personalized-ringtone-crafting-from-tiktok-beats-to-cellphone-alerts/"><u>2024 Approved Personalized Ringtone Crafting From TikTok Beats to Cellphone Alerts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-focusrite-scarlett-18i20-windows-drivers-here/"><u>Get Your Focusrite Scarlett 18I20 Windows Drivers Here!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-6s-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 6s When Its Locked Within Seconds</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-expert-video-downloader-kit-ideal-for-firefox-browser-users/"><u>In 2024, Expert Video Downloader Kit Ideal for FireFox Browser Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-6-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 6 with iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 Pro Max Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-11-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 11 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-lighting-essentials-17-tops-reviewed/"><u>[New] 2024 Approved YouTube Lighting Essentials - #17 Tops Reviewed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-free-youtube-video-editing-apps-for-iphone-and-ipad-for-2024/"><u>Best Free YouTube Video Editing Apps for iPhone & iPad for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-7-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 7 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-lava-yuva-2-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Lava Yuva 2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Properly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unlikely-path-for-gamefi-in-gaming-culture/"><u>The Unlikely Path for GameFi in Gaming Culture</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor X50i? | Dr.fone</u></a></li>
 </ul></div>
 

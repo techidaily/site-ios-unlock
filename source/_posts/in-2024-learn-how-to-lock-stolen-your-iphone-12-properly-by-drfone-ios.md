@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your iPhone 12 Properly
-date: 2024-10-30T16:41:28.873Z
-updated: 2024-11-07T05:15:01.737Z
+date: 2024-11-15T16:36:35.515Z
+updated: 2024-11-17T02:27:17.310Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,16 +50,16 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![open find my app](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
@@ -79,13 +79,6 @@ Lost Mode locks the Apple iPhone 12 device and allows users to showcase a person
 
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Activating Lost Mode Using iCloud Website
 
 - **Step 1.** Access the iCloud website via your computer's web browser. Sign in using your Apple ID, continue to click the “Grid” icon in the top right corner, and select “Find My.”
@@ -99,13 +92,6 @@ Lost Mode locks the Apple iPhone 12 device and allows users to showcase a person
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
@@ -177,6 +163,13 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 
 ![open find my settings](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-20.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Next, tap "Find My iPhone," on the ensuing window, toggle "Find My iPhone." This will enable the Find My service on your device.
 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
@@ -205,6 +198,13 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus Tip. Find Stolen iPhone Back but Locked? Unlock With Wondershare Dr.Fone
 
 Recovering your stolen iPhone successfully can be a joyous event. Yet, the frustration of discovering your device locked due to a forgotten password can be disheartening. [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) offers a solution to regain access to your device. This robust tool is crafted to help users unlock various iOS screen lock scenarios.
@@ -218,10 +218,10 @@ It provides a hassle-free solution for those locked out of their devices. This p
 3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
@@ -254,6 +254,13 @@ Knowing **how to lock stolen iPhone**s is essential for safeguarding personal an
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways to Unlock Apple iPhone 12 to Use USB Accessories Without Passcode
 
 _How do I unlock my Apple iPhone 12? I know you're supposed to connect it to the computer and put it in recovery mode but when I do, it says “unlock Apple iPhone 12 to use accessories.”_
@@ -267,13 +274,6 @@ You may have had the experience of connecting your Apple iPhone 12 to a computer
 The command comes from Apple’s significant privacy safeguard **“USB Restricted Mode”**. It means after an hour of your iOS device is unlocked, the system cuts off the lightning port and limits it to charging only. Simply put, when your Apple iPhone 12 is locked for more than an hour, it needs to be unlocked to allow the connection of USB accessories. Sometimes, when you unlock your Apple iPhone 12 screen to use USB accessories, it can’t charge anymore.
 
 In 2017, a password cracking tool called GrayKey was launched, which can bypass any iPhone screen lock passcode. The FBI, the police, and some government agencies have all become GrayKey customers. To combat hackers including GrayKey and protect iOS users' data security, the USB Restricted Mode feature arrived with iOS 11.4.1 in July 2018 and be improved in iOS12.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Disable USB Restricted Mode?
 
@@ -352,10 +352,10 @@ There is currently no way to unlock an iPhone without erasing all data. Luckily,
 Wait for a while and you could unlock the screen to use USB accessories. However, in step one, you may need to enter your passcode to get stuck during the process. Therefore, this method is not the most efficient.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 6: How to Unlock Apple iPhone 12 to Use USB Accessories without Passcode via Recovery Mode?
@@ -388,13 +388,6 @@ Now, you'll get an iPhone which is like being factory reset. And you could unloc
 
 From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q2: Why does My iPhone Think My Charger is a USB Accessory?
 
 It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
@@ -412,6 +405,13 @@ If it doesn’t work, please contact customer service of Apple.
 It is very common to use USB accessories to connect iPhone and computer. Sometimes, we may forget the password, or cannot unlock the screen due to system failure. There are many ways to unlock Apple iPhone 12 to use the accessories in the article. Finally, we recommend everyone to use Dr.Fone - Screen Unlock, a helpful and convenient tool.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Unlock Apple iPhone 12 Without Passcode?
 
@@ -460,13 +460,6 @@ All you have to do is follow the steps given below.
 If both above-given methods don't work for you, or you don't have access to a computer or MacBook to use those methods, there is a 3rd method for you. But it only works on iPhones with iOS 15.2 versions.
 
 ![erase iphone feature](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 With this method, you can follow the steps below to remove the screen lock passcode on Apple iPhone 12.
 
@@ -546,6 +539,19 @@ Another possibility is that someone tried to break into your phone using an ille
 
 Finally, if you have an Apple iPhone 12 with Face ID, it's possible that your phone was locked because it didn't recognize your face. You ought to enter your passcode to unlock your phone if this is the case.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 So, these are some most effective methods to follow and unlock the Apple iPhone 12 XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone 12 lock screen without a passcode.
@@ -564,20 +570,24 @@ So, these are some most effective methods to follow and unlock the Apple iPhone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-experts-insight-efficiently-using-mobizen-for-capturing-screens/"><u>[New] 2024 Approved Expert's Insight Efficiently Using Mobizen for Capturing Screens</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-expansive-movement-assessment-2023/"><u>[New] Expansive Movement Assessment 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-direct-transition-from-youtube-to-instagram-reels-for-2024/"><u>[Updated] Direct Transition From YouTube to Instagram Reels for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-navigating-the-new-picsart-app-review-and-tutorial/"><u>[Updated] Navigating the New PicsArt App – Review & Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 mini Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-excessive-usage-of-computational-resources-by-unrealcefsubprocess/"><u>Addressing Excessive Usage of Computational Resources by UnrealCEFSubprocess</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-xs-how-to-unlock-a-disabled-iphone-xs-by-drfone-ios/"><u>Disabled iPhone XS How to Unlock a Disabled iPhone XS?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-switching-your-youtube-experience-to-dark-theme-on-desktop-mobile-android-and-ios/"><u>Guide: Switching Your YouTube Experience to Dark Theme on Desktop, Mobile (Android & iOS)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-xs-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone XS Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-slow-to-fast-mastering-time-lapse-video-editing-in-final-cut-pro/"><u>New In 2024, From Slow to Fast Mastering Time Lapse Video Editing in Final Cut Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-slow-mobile-wi-fi-woes-understanding-these-7-critical-issues/"><u>Solve Your Slow Mobile Wi-Fi Woes: Understanding These 7 Critical Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-12-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 12</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-idea-to-reality-explore-these-12-inspirational-free-image-websites/"><u>[New] In 2024, From Idea to Reality – Explore These 12 Inspirational Free Image Websites</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-innovative-techniques-for-maximum-zoom-utility-on-chromebook-for-2024/"><u>[New] Innovative Techniques for Maximum Zoom Utility on Chromebook for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-revamped-look-at-sonys-s6500-bdp-for-2024/"><u>[New] Revamped Look at Sony's S6500 BDP for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-8-iphone-video-production-secrets-for-high-quality-shoots-for-2024/"><u>[New] Top 8 iPhone Video Production Secrets for High-Quality Shoots for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[Updated] 2024 Approved 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apex-level-ps5-storage-expansion-choosing-high-speed-nvme-drives-to-elevate-playtime/"><u>Apex Level PS5 Storage Expansion: Choosing High-Speed NVMe Drives to Elevate Playtime</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-12-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6s-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6s when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-12-pro-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-amd-radeon-rx-6800-graphics-card-with-the-right-driver-for-windows-11-10-8-and-7/"><u>How to Update Your AMD Radeon RX 6800 Graphics Card with the Right Driver for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-11-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 11 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone SE Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-se-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone SE Prevention & Solution</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-cost-and-features-unveiling-the-secrets-of-the-fitbit-versa-lite-tracking-smartwatch/"><u>The Perfect Blend of Cost and Features - Unveiling the Secrets of the Fitbit Versa Lite Tracking Smartwatch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-100-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-xs-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone XS Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-stream-success-beginners-roadmap-for-2024/"><u>Twitter Stream Success Beginner's Roadmap for 2024</u></a></li>
 </ul></div>
 

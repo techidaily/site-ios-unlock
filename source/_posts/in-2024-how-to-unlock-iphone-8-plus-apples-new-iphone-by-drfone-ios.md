@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 Plus, Apples New iPhone
-date: 2024-11-03T19:05:23.706Z
-updated: 2024-11-07T06:08:09.334Z
+date: 2024-11-11T23:33:06.384Z
+updated: 2024-11-17T01:29:17.922Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,10 +25,16 @@ There can be a few reasons why your Apple iPhone 8 Plus is locked, the primary o
 We understand how frustrating it can be when your newly purchased Apple iPhone 8 Plus does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone 8 Plus passcode screen using Dr.Fone - Screen Unlock (iOS).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 8 Plus
@@ -41,13 +47,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4,395,217** people have downloaded it
 
@@ -91,13 +90,6 @@ Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), s
 
 That's it. You will have wiped and unlocked your Apple iPhone 8 Plus and it will start with factory settings. Note that this works only if the Apple iPhone 8 Plus was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.III Put The Apple iPhone 8 Plus in Recovery Mode
 
 You can unlock your Apple iPhone 8 Plus using Recovery Mode, yourself.
@@ -109,10 +101,10 @@ Step 2: Press the volume up button and let go. Press the volume down button and 
 ![press volume botton](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Select Restore to download and reinstall the latest iOS on your Apple iPhone 8 Plus and unlock Apple iPhone 8 Plus.
@@ -130,13 +122,6 @@ Step 3: Enter your passcode.
 Step 4: Scroll down and select Turn Passcode Off.
 
 ![turn passcode off](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Enter your passcode one last time.
 
@@ -229,10 +214,10 @@ The above bar will show "Extracting software… ". It implies iOS 15.4.1 iTunes 
 **Step 6.** Your Apple iPhone 8 Plus will show the restore progress bar with the white apple logo. The length of the process relies upon how much data is on your cell phone. Generally, it takes 20 to 120 minutes. When done, your Apple iPhone 8 Plus will restart naturally. Furthermore, after your Apple iPhone 8 Plus restarts, you can reset your Apple iPhone 8 Plus. For example, you can make a new passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Unlocking iPhone without iTunes
@@ -259,6 +244,13 @@ Pick your locked gadget under the "All Devices" area.
 
 ![click erase](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5.** Enter the Apple ID password to proceed.
 
 **Step 6.** A check code will be sent to unlock your locked gadget. Enter the code to proceed.
@@ -270,13 +262,6 @@ Pick your locked gadget under the "All Devices" area.
 **Step 9.** Swipe up on the Apple iPhone 8 Plus screen to begin once more.
 
 **Step 10.** iPhone will show that it is locked to the owner. You have to sign in with your Apple ID again, enter the password, and tap on Next. You will currently be enabled to make your new passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Dr.Fone-Screen Unlock
 
@@ -318,6 +303,13 @@ Doing so will unlock your Apple iPhone 8 Plus within no time. However, kindly no
 
 We hope you found out about **how to unlock iPhone with iTunes**. We likewise discussed what to do when you need an alternate method to iTunes. We know that using iTunes can be somewhat complicated; hence, the other options can help you a ton. However, we strongly suggest Dr.Fone-Screen Unlock for a more refined unlocking process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus
 
 Auto-lock on iOS devices serves multiple purposes - it conserves battery life, secures your data, and more. But have you encountered the **Auto-Lock greyed-out** dilemma, fixed at 30 seconds? When this setting becomes inaccessible, it limits your control over screen timeout.
@@ -335,19 +327,6 @@ Low Power Mode
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Screen Time Restrictions
 
@@ -440,9 +419,29 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
@@ -472,6 +471,13 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 - **Step 2:** On the right-hand side of the **Display & Brightness** screen, tap the **Auto-Lock** option.
 
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
@@ -511,18 +517,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-premier-5-goggles-securing-victory-in-air-races-for-2024/"><u>[New] Premier 5 Goggles Securing Victory in Air Races for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-most-essential-5-earbuds-for-gaming-for-2024/"><u>[New] The Most Essential 5 Earbuds for Gaming for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-for-new-gopro-users-here-are-essential-accessories/"><u>[Updated] 2024 Approved For New GoPro Users, Here Are Essential Accessories</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-art-of-video-storytelling-integrating-audio-narration/"><u>2024 Approved The Art of Video Storytelling Integrating Audio Narration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-love-the-role-of-gpt-in-finding-romance/"><u>Boosting Love: The Role of GPT in Finding Romance</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-maisto-rc-rock-crawler-assessment-top-choice-for-families/"><u>Comprehensive Maisto RC Rock Crawler Assessment: Top Choice for Families</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Plus Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-mini-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 mini without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 12 mini</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-40c-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 40C to Outlook | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/leading-eight-speech-to-text-platforms-for-pc-apple-devices-and-virtual-environments-updated-guide-for-2024/"><u>Leading Eight Speech-to-Text Platforms for PC, Apple Devices & Virtual Environments - Updated Guide for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-mkv-video-cutters-for-mac-users/"><u>Updated 2024 Approved Best MKV Video Cutters for Mac Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-drones-unveiled-expert-gopro-karma-analysis-for-2024/"><u>[New] Drones Unveiled Expert GoPro Karma Analysis for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782416-9781591439714-14-steps-to-awaken-the-sacred-feminine/"><u>14 Steps to Awaken the Sacred Feminine | Free Book</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-15-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 15 Pro Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-7-plus-how-to-unlock-a-disabled-iphone-7-plus-by-drfone-ios/"><u>Disabled iPhone 7 Plus How to Unlock a Disabled iPhone 7 Plus?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-streams-with-manycam-top-virtual-camera-and-recording-tool/"><u>Enhance Your Streams with ManyCam: Top Virtual Camera and Recording Tool</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 Plus</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>How to Mix Melodies & Text PowerPoints Unleashed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Passcode Screen?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/itunes-masterclass-maximizing-video-outputs/"><u>ITunes Masterclass Maximizing Video Outputs</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726029468368-mp4/"><u>MP4ファイル簡単編集：分割・結合方法</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-hp-chromebook/"><u>Unveiling the HP Chromebook</u></a></li>
 </ul></div>
 

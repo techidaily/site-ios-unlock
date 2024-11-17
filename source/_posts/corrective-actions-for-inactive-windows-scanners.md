@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions for Inactive Windows Scanners
-date: 2024-10-31T02:19:10.614Z
-updated: 2024-11-07T02:29:01.014Z
+date: 2024-11-12T22:00:02.860Z
+updated: 2024-11-16T22:39:56.299Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
  The causes for these problems are various and sometimes hard to identify. As you can imagine, the connection problem can prevent your scanner from connecting to the computer, and the software and services problems in your computer are the possible reasons for this issue.
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
 
@@ -60,31 +67,30 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the changes.  
@@ -98,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    * **Remote Procedure Call RPC**  
    * **DCOM Server Process Launcher**  
@@ -131,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the Update button next to your scanner to download the latest driver (you can do this with the FREE version), then install it on your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install all problem drivers in your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
@@ -144,6 +164,13 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot hardware problems
 
  It’s possible that there’s something wrong with your scanner, so run a troubleshooter in your computer to fix the issue.
@@ -151,13 +178,6 @@ Then try scanning with your scanner to see if it works.
 1. Type**cmd** in the Windows Search bar and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
@@ -178,26 +198,19 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
 
@@ -210,13 +223,6 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -242,17 +248,14 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-understanding-the-foundation-of-motion-visualization-for-2024/"><u>[Updated] Understanding the Foundation of Motion Visualization for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/advanced-techniques-to-setup-hp-print-devices-in-win10-os/"><u>Advanced Techniques to Setup HP Print Devices in Win10 OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-how-to-leverage-copernic-for-efficient-cloud-storage-searches/"><u>Discover How to Leverage Copernic for Efficient Cloud Storage Searches</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-xr-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone XR Without a Passcode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-14-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 14 Pro Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://win-great.techidaily.com/maximize-learning-efficiency-discover-how-to-view-tech-manuals-at-full-screen-and-with-stunning-flash-enhancements-on-flipbuildercom/"><u>Maximize Learning Efficiency: Discover How to View Tech Manuals at Full Screen & With Stunning Flash Enhancements on FlipBuilder.com</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/purchasing-a-malwarebytes-lifetime-subscription-legitimately-expert-guide/"><u>Purchasing a Malwarebytes Lifetime Subscription Legitimately - Expert Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-list-best-4k8k-video-editing-software-for-creators/"><u>Updated In 2024, The Ultimate List Best 4K/8K Video Editing Software for Creators</u></a></li>
-<li><a href="https://games-able.techidaily.com/will-the-end-of-ps5-crisis-mean-cheaper-games/"><u>Will the End of PS5 Crisis Mean Cheaper Games?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-recordscreenpro-windows-10-edition/"><u>[Updated] In 2024, RecordScreenPro Windows 10 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tunes-to-timelapse-crafting-mobile-music-videos/"><u>[Updated] Tunes to Timelapse Crafting Mobile Music Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-8-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-s17t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo S17t Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-prime-websites-with-free-no-drm-books-and-graphic-novels/"><u>Discover Prime Websites with Free, No-DRM Books & Graphic Novels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-12-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Pro Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-x-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13 mini?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-ipad-calculator-app-prompts-consideration-of-apple-pencil-investment-insights/"><u>Revolutionary iPad Calculator App Prompts Consideration of Apple Pencil Investment - Insights</u></a></li>
 </ul></div>
 

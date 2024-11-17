@@ -1,7 +1,7 @@
 ---
 title: "Pathfinder: Wrath of the Righteous - Fixed PC Freeze Issues and More"
-date: 2024-11-01T17:52:16.433Z
-updated: 2024-11-06T19:46:39.312Z
+date: 2024-11-14T16:40:28.852Z
+updated: 2024-11-17T08:38:09.349Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  The game may not work as expected if some important game files are missing or corrupted, as the game file corruption usually lead to game crashes.
@@ -70,16 +63,16 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -95,19 +88,6 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -132,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
@@ -139,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -155,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  Pathfinder: Wrath of the Righteous will crash if there’s a certain app conflicting with it. If you’re not sure which app is conflicting with the game, you need to perform a clean boot to find it out.
@@ -165,46 +159,40 @@ Here’s how to do it:
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Pathfinder: Wrath of the Righteous to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -242,19 +230,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premiere-trailers-showcase/"><u>[New] 2024 Approved Premiere Trailers Showcase</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-camslice-critique/"><u>[New] In 2024, CamSlice Critique</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discover-7-premier-android-apps-to-banish-ads/"><u>[Updated] In 2024, Discover 7 Premier Android Apps to Banish Ads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-spot-and-discard-phony-instagram-acquaintances/"><u>2024 Approved How To Spot and Discard Phony Instagram Acquaintances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-emotionality-can-machines-provide-solace-or-stress/"><u>Artificial Emotionality: Can Machines Provide Solace or Stress?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-11-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/effortless-guide-retrieve-uninitialized-hard-drive-data-with-simple-steps/"><u>Effortless Guide: Retrieve Uninitialized Hard Drive Data with Simple Steps</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-15-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 15 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone SE (2022)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pinnacle-ai-transcribers-for-speech/"><u>Pinnacle AI Transcribers for Speech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/reality-altered-by-virtual-sight-for-2024/"><u>Reality Altered by Virtual Sight for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-10-hidden-gems-for-enhancing-canva-images-for-2024/"><u>Top 10 Hidden Gems for Enhancing Canva Images for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beat-infused-imagery-mobile-video-making-on-iphone/"><u>[New] Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[Updated] Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-guidelines-to-frame-your-youtube-creation-flow-for-2024/"><u>[Updated] Guidelines to Frame Your YouTube Creation Flow for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-scrutinizing-the-functionality-of-pixelrecorder-12/"><u>[Updated] In 2024, Scrutinizing the Functionality of PixelRecorder 12</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-essential-list-7-leading-generators-for-nft-artworks/"><u>[Updated] The Essential List 7 Leading Generators for NFT Artworks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1726026902836-pc/"><u>PCにて自らの声を録音するステップバイステップマニュアル</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/remote-classroom-video-archive/"><u>Remote Classroom Video Archive</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-swift-yet-high-priced-swagtron-swagboard-t1-comprehensive-review/"><u>The Swift yet High-Priced Swagtron Swagboard T1: Comprehensive Review</u></a></li>
 </ul></div>
 

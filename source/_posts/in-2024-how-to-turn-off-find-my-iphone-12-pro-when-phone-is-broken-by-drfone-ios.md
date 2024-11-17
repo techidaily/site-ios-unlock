@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 12 Pro when Phone is Broken?
-date: 2024-11-02T04:41:03.231Z
-updated: 2024-11-07T05:45:36.376Z
+date: 2024-11-14T17:55:32.995Z
+updated: 2024-11-17T09:07:12.047Z
 tags: 
   - unlock
   - remove screen lock
@@ -79,13 +79,6 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 7: Turn off Find My iPhone**
 
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
@@ -93,10 +86,10 @@ As your activation lock is removed, go to the settings and remove your Apple ID.
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
@@ -120,6 +113,13 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
@@ -175,13 +175,6 @@ It clearly shows that you can easily get yourselves out of the miserable **iPhon
 2. If you lose access to your Apple ID, it can [bypass the iCloud Activation Lock](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) and help you set up your iOS device like a new one.
 3. Without damaging the data, Wondershare Dr.Fone allows you to remove the [iTunes backup encryption](https://drfone.wondershare.com/itunes-backup/reset-encrypted-data-iphone.html). This allows you to back up, restore, transfer, or easily wipe out your device's data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comprehensive Guide To Unlock Screen Using Wondershare Dr.Fone
 
 Wondershare Dr.Fone provides the simplest solution to unlock your Apple iPhone 12 Pro and remove the passcode change issue. Follow this step-by-step guide to complete the screen unlocking process without wasting any time:
@@ -204,24 +197,18 @@ Then, the system starts downloading the required iOS firmware according to your 
 
 ![use code to proceed with unlocking](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4. Install iOS Firmware To Unlock Completely**
 
 After that, you can see a progress bar of the unlocking screen process. Then, it takes you to the next window after completion, where you click the "Done" button to accomplish the process.
 
 ![install ios firmware to unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Set Up the Apple iPhone 12 Pro device Again Using the Security Lockout Procedure
 
@@ -235,6 +222,13 @@ While there is no direct way to regain access to your device when its passcode c
 ![use security unlock option to unlock](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-6.jpg)
 
 In another case, Apple allows you to temporarily sign in to your Apple iPhone 12 Pro using a recently changed passcode within 72 hours. But once you get into your device, set a new passcode immediately to retain your full access.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Using iTunes To Set Up iOS Device Again
 
@@ -256,13 +250,6 @@ Using iCloud to unlock iOS devices is a safe and recommended method, but it also
 
 ![erase ios device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6. Using Find My App To Set Up iOS Device Again
 
 This method needs you to have another iOS device signed into the same Apple ID with the Find My option enabled. After fulfilling these preconditions, you can follow these steps to set up your device whose **iPhone passcode changed from 4 to 6 digits by itself:**
@@ -271,26 +258,6 @@ This method needs you to have another iOS device signed into the same Apple ID w
 - **Step 2.** You must select the “Erase This Device” button to remove it from the iCloud account. This will instantly factory reset the Apple iPhone 12 Pro device as if it is a new iOS device.
 
 ![select device and erase from app](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tip. How To Change Passcode on iPhone: A Simple Guide
 
@@ -337,6 +304,13 @@ Do you have the passcode and your Apple Watch paired with an iPhone? It makes th
 - **Step 3.** Following this, confirm your action by tapping "Erase All Content and Settings." Continue to select the same option again as it appears on your Apple iPhone 12 Pro. If Find My is enabled for your Apple Watch, you will be prompted to enter your Apple ID and password. On adding the required details, select “Erase” to conclude the process.
 
 ![confirm reset content and settings choice](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pro Tip. Make Apple Watch Unlocking Easy With Paired Phone
 
@@ -386,15 +360,22 @@ By contacting the previous owner, you can request them to remove the Apple iPhon
 
 ![access find my on icloud website](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Once there, choose your Apple Watch from the "All Devices" list. Opt for "Erase This Device" from the Apple iPhone 12 Pro device's pop-up menu. Finally, adhere to the on-screen instructions to finalize the process.
 
 ![erase your watch via icloud](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tip. Unlock Your Locked iPhone With Wondershare Dr.Fone - Screen Unlock (iOS)
@@ -408,6 +389,19 @@ Dr.Fone offers a user-friendly interface coupled with powerful features. This ma
 1. Fone eliminates the [iCloud activation lock](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html), requiring no password.
 2. Should your Apple ID password slip your mind, Dr. Fone enables the removal of the ID from your device.
 3. Additionally, it bypasses the encryption lock on iTunes backups while keeping the data inside intact.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Unlock Your Locked iPhone With Wondershare Dr.Fone
 
@@ -451,20 +445,22 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-youtube-presence-with-masterful-editing-skills/"><u>[New] 2024 Approved Elevate Your YouTube Presence with Masterful Editing Skills</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sound-in-sight-mixing-music-into-microsofts-presentation-tool/"><u>[New] Sound in Sight Mixing Music Into Microsoft's Presentation Tool</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-effortless-access-to-youtube-comments/"><u>2024 Approved Expert Tips for Effortless Access to YouTube Comments</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 in Lost Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/changer-une-image-png-ou-gif-en-jpg-gratuitement-tutorial-video-avec-movivid/"><u>Changer Une Image PNG Ou GIF en JPG Gratuitement - Tutorial Vidéo Avec MoviVid</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elite-collective-photo-music-plus-visual-creation-fusion/"><u>Elite Collective Photo, Music + Visual Creation Fusion</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-11-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 11 Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-6s-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 6s After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 Pro? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-se-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone SE? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Passcode without Computer?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/must-watch-family-movies-available-on-netflix/"><u>Must-Watch Family Movies Available on Netflix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-audio-problems-clear-your-speakers-on-windows-platforms-step-by-step-guide/"><u>Solving Audio Problems: Clear Your Speakers on Windows Platforms - Step by Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-breathtaking-beijing-winter-games-of-2022/"><u>The Breathtaking Beijing Winter Games of 2022</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/10-must-see-vr-videos-on-youtube-for-deep-immersion-for-2024/"><u>10 Must-See VR Videos on YouTube for Deep Immersion for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>2024 Approved Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-showcase-video-reversal-techniques/"><u>2024 Approved Instagram Showcase Video Reversal Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-chatbot-face-off-unveiling-superior-bot-winner/"><u>Generative Chatbot Face-Off: Unveiling Superior Bot Winner</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-15-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 15 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-7-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 7 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-13-5-ways-to-get-into-a-locked-apple-iphone-13-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 13? 5 Ways to get into a Locked Apple iPhone 13</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-healthcare-cyber-therapies/"><u>In 2024, Revolutionizing Healthcare Cyber-Therapies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209778541-9781843586319-they-walk-among-us/"><u>They Walk Among Us | Free Book</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-gaining-full-access-with-the-command-prompt-in-windows-through-admin-rights/"><u>Ultimate Tutorial: Gaining Full Access with the Command Prompt in Windows Through Admin Rights</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-an-ai-prompt-injection-attack-and-how-does-it-work/"><u>What Is an AI Prompt Injection Attack and How Does It Work?</u></a></li>
 </ul></div>
 

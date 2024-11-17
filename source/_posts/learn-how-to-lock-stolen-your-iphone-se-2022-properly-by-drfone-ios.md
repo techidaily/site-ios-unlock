@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone SE (2022) Properly
-date: 2024-10-31T22:42:01.716Z
-updated: 2024-11-06T16:31:11.930Z
+date: 2024-11-15T06:37:07.207Z
+updated: 2024-11-17T09:12:26.590Z
 tags: 
   - unlock
   - remove screen lock
@@ -68,13 +68,6 @@ Lost Mode locks the Apple iPhone SE (2022) device and allows users to showcase a
 
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** After adding a message, tap "Next" on the following screen and press "Activate" from the top right corner.
 
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
@@ -85,13 +78,6 @@ Lost Mode locks the Apple iPhone SE (2022) device and allows users to showcase a
 
 ![sign into icloud account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** In Find My, add your Apple ID password again to access "All Devices." Now, choose the lost device from the list of all devices in the top left corner. Then, click "Mark As Lost," and the following pop-up Lost Mode prompt, tap "Next."
 
 ![access lost mode option](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-9.jpg)
@@ -100,13 +86,6 @@ Lost Mode locks the Apple iPhone SE (2022) device and allows users to showcase a
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
 When efforts to locate a stolen iPhone fail, the need to protect sensitive data intensifies. As a result, the option to erase the Apple iPhone SE (2022) device becomes a crucial step instead of **how to lock the Apple iPhone SE (2022) when lost**. Here's how to protect against the potential misuse of your information by erasing your device via Find My:
@@ -114,6 +93,19 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 - **Step 1.** After accessing Find My service, choose the lost device from the list and click "Erase This Device."
 
 ![erase device from find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-11.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
@@ -124,10 +116,10 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5. Other Things To Do iPhone Is Stolen
@@ -140,6 +132,13 @@ If your Apple iPhone SE (2022) is stolen, it is crucial to immediately inform yo
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
 You can claim insurance if you have AppleCare+ coverage for your Apple iPhone SE (2022). AppleCare+ with Theft and Loss for iPhone includes protection against theft and loss incidents. It offers up to two incidents of such coverage every 12 months.
@@ -149,10 +148,10 @@ To qualify for theft or loss coverage, it is necessary for Find My to be enabled
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
@@ -214,13 +213,6 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 - **Step 1.** Access the Settings app on your iOS device and tap your name/Apple ID. Find and tap "Sign-In & Security" to proceed further.
 
 ![open security settings iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-24.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
@@ -286,13 +278,6 @@ iPhone's Restricted Mode is a comprehensive set of features to enhance user cont
 - **Parental controls.**Targeting family use, Restricted Mode incorporates robust parental controls. Parents can manage and monitor screen time for a balanced, age-appropriate digital experience for their children.
 
 ![front view child using iphone](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Why Can't I Remove Restricted Mode?
 
@@ -375,18 +360,25 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 ![unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
 
 ![unlocking finished window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus. How To Turn Restricted Mode On or Off on YouTube
 
@@ -468,6 +460,19 @@ If you have the older iPhone 7, putting that device in Recovery Mode is slightly
 
 The Apple iPhone SE (2022) will be restored to factory settings and restarted. You will have to set it up afresh when all data on the Apple iPhone SE (2022) device is erased in this process.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### I.II: Unlock Apple iPhone SE (2022) Without Passcode Through Wondershare Dr.Fone
 
 Now, if that process does not inspire confidence and you would like a more guided walkthrough experience, there is an app by Wondershare to help you through the unlocking process every step of the way - Wondershare Dr.Fone-Screen Unlock.
@@ -497,6 +502,13 @@ It is a must-have software that supports iOS and Android and works on both macOS
 Click Unlock Now and wait until the unlock successful notification pops up.
 
 ![unlock iphone without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### I.III: Unlock Apple iPhone SE (2022) Without Passcode Through The iCloud Website (Find My iPhone)
 
@@ -572,19 +584,22 @@ So, if you have forgotten your Apple iPhone SE (2022) passcode and are looking f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-pro-tips-top-11-inexpensive-youtube-naming-tools/"><u>[New] 2024 Approved Pro Tips Top 11 Inexpensive YouTube Naming Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-discover-the-top-10-online-free-transformer-applications/"><u>[New] In 2024, Discover the Top 10 Online, FREE Transformer Applications</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-time-warp-with-snapchat-reversing-videos-simplified-for-2024/"><u>[New] Time Warp with Snapchat Reversing Videos Simplified for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unleash-potential-ps5-writable-and-readable-extras/"><u>[New] Unleash Potential PS5' Writable & Readable Extras</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-revealing-youtubes-showcase-of-notable-user-comments/"><u>[Updated] 2024 Approved Revealing YouTube's Showcase of Notable User Comments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-quintessential-collection-of-anime-intros/"><u>2024 Approved The Quintessential Collection of Anime Intros</u></a></li>
-<li><a href="https://article-tips.techidaily.com/acquiring-fcp-for-zip-legal-strategies-explained-for-2024/"><u>Acquiring FCP for Zip Legal Strategies Explained for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-15-pro-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-6s-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 6s Plus Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Without Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-by-drfone-ios/"><u>How to Unlock Apple iPhone XS?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-se-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone SE Without a Home Button</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro without Passcode or Face ID</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-hardware-with-toms-review-site/"><u>Unveiling the Power of Hardware with Tom's Review Site</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximize-online-sales-the-most-reliable-15-facebook-analysis-tools/"><u>[Updated] In 2024, Maximize Online Sales The Most Reliable 15 Facebook Analysis Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-easycapture-v2-analysis/"><u>[Updated] In 2024, Ultimate Guide EasyCapture V2 Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/award-spotlight-the-top-tech-showcase-at-mobile-world-congress-mwc-2024/"><u>Award Spotlight: The Top Tech Showcase at Mobile World Congress (MWC) 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/dropbox-upload-hochladen-von-iphone-fotos-auf-deinen-pc/"><u>Dropbox-Upload: Hochladen Von iPhone-Fotos Auf Deinen PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-xs-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone XS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Spark Go (2023) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-6-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 6? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone X</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-securely-extract-and-backup-your-instagram-content/"><u>In 2024, Securely Extract and Backup Your Instagram Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncovering-the-currency-behind-product-discussions/"><u>In 2024, Uncovering the Currency Behind Product Discussions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/punpixel-producer/"><u>PunPixel Producer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-the-secrets-of-turning-online-videos-into-desktop-music-files/"><u>Unlocking the Secrets of Turning Online Videos Into Desktop Music Files</u></a></li>
 </ul></div>
 

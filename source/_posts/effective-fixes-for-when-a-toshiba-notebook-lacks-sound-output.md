@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for When a Toshiba Notebook Lacks Sound Output
-date: 2024-11-01T00:06:40.868Z
-updated: 2024-11-06T16:29:27.715Z
+date: 2024-11-10T18:19:58.915Z
+updated: 2024-11-16T21:31:56.466Z
 tags:
   - win11
   - win10
@@ -49,36 +49,16 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this method doesn’t fix your problem, please take a look at the next one.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: **Change to another browser**
@@ -89,24 +69,18 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
  If the problem persists after changing your browser, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4:**Restart your computer**
 
  It may sound silly, but rebooting your computer actually solves many problems. Especially when you’ve kept your PC running for a long period, and some programs start to function improperly. In all cases, a restart resets the current state of a software, and it might just fix your no sound issue at the same time.
 
  If restarting your computer doesn’t help either, please continue to the next method below.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5:**Update your audio driver**
 
@@ -149,7 +123,21 @@ This method also applies to Windows 10, 8 or 7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7:**Change your audio channel**
 
@@ -161,28 +149,34 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Select your default playback device and click**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
@@ -208,20 +202,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cutting-edge-simulators-for-sonys-playstation-3-games-pc/"><u>[New] In 2024, Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-delving-into-asmrs-potential-upsides/"><u>[Updated] In 2024, Delving Into ASMR's Potential Upsides</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-11-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 11 and iPad Securely</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/budget-friendly-flight-machines-the-cheapest-drone-list/"><u>Budget-Friendly Flight Machines The Cheapest Drone List</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Without Passcode Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-pro-max-5-ways-to-get-into-a-locked-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 Pro Max? 5 Ways to get into a Locked Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 6s With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Passcode without a Computer</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>New 2024 Approved Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/refine-interactions-with-chatgpt-by-creating-tailored-user-personas-for-superior-performance/"><u>Refine Interactions with ChatGPT by Creating Tailored User Personas for Superior Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/riding-through-ruins-exploring-the-biker-side-of-a-post-apocalyptic-world-in-days-gone/"><u>Riding Through Ruins: Exploring the Biker Side of a Post-Apocalyptic World in 'Days Gone'</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sketched-snicker-fits-kapwing-meme-artisan-for-2024/"><u>Sketched Snicker-Fits Kapwing Meme Artisan for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-is-bright-with-oneplus-10-anticipate-release-timing-cost-guesswork-rumored-perks-and-speculative-insights/"><u>The Future Is Bright with OnePlus 10 – Anticipate Release Timing, Cost Guesswork, Rumored Perks & Speculative Insights</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-pro-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 15 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-crafting-captivating-real-time-tweets-for-maximum-impact/"><u>[New] Crafting Captivating Real-Time Tweets for Maximum Impact</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings/"><u>[New] In 2024, Unveiling the Secrets of Excellent Interview and Journey Audio Recordings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-diy-youtube-thumbnails-on-smartphones/"><u>[Updated] 2024 Approved DIY YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionize-post-production-the-best-11-tutorials-on-color-workflow/"><u>[Updated] Revolutionize Post-Production The Best 11 Tutorials on Color Workflow</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/54sh5y2w6lgh44gn44k744od44oi44ki44od44oxieoctplusocueodhuodooocpoodsplusocueodioodvoodqplusobquoblplusobqplusodluodvoodioodkeodvoodhuocoplusoctplusodpplusod243/"><u>無印象でセットアップ!システムインストールなしにブートパーティションを変更する手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel-capabilities-top-3-features-beyond-chatgpts-reach/"><u>Excel Capabilities: Top 3 Features Beyond ChatGPT's Reach</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-xs-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone XS After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-15-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 15 Plus Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-6s-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 6s In Different Conditionsin</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-oculus-odyssey-a-journey-through-best-vr-headsets/"><u>In 2024, Oculus Odyssey A Journey Through Best VR Headsets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-11s-spotify-link-glitches-efficiently/"><u>Mending Windows 11'S Spotify Link Glitches Efficiently</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-8-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 8 Plus Passcode without a Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
-date: 2024-11-03T18:15:35.873Z
-updated: 2024-11-07T03:07:28.720Z
+date: 2024-11-10T09:35:16.916Z
+updated: 2024-11-16T21:26:32.109Z
 tags: 
   - unlock
   - remove screen lock
@@ -232,6 +232,13 @@ If your Apple iPhone 11 Pro continuously prompts you for the Outlook password, a
 
 ![head to mail accounts in settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Encountering the error message "Account not authenticated" is what you will come across. Now, tap the "Re-enter Password" option to enter your correct Outlook password.
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
@@ -244,23 +251,9 @@ Sometimes, the email service provider may force users to change their passwords 
 
 ![access my profile outlook web](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Upon reaching the verification page, provide your password and tap the "Sign In" button. Afterward, you will be asked for other verification methods. Upon verifying, the "Change your password" window will appear. Here, you will need to enter your "Current password," "New password," and re-enter it to proceed. Then, hit the "Save" button, and your password will be changed.
 
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3. Checking the Network Connection
 
@@ -277,13 +270,6 @@ A strategic approach to resolving authentication issues involves using the Mail 
 - **Step 1.** Within your Apple iPhone 11 Pro's "Settings" app, scroll down and tap "Mail." On the following screen, press "Accounts" and choose the "Outlook" account.
 
 ![proceed with outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Here, you will find the toggle switch for "Mail." Now, turn off the email service and wait for a few moments. Toggle the switch back on to re-enable the email service.
 
@@ -366,15 +352,28 @@ In some cases, switching the account type to IMAP during the setup process can h
 ![head to accounts in mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
 ![add new imap mail account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-20.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** Utilize the specified settings for the "Incoming Mail Server" and "Outgoing Mail Server" sections under the “IMAP” tab:
 
@@ -399,10 +398,10 @@ At last, hit the “Next” button at the top-right side of the screen.
 ![set specified imap settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-21.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 13. Contact Support of Outlook To Resolve
@@ -433,11 +432,25 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 11 Pro into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
 
 ![choose device model to start](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Step 3: Finalizing iOS Device Unlock
 
@@ -484,13 +497,6 @@ First, download and launch Dr.Fone – Screen Unlock on the computer. Then, clic
 
 ![tap on screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Booting the Apple iPhone 11 Pro device**
 
 Tap on “Unlock iOS Screen” afterward. Now, Follow the on-screen instructions to boot your phone in Recovery or DFU mode. If you cannot activate the recovery mode, click the button line to work on the DFU mode.
@@ -502,13 +508,6 @@ Tap on “Unlock iOS Screen” afterward. Now, Follow the on-screen instructions
 After the DFU mode is activated, confirm the Apple iPhone 11 Pro device information, and click on “Download.” After it is downloaded, tap on “Unlock Now.”
 
 ![download firmware now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Device Unlocked Successfully**
 
@@ -539,6 +538,13 @@ There are different ways to activate the Recovery mode based on your Apple iPhon
 Click on Restore, and iTunes will download the software for the Apple iPhone 11 Pro device after the process is concluded, set up your Apple iPhone 11 Pro.
 
 ![tap on restore button](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -602,6 +608,13 @@ You can also consider unlocking your Apple iPhone 11 Pro through Find My iPhone.
 - Your device needs to be connected to the internet to be erased.
 - If you do not remember your Apple ID and password, it would be impossible for you to reactivate the Apple iPhone 11 Pro device.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: How to Bypass iPhone Lock Screen Using Siri
 
 If you do not have any potential source for unlocking your Apple iPhone 11 Pro, you can consider using Siri for this purpose. Here are the steps to bypass the Apple iPhone 11 Pro lock screen using Siri.
@@ -617,13 +630,6 @@ If you do not have any potential source for unlocking your Apple iPhone 11 Pro, 
 **Step 4:** Fill out the “To” box with some characters and click on “Return” on your keyboard. You need to press the Home button or swipe up according to your Apple iPhone 11 Pro model. The home page of your Apple iPhone 11 Pro will be accessed successfully.
 
 ![return to iphone home page](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pros**
 
@@ -671,22 +677,22 @@ Human beings are clumsy, and they often forget passcodes to their devices. Howev
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-a-critical-look-at-zd-soft-recorder-capabilities-for-2024/"><u>[Updated] A Critical Look at ZD Soft Recorder Capabilities for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-enhancing-team-conferencing-with-zoom-techniques-in-microsoft-teams/"><u>2024 Approved Enhancing Team Conferencing with ZOOM Techniques in Microsoft Teams</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-practices-procuring-stock-visuals-for-projects-for-2024/"><u>Best Practices Procuring Stock Visuals for Projects for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-samsung-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Samsung Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-xr-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone XR In Different Conditionsin</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-8-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 8 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-a1x-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo A1x 5G Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 11 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) Without Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) Passcode without Computer?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-puzzling-over-why-your-facebook-feed-lacks-recommended-movies/"><u>In 2024, Puzzling Over Why Your Facebook Feed Lacks Recommended Movies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-app-review-editing-made-easy-on-android/"><u>In 2024, VN Video Editor App Review Editing Made Easy on Android</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-gadget-galaxy-with-toms-hardware-reviews/"><u>Navigating the Gadget Galaxy with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tutorial-trasformare-i-file-rw2-in-jpeg-gratuitamente-su-internet-usando-movavis-web-service/"><u>Tutorial: Trasformare I File RW2 in JPEG Gratuitamente Su Internet Usando Movavi's Web Service</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/attlefront-bastion-100plus-epic-game-battles-for-2024/"><u>[New] Battlefront Bastion 100+ Epic Game Battles for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-breaking-down-the-selfie-security-on-insta/"><u>[New] Breaking Down the Selfie Security on Insta</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-brief-video-explanations-all-inclusive/"><u>[New] In 2024, Brief Video Explanations, All-Inclusive</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>[Updated] 2024 Approved Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-earning-through-snaps-a-guide/"><u>[Updated] Earning Through Snaps A Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-guide-to-windows-11-audible-recording-for-2024/"><u>Beginner's Guide to Windows 11 Audible Recording for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-12-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 12 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exclusive-win-audio-experience/"><u>Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 7 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-xs-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone XS Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-13-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 13 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-se-2022-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone SE (2022) With or Without Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-cutting-strategies-in-modern-cinema/"><u>Key Cutting Strategies in Modern Cinema</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-13-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 13 mini Keeps Asking for Outlook Password</u></a></li>
 </ul></div>
 

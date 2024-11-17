@@ -1,7 +1,7 @@
 ---
 title: "A Review of 'The Outer Worlds': A Fun and Quirky Sci-Fi Shooter Experience"
-date: 2024-11-01T21:52:05.125Z
-updated: 2024-11-07T03:57:55.330Z
+date: 2024-11-14T22:59:50.552Z
+updated: 2024-11-17T05:23:20.533Z
 categories:
   - BestProducts
 description: "This Article Describes A Review of 'The Outer Worlds': A Fun and Quirky Sci-Fi Shooter Experience"
@@ -37,13 +37,6 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Echo Dot (4th Gen)
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/wkHXB7KTws9HfL-i1yYYsWIMm5w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Amazon-Echo-Dot-4th-Generation-1-fc73a047312d4d588ffcbeae7bdd3368.jpg)
@@ -70,6 +63,13 @@ Lifewire / Erika Rawes
 
  Amazon’s[Echo](https://www.lifewire.com/what-is-the-amazon-echo-4147189) Dot has become a go-to option for those looking for a compact and affordable smart speaker. The brand has now released a 4th generation of its[Echo Dot](https://www.lifewire.com/amazon-dot-4149509) , and the new version has a totally different look than its predecessors. What else is new and different about the Echo Dot (4th Gen)? How does the new Dot perform? I tested the Echo Dot (4th Gen) to find out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: A completely new look**
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/TtbQpfhvpeKgt-Aso1WoKQ6m2VI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-2-89fbd54fb6a14efba195a0094b8d7b6f.jpg)
@@ -90,13 +90,6 @@ Lifewire / Erika Rawes
 
  Overall, I really appreciate the design of the new Dot. Modern and elegant, it fits into my living room, kitchen, or bedroom, as it doesn’t have a cold feel that takes away from the space. The 4th-Gen Dot is made from environmentally conscious materials like post-consumer recycled plastics and fabrics, thus securing it a “Climate Pledge Friendly” tag on Amazon.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Easy as ever**
 
 [Setting up the Echo Dot](https://www.lifewire.com/set-up-amazon-echo-4153561) is simple, especially if you already have the Alexa app downloaded. In the Alexa app, you just go to the devices menu, select on the “+” to add a device, and follow the prompts to add the Echo Dot 4th Gen speaker. The process only takes a moment.
@@ -106,10 +99,16 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Sound Quality: A front-firing speaker**
@@ -124,13 +123,6 @@ Lifewire / Erika Rawes
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/UFZM9HpoakK6sRg-7Vm2W8uLIQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-6-with-Clock-86c91da96d4043369f0a4e97b22c4209.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Features: The same Alexa**
@@ -138,10 +130,10 @@ Lifewire / Erika Rawes
  The Echo Dot (4th Gen) is powered by[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) . The Alexa voice assistant on the new Echo Dot is the same Alexa that you get on the Echo Dot (3rd Gen). You’ll be able to control your smart devices, listen to music, hear the news, set routines, shop, manage your schedule, and do all of the same things you could do before.[Alexa is always learning new skills](https://www.lifewire.com/alexa-skills-4126799) though. Amazon announced new Alexa features (coming soon) like Care Hub, which is a free feature that lets you check in on loved ones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Echo Dot (4th Gen) With Clock: A Design Game Changer**
@@ -151,6 +143,13 @@ Lifewire / Erika Rawes
  I was blown away by the Echo Dot (4th Gen) With Clock. It’s the same device (internally) as the regular Echo Dot (4th Gen), but it has an LED display on the front of the speaker. Doesn’t sound like much, right?
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/bnVMEDjyf8t4zDkpRwr4-5msD2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-7-with-Clock-9b93a56f3d0049c5a2064cd4b21c7cb5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -166,14 +165,14 @@ Lifewire / Erika Rawes
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/fdW9QpFUSBjNMTYTGdjFggaOH9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-5-Comparison-6841e2f32a734282b509976489bd0383.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Amazon Echo Dot (4th Gen) vs. Apple HomePod Mini**
 
@@ -184,6 +183,13 @@ Lifewire / Erika Rawes
 **Primarily a design upgrade.**
 
  The new Echo Dot is a great speaker at a great price, but it’s not worth an upgrade if you already have the 3rd-gen Dot unless you’re going with the clock version. For first time buyers, it's a no-brainer.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -217,19 +223,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-upgrade-the-beginners-roadmap-to-video-mastery/"><u>[New] 2024 Approved Channel Upgrade The Beginner's Roadmap to Video Mastery</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-how-to-remove-image-background-in-photopea/"><u>[New] How to Remove Image Background In Photopea</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects-for-2024/"><u>[Updated] Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-first-moments-that-foster-interest-in-audios-for-2024/"><u>[Updated] First Moments that Foster Interest in Audios for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-perfection-sizing-your-video-just-right/"><u>[Updated] In 2024, Instagram Perfection Sizing Your Video Just Right</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-interpreting-the-significance-of-a-blue-image-on-fb-chat-for-2024/"><u>[Updated] Interpreting the Significance of a Blue Image on FB Chat for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-free-options-instead-of-skype/"><u>Discover the Premier FREE Options Instead of Skype</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 mini</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-se-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone SE With or Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone X/iPad Without Computer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/seo-enhanced-title-builder-for-peak-video-visibility-for-2024/"><u>SEO-Enhanced Title Builder for Peak Video Visibility for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-manual-on-deleting-a-defunct-linkedin-profile/"><u>The Complete Manual on Deleting a Defunct LinkedIn Profile</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-crafting-impeccable-crossfades-with-premiere-pro-for-2024/"><u>[New] Crafting Impeccable Crossfades with Premiere Pro for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>[New] Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-blunders-to-steer-clear-of-when-choosing-your-next-monitor/"><u>10 Blunders to Steer Clear of when Choosing Your Next Monitor</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-8k-tvs-detailed-comparison-for-2024/"><u>Best 8K TVs [Detailed Comparison ] for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-11-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 11 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-xiaomi-redmi-13c-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-free-video-watermarking-tools-top-picks/"><u>In 2024, Best Free Video Watermarking Tools Top Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-x-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone X Backup Unlocker Top 4 Alternatives</u></a></li>
 </ul></div>
 
