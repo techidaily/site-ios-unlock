@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Locked Apple iPhone 14 Pro Password? Learn the Best Methods To Unlock
-date: 2024-11-03T23:27:12.600Z
-updated: 2024-11-06T22:15:50.850Z
+date: 2024-11-21T21:58:04.369Z
+updated: 2024-11-26T17:21:54.401Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,6 +58,10 @@ When the firmware is displayed after verification, press "Unlock Now." Upon trig
 
 ![enter confirmation code for unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 ## Part 2. How To Unlock Notes on iPhone Through Settings
@@ -74,13 +78,6 @@ If you've locked a note on your Apple iPhone 14 Pro but forgot the password, the
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -94,6 +91,10 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
@@ -162,10 +163,7 @@ Once the application has detected your Apple iPhone 14 Pro, you now need to acti
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Download Firmware Update**
@@ -173,6 +171,10 @@ Once the application has detected your Apple iPhone 14 Pro, you now need to acti
 A new window will appear now, on which the application will ask for some information regarding your iOS device. Provide the application with asked information and click on the 'Download' button to get the firmware update for your Apple iPhone 14 Pro.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
 
@@ -184,14 +186,11 @@ The application will now ask for the confirmation code. Just provide the on-scre
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2. Unlock Locked iPhone 12 by Restoring it to Default Settings – iTunes**
 
@@ -211,13 +210,6 @@ Let us show you how to unlock Apple iPhone 14 Pro without using a passcode;
 
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 6. As soon as that is done and iTunes has finished the process, your Apple iPhone 14 Pro 12 will be restored to default settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 3. Unlock Disabled iPhone 12 by Erasing iPhone in iCloud**
 
@@ -257,10 +249,7 @@ The known and famous application among iPhone users helps them recover data, unl
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using iTunes
@@ -297,6 +286,14 @@ The article aimed to provide users with maximum information and knowledge about 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Remove Passcode From Apple iPhone 14 Pro? Complete Guide
 
 If you have an iPhone, you've likely set a passcode to protect your device. While this is a great security measure, you may need to remove the passcode. Whether you want to get rid of your code or plan to sell your phone, these instructions will show you how to remove your passcode from your Apple iPhone 14 Pro in just a few steps.
@@ -308,13 +305,6 @@ So let's get started.
 ## 3 Useful Methods to Remove Passcode from iPhone
 
 Following are some of the most effective methods to remove the passcode from iPhones:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Tape "Turn Passcode Off" in "Settings"
 
@@ -391,19 +381,6 @@ Now you need to set up the tool by following the steps given below.
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step #3: Connect your Apple iPhone 14 Pro in DFU Mode**
 
 Now you need to connect your Apple iPhone 14 Pro to DFU mode.
@@ -434,16 +411,13 @@ This was the complete process of using the Wondershare Dr.Fone-Screen Unlock fea
 
 Besides, all the methods discussed in this article work fine with most iPhones, but the ideal method is to remove the Apple iPhone 14 Pro passcode using Dr.Fone-Screen Unlock (iOS). We have tested this method with various iPhones, and it worked perfectly fine. So, if you want a reliable and easy-to-use method, we recommend you use Dr.Fone-Screen Unlock (iOS) without hesitation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 We know there might be lots of questions running through your mind about this process. So, we have tried responding to frequently asked questions about this process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can I remove the passcode from my iPhone without data loss?
 
@@ -469,6 +443,10 @@ Besides, there is no way to change the passcode on your device. So, if you forge
 
 If you forgot the passcode of your device and you want to remove it, then you can follow the steps given in this article. We have explained the complete process of removing the passcode from your device if you forgot it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 That's all about how you can remove the Passcode from your Apple iPhone 14 Pro. We have explained the complete process of how you can do it. You can follow those steps and easily remove the Passcode from your device. But remember, by doing this, all the data on your device will be erased. So make sure you create a backup of your device before proceeding.
@@ -489,22 +467,24 @@ If you have any other questions or doubts about this process, feel free to ask u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fiverr-cover-content-proportions/"><u>[New] 2024 Approved Fiverr Cover Content Proportions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>[New] 2024 Approved From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-samsungs-competitors-top-gear-360-alternative-cameras-of-the-year/"><u>[New] Samsung’s Competitors Top Gear 360 Alternative Cameras of the Year</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-5-ways-to-record-audio-on-windows-10/"><u>[Updated] 2024 Approved 5 Ways to Record Audio on Windows 10</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-se-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-the-taylor-swift-cinematic-journey-watch-her-movies-in-order/"><u>Complete the Taylor Swift Cinematic Journey: Watch Her Movies in Order</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-8-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 8 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v30-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V30 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-pro-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-8-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 8 Plus Without a Home Button</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-15-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 15 Pro Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[New] 2024 Approved How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-socialsoundify-twitter-videos-to-audio/"><u>[New] SocialSoundify Twitter Videos to Audio</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-explore-new-territory-your-guide-to-live-streaming-tiktoks/"><u>2024 Approved Explore New Territory Your Guide to Live-Streaming TikToks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-mobility-in-apples-ecosystem/"><u>2024 Approved Mastering Media Mobility in Apple's Ecosystem</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-12-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 12 Pro to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728481092061-windows-114/"><u>画像と写真がなくなってしまった？Windows 11における4方法での蘇生ガイド</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-6s-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-12-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 12 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-14-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 14 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6s</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-smart-8-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Smart 8 Pro Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-netflix-error-a-step-by-step-guide-to-overcoming-issue-nw-1-19/"><u>Solving the Netflix Error: A Step-by-Step Guide to Overcoming Issue NW-1-19</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-secure-the-best-encryption-applications-of-the-year-153-chars/"><u>Win Secure: The Best Encryption Applications of the Year (153 Chars)</u></a></li>
 </ul></div>
 

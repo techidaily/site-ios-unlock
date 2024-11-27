@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your Apple iPhone 13 Pro Max When You Forget the Passcode?
-date: 2024-07-15T02:04:12.882Z
-updated: 2024-07-16T02:04:12.882Z
+date: 2024-11-19T21:09:27.454Z
+updated: 2024-11-27T00:41:49.926Z
 tags: 
   - unlock
   - remove screen lock
@@ -17,7 +17,6 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 ## How to Access Your Apple iPhone 13 Pro Max When You Forget the Passcode?
 
 We all have secrets in our iPhone or some important financial or business data that we all wish to protect from unwanted access. For this, we set up a passcode. But what if Apple iPhone 13 Pro Max passcode is forgotten by you? Well, you may now wonder how to perform Apple iPhone 13 Pro Max passcode bypass, right? Worry no more! We’re right here to help you with the proven solutions for Apple iPhone 13 Pro Max passcode reset without iTunes or with it too. Let’s explore.
-
 
 ## Part 1. Unlock Apple iPhone 13 Pro Max screen passcode in one click (unlock tool needed)
 
@@ -47,9 +46,6 @@ On the upcoming screen, you’ll be displayed the “Device Model” and most re
 
 Once, the software downloads the firmware automatically, you can then proceed to Apple iPhone 13 Pro Max passcode reset. Hit the “Unlock Now” button over the next screen and in a short while you’ll be notified that Apple iPhone 13 Pro Max passcode removal is completed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
@@ -78,9 +74,6 @@ If somehow, the above solution fails and you’re just not able to get Apple iPh
 
 ![confirm to restore](https://images.wondershare.com/drfone/article/2019/09/recovery-mode-iphone-itunes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Use “Find iPhone” from iCloud
 
 The next pro tutorial for Apple iPhone 13 Pro Max passcode removal is via iCloud. For this, grad access to any computer available on your side. Or, you can also make use of any other smartphone device but ensure it must be connected to a WiFi network or have an active data pack. Moreover, the locked iPhone on which you’re going to perform Apple iPhone 13 Pro Max passcode reset should also have an active internet connection to make this tutorial work.
@@ -113,9 +106,6 @@ Now, in case you know the Apple iPhone 13 Pro Max restrictions passcode and just
 
 1. Launch “Settings” of your Apple iPhone 13 Pro Max and then get into “General” followed by “Restrictions”. Now, you’ll be asked to key in the current passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restrictions passcode](https://images.wondershare.com/drfone/article/2019/09/restrictions-iphone.jpg)
 
 1. Once you’ve entered the current passcode, hit on the “Disable Restrictions” and to confirm your actions, key in your passcode when prompted.
@@ -154,6 +144,10 @@ Moving abroad? Your Apple ID may need an update to match your new location. It e
 
 ![apple id account information](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Changing your Apple ID can be smart, ensuring your digital life stays up-to-date, secure, and tailored to your needs. It's not complicated, and it's all about making your Apple experience better suited to you. So, go ahead and learn **how to change your Apple ID on your iPad** in the following sections.
 
 ## Part 2: How To Change Apple ID on iPad Without Losing Data?
@@ -179,6 +173,10 @@ If you are worried about losing data such as purchases and contacts, don't worry
 - **Step 2:** Once logged in, select **Apple ID** in the **Sign-In and Security** section.
 
 ![apple id sign in and security](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** From the **Apple ID** pop-up window, enter your new Apple ID in the **Change your Apple ID** text field.
 
@@ -241,7 +239,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
 
-
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -258,6 +255,10 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![confirm screen unlock setup](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Enable the Two-Factor Authentication on your iPad so you can unlock your Apple ID. Then, click **Yes** to proceed.
 
 ![confirm two-factor authentication enabled](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
@@ -273,6 +274,10 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 - **Step 9:** The [<u>iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) will start downloading, and you can see the progress on the next screen. If you're experiencing slow download speeds, click **Copy** to get the link and download it.
 
 ![firmware download in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** Review the **Device Model** and **System Version**, then click **Unlock Now** to proceed.
 
@@ -318,8 +323,6 @@ If not already enabled, turn on 2FA for an extra layer of security. It's simple 
 
 And if you need to remove your Apple ID without a password, Dr.Fone is a good option. Dr.Fone is a powerful iOS toolkit that can help you with various phone solutions. It's easy to use and can help you solve mobile problems in just a few minutes.
 
-
-
 ## Trouble with Apple iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions
 
 ## Part 1: Why Is My iPhone Screen Not Swiping?
@@ -350,14 +353,15 @@ Sudden exposure to moisture or water damage can also cause the screen to malfunc
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone 13 Pro Max can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 1. Fix iOS System Error Without Data Loss: Dr.Fone – System Repair (iOS)
 
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (iOS)
 
@@ -401,7 +405,6 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
-
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 13 Pro Max. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -424,6 +427,10 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 13 Pro Max could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 13 Pro Max. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4. Clean iPhone Screen or Remove Screen Protector
 
 An unresponsive swipe-up gesture on your Apple iPhone 13 Pro Max might be due to dirt, smudges, or interference caused by a screen protector. Power off your Apple iPhone 13 Pro Max to prevent accidental taps during the cleaning process. Carefully clean the screen by softly rubbing it with a fresh and dry microfiber cloth. In addition, ensure the cloth is soft and free from any debris that might scratch the screen.
@@ -435,6 +442,10 @@ If your Apple iPhone 13 Pro Max swipe-up gesture isn't working specifically on t
 **Step 1.** On your iOS device, access the “Settings” app and launch it. Now scroll down to find and tap "Face ID & Passcode."
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
@@ -482,9 +493,6 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
 ### Fix 10. Turn Off Reduce Motion
@@ -498,6 +506,10 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 11. Reset iPhone All Settings
 
@@ -515,8 +527,6 @@ Resetting all settings on your Apple iPhone 13 Pro Max can help resolve software
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 13 Pro Max device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 13 Pro Max without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
@@ -525,6 +535,10 @@ Unlock iPhone/iPad Lock Screen Without Swiping Up.
 - Unlock screen passwords from all iPhones and iPads.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone 15 / iPhone 14 / iPhone 13 / 12, iPhone 11, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -546,6 +560,10 @@ Upon downloading and installing Wondershare Dr.Fone onto your computer, access t
 
 ![access screen lock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Ensure Your Device is in Recovery Mode**
 
 Now, adhere to the on-screen prompts provided to enter Recovery Mode based on the specific model of your iDevice. Then, the platform automatically recognizes and exhibits the Apple iPhone 13 Pro Max device Model. If necessary, change the model and choose the system version as per your preferences. Upon completion, click on "Start" to continue the process.
@@ -558,13 +576,11 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 13 Pro Max and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone 13 Pro Max. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone 13 Pro Max even when gestures aren't working properly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -578,7 +594,26 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-chromebook-prime-zoom-features/"><u>[New] Optimizing Chromebook Prime Zoom Features</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-humor-in-highlights-best-mobile-edits-compared/"><u>[Updated] In 2024, The Humor in Highlights Best Mobile Edits Compared</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-xs-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone XS Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dynamic-dimensions-adobes-approach-to-photo-motion-effects-for-2024/"><u>Dynamic Dimensions Adobe's Approach to Photo Motion Effects for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/early-birds-guide-to-top-buys-pre-prime-day-2-grope-of-the-clock-insider-tips/"><u>Early Bird's Guide to Top Buys Pre-Prime Day 2 Grope of the Clock! Insider Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-choose-the-ideal-gaming-laptop-or-desktop-for-maximum-performance/"><u>How to Choose the Ideal Gaming Laptop or Desktop for Maximum Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-12-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 12 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-se-2020-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone SE (2020) Without a Home Button</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-the-world-of-gopro-timelapses-efficiently/"><u>In 2024, Navigating the World of GoPro Timelapses Efficiently</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vn-video-editor-pc-version-a-quick-overview/"><u>New VN Video Editor PC Version A Quick Overview</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-the-power-of-instream-ads-detailed-guidelines-on-setup-and-evaluation-in-fb-for-2024/"><u>Unlock the Power of Instream Ads Detailed Guidelines on Setup & Evaluation in FB for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-latin-mastery-digital-edition-guide/"><u>Unlocking Latin Mastery: Digital Edition Guide</u></a></li>
+</ul></div>
 

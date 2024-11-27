@@ -1,7 +1,7 @@
 ---
 title: The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 mini
-date: 2024-11-09T17:31:12.898Z
-updated: 2024-11-17T11:14:37.655Z
+date: 2024-11-24T21:03:48.009Z
+updated: 2024-11-26T17:50:12.068Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,16 +34,13 @@ The Activation Lock works by associating a device with the iCloud account of the
 
 Once enabled, Activation Lock securely stores the Apple iPhone 12 mini device's unique identifier (IMEI or serial number). It also stores the associated iCloud account details on Apple's servers. This information is used to verify the Apple iPhone 12 mini device's status during activation and prevent unauthorized use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Locking Mechanism
 
 If a device with Activation Lock is lost or stolen, the owner can activate Lost Mode using the Find My app or iCloud website. Lost Mode remotely locks the Apple iPhone 12 mini device, preventing anyone from accessing the user's data. It also prevents device use without the owner's Apple ID and password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Device Recovery
 
@@ -61,13 +58,6 @@ When purchasing a used Apple device, you should ensure that Activation Lock is d
 
 Having an iPhone locked to its previous owner's security can be frustrating. That's why finding effective methods to remove the lock is crucial. Luckily, various methods exist to ****bypass the Apple iPhone 12 mini locked to the owner for free****. Given below are the top 5 methods to resolve this issue:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Use the Old iOS Passcode To Unlock the Apple iPhone 12 mini device
 
 If you've recently obtained a used iPhone, there is a possibility that the old iOS passcode might still be effective. When an iPhone is locked to its owner, you will find an option to unlock the Apple iPhone 12 mini device using the passcode. It presents another viable option to remove the lock.
@@ -77,6 +67,10 @@ To proceed, you will need to contact the previous owner of the Apple iPhone 12 m
 - ****Step:**** Access your locked iPhone and tap "Unlock with Passcode." On the following screen, enter the old passcode to remove the Activation Lock.
 
     ![tap unlock with passcode](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Ask the Owner To Erase the Apple iPhone 12 mini device Using iCloud
 
@@ -91,6 +85,10 @@ To make this procedure work, the owner will need to use the Find My Device featu
 - ****Step 2:**** On the following screen, select your Apple iPhone 12 mini from "All Devices." Now choose "Erase iPhone" from the available options to erase the Apple iPhone 12 mini device and remove the Activation Lock.
 
 ![tap on erase iphone](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Use the DNS Method To Unlock the Apple iPhone 12 mini Locked to Owner
 
@@ -121,6 +119,10 @@ Ensure your device IMEI is not blacklisted before sending it for the unlocking p
 - ****Step 2:**** Once you have entered the details, tap "Remove Activation Lock." Afterward, select a payment method to pay for the service. It will take up to 48 hours to unlock your device.
 
 ![use directunlocks icloud activation removal](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Remove the iCloud Activation Lock With the Best Screen Unlock Tool – Wondershare Dr.Fone
 
@@ -156,13 +158,6 @@ After thoroughly considering the ramifications, tap "Unlock Now" to proceed. Now
 
 ![click on unlock now](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 To summarize, Wondershare Dr.Fone stands out as the best choice when it comes to unlocking an "****iPhone Locked to Owner****." It has advanced features, a dynamic interface, and a proven track record. Wondershare Dr.Fone offers the most reliable and effective methods to regain access to your locked iPhone.
@@ -176,6 +171,10 @@ Whenever your Apple iPhone 12 mini gets stolen, multiple concerns involve access
 These cases most probably lead you to search for **how to unlock stolen iPhone**s. For this, we have outlined the best methods to unlock stolen iPhones in this detailed guide. From using built-in old methods to third-party tools, this article covers it all with easy-to-follow steps.
 
 ![unlocking stolen iphone with best methods](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. \[Easiest Way\] Unlock Easily With Wondershare Dr.Fone - Screen Unlock
 
@@ -217,13 +216,6 @@ As the respective iOS firmware downloads, wait a few minutes and press the "Unlo
 
 ![iphone unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2. \[Old Ways\] Using Siri To Unlock Stolen iPhone
 
 It might come as a surprise to you that Siri can be used to unlock a lost iPhone. When you seek the answer to **how to unlock a lost iPhone** with Siri, you need to be aware of a very specific pointer. It is necessary to note that this method only works for devices operating between iOS 8 and 11.
@@ -237,13 +229,6 @@ This later turned out to be an anomaly in Siri that led users to unlock their iO
 - **Step 2.** In the sharing options, look for "Messages." As you access the next screen, type anything in the "To" section and continue to select it by navigating to the "Create a New Contact" option. When providing the contact details, tap the "Add Photo" button. Lead into the Photos app from there and swipe up the screen or press the "Home" button to access the home screen.
 
 ![access photos app to unlock](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. \[All Data Lost\] Trying Recovery Mode for Unlocking Stolen iPhone
 
@@ -272,10 +257,7 @@ These services include [IMEIUnlockSIM](https://www.imeiunlocksim.com/unlock-phon
 ![unlock activation lock with service](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -292,13 +274,6 @@ Yet, despite its significance, issues can arise, disrupting the active status of
 
 ![apple id not active on device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. Reasons Why Apple ID Is Not Active
 
 Understanding the causes behind “ why **my Apple ID is not active**” is necessary for resolving it. Several factors contribute to this problem, requiring attention for a successful resolution. A few of these reasons are outlined below to help you understand the issues with Apple ID:
@@ -311,6 +286,10 @@ An inactive Apple ID results from incorrect login information. Mistyped password
 
 Apple employs strict security measures to protect user accounts. Sometimes, an Apple ID becomes inactive due to suspicious activities. This triggers security locks to safeguard sensitive information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Payment or Billing Issues
 
 Unsettled payments, expired credit cards, or billing-related problems can lead to an inactive Apple ID. Failure to update payment information or resolve outstanding dues may cause this issue.
@@ -322,6 +301,10 @@ At times, issues with Apple's servers or network connectivity problems on your e
 ### 5\. Software Updates or Glitches
 
 System updates or software glitches might also play a role in deactivating an Apple ID. Incompatibility issues can arise from software updates or glitches within the OS. These can interfere with the account's active status.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. \[Direct Solution\] Fix Apple ID Not Active Issue With Wondershare Dr.Fone
 
@@ -350,13 +333,6 @@ Begin by opening Wondershare Dr.Fone on your computer. Then, navigate through "T
 Afterward, the platform will prompt you with inquiries before advancing. Firstly, confirm if a screen lock is set up on your iDevice. Ensure that it is active, and proceed by selecting “Yes.” Subsequently, verify if Two-Factor Authentication is activated on your iDevice. If not, activate it and click “Yes” to unlock the Apple ID.
 
 ![verify device lock](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3. Accessing Recovery Mode and Downloading iOS Firmware**
 
@@ -390,6 +366,10 @@ An inactive Apple ID issue might occasionally arise due to connectivity problems
 
 ![change wifi or mobile data](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3. Try Resetting Your Apple ID Password
 
 Resetting your Apple ID password is a common solution for addressing problems linked to an inactive ID. This proves particularly effective when issues stem from entering incorrect login details.
@@ -417,6 +397,10 @@ Are you unable to reset your Apple ID password directly from your device? If you
 - **Step 2:** Upon reaching the subsequent screen, input the “Email or Phone Number” linked to your Apple ID. Then, verify the CAPTCHA verification and proceed by tapping "Continue." Adhere to the instructions on the screen to finalize the password reset procedure.
 
 ![enter phone and captcha characters](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 4. Check the iCloud Status Page
 
@@ -452,17 +436,20 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>[New] Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-reality-selecting-top-3d-animators-software/"><u>2024 Approved From Concept to Reality Selecting Top 3D Animators' Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-and-speedy-mass-transformation-of-mkv-videos-into-mp4/"><u>Easy & Speedy Mass Transformation of MKV Videos Into MP4</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-14-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 14 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-moto-g13-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Moto G13 Is Unlocked</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-yuva-3-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Yuva 3 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 14 Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-7-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 7 Lock Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-of-smartphones-exploring-predicted-cost-and-capabilities-of-the-pixel-10-prototype/"><u>The Future of Smartphones? Exploring Predicted Cost and Capabilities of the Pixel 10 Prototype</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-wi-fi-connection-issues-on-your-microsoft-surface-pro/"><u>Troubleshooting Guide: Solving Wi-Fi Connection Issues on Your Microsoft Surface Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-11-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 11 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/discover-the-leading-free-screen-recorders-our-ultimate-top-5-guide/"><u>Discover the Leading Free Screen Recorders: Our Ultimate Top 5 Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-stop-back-4-blood-from-crashing-on-your-pc/"><u>Fixing Issues: How to Stop 'Back 4 Blood' From Crashing on Your PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-grab-soundtracks-flawlessly-discover-the-leading-8-audio-extraction-apps-for-free/"><u>How to Grab Soundtracks Flawlessly: Discover the Leading 8 Audio Extraction Apps for Free!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-a59-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo A59 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-14-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-find-x6-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Find X6?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XR Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xs-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone XS Max/iPad Without Computer</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728472022483-sd/"><u>SD 卡救援手法介绍 - 利用命令行解决方案恢复丢失数据</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/selecting-your-digital-sidekick-which-offers-more-iphone-or-android/"><u>Selecting Your Digital Sidekick: Which Offers More - iPhone or Android?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-when-your-pc-refuses-to-boot-windows-n1/"><u>Troubleshooting Tips for When Your PC Refuses to Boot Windows N1</u></a></li>
 </ul></div>
 

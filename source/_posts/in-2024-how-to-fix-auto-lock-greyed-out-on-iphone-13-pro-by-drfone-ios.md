@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 Pro
-date: 2024-07-15T02:00:20.400Z
-updated: 2024-07-16T02:00:20.400Z
+date: 2024-11-24T17:16:55.774Z
+updated: 2024-11-26T18:40:27.114Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,6 +55,10 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
@@ -180,7 +184,9 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Does It Cost for Unlocking iPhones? Get Answers
 
@@ -349,6 +355,10 @@ If you want to try one of these tools to unlock a carrier-Locked or disabled iPh
 
 ![unlocking disabled iphone doctorsim](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Unlock Locked iPhone Using Wondershare Dr.Fone \[Most Cost-Effective\]
 
 Undoubtedly, there are many tools and methods that offer iOS device unlocking services and demand specific charges. But [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stays ahead in the competition with the most cost-effective method and highest success rate. However, this software promises to solve Apple ID Locked and Screen lock issues without losing data.
@@ -387,7 +397,6 @@ Start with connecting the Apple iPhone 13 Pro to the computer and select the "Sc
 
 ![access drfone screen unlock function](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Proceed and Put Your Apple iPhone 13 Pro in Recovery Mode**
 
 Hit the "Start" button to initiate unlocking the iPhone. After that, you will need to put your Apple iPhone 13 Pro in Recovery Mode to avoid data loss. You can follow the on-screen instructions according to your Apple iPhone 13 Pro model. On the next window, your "Device Model" will be recognized, and you must add the "System Version" to proceed clicking on the “Start” button.
@@ -420,9 +429,6 @@ Before moving further, you have to confirm that your iDevice has a screen lock a
 
 After that, you will be prompted to put your iDevice in Recovery Mode by following on-screen instructions according to your Apple iPhone 13 Pro model. On the next window, you can see your "Device Model" recognized and then choose the "System Version" and hit the "Start" button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![start recovery mode on Apple iPhone 13 Pro](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 4. Download iOS Firmware and Unlock Apple ID**
@@ -449,6 +455,10 @@ Utilizing Screen Time on your Apple iPhone 13 Pro offers a versatile way to mana
 
 ![choose the app limits option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
 
 ![tap on add limit option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-2.jpg)
@@ -463,6 +473,10 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
 
 If you are unable to lock the targeted app directly with Face ID, there is no need to worry. There exist workarounds that you can use, and one of them is using the Shortcuts app. It won't directly lock apps with the Face ID. Instead, it provides a workaround by creating a shortcut that redirects to the lock screen.
@@ -475,9 +489,6 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 **Step 2.** Now, tap "Choose" in front of the "App" and select the app you want to lock. Now, move down and select "Is Opened," then move further down to choose "Run Immediately." Here, leave "Notify when Run" deactivated.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
@@ -487,6 +498,10 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone 13 Pro to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
 
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
@@ -500,9 +515,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 3.** Now, you can set up an app lock for iPhone using Restrictions. Simply go to General > Restrictions and turn this feature on for any app of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on restrictions for the app](https://images.wondershare.com/drfone/article/2017/09/15060135059851.jpg)
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
@@ -510,8 +522,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone 13 Pro passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -525,6 +535,10 @@ Remove iPhone iPhone-locked screen without Hassle.
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to Lock Apps on iPhone Using Guided Access?
 
 Besides the Restrictions feature, you can also take the assistance of Guided Access to lock a certain app on your device. It was originally introduced in iOS 6 and can be used to restrict your device temporarily with the usage of a single app. It is mostly used by parents who would like to restrict their kids from using a single app while lending their devices. Teachers and people with special needs also use Guided Access pretty frequently. To learn how to lock apps on iPhone using Guided Access, follow these steps:
@@ -535,27 +549,12 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 **Step 2.** Turn on the “Guided Access” feature and tap on the “Passcode Settings”.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![guided access password](https://images.wondershare.com/drfone/article/2017/09/15060135537597.jpg)
 
 **Step 3.** After selecting the “Set Guided Access Passcode” option, you can set up a passcode to use it as an app lock for iPhone.
 
 **Step 4.** Now, simply launch the app that you want to restrict and tap the Home button three times. This will start the Guided Access mode.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
 
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
@@ -563,6 +562,14 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 6.** To exit the Guided Access mode, tap the Home screen three times and provide the respective passcode.
 
 ![exit guided access](https://images.wondershare.com/drfone/article/2017/09/15060136247710.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to Lock Apps on iPhone with Touch ID?
 
@@ -591,6 +598,10 @@ Get FamiSafe from the App Store and log in using your Wondershare ID or your App
 Now, activate Accessibility for FamiSafe by accessing "Settings," tapping "FamiSafe," and enabling "Location." Then, grant access to the Apple iPhone 13 Pro device's photos, microphone, and motion & fitness activity. Now, use a computer and connect your child's device with a USB cable. Activate content blockers in Safari to prevent kids from accessing inappropriate content.
 
 ![enable the content blockers](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Connect the Kid's Device to the Computer**
 
@@ -660,7 +671,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone 13 Pro without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone 13 Pro in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -673,7 +683,23 @@ By following these solutions, you would be able to learn how to lock apps on the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>[New] 2024 Approved The Battle of Screen Capture Supremacy OBS vs Fraps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-broadcast-battleground-which-wins-obs-or-twitch-for-2024/"><u>[New] Broadcast Battleground Which Wins, OBS or Twitch for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-complete-look-at-hand-recognition-systems/"><u>[Updated] In 2024, A Complete Look at Hand Recognition Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-hilarious-reactions-mastering-youtube-tricks-3-methods/"><u>[Updated] In 2024, Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[Updated] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-playlists-reconfigured-step-by-step-instructions/"><u>2024 Approved YouTube Playlists Reconfigured Step-by-Step Instructions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 Pro when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-6-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 6 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Plus Properly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/nexus-development-summary-pinnacle-studio-audit-2023-for-2024/"><u>Nexus Development Summary Pinnacle Studio Audit, 2023 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/paws-and-play-androids-animal-simulator-choices/"><u>Paws and Play Android’s Animal Simulator Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-11-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 11 Pro i Do? Get Answers here</u></a></li>
+</ul></div>
 

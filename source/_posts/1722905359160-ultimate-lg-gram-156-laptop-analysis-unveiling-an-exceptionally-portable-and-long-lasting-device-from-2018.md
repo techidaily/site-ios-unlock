@@ -1,7 +1,7 @@
 ---
 title: Ultimate LG Gram 15.6 Laptop Analysis - Unveiling an Exceptionally Portable & Long-Lasting Device From 2018
-date: 2024-11-12T18:15:59.387Z
-updated: 2024-11-16T22:31:53.475Z
+date: 2024-11-19T18:01:23.369Z
+updated: 2024-11-26T18:54:16.559Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate LG Gram 15.6 Laptop Analysis - Unveiling an Exceptionally Portable & Long-Lasting Device From 2018
@@ -44,6 +44,10 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/R_aYhYLFGT6--hIRDTNUJTlIVn8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 [View On Amazon $699](https://www.amazon.com/dp/B078WRSHV4/?tag=lifewire-onsite-prod-20&ascsubtag=4779835%7Cnbd1cf0f7690f4c68a44d26c3ec46a2c410%7CB078WRSHV4)
@@ -73,14 +77,11 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/radDS_2IRuzjTlZxUS5og2a3PIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Top_04-b051e3660efc406ab97f92df654d3762.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Amazingly light, but not wholly convincing**
 
@@ -107,10 +108,7 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Just follow the directions**
@@ -145,6 +143,10 @@ Lifewire / Andrew Hayward
 
  You won't see the speakers when the LG Gram is standing up as normal, but you'll hear them loud and clear. The stereo speakers are tucked underneath the laptop at the left and right edges near where your wrists rest, and thanks to the slight elevation from the rubbery feet on the bottom of the laptop, they're given enough space for the output to shine. Audio playback sounds robust and clear—not quite to the level of Apple's current MacBook Air and MacBook Pro, but very close. We were pleased with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network: Connects as expected**
 
  The LG Gram had no problem connecting to a few different networks, including a home Wi-Fi network, the Google Wi-Fi network at Starbucks, and a mobile hotspot. The connection always seemed speedy and downloads ran at a steady clip. Testing it on a home Wi-Fi network during peak evening hours, we saw a download speed of about 30Mbps and an upload speed of 13Mbps. We tested the network on an iPhone XS Max immediately after and saw comparable speeds there, as well. You can connect to both 2.4Ghz and 5Ghz networks with ease.
@@ -156,16 +158,7 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Battery: Seriously amazing**
@@ -177,10 +170,7 @@ Lifewire / Andrew Hayward
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: Hello, Windows (but no Windows Hello)**
@@ -188,13 +178,6 @@ Lifewire / Andrew Hayward
  The LG Gram 15.6-inch comes with Windows 10 Home preinstalled, and if you've used Windows over the years, then you should be pretty comfortable here. Windows 10 has lightly evolved the PC operating system with feature enhancements and tweaks without losing the classic, familiar DNA within, and it's the OS of choice for computer gaming and apps of all shapes and sizes. It's easy to use and understand, and runs well with the Intel Core i5 and an SSD onboard.
 
  Unfortunately, this entry-level model of the LG Gram 15.6-inch isn't able to take advantage of Windows Hello biometric security, as the camera above the display doesn't have the needed sensors for scanning your face. We missed the near-instantaneous facial recognition of the Surface Laptop 2, and having to type in a PIN number each time we opened up the lid. Pricier models of the laptop offer a fingerprint scanner, however.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Solidly priced, considering its strengths**
 
@@ -204,14 +187,11 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/5yzhAkphyYfWOMofqawuktHJlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-v.-Surface-comparison-4946178bf2e94230820d2b19d2fb7197.jpg)
 
- Lifewire / Andrew Hayward
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Andrew Hayward
 
 ## **LG Gram 15.6-inch (2018) vs. Microsoft Surface Laptop 2: Better than Microsoft's own?**
 
@@ -259,22 +239,16 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expert-advice-incorporating-narrative-elements-into-youtube-videos-for-2024/"><u>[Updated] Expert Advice Incorporating Narrative Elements Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/brighten-up-your-visuals-essential-color-correction-tutorials/"><u>Brighten Up Your Visuals Essential Color Correction Tutorials</u></a></li>
-<li><a href="https://article-files.techidaily.com/groups-of-flying-robots/"><u>Groups of Flying Robots</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-se-2022-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone SE (2022) Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 14</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-7-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 7 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nokia-105-classic-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nokia 105 Classic Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-7-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-6s-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 6s Properly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-liberated-chat-experience-on-win/"><u>The Path to a Liberated Chat Experience on Win</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-v30-by-fonelab-android-recover-data/"><u>Undelete lost data from V30</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-se-2020-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone SE (2020)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/keable-video-quality-best-stabilizers/"><u>Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-chroma-key-on-a-budget-top-free-green-screen-apps-for-android-and-ios/"><u>Updated 2024 Approved Chroma Key on a Budget Top Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-creators-uniting-for-marvels-digital-future/"><u>[Updated] 2024 Approved Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-15-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 15 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xs-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XS Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-role-in-redefining-online-presence-the-evolution-of-website-creation-and-maintenance/"><u>AI's Role in Redefining Online Presence: The Evolution of Website Creation and Maintenance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-guide-initiating-your-fresh-laptop-experience-with-5-key-actions/"><u>Beginner's Guide: Initiating Your Fresh Laptop Experience with 5 Key Actions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fully-updated-digiarty-movies-and-dvd-software-now-compatible-with-the-newest-iphone-6splus-ipad-promini-4-sony-xperia-and-samsung-galaxy-models/"><u>Fully Updated Digiarty Movies and DVD Software Now Compatible with the Newest iPhone 6S/Plus, iPad Pro/Mini 4, Sony Xperia, and Samsung Galaxy Models!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-6s-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 6s After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c02-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C02 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nokia G310 | Dr.fone</u></a></li>
 </ul></div>
 

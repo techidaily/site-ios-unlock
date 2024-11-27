@@ -1,7 +1,7 @@
 ---
 title: iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?
-date: 2024-11-10T11:11:45.046Z
-updated: 2024-11-17T09:00:46.428Z
+date: 2024-11-20T17:02:54.030Z
+updated: 2024-11-26T23:18:30.946Z
 tags: 
   - unlock
   - remove screen lock
@@ -60,18 +60,15 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Once everything has been confirmed and you’re happy to continue, press the Unlock option. The program will do its thing, and when it’s done, the software will say you’re able to disconnect your Apple iPhone 8 and use it without a lock screen!
 
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -87,13 +84,6 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.4 Restore in recovery mode
 
 In some cases, restoring your device using just iTunes will not be good enough, and it won’t have the effect you’re looking for; in this case, restoring your device with no lock screen after an iOS 17/14 update.
@@ -105,13 +95,6 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 **Step 1.** Press and hold the volume up button for about one second, and then switch and press the Volume Down button for the same amount of time. You can then hold the side button (on devices without a home button), and the following screen should appear after a few seconds.
 
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Now connect your Apple iPhone 8 to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
 
@@ -148,19 +131,6 @@ Did you go wrong when you set the Face ID the first time? Or are you tired to pu
 ## Part I: What is Face ID?
 
 ![face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the new Apple iPhone 8 is your first-ever iPhone, or if you have neither upgraded your Apple iPhone 8 from the 6/7/8 series nor have kept abreast with the happenings in the Apple world, you might wonder what this newfangled thing called Face ID is.
 
@@ -220,19 +190,6 @@ Step 5: When paying at retail outlets, hold your Apple iPhone 8 (top being close
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone 8, and wait for the Done message and checkmark to finish the process.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
@@ -260,10 +217,7 @@ Step 2: Now, when you use Safari to open a website that requires a login, tappin
 Step 3: Look at your Apple iPhone 8 to authenticate yourself with Face ID and Safari will autofill the credentials for you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### II.V Animojis and Memojis
@@ -306,6 +260,10 @@ Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Appl
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 8
 
 Sometimes, you may just want to disable Face ID temporarily or the issue gets solved, and want to activate Face ID again. Setting up a Face ID on your Apple iPhone 8 13 is easy. To set up Face ID, sit in a comfortable spot with adequate lighting and follow these steps:
@@ -326,9 +284,17 @@ In case you are getting the following error:
 
 ![face id error](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are a few things you can try to resolve this, you can try to update your Apple iPhone 8 13/12/11 to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
 
 If this does not resolve it, you need to take the Apple iPhone 8 device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part V: The Bottom Line
 
@@ -343,13 +309,14 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,395,217** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes
@@ -393,10 +360,7 @@ After your Apple iPhone 8 is in recovery mode, you need to select the appropriat
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step #5: Reset your Apple iPhone 8:**
@@ -408,6 +372,10 @@ Your locked iPhone has now been successfully unlocked without iTunes after the r
 The process will take a few minutes if you have a strong internet connection because the Firmware may take some time to download. So be patient and wait for the process to be completed.
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
@@ -438,6 +406,10 @@ Now that your device has been erased, you can reset it as a new one.
 This is another method you can use if you have the " Find My iPhone " feature on your device. You can use this method to remotely factory reset your locked iPhone without iTunes by using another iOS device.
 
 ![the find my iphone on another device](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To do this, you need to follow these steps:
 
@@ -525,22 +497,17 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-make-youtube-video-the-ultimate-guide/"><u>[New] In 2024, How to Make YouTube Video The Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-checklist-for-professional-live-streaming/"><u>[New] The Ultimate Checklist for Professional Live Streaming</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-anti-fog-strategies-optimal-gopro-video-quality/"><u>[Updated] 2024 Approved Anti-Fog Strategies Optimal GoPro Video Quality</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximize-views-the-art-of-timestamp-integration-on-youtube-for-2024/"><u>[Updated] Maximize Views The Art of Timestamp Integration on YouTube for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-7-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 7 in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-13-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 13 Pro Max After Forgetting the Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-15-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 15 Pro Max In Different Conditionsin</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-s23-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel S23 Fingerprint Lock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE Passcode without a Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-6-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 6 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 Pro Properly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/multitask-media-magic-harnessing-netflixs-picture-in-picture-feature-for-2024/"><u>Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-essential-tutorial-convert-strings-with-base64-in-the-linux-environment/"><u>The Essential Tutorial: Convert Strings with Base64 in the Linux Environment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-building-a-powerhouse-computer-by-toms-hardware/"><u>The Ultimate Guide to Building a Powerhouse Computer by Tom's Hardware</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-vanguard-virtual-venture-voice/"><u>[Updated] Vanguard Virtual Venture Voice</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-video-venture-a-vloggers-journey-to-judicious-gains/"><u>2024 Approved The Video Venture A Vlogger's Journey to Judicious Gains</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-uninterrupted-youtube-how-to-block-ads-in-popular-browsers/"><u>2024 Approved Uninterrupted YouTube How to Block Ads in Popular Browsers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/buying-powerful-plr-content-made-easy-where-why-and-how-using-massmail-solutions/"><u>Buying Powerful PLR Content Made Easy – Where, Why, and How Using MassMail Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-analysis-top-picks-of-the-best-5-slow-motion-cams/"><u>Expert Analysis Top Picks of the Best 5 Slow Motion Cams</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-6s-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 6s Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/les-meilleures-solutions-de-transcodage-video-gratuites-and-open-source-pour-windows-et-macos-en-2021/"><u>Les Meilleures Solutions De Transcodage Vidéo Gratuites & Open Source Pour Windows Et macOS en 2021</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-maximize-your-storage-tips-and-tricks-for-liberating-space-for-fcpx-for-2024/"><u>New Maximize Your Storage Tips and Tricks for Liberating Space for FCPX for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/strategies-for-rectifying-distorted-video-files/"><u>Strategies for Rectifying Distorted Video Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare The Solution for the Infamous Memory Error Code 12707
-date: 2024-11-10T04:24:25.821Z
-updated: 2024-11-16T16:40:13.358Z
+date: 2024-11-22T16:13:06.516Z
+updated: 2024-11-26T17:30:56.708Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 **_Terraria_** keeps crashing on startup, or it constantly closes to the desktop in the middle of the game? You’re not alone. Many players are reporting it.
 
  But don’t worry. Here is a general guide for resolving_Terraria_ crashing issues. You may not have to try them all; just work your way down the list until you find the one that works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -57,9 +61,17 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
@@ -85,13 +97,6 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -100,6 +105,10 @@ If this didn’t help in resolving your problem, try the fix below.
 **4)** Relaunch your game to test your issue.
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
 
@@ -111,26 +120,21 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click**Terraria** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-251.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Relaunch your game to see if your problem has been resolved.
 
@@ -143,6 +147,10 @@ If not, try the next fix.
 **1)** Right-click the **Terraria icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -176,10 +184,7 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click**DELETE** .
@@ -196,13 +201,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -210,13 +208,6 @@ If this didn’t work for you, check the fix, below.
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -226,6 +217,10 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
@@ -233,13 +228,6 @@ If this didn’t work for you, check the fix, below.
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -250,22 +238,12 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -292,18 +270,15 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-7-exceptional-drone-gimbals-unveiled/"><u>[New] In 2024, 7 Exceptional Drone Gimbals Unveiled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-7-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 7 Plus in Lost Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/advantages-disadvantages-in-portable-games/"><u>Advantages, Disadvantages in Portable Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-your-personalized-ai-steps-to-build-a-tailored-chatgpt/"><u>Crafting Your Personalized AI: Steps to Build a Tailored ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-like-a-pro-66-twitter-accounts-for-insider-travel-bargains-suggestions-and-epic-adventures/"><u>Explore Like a Pro: 66 Twitter Accounts for Insider Travel Bargains, Suggestions & Epic Adventures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuito-online-convertidor-de-archivos-aif-a-m4a-con-movavi-version-gratuita/"><u>Gratuito Online: Convertidor De Archivos AIF a M4A Con Movavi - Versión Gratuita</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/herocam-pro-mastering-advanced-features-for-2024/"><u>HeroCam Pro Mastering Advanced Features for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-magic-v2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor Magic V2 Activity | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-6s-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 6s With 7 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-6-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 6 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Pro Properly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/la-solution-definitive-pour-gerer-des-fichiers-vob-top-5-lecteurs-compatibles-avec-windows-et-mac-explique/"><u>La Solution Définitive Pour Gérer Des Fichiers VOB : Top 5 Lecteurs Compatibles Avec Windows Et Mac, Expliqué!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023s-ultimate-toolwiz-photo-suite-analysis/"><u>2023'S Ultimate Toolwiz Photo Suite Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-pop-8-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/geen-kosten-converteren-van-mov-naar-avi-formaat-online-met-convertmovtoavi/"><u>Geen Kosten! Converteren Van MOV Naar Avi Formaat Online Met ConvertMOVtoAVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-improve-your-iphone-or-ipad-camera/"><u>How to Improve Your iPhone or iPad Camera</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-14-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 14 Without a Home Button</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>Masterful Selection 8 Top Free 3D Video Players Windows & Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/watching-hd-mkv-files-on-your-apple-tv-a-guide-to-direct-playback-and-easy-conversion-methods/"><u>Watching HD MKV Files on Your Apple TV: A Guide to Direct Playback & Easy Conversion Methods</u></a></li>
 </ul></div>
 

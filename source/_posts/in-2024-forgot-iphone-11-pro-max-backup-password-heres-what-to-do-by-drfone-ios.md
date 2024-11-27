@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 11 Pro Max Backup Password? Heres What to Do
-date: 2024-10-30T19:03:38.714Z
-updated: 2024-11-07T02:25:14.060Z
+date: 2024-11-20T20:34:04.983Z
+updated: 2024-11-26T22:19:04.989Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ Forgetting your Apple iPhone 11 Pro Max backup password can be a real pain. Not 
 There are still chances that you could forget your Apple iPhone 11 Pro Max backup password. Fortunately, you have a chance to recover your password. So, if you're having trouble remembering your Apple iPhone 11 Pro Max backup password, don't despair. There are still ways to get it back!
 
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Overview of iPhone Backup Password
 
@@ -78,24 +82,25 @@ To begin, go to the **Settings** app on your iOS device, then choose **General**
 
 ![reset](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may now go to **Reset All Settings** and confirm by entering the security passcode when prompted. Then, your phone will automatically go through the process of resetting and returning to its default settings.
 
 You can also get rid of the password for the last backup without deleting any other apps or data.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Use a USB cable to link your Apple iPhone 11 Pro Max to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Find your password in the macOS keychain
 
@@ -106,6 +111,14 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 11 Pro Max backup will be shown.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
 
@@ -143,6 +156,10 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
@@ -150,13 +167,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -169,13 +179,6 @@ Here are three tricks to help you keep track of your passwords so you don't have
 You can turn on **AutoFill** in the **Settings** app. This will allow your Apple iPhone 11 Pro Max to fill in passwords when you visit websites and apps automatically. All you need to do is ensure you've entered the correct username and password once, and your Apple iPhone 11 Pro Max will save the information, so you don't have to enter it again.
 
 ![autofill](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Try iCloud Keychain to keep your passwords
 
@@ -232,10 +235,7 @@ These are some of the common causes that can trigger the **random Apple ID verif
 ![Apple ID pop up on iPhone](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 2: Solutions To Stop iPhone Randomly Asking for Apple ID Password**
@@ -270,18 +270,15 @@ In the next window, select the option to Remove Apple ID to initiate the process
 
 ![Choose Remove Apple ID on Dr.Fone](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Connect Your Device
 
 Link up your iOS device to the computer using a USB cable. The software will display the connectivity status on the next screen. Click the Unlock Now button to proceed.
 
 ![Connect the Apple iPhone 11 Pro Max device to your computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Confirm Screen Lock and Two-Factor Authentication
 
@@ -330,13 +327,6 @@ Verify and complete any pending app purchases or downloads from the App Store or
 Turning off iCloud Keychain and then turning it back on can help refresh the data and resolve any syncing issues. Go to Settings > \[Your Name\] > iCloud > Keychain > Toggle off and on.
 
 ![Disable your iCloud keychain](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Method 7: Check Network Connectivity**
 
@@ -397,13 +387,6 @@ Face ID is not a new and advanced version of Touch ID, but a completely differen
 ## Part II: What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your Apple iPhone 11 Pro Max 13/12/11 with Face ID:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.I Unlock Your Apple iPhone 11 Pro Max
 
@@ -503,13 +486,6 @@ Step 4: When done, the Record button changes to Send:
 
 Tap Send to send your first Memoji/ Animoji.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part III: How to Remove Face ID on Apple iPhone 11 Pro Max
 
 For all the hardware and software that make for a great experience for nearly all users around the world, Face ID can have its fair share of issues. Sometimes, your face might not get recognized, sometimes it might not work altogether.
@@ -525,6 +501,10 @@ Step 1: Go to Settings > Face ID and Passcode.
 Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Apple iPhone 11 Pro Max 13/12/11.
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 11 Pro Max
 
@@ -545,6 +525,10 @@ Step 5: When done, tap Done.
 In case you are getting the following error:
 
 ![face id error](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are a few things you can try to resolve this, you can try to update your Apple iPhone 11 Pro Max 13/12/11 to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
 
@@ -579,16 +563,20 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cost-effective-video-capture-for-less-expensive-systems/"><u>[Updated] In 2024, Cost-Effective Video Capture for Less Expensive Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-best-mac-methods-for-recording-roblox-games/"><u>[Updated] Unveiling Best Mac Methods for Recording Roblox Games</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-14-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 14 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://article-posts.techidaily.com/elevate-visual-experience-with-apple-music-inclusion/"><u>Elevate Visual Experience with Apple Music Inclusion</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Plus Without iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-se-2020-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone SE (2020) Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Without Passcode?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/pinpointing-phone-replacement-intervals/"><u>Pinpointing Phone Replacement Intervals</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/redefine-your-sonic-world-with-sony-ps4ps5/"><u>Redefine Your Sonic World with Sony PS4/PS5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-universal-adb-driver-availability-here/"><u>Seamless Universal ADB Driver Availability Here</u></a></li>
-<li><a href="https://driver-install.techidaily.com/wacom-bamboo-quick-firmware-upgrade-steps/"><u>Wacom Bamboo: Quick Firmware Upgrade Steps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/2-free-youtube-thumbnail-makers-to-make-your-own-video-thumbnail/"><u>[New] 12 FREE YouTube Thumbnail Makers to Make Your Own Video Thumbnail</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-seamlesssoundcast-the-essential-steps-for-a-smooth-live-podcast-broadcast/"><u>[Updated] In 2024, SeamlessSoundCast The Essential Steps for a Smooth Live Podcast Broadcast</u></a></li>
+<li><a href="https://win-help.techidaily.com/como-vuelve-a-colocar-un-archivio-en-su-computadora-despues-de-vaciar-el-bote-de-reciclaje/"><u>Cómo Vuelve a Colocar Un Archivio en Su Computadora Después De Vaciar El Bote De Reciclaje</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visual-dynamics-illustrator-motion-blur-tips-for-2024/"><u>Crafting Visual Dynamics Illustrator Motion Blur Tips for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-avi-images-to-graphics-a-complete-filmora-walkthrough/"><u>From AVI Images to Graphics A Complete Filmora Walkthrough</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-get-the-latest-drivers-for-your-brother-mfc-7/"><u>How to Easily Get the Latest Drivers for Your Brother MFC-7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6s-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone XR Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-14-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 14 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-telegram-for-newcomers-how-to-make-your-advertising-stand-out/"><u>In 2024, Telegram for Newcomers How to Make Your Advertising Stand Out</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-by-drfone-ios/"><u>Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-foundation-defining-electronic-storytelling-for-2024/"><u>The Foundation Defining Electronic Storytelling for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-se-2022-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone SE (2022) Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
 

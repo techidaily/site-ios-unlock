@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Your CS: GO Game's Failure to Start"
-date: 2024-11-15T19:30:49.301Z
-updated: 2024-11-17T08:12:43.114Z
+date: 2024-11-24T01:56:28.636Z
+updated: 2024-11-27T01:28:40.845Z
 tags:
   - win11
   - win10
@@ -30,6 +30,14 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -44,16 +52,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
 
@@ -67,19 +72,6 @@ If this doesn’t do the trick, try the next fix below.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. In addition, having too many programs, especially those memory-hogging programs running in the background can eat up the system resources, causing unexpected issues.
@@ -92,16 +84,13 @@ If this doesn’t do the trick, try the next fix below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
@@ -126,13 +115,6 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
@@ -142,6 +124,10 @@ If this doesn’t do the trick, try the next fix below.
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to update your graphics driver
 
@@ -157,6 +143,10 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
@@ -178,27 +168,17 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -211,13 +191,6 @@ If this doesn’t do the trick, try the next fix below.
 3. If it detects any issues on your PC, click**Start Repair** to let it start the repairing process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
@@ -240,19 +213,18 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-6-best-4k-full-frame-camera/"><u>[New] 2024 Approved Top 6 Best 4K Full Frame Camera</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-gaming-revolution-top-5-android-solutions-for-playstation-2-titles-for-2024/"><u>[New] Gaming Revolution Top 5 Android Solutions for PlayStation 2 Titles for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-compact-video-summary-key-insights-unveiled/"><u>[New] In 2024, Compact Video Summary Key Insights Unveiled</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-securing-conversation-logs-how-to-store-mb-chats-and-calls-safely/"><u>[Updated] In 2024, Securing Conversation Logs How to Store MB Chats and Calls Safely</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/bitevideo-innovator/"><u>BiteVideo Innovator</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-for-msedgeexe-program-failures-on-your-computer-system/"><u>Comprehensive Solutions for MsEdge.exe Program Failures on Your Computer System</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-13-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 13 Pro Max Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6? Learn All 4 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-13-mini-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 13 mini Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-15-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 15 Pro Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X, Apples New iPhone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/infusing-energy-into-video-summaries-neon-thumbnail-edges/"><u>Infusing Energy Into Video Summaries Neon Thumbnail Edges</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-and-effective-mac-hd-configuration-learn-from-us/"><u>Quick & Effective Mac HD Configuration – Learn From Us!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-15-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 15 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-7-best-budget-friendly-dvd-players-for-computers-for-2024/"><u>[New] 7 Best Budget-Friendly DVD Players for Computers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>[New] In 2024, Profit From YouTube Monetize YouTube Shorts and Boost Your Income</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-8-drawing-apps-for-ipados/"><u>2024 Approved Top 8 Drawing Apps for iPadOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-picks-no-charging-high-definition-video-players-for-pcmacos-for-2024/"><u>Best Picks No-Charging, High Definition Video Players for PC/MacOS for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-15-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 15 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Without Passcode?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lightrooms-most-wanted-grading-aids-the-best-10-luts-listed-here/"><u>In 2024, LightRoom's Most Wanted Grading Aids – The Best 10 LUTs Listed Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-6s-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 6s Properly</u></a></li>
+<li><a href="https://win-great.techidaily.com/losungen-zur-wiederherstellung-von-defekten-transcend-sd-speicherkarten-ein-umfassender-leitfaden/"><u>Lösungen Zur Wiederherstellung Von Defekten Transcend SD-Speicherkarten: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-portable-hard-drives-a-comprehensive-guide/"><u>Top-Ranking Portable Hard Drives : A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-x-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone X Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
 

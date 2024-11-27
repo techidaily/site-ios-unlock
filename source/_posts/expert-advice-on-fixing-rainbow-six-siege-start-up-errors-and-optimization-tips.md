@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing Rainbow Six Siege Start-Up Errors and Optimization Tips
-date: 2024-11-13T01:14:02.512Z
-updated: 2024-11-16T23:03:10.210Z
+date: 2024-11-20T18:20:05.197Z
+updated: 2024-11-26T23:25:39.231Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 Connection issues can happen in every online game and bother many players. The League of Legends sometimes also occurs this issue. Don’t worry, you’re not alone. Here are the fixes for League of Legends connection issues.
 
  Before performing any troubleshooting methods, you’d better check the current status of the League of Legends servers. If the server you’re going to connect has a problem, you can simply change into another server to avoid the connection issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -43,6 +47,10 @@ Connection issues can happen in every online game and bother many players. The L
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
 5. Now that your routers and modem have been restarted properly, you can launch LOL again to see if the connection issue goes away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Switch Wi-Fi into a wired connection
 
  If you’ve already avoided possible wireless interference that weakens your Wi-Fi signal such as cordless phones and microwave ovens or simply move your laptop to a new location with a stronger Wi-Fi signal, but you still have the connection issue, you can try switch Wi-Fi into a wired connection.
@@ -58,8 +66,16 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
@@ -69,13 +85,6 @@ Connection issues can happen in every online game and bother many players. The L
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Disable antivirus software
 
@@ -100,21 +109,11 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -132,35 +131,14 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network.jpg)
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Launch LOL and check the connection issue.
 
  Don’t lose your hope if you still cannot fix the connection issue after trying all the methods above. Just read the next fix and give it a shot.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 7: Change your DNS server
 
@@ -174,20 +152,25 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
@@ -217,24 +200,24 @@ Connection issues can happen in every online game and bother many players. The L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-finding-the-perfect-recorders-outside-microsofts-ecosystem-for-2024/"><u>[Updated] Finding the Perfect Recorders Outside Microsoft's Ecosystem for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-top-5-pro-drone-selections-for-professionals/"><u>[Updated] Top 5 Pro Drone Selections for Professionals</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elite-listings-easy-purchases-of-startup-youtube-revenue-streams/"><u>Elite Listings Easy Purchases of Startup YouTube Revenue Streams</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-on-the-superior-features-of-samsung-galaxy-tab-s3-for-android-aficionados/"><u>Expert Analysis on the Superior Features of Samsung Galaxy Tab S^3 for Android Aficionados</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-get-your-realtek-mic-up-and-running-again/"><u>Fixing Issues: How To Get Your Realtek Mic Up And Running Again</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-6-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 6 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-vivo-y100-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y100 5G Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone XR with a Mask On</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 with a Mask On</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-installation-windows-cab-files-unpacked-and-utilized/"><u>Initiating Installation: Windows CAB Files Unpacked and Utilized</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-gopro-selection-a-comparative-review-for-2024/"><u>Mastering Gopro Selection A Comparative Review for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-get-your-audio-fix-10-webm-to-mp3-converters-you-can-trust-for-2024/"><u>New Get Your Audio Fix 10 WebM to MP3 Converters You Can Trust for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-12-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 12 Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-xs-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone XS Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-concurrently-updating-windows-10-to-version-2004-with-essential-conexant-drivers/"><u>Step-by-Step Guide: Concurrently Updating Windows 10 to Version 2004 with Essential Conexant Drivers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-8-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 8 i Do? Get Answers here</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift/"><u>[New] In 2024, How to Prepare Your Room and VR-Ready PC for Oculus Rift</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-minipic-snapshot-scrutiny-plus-diverse-apps/"><u>[Updated] 2024 Approved MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-your-profit-with-these-top-10-simplified-youtube-business-channels-for-2024/"><u>[Updated] Elevate Your Profit with These Top 10 Simplified YouTube Business Channels for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-aggregated-insights-on-10-superior-video-call-apps/"><u>[Updated] In 2024, Aggregated Insights on 10 Superior Video Call Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-14-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 14 Plus in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-8-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 8 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-8-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 8 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-xs-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone XS Max? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone X Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-mini-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 mini Without iTunes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-11f-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 11F 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-13-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 13? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-12-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 12 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lenovo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lenovo Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mp4-video-editor-for-pc-seamless-editing-on-windows-8/"><u>New In 2024, MP4 Video Editor for PC Seamless Editing on Windows 8</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-xiaomi-13-ultra-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Xiaomi 13 Ultra</u></a></li>
 </ul></div>
 

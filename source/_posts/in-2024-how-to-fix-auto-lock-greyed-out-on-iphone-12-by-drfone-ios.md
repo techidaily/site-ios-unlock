@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12
-date: 2024-11-16T00:51:19.586Z
-updated: 2024-11-17T06:42:17.797Z
+date: 2024-11-22T22:32:31.075Z
+updated: 2024-11-26T16:33:27.122Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,6 +55,10 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
@@ -172,6 +176,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 12 or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -189,23 +197,7 @@ Yet, worry not, for reliable methods exist to address this problem efficiently. 
 ![fix iphone unavailable](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. iPhone is Unavailable: Explaining the Basics
@@ -254,6 +246,10 @@ After ensuring the iOS firmware is downloaded and validated, you're ready to pro
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock iPhone Unavailable Using Find My
 
 When encountering the Apple iPhone 12 Unavailable issue, a method to regain access is Apple's Find My feature. This method allows users to erase their device remotely and set it up again. Nevertheless, it's important to emphasize that this procedure will delete all information on the Apple iPhone 12 device while unlocking it. Below is a detailed, step-by-step guide on unlocking your Apple iPhone 12 Unavailable using Find My:
@@ -265,6 +261,10 @@ When encountering the Apple iPhone 12 Unavailable issue, a method to regain acce
 - **Step 2.** On the following screen, select the unavailable iPhone from the "All Devices” section on the left side. Once you access the Apple iPhone 12 device options, tap the "Erase this Device" option. Afterward, follow the on-screen prompts to erase the Apple iPhone 12 device completely.
 
 ![erase device via icloud website](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How To Unlock iPhone Unavailable Using Erase iPhone Feature
 
@@ -287,6 +287,10 @@ Moreover, it will result in deleting all data on the locked device. These are th
 - **Step 1.** Access the Find My app on your reliable iOS device and log in with your Apple ID details. Within the Find My interface, expand the "Devices" tab from the bottom side of the screen.
 
 ![access devices on find my app](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Within "Devices," locate and select the "Unavailable" iPhone from the list of devices. Once you have selected the Apple iPhone 12 device, choose "Erase This Device" from the available options after scrolling down.
 
@@ -314,13 +318,6 @@ Consider utilizing iTunes as a solution for the "iPhone Unavailable" issue. It i
 ## Conclusion
 
 In conclusion, several helpful methods exist for **how to unlock unavailable iPhone**. Various techniques offer solutions, including iTunes, Find My, and other device removal methods. Dr.Fone distinguishes itself as the most effective choice. This is due to its user-friendly interface and capability to bypass the lock, making it the optimal solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disabling Apple iPhone 12 Parental Restrictions With/Without Password
 
@@ -368,16 +365,13 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![access content privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Now, switch the slider next to "Content & Privacy Restrictions" to turn it off. It will disable all parental control on the targeted device. However, before it disables, the Apple iPhone 12 will prompt for the Screen Time passcode, which needs to be added.
 
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 2. By Resetting the Entire iPhone
 
@@ -387,22 +381,12 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![navigate to transfer and reset option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** From the available options, after tapping "Reset," choose "Reset All Settings." You will be asked to provide the passcode to successfully reset your Apple iPhone 12 and disable parental control settings.
 
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
@@ -410,10 +394,7 @@ Accessing Screen Time settings allows you to manage and disable parental control
 Disabling parental controls on an iPhone is still possible, even without the password. Below, we explore two methods that can be used to bypass parental controls without requiring a password.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1. Wondershare Dr.Fone - Screen Unlock (iOS)
@@ -444,6 +425,10 @@ Upon connecting the Apple iPhone 12 device, the platform will detect the iDevice
 
 ![unlock device with on screen instructions](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Complete Screen Time Passcode Removal Process**
 
 Upon completion, confirm by clicking “OK” on the computer screen. The progress bar on the screen indicates the progress of unlocking the screen time passcode process. When the Apple iPhone 12 device is unlocked, the platform will present a confirmation message. To conclude the entire process, click on the "Done" button.
@@ -461,13 +446,6 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 - **Step 2.** Afterward, initiate the Apple iPhone 12 restoration by selecting "Restore iPhone." A menu box will appear, asking you to create a "Back Up" or not. Choose the preferred option, and another dialog box will appear, alerting you about the deletion of all content and settings on your Apple iPhone 12. You should proceed by clicking "Restore" to confirm. Then, follow the on-screen instructions to finalize the process.
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -489,18 +467,18 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mycam-recorder-unveiled-an-expert-review/"><u>[New] 2024 Approved MyCam Recorder Unveiled An Expert Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-no-8-visionary-photomontage-creator-app/"><u>[New] In 2024, The No. 8 Visionary Photomontage Creator App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-efficient-techniques-to-change-songs-playback-rate-on-spotify/"><u>[Updated] Efficient Techniques to Change Songs' Playback Rate on Spotify</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/correct-iosandroid-video-failures-on-fb/"><u>Correct iOS/Android Video Failures on FB</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-gt-5-by-drfone-android/"><u>How to Bypass FRP on Realme GT 5?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Pro Max Lock Screen with Notifications?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 with/without SIM Card</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-7-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 7 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-date-insertion-into-photo-editing/"><u>In 2024, Seamless Date Insertion Into Photo Editing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-video-mosaics-inserting-chapters-for-clarity/"><u>[New] In 2024, Vimeo's Video Mosaics Inserting Chapters for Clarity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-echoes-of-entertainment-discovering-6-free-android-apps-for-your-youtube-playlists/"><u>[Updated] 2024 Approved Echoes of Entertainment Discovering 6 Free Android Apps for Your YouTube Playlists</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-360-video-making-with-ios-devices/"><u>2024 Approved Mastering 360 Video Making with iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-through-exit-not-found-a-windows-fix-guide/"><u>Easing Through Exit Not Found: A Windows Fix Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-sony-xperia-5-v-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Sony Xperia 5 V to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-se-2022-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 12 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-sony-xperia-5-v-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Sony Xperia 5 V to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-11-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 11 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-checkbox-counting-in-ms-excel-worksheets/"><u>Mastering the Art of Checkbox Counting in MS Excel Worksheets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Prevention & Solution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-essential-guide-to-radiant-android-videos-for-2024/"><u>The Essential Guide to Radiant Android Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-ultimate-chromebook-savings-during-the-holidays-see-our-top-picks-from-zdnet/"><u>Unlock the Ultimate Chromebook Savings During the Holidays – See Our Top Picks From ZDNet</u></a></li>
 </ul></div>
 

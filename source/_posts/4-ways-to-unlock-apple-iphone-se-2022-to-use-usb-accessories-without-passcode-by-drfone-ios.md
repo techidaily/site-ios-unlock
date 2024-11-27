@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Unlock Apple iPhone SE (2022) to Use USB Accessories Without Passcode
-date: 2024-07-15T02:06:51.732Z
-updated: 2024-07-16T02:06:51.732Z
+date: 2024-11-23T19:51:39.602Z
+updated: 2024-11-26T19:53:59.616Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ _How do I unlock my Apple iPhone SE (2022)? I know you're supposed to connect it
 
 You may have had the experience of connecting your Apple iPhone SE (2022) to a computer with USB accessories. Usually, "**Unlock Apple iPhone SE (2022) to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why You Need to "Unlock Apple iPhone SE (2022) to Use Accessories"?
 
 The command comes from Apple’s significant privacy safeguard **“USB Restricted Mode”**. It means after an hour of your iOS device is unlocked, the system cuts off the lightning port and limits it to charging only. Simply put, when your Apple iPhone SE (2022) is locked for more than an hour, it needs to be unlocked to allow the connection of USB accessories. Sometimes, when you unlock your Apple iPhone SE (2022) screen to use USB accessories, it can’t charge anymore.
@@ -41,6 +45,10 @@ After completing all the steps, your Apple iPhone SE (2022) can connect USB acce
 
 ![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Unlock Apple iPhone SE (2022) to Use USB Accessories without Passcode via Dr.Fone?
 
 Now, here comes an amazing App with many benefits to solving the problem for you.  This is Dr.Fone-Screen Unlock, which is very convenient and fast to use. You must be curious about it. More of its advantages will be introduced to you.
@@ -55,14 +63,15 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step 2:** Connect your Apple iPhone SE (2022) to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
 ![start to remove iphone lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Follow the guides to boot your device in Recovery or DFU mode. The Recovery mode is recommended for iOS lock screen removal by default. If you fail to turn on recovery mode, you can turn to activate DFU mode. DFU means Device Firmware Upgrade, and the operation is more mandatory.
 
@@ -82,7 +91,6 @@ There is no doubt that you may worry about losing all your data while bypassing 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
-
 ## Part 4: How to Unlock Apple iPhone SE (2022) to Use USB Accessories without Passcode via iCloud?
 
 With iCloud, you can quickly clean up your Apple iPhone SE (2022), remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone SE (2022) has the "Find My iPhone" function enabled, otherwise your device will be offline.
@@ -91,9 +99,17 @@ With iCloud, you can quickly clean up your Apple iPhone SE (2022), remove screen
 
 ![find-my-iphone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/find-my-iphone.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Click on “All Devices”, choose your Apple iPhone SE (2022), and then “Erase iPhone”.
 
 ![icloud-erase-phone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/icloud-erase-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, your Apple iPhone SE (2022) will reboot without a passcode. Then, you can unlock Apple iPhone SE (2022) to use accessories and bypass the passcode.
 
@@ -124,9 +140,6 @@ If you have forgotten your Apple ID or password and have not synced iCloud and i
 
 2\. Quickly press and hold the button while connecting your phone and computer until the recovery mode appears.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/recovery-mode.png)
 
 **Step 4:** Find your tool in iTunes on the computer. Choose Restore and this process will take a few minutes.
@@ -199,9 +212,6 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -215,6 +225,10 @@ These are the steps for registering a new Apple ID:
 **Tip:** Choose an email that's easy to remember and access.
 
 ![create your apple id step 1](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
 
@@ -256,6 +270,10 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -273,7 +291,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
@@ -283,15 +300,16 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![set up screen lock](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Check if **Two-Factor Authentication** is set up on all your iOS devices. If not, switch it on before confirming your decision to unlock your Apple ID.
 
 ![confirm two-factor authentication](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
 - **Step 6:** After you have confirmed these settings, you will be taken to a screen with on-screen instructions for entering **Recovery Mode** on your iDevice. If the steps for your specific iOS device don't work, try tapping **Try DFU Mode** in the app's bottom left corner. To continue with the unlocking process, this will [<u>launch the DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![try dfu mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone SE (2022) device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
@@ -317,11 +335,13 @@ Should you encounter any challenges while managing your Apple ID, such as removi
 
 Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -341,6 +361,10 @@ To learn how to erase iPhone when locked, follow these steps:
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone SE (2022) to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2. Click Start button.**
 
@@ -362,14 +386,6 @@ After putting your device into the DFU mode, the application will automatically 
 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
 
 **Step 5. Start to unlock.**
@@ -426,9 +442,6 @@ Confirm your choice and wipe locked iPhone remotely using the Find My iPhone fea
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -441,7 +454,20 @@ After following this informative guide, you would learn how to wipe a locked iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-a-comprehensive-guide-to-snapchats-highlight-system-for-2024/"><u>[New] A Comprehensive Guide to Snapchat's Highlight System for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instaidentity-100-innovative-caption-examples-for-global-sharing-for-2024/"><u>[New] InstaIdentity 100 Innovative Caption Examples for Global Sharing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-command-center-masterminding-visionary-content/"><u>[Updated] 2024 Approved Channel Command Center Masterminding Visionary Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtube-video-production-tools/"><u>2024 Approved Navigating YouTube Video Production Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>2024 Approved Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-se-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone SE Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-screen-recorder-for-chrome-devices-for-2024/"><u>Best Screen Recorder for Chrome Devices for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-mini-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-convenient-methods-for-macbook-pros-video-recording/"><u>In 2024, Convenient Methods for MacBook Pro's Video Recording</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y78 5G | Dr.fone</u></a></li>
+</ul></div>
 

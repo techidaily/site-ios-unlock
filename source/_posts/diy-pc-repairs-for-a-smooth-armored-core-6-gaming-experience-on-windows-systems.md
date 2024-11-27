@@ -1,7 +1,7 @@
 ---
 title: DIY PC Repairs for a Smooth Armored Core 6 Gaming Experience on Windows Systems
-date: 2024-11-16T02:26:22.528Z
-updated: 2024-11-17T01:12:21.903Z
+date: 2024-11-19T22:05:47.633Z
+updated: 2024-11-26T22:29:01.660Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -42,25 +46,15 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -74,27 +68,21 @@ If this doesn’t help, you can take a look at the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -104,6 +92,10 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -112,13 +104,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
 If this solution doesn’t help, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Perform a clean boot
 
  Given we all have different desktop environments, the cause of the issue could be**interfering programs** . If you’re not sure, do a clean boot to rule out this possibility.
@@ -126,13 +111,6 @@ If this solution doesn’t help, you can continue to the next one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
@@ -146,9 +124,17 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
 
@@ -159,13 +145,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 2. Open the installer and follow the on-screen instructions to install.
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
@@ -194,20 +173,16 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-harmony-hub-next-gen-unveiled/"><u>[New] Harmony Hub Next Gen Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-walk-of-shadows-a-comprehensive-list-of-intense-zombie-games/"><u>[New] In 2024, Walk of Shadows A Comprehensive List of Intense Zombie Games</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-x-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone X to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-se-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone SE and iPad Securely</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-fix-for-neros-elusive-advrcntr2dll-error-message/"><u>A Step-by-Step Fix for Nero's Elusive Advrcntr2.dll Error Message</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a14-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A14 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-asus-rog-phone-7-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-micro-videos-in-the-spotlight-who-wins-youtube-shorts-or-tiktok/"><u>In 2024, Micro-Videos in the Spotlight Who Wins, YouTube Shorts or TikTok?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-8-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 8 Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-fixing-obss-full-screen-freeze-up/"><u>[New] 2024 Approved Fixing OBS's Full-Screen Freeze Up</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-easy-extraction-of-social-media-videos-with-chrome-plugs-for-2024/"><u>[New] Easy Extraction of Social Media Videos with Chrome Plugs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-storytelling-in-cinema-from-idea-to-actuality/"><u>[Updated] 2024 Approved Storytelling in Cinema From Idea to Actuality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-xr-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone XR with a Broken Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-se-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone SE Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>In 2024, Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6s-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6s Prevention & Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-best-epub-reading-software-compatible-with-apple-computers/"><u>Ultimate List of the Best ePUB Reading Software Compatible with Apple Computers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-facebooks-micro-video-blueprint/"><u>Unveiling Facebook's Micro-Video Blueprint</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Your Disabled iPhone 11 Without iTunes in 5 Ways
-date: 2024-11-16T00:12:23.394Z
-updated: 2024-11-16T20:46:35.588Z
+date: 2024-11-19T17:32:48.995Z
+updated: 2024-11-26T22:56:52.319Z
 tags: 
   - unlock
   - remove screen lock
@@ -52,13 +52,6 @@ Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3981454** people have downloaded it
 
 **To learn how to unlock a disabled iPhone without iTunes, you can follow these steps:**
@@ -104,6 +97,10 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 
 - The program needs a subscription to unlock full functions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Unlock the Disabled iPhone Via Find My iCloud?
 
 Most people believe that they can resolve the Apple iPhone 11 disabled issue only by taking the assistance of iTunes. While you can always [restore your Apple iPhone 11 with iTunes](https://drfone.wondershare.com/restore-iphone/solutions-to-iphone-wont-restore.html), it is not the only available solution.
@@ -115,13 +112,6 @@ You can learn **how to unlock a disabled iPhone without iTunes** by implementing
 - **Step 1.** Firstly, visit ["**Find My iPhone**"](https://www.icloud.com/find) from a web browser and log in to your iCloud account by providing your Apple ID and password. Tap on the “Devices” option. It will display a list of all the Apple iPhone 11 devices that are linked to your Apple ID. Select the iOS device that has been disabled.
 
 ![iphone disabled fix without itunes](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-2.jpg "all devices")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** From here, you can locate the Apple iPhone 11 device, play a sound on it, lock it, or erase it. To fix a disabled iPhone or iPad without iTunes, you have to erase your device. Click on the "Erase iPhone" option and confirm your selection.
 
@@ -145,6 +135,10 @@ Find My App comes pre-installed on all iPhones running iOS 13 or later. This fea
 Here's how to unlock your Apple iPhone 11 using Find My App:
 
 ![find my app](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Open the Find My App on your Apple iPhone 11.
 - **Step 2.** Tap "Devices" from the bottom menu.
@@ -203,6 +197,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14993657066591.jpg "world clock")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**. The interface will ask you to choose a city. Type anything you want and tap on the “**Select all**” option.
 
 ![choose a city](https://images.wondershare.com/drfone/article/2017/07/14993657214728.jpg "choose a city")
@@ -230,6 +228,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 9**. On the Add new contact screen, choose to add a photo and tap on the “**Add Photo**” option.
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/07/14993658262749.jpg "add photo")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 10**. This will open the Photo Library. From here, you can visit any album.
 
@@ -335,19 +337,6 @@ The next window will ask for some basic information regarding the iOS device and
 
 ![ios unlock 3](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Firmware Update**
 
 Click on the 'Download' button at the bottom to get the firmware update for your phone. This might take some time as the firmware update for your phone is being downloaded. As that's done, click on the 'Unlock Now' button on the screen.
@@ -359,15 +348,16 @@ Select the saving path where you want to save your screenshots. For this, click 
 ![select “Screenshots and recording settings”](https://images.wondershare.com/drfone/drfone/take-screenshots-of-iphone-and-save-on-pc-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will see the option “Save to.” Guide the path, and all taken screenshots will be stored at the selected location.
 
 ![select “ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Provide the system with an on-screen confirmation code to continue the process. When that is done, the interface will notify you. By clicking on the 'Try Again' button, you can repeat the process.
 
@@ -383,13 +373,6 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 
     ![ways to bypass Apple iPhone 11  lock screen-1](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     In case the user has enabled the two-factor authentication on iPhone, then they should hit 'Trust' and enter the six-digit verification code sent to their iPhones on the iCloud web.
 
 2. Once that is done, and you have logged in to iCloud, select the option of 'Find iPhone.'
@@ -398,6 +381,10 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 5. After you have done that, a list of all the Apple iPhone 11 devices will appear. You are now supposed to select your device and click on the option of 'Erase iPhone.'
 
     ![ways to bypass Apple iPhone 11  lock screen 2](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Doing this will wipe all the data, settings and, also the password.
 
@@ -441,10 +428,7 @@ If you have forgotten the passcode of your Apple iPhone 11, then don’t worry! 
 Compatible with every leading iOS device, it runs on all major iOS versions. Since Dr.Fone has an easy-to-use interface, it can simply resolve your issues without much trouble. You can restore your phone and perform an Apple iPhone 11 bypass with Dr.Fone - Screen Unlock by following these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
@@ -482,29 +466,9 @@ Bypass Apple iPhone 11 Passcode at Ease
 
 ![bypass Apple iPhone 11 passcode by entering confirmation code](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 7**. As soon as it is completed, you will be notified by the interface. You can also repeat the process by clicking on the “**Try Again**” button.
 
 ![bypassed Apple iPhone 11 passcode with success](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
@@ -527,6 +491,10 @@ If you are an avid user of Apple products, then the chances are that you must ha
 **Step 4.** From all the provided features, select the option of “Share” to continue.
 
 ![share text](https://images.wondershare.com/drfone/article/2017/07/14993667175344.jpg "share text")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Tap on the message icon to draft a new message.
 
@@ -565,6 +533,10 @@ Another popular way to restore your Apple iPhone 11 is by taking the assistance 
 **Step 2.** Hold the Home button on your Apple iPhone 11 and while pressing it, connect it to your system. This will display a connect-to-iTunes symbol.
 
 ![connect to itunes](https://images.wondershare.com/drfone/article/2017/07/14993663711652.jpg "connect to itunes")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** After connecting your phone to the system, iTunes will automatically recognize it and display the following message. Simply click on the “Restore” button.
 
@@ -606,14 +578,22 @@ After following these solutions, you would be able to bypass the Apple iPhone 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-tips-for-enhancing-youtube-videos-through-seo-mastery/"><u>[New] 2024 Approved Expert Tips for Enhancing YouTube Videos Through SEO Mastery</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Passcode Screen?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-stream-to-script-service/"><u>In 2024, Stream-to-Script Service</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-macos-sierra-choices-for-file-conversion-for-2024/"><u>Leading MacOS Sierra Choices for File Conversion for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/windows-11-irqlnotlessorequal/"><u>Windows 11 IRQL_NOT_LESS_OR_EQUALエラーの対処法：完全解析</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-hub-adobe-meme-manipulation/"><u>[New] Humor Hub Adobe Meme Manipulation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eaderboards-unveiled-1-26-in-youtube-snacking-for-2024/"><u>[New] Leaderboards Unveiled #1, #2...#6 in YouTube Snacking for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ext-gen-film-viewers-guide-youtubes-top-choices/"><u>[New] Next-Gen Film Viewers' Guide YouTube's Top Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/digiarty-reach-out-now-your-ultimate-contact-solution/"><u>Digiarty: Reach Out Now - Your Ultimate Contact Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apples-latest-on-device-ai-system-realm-outshines-microsofts-gpt-4-according-to-zdnet/"><u>How Apple's Latest On-Device AI System ReaLM Outshines Microsoft's GPT-4, According to ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-se-2022-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone SE (2022) When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 12 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-curve-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze Curve 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-se-2022-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone SE (2022) when Phone is Broken?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-newly-updated-set-of-chat-starters-for-podcast-success/"><u>In 2024, Newly Updated Set of Chat Starters for Podcast Success</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Passcode without a Computer</u></a></li>
+<li><a href="https://discover-community.techidaily.com/live-streaming-made-simple-with-manycam-advanced-virtual-camera-solution/"><u>Live Streaming Made Simple with ManyCam - Advanced Virtual Camera Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforma-tus-videos-m4v-en-mp4-sin-coste-alguno-el-metodo-mas-sencillo/"><u>Transforma Tus Vídeos M4V en MP4 Sin Coste Alguno: El Método Más Sencillo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-15-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 15 Pro Max i Do? Get Answers here</u></a></li>
 </ul></div>
 

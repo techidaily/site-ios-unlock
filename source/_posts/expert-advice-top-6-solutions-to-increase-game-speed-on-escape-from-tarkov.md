@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Top 6 Solutions to Increase Game Speed on Escape From Tarkov"
-date: 2024-11-13T21:54:45.602Z
-updated: 2024-11-17T03:24:50.036Z
+date: 2024-11-22T02:12:02.475Z
+updated: 2024-11-26T22:22:51.513Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 6. **[Disable automatic downloads from the server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -70,11 +74,19 @@ Follow the instructions below to view your computer hardware information:
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Restart your computer
 
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -110,13 +122,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -131,6 +136,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
@@ -139,23 +148,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -179,11 +174,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -202,10 +205,7 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
@@ -218,19 +218,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
@@ -238,6 +225,10 @@ Follow the instructions below to stop the automatic downloads:
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
@@ -256,36 +247,17 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **10)**  Relaunch Steam and your game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
@@ -355,22 +327,21 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-guide-for-snapchats-friendly-pins/"><u>[New] The Complete Guide for Snapchat's Friendly Pins</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-5-game-recording-software-ranked-and-rated/"><u>[New] Top 5 Game Recording Software Ranked and Rated</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-abbreviated-action-sequences-script-for-2024/"><u>[Updated] Abbreviated Action Sequences Script for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users-for-2024/"><u>[Updated] Elite Voice Capture Tech The Ultimate 5 Apps for Mac Users for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/baldurs-gate-iii-pc-stability-problems-solutions-and-fixes-unveiled/"><u>Baldur's Gate III PC Stability Problems: Solutions and Fixes Unveiled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro Max with a Broken Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-6-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 6 Without Passcode Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy S23 FE?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xs-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone XS Max when Phone is Broken?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-11-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 11 Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro with a Mask On</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfect-intel-windows-drivers-timing-and-techniques/"><u>Perfect Intel Windows Drivers: Timing and Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-audio-recording-strategies-for-windows-10/"><u>Professional Audio Recording Strategies for Windows 10</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/rise-and-shine-wake-up-to-savings-with-our-filmora-easter-sale/"><u>Rise and Shine Wake Up to Savings with Our Filmora Easter Sale</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-11-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 11 i Do? Get Answers here</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-superior-graphics-processors-in-4k-territory/"><u>[Updated] Superior Graphics Processors in 4K Territory</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone XS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-hot-40i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Hot 40i</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-6s-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 6s Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-8-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 8 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-11-pro-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 11 Pro when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-6-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 6 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-software-packages-to-improve-webcam-videos/"><u>In 2024, Superior Software Packages to Improve Webcam Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-do-it-yourself-with-gpt-4-the-next-big-leap-in-ai/"><u>Revolutionizing Do-It-Yourself with GPT-4: The Next Big Leap in AI</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-camon-20-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Camon 20 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/virtualdub-competitors-a-review-of-the-best-video-editing-tools/"><u>VirtualDub Competitors A Review of the Best Video Editing Tools</u></a></li>
 </ul></div>
 

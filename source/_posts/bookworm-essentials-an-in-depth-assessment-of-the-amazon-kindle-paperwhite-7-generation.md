@@ -1,7 +1,7 @@
 ---
 title: "Bookworm Essentials: An In-Depth Assessment of the Amazon Kindle Paperwhite 7 Generation"
-date: 2024-11-11T17:54:17.739Z
-updated: 2024-11-16T18:49:18.924Z
+date: 2024-11-25T22:55:54.893Z
+updated: 2024-11-27T00:05:14.200Z
 categories:
   - BestProducts
 description: "This Article Describes Bookworm Essentials: An In-Depth Assessment of the Amazon Kindle Paperwhite 7 Generation"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 ## Fun in the Cosmos: Constructing Cities on Mars with a Side of Interplanetary Gusts
 
 3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Paradox Interactive Surviving Mars
 
@@ -61,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -70,20 +78,10 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Humans have never been so annoying**
 
@@ -117,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
@@ -133,10 +124,7 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Other city-building games**
@@ -150,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
  **A interesting new take on city-builders, if you can stomach the micromanagement.**
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -178,19 +170,24 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-flashing-feathersticks-short-film-characters-music/"><u>[New] 2024 Approved Flashing Feathersticks Short Film Characters' Music</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-grab-specialists-top-apps-for-windows-10-users/"><u>[New] In 2024, Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-conversation-titans-gpt-vs-bing-for-best-bot/"><u>AI Conversation Titans: GPT Vs. Bing for Best Bot</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-tips-supercharge-your-instagram-highlights-for-2024/"><u>Essential Tips Supercharge Your Instagram Highlights for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 mini</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-15-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 15 Pro Max With 7 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 Pro Max and iPad Securely</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-7-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 7 Plus Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-11-pro-max-5-ways-to-get-into-a-locked-iphone-11-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 11 Pro Max? 5 Ways to get into a Locked iPhone 11 Pro Max</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-installation-for-windows-a-comprehensive-walkthrough/"><u>Mastering ChatGPT Installation for Windows - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/non-competitive-front-row-fun-ranking-the-top-ten-for-2024/"><u>Non-Competitive Front Row Fun Ranking the Top Ten for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/by-step-guide-to-rearranging-youtube-playlists/"><u>Step-by-Step Guide to Rearranging YouTube Playlists</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-hp-display-driver-glitches-for-windows-os-versions-1087/"><u>Troubleshooting and Fixing HP Display Driver Glitches for Windows OS Versions (10/8/7)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-instant-access-windows-photos-view-for-2024/"><u>[Updated] Instant Access Windows Photos View for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-expert-endorsed-the-top-10-camcorders-for-your-needs/"><u>2024 Approved Expert-Endorsed The Top 10 Camcorders for Your Needs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-best-practices-for-extending-the-life-of-your-nintendo-switch/"><u>5 Best Practices for Extending the Life of Your Nintendo Switch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-15-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 15 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-insights-on-lgs-distribution-network-understand-how-it-works/"><u>Essential Insights on LG's Distribution Network - Understand How It Works</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-se-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-14-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 14? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-se-2022-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone SE (2022) Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-se-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone SE Properly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-10c-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 10C Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-zero-cost-video-watermarking-top-5-software-choices/"><u>New 2024 Approved Zero-Cost Video Watermarking Top 5 Software Choices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-activating-and-utilizing-microsofts-windows-copilot-your-new-ai-ally/"><u>Step-by-Step Guide: Activating and Utilizing Microsoft's Windows Copilot – Your New AI Ally</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-swapping-switch-joysticks/"><u>Step-by-Step: Swapping Switch Joysticks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-vibrance-grading-secrets-in-ps-for-2024/"><u>Unleashing Vibrance Grading Secrets in PS for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-avs-audio-editor-product-details-features-reviews-and-alternatives/"><u>Updated AVS Audio Editor Product Details, Features, Reviews & Alternatives</u></a></li>
 </ul></div>
 

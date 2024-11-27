@@ -1,7 +1,7 @@
 ---
 title: Defeat the Crash Bug in Star Wars Battlefront II - A Comprehensive Fix
-date: 2024-11-12T10:32:09.795Z
-updated: 2024-11-17T11:05:52.564Z
+date: 2024-11-23T18:37:38.565Z
+updated: 2024-11-27T00:18:47.058Z
 tags:
   - win11
   - win10
@@ -38,23 +38,17 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 2. Locate programs related to Java, then right-click on it and select**Uninstall** . Restart your computer after you uninstalled Java.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
- Launch Lunar Client and see if this fix works. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch Lunar Client and see if this fix works. If not, try the next fix, below.
 
 ## Fix 2: Update graphics driver
 
@@ -69,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -84,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change launch directory
 
@@ -99,29 +90,17 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
@@ -140,13 +119,6 @@ To perform a clean boot, just follow the steps below:
 ![Run msconfig](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
@@ -156,14 +128,15 @@ To perform a clean boot, just follow the steps below:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -202,19 +175,18 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>[Updated] In 2024, Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-smart-choices-best-video-call-programs-on-devices/"><u>[Updated] In 2024, Smart Choices Best Video Call Programs on Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leverage-these-10-underrated-features-for-canva/"><u>2024 Approved Leverage These 10 Underrated Features for Canva</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5yuv55s75yaf44gu44kq44o844oh44kj44kq44ks5yplusw44kk5ye644gb44kl44km44kn44ow44oe44o844or57s55lul/"><u>動画内のオーディオを取り出せるウェブツール紹介</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/brainy-bonuses-six-key-benefits-in-multilinguals/"><u>Brainy Bonuses: Six Key Benefits in Multilinguals</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 After Forgetting the Passcode?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-live-streaming-techniques-on-mobile-for-2024/"><u>Facebook Live Streaming Techniques on Mobile for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 12 Passcode not Working?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-with-strategy-launching-an-online-dominant-gaming-channel-for-2024/"><u>Start with Strategy Launching an Online Dominant Gaming Channel for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-5-best-zero-cost-flv-video-editors-you-need-to-try/"><u>Updated 2024 Approved 5 Best Zero-Cost FLV Video Editors You Need to Try</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-professional-fb-cover-setups-to-skyrocket-engagement/"><u>[New] 2024 Approved Professional FB Cover Setups to Skyrocket Engagement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-building-an-audience-on-ig-steps-to-reach-1k-in-one-month/"><u>[Updated] 2024 Approved Building an Audience on IG Steps to Reach 1K in One Month</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-oneplus-blowout-deals-your-ultimate-guide-to-savings/"><u>Exclusive OnePlus Blowout Deals: Your Ultimate Guide to Savings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-12-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 12 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-pro-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V29 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-14-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-pro-max-5-ways-to-get-into-a-locked-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14 Pro Max? 5 Ways to get into a Locked Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-parrot-ar-drone-elite-edition-expert-evaluation/"><u>In 2024, Parrot AR Drone Elite Edition – Expert Evaluation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-vs-youtube-the-ideal-medium-explored/"><u>In 2024, Podcast vs YouTube The Ideal Medium Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-apps-for-perfectly-altered-videos-on-ios-and-desktop/"><u>In 2024, Premium Apps for Perfectly Altered Videos on iOS & Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-fixing-a-red-cross-appearing-over-your-network-symbol/"><u>Troubleshooting Steps for Fixing a Red Cross Appearing Over Your Network Symbol</u></a></li>
 </ul></div>
 

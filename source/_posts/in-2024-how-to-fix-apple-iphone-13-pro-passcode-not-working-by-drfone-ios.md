@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Apple iPhone 13 Pro Passcode not Working?
-date: 2024-11-11T09:37:50.399Z
-updated: 2024-11-17T09:02:56.357Z
+date: 2024-11-23T19:28:52.602Z
+updated: 2024-11-26T18:13:26.755Z
 tags: 
   - unlock
   - remove screen lock
@@ -79,15 +79,16 @@ After downloading the firmware, select “Unlock Now” to unlock your Apple iPh
 
 ![unlock iphone passcode successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
 This part shall assert its focus on the effective ways of resolving the issue involving the Apple iPhone 13 Pro password not working on your device. It revolves around the methods involving iTunes, iCloud, and iPhone Recovery Mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.1 By using iTunes and iPhone Cables
@@ -137,6 +138,10 @@ Click on "Find My iPhone" and select "All devices," and a list of devices will c
 Now click on the option of “Erase iPhone” to erase all your data and even your passcode. You have the autonomy to set up your Apple iPhone 13 Pro from a previous backup or set it up as a new device.
 
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.3 Using iPhone Recovery Mode
 
@@ -194,6 +199,10 @@ Physical damage, like heavy falls, can impact the phone's touch sensitivity. Mor
 
 Insufficient memory or many background apps running simultaneously can overload the Apple iPhone 13 Pro device. This leads to performance issues, including unresponsive gestures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Water Exposure
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
@@ -238,13 +247,6 @@ After successfully downloading Dr.Fone on your device, navigate towards the left
 
 ![repair system using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Opt for iOS Restoration and Enable Recovery Mode**
 
 Select the Apple iPhone 13 Pro device type from the available options and select "iPhone." From the new window, select "iOS Repair," and following that, select "Standard Repair." Now, follow the instructions available and enable recovery mode for your iOS.
@@ -256,6 +258,10 @@ Select the Apple iPhone 13 Pro device type from the available options and select
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2. Force Restart iPhone
 
@@ -295,6 +301,10 @@ If your Apple iPhone 13 Pro swipe-up gesture isn't working specifically on the l
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -323,13 +333,6 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![navigate to voiceover feature](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
@@ -342,6 +345,10 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 ![access touch accommodations within accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
@@ -353,13 +360,6 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 **Step 1.** Go through your iOS device Settings to open the "Accessibility" tab. Here, find and tap the "Motion" option to proceed.
 
 ![navigate motion features in accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
@@ -422,13 +422,6 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 13 Pro and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
@@ -444,13 +437,6 @@ However, is jailbreaking an iPhone safe and legal? It's a complex answer and not
 To learn more, read on and explore the capabilities of a jailbroken iPhone in the following sections. This article will also touch on its impact on [<u>iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html). Let's start with the benefits and risks of jailbreaking your Apple iPhone 13 Pro.
 
 ![iphone devices back view](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What Does Jailbreaking an iPhone Do?
 
@@ -498,6 +484,10 @@ Jailbreaking may make your system unstable and cause performance problems. When 
 
 ![iphone apps crashing message](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Difficulty in Updating**
 
 Jailbreaking may cause problems with new iOS updates. When Apple releases updates, jailbreak developers might take time to catch up. This delay can leave you without access to the latest features and security patches.
@@ -505,6 +495,10 @@ Jailbreaking may cause problems with new iOS updates. When Apple releases update
 - **Bricking Risk**
 
 Incorrect jailbreaking can "[<u>brick</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-bricked-iphone.html)" your Apple iPhone 13 Pro, making it unusable. This risk goes up if you try it without enough knowledge or with unreliable tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What Can Jailbreak iPhone Do to iCloud Activation Lock?
 
@@ -521,6 +515,10 @@ iCloud Activation Lock is a security feature that ties an Apple iPhone 13 Pro to
 ![icloud activation lock on an iphone](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-04.jpg)
 
 While jailbreaking grants you deeper access to the system, it can't override or bypass the iCloud Activation Lock directly. However, third-party tools that can bypass iCloud activation lock use this access. These software, such as [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), leverage the jailbreak to access crucial system files and implement their bypass methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Easily Bypass iCloud Activation Lock Without Password
 
@@ -545,13 +543,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 - **Step 2:** Open the program and select **Screen Unlock** from the available options on the **Toolbox** page.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Choose **iOS** as your device type, then select **iCloud Activation Lock Removal** on the next window.
 
@@ -578,13 +569,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 - **Step 8:** Allow the software to complete the bypass process. Once done, your Apple iPhone 13 Pro will be successfully unlocked from the iCloud Activation Lock without a password.
 
 ![dr.fone bypass icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Other Way To Remove iCloud Activation Lock Without Jailbreak
 
@@ -621,20 +605,18 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-game-on-log-it-galaxy-phone-playthroughs-for-2024/"><u>[New] Game on, Log It! Galaxy Phone Playthroughs for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder/"><u>[New] Optimizing Presentations Through Skilled Use of Aiseesoft Recorder</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-tapping-into-youtubes-affiliate-income-streams/"><u>2024 Approved Tapping Into YouTube's Affiliate Income Streams</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y27-4g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y27 4G</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lag-solving-fortnites-pc-freezing-glitch-of-2t4/"><u>Beat the Lag: Solving Fortnite's PC Freezing Glitch of 2T4</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-powershot-perfection-elph-190/"><u>Budget-Friendly PowerShot Perfection: ELPH 190</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-6-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6 Plus/iPad Without Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 14 Passcode without Computer?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 7 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xs-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-revolutionize-your-gaming-by-recording-on-win10/"><u>In 2024, Revolutionize Your Gaming by Recording on Win10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Plus Prevention & Solution</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-workstations-your-tech-dreams-realized-for-2024/"><u>Ultimate Workstations - Your Tech Dreams Realized for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-smart-explorers-choice-premium-vr-gear-ranked/"><u>[New] The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gamescene-capturers-compendium/"><u>2024 Approved GameScene Capturer's Compendium</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-note-12-proplus-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi Note 12 Pro+ 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-13-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 13 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-note-30-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Note 30 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 7 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-x-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone X to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-se-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone SE with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-6-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 6 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-6-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 6 With 7 Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-preventing-stringing-during-3d-printing-a-comprehensive-guide/"><u>Master the Art of Preventing Stringing During 3D Printing: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/redefining-the-future-of-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-insights-from-zdnet/"><u>Redefining the Future of UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook - Insights From ZDNet</u></a></li>
 </ul></div>
 

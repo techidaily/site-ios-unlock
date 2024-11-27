@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution for Correcting Finals Error Code: TFLA0002"
-date: 2024-11-14T09:03:21.704Z
-updated: 2024-11-17T07:16:45.415Z
+date: 2024-11-20T17:57:32.676Z
+updated: 2024-11-26T18:31:29.872Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -42,31 +46,15 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -78,6 +66,10 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -98,13 +90,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
@@ -119,24 +104,29 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -151,39 +141,16 @@ If a clean boot doesn’t help, you can check out the next fix.
 2. Open the installer and follow the on-screen instructions to install.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -206,24 +173,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nlocking-youtube-success-top-10-keyword-research-utilities-listed/"><u>[New] Unlocking YouTube Success Top 10 Keyword Research Utilities Listed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>[Updated] 2024 Approved The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-downloads-expert-advice-on-speeding-up-origin/"><u>Boosting Your Downloads: Expert Advice on Speeding Up Origin</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/from-click-to-chatter-turning-titles-into-talk-on-fb/"><u>From Click to Chatter Turning Titles Into Talk on FB</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-14-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 14 Pro When You Forget the Passcode?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-add-the-date-to-photo-for-2024/"><u>How to Add the Date to Photo for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-7-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 7 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone SE</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 6s with a Mask On</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2022-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2022) With or Without Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Properly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nubia-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nubia FRP Bypass</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-storytelling-through-scenery/"><u>In 2024, Unveiling Storytelling Through Scenery</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-12-pro-5-ways-to-get-into-a-locked-iphone-12-pro-by-drfone-ios/"><u>Locked Out of iPhone 12 Pro? 5 Ways to get into a Locked iPhone 12 Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pure-sound-capture-on-your-mac-for-2024/"><u>Pure Sound Capture on Your Mac for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tech-titans-select-top-10-video-capture-apps-for-2024/"><u>Tech Titans Select Top 10 Video Capture Apps for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-list-screen-recorders-for-expert-users/"><u>[New] A-List Screen Recorders for Expert Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-screening-success-10-movies-that-energize-and-empower/"><u>[New] Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cartoonify-your-content-the-latest-techniques-for-video-conversion-2023-for-2024/"><u>Cartoonify Your Content The Latest Techniques for Video Conversion (2023 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-13-pro-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 13 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y17s-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y17s Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-14-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 14 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-boosting-engagement-techniques-for-snap-camera-on-teams/"><u>In 2024, Boosting Engagement Techniques for Snap Camera on Teams</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-8-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 8 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 Pro Without a Home Button</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30i-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30i Location by Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-6-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-isnt-ideal-for-computer-renovation/"><u>Why Windows Isn't Ideal for Computer Renovation</u></a></li>
 </ul></div>
 

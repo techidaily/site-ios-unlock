@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone XS Max Backup Password? Heres What to Do
-date: 2024-11-04T19:46:54.961Z
-updated: 2024-11-06T23:19:47.173Z
+date: 2024-11-24T18:14:12.328Z
+updated: 2024-11-26T18:03:14.910Z
 tags: 
   - unlock
   - remove screen lock
@@ -72,6 +72,10 @@ The typical method that each individual attempts for the first time is to input 
 - Passcode for the administrator
 - Passcode for the iPhone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. "Reset All Settings" via "Settings"
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
@@ -83,6 +87,10 @@ You may now go to **Reset All Settings** and confirm by entering the security pa
 You can also get rid of the password for the last backup without deleting any other apps or data.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use a USB cable to link your Apple iPhone XS Max to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
@@ -111,13 +119,6 @@ Navigate to the **Apps & Data menu** and choose the **Restore from iCloud Backup
 After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
 
@@ -152,10 +153,7 @@ Before you click **Remove Now**, please carefully read the following three notes
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
@@ -170,13 +168,6 @@ You can turn on **AutoFill** in the **Settings** app. This will allow your Apple
 
 ![autofill](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Try iCloud Keychain to keep your passwords
 
 iCloud Keychain is a great way to keep all your passwords in one place. Once you've turned on the iCloud Keychain, all your passwords will be synced across your devices. That means if you create a new password on your laptop, it will automatically appear on your Apple iPhone XS Max.
@@ -186,6 +177,10 @@ iCloud Keychain is a great way to keep all your passwords in one place. Once you
 If you're finding a simple way to keep all your passwords, try using the Notes app. Create a new note and title it "Passwords." Then, add it to the note whenever you create a new password.
 
 You can even add a description of the password, so you remember which account it's for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -200,6 +195,10 @@ Restricted Mode on iPhone is useful for controlling access to certain content. I
 Follow the steps outlined in the page's latter part to learn **how to turn off Restricted Mode on your Apple iPhone XS Max**. This will grant you unrestricted access to all apps and content, ensuring a smoother and more flexible user experience. To know more, let's get started.
 
 ![turn off restricted mode iphone banner](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What Is the iPhone's Restricted Mode?
 
@@ -293,18 +292,15 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 ![unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
 
 ![unlocking finished window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus. How To Turn Restricted Mode On or Off on YouTube
 
@@ -365,19 +361,6 @@ They could also use your account to make unauthorized purchases or spread malwar
 If you notice unusual login attempts or receive notifications from Apple about new sign-ins from unknown devices or locations, it's a red flag. Someone may be trying to open your Apple account.
 
 ![apple id sign in request](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-02.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Unexpected Purchases**
 
@@ -440,13 +423,6 @@ Mac computers typically have larger screens than other iPhone or iPad devices, s
 
 ![change apple id password on mac](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Enter your Mac's login password to reset your Apple ID password.
 
 Step-by-Step Guide: Change Your Apple ID Password Online
@@ -489,13 +465,6 @@ For iOS users:
 - **Step 2:** Tap **Forgot password or don't have an Apple ID?** and follow the in-app guide to proceed.
 
 ![apple id forgot password on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On a Mac Computer**
 
@@ -547,6 +516,10 @@ If you need to access iCloud services and Apple ID features faster, a third-part
 
 [<u>[2023 Updated] How to Sign Out of Apple ID without Password?</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Using Dr.Fone Unlock Tool To Access Your Apple Account Sooner
 
 Dr.Fone Unlock can help you remove your Apple ID from your Apple devices without a password, even with the enabled Find My/Find My iPhone feature. It's compatible with all iOS devices running iOS 17/iPadOS 17 and iPhone 14.
@@ -561,6 +534,10 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone select screen unlock from toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **Remove AppleID** and click **Unlock Now** on the next screen.
 
 ![dr.fone select remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
@@ -568,6 +545,10 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 - **Step 4:** For the question, "**Have you set up a screen lock on your Phone**?" click **Yes**. Then, on the next screen, click **Yes** again to verify you enabled the two-factor authentication.
 
 ![dr.fone confirm screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Follow the in-app instructions to put your iOS device into Recovery Mode.
 
@@ -585,16 +566,13 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone enter code confirmation](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 9:** Wait and do not use your device while the Apple ID removal is in progress to avoid being a bricked device.
 
 ![dr.fone unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** Click **Done** once the process is successful or click **Try again** to repeat.
 
@@ -616,18 +594,22 @@ Creating a strong Apple ID password is simple: mix letters and numbers, make it 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-easy-gif-to-video-transformation-top-5-no-download-options/"><u>[New] 2024 Approved Easy GIF to Video Transformation Top 5 No-Download Options</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv/"><u>[New] 2024 Approved Mastering the Edit A Comprehensive Look at Title & Description for IGTV</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-economical-android-communication-tools-list/"><u>[Updated] 2024 Approved Economical Android Communication Tools List</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-illuminate-your-world-top-iphone-lights-techniques/"><u>[Updated] Illuminate Your World Top iPhone Lights Techniques</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-11-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 11 Without a Passcode</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-storm-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava Storm 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-guide-how-to-keep-a-log-of-google-voice-chats-for-2024/"><u>Expert Guide How to Keep a Log of Google Voice Chats for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6 Plus? Learn All 4 Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-premier-tv-and-monitor-showcase/"><u>IFA 2023: Premier TV & Monitor Showcase</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-xr-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone XR Lock Screen</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-embrace-cold-choosing-heated-backdrops-for-youtube/"><u>In 2024, Embrace Cold Choosing Heated Backdrops for YouTube</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-xr-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone XR In Different Conditionsin</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-pixels-pro-tiktok-video-tricks-of-the-trade/"><u>[New] Perfect Pixels Pro TikTok Video Tricks of the Trade</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance-for-2024/"><u>[New] Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quickly-connect-live-with-whatsapp-desktop-in-laptop-settings/"><u>2024 Approved Quickly Connect Live with WhatsApp Desktop in Laptop Settings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/digital-evolutions-meta-vs-omni-reality/"><u>Digital Evolutions Meta Vs. Omni Reality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-reviving-your-malfunctioning-bose-sound-system/"><u>DIY Guide: Reviving Your Malfunctioning Bose Sound System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-13-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 13</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-must-try-video-editing-apps-for-kids-featuring-free-and-paid-choices/"><u>In 2024, 10 Must-Try Video Editing Apps for Kids, Featuring Free and Paid Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-6-plus-how-to-unlock-a-disabled-iphone-6-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 Plus How to Unlock a Disabled iPhone 6 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-2020-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE (2020) Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-spectrum-of-intelligence-from-gpt-1-through-gpt-4/"><u>The Spectrum of Intelligence: From GPT-1 Through GPT-4</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-7-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 7 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-ultimate-list-of-mac-music-production-tools-the-elite-four/"><u>Updated In 2024, The Ultimate List of Mac Music Production Tools - The Elite Four</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-magic-6-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Magic 6 Pro Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

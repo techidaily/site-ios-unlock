@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Improve Frame Rate in War Thunder (Updated Tips )
-date: 2024-11-15T02:46:25.794Z
-updated: 2024-11-17T09:05:54.990Z
+date: 2024-11-22T21:06:03.788Z
+updated: 2024-11-26T22:08:52.937Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Use dedicated GPU
 
  If you get a high-end graphics card for your PC but still sees the significant FPS drops in War Thunder, chances are that the dedicated GPU is not used, and you should manually select it to tackle the computer’s graphical needs. Here’s how:
@@ -47,10 +51,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-1-1200x873.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have an AMD dedicated graphics card and hope War Thunder to run with it, please refer to the official guide here: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
@@ -85,13 +86,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -115,6 +109,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the application you want to close and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-2.jpg)
@@ -124,6 +122,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
  Now that you’ve left only War Thunder open, it should work as smoothly as possible. If this fix doesn’t help either, please proceed to the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change your computer’s power plan
 
@@ -140,13 +142,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **3)** Click**High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
@@ -165,15 +160,16 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After those tweaks, play War Thunder again and see if the FPS improves. If yes, you could lift the settings a bit until you find the best combination that works. If not, turn to the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall War Thunder
 
@@ -183,22 +179,12 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**War Thunder** from the game list and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Delete** to confirm.
@@ -210,10 +196,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click the**War Thunder folder** and press**Delete** .
@@ -242,24 +225,24 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[Updated] Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-opposite-order-rearranging-videos-in-reverse-flow-for-2024/"><u>[Updated] Youtube's Opposite Order Rearranging Videos in Reverse Flow for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-50-best-free-photography-tools-for-the-web/"><u>2024 Approved 50 Best Free Photography Tools for the Web</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-pathway-youtube-trailer-creation-with-filmora/"><u>2024 Approved Filmmaker's Pathway YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>2024 Approved Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone X in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xs-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-12-pro-max-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Pro Max Without Passcode Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-the-quick-selection-tool-windows-plus-shift-plus-s-in-windows-11-and-earlier-versions/"><u>How to Restore Functionality of the Quick Selection Tool (Windows + Shift + S) in Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-3-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 3</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-14-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 14 with iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-narzo-n53-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme Narzo N53 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y100a-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y100A to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screen-recorder-rivalry-unveiling-the-strengths-of-bandicam-and-camtasia/"><u>Screen Recorder Rivalry Unveiling the Strengths of Bandicam & Camtasia</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-step-by-step-mastery-uploading-subtitles-to-gain-visibility-in-online-communities/"><u>[New] 2024 Approved Step-by-Step Mastery Uploading Subtitles to Gain Visibility in Online Communities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplified-screen-recording-for-gamers-for-2024/"><u>[Updated] Simplified Screen Recording for Gamers for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/conversione-gratuita-file-wmv-a-formato-asf-guida-completa-online/"><u>Conversione Gratuita File WMV a Formato ASF: Guida Completa Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvdand-windows-7/"><u>DVDコピー&再生技術 - Windows 7マシン上で自由度を高める方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-bard-top-7-improvements-from-googles-palm-2/"><u>Enhancing Bard: Top 7 Improvements From Google's PaLM 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-rich-communication-services-rcs-technology-in-smartphones/"><u>Exploring Rich Communication Services (RCS) Technology in Smartphones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Pro Unavailable Issue With Ease</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-share-images-from-phone-snapshots-seamlessly/"><u>How To Share Images From Phone Snapshots Seamlessly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-se-2020-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone SE (2020) to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-11-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 11 Pro in Lost Mode</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-6-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 6 iCloud Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xs-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone XS Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-15-plus-5-ways-to-get-into-a-locked-apple-iphone-15-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 15 Plus? 5 Ways to get into a Locked Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-7-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 7 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pro-mkv-reader-for-personal-computers/"><u>Pro MKV Reader for Personal Computers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-displacement-of-windows-screen-view/"><u>Resolving Displacement of Window's Screen View</u></a></li>
 </ul></div>
 

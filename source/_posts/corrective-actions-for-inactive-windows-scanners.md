@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions for Inactive Windows Scanners
-date: 2024-11-12T22:00:02.860Z
-updated: 2024-11-16T22:39:56.299Z
+date: 2024-11-24T01:40:37.375Z
+updated: 2024-11-26T16:11:23.249Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
  If your**HP scanner is not working** , don’t worry. This is a common scanner problem and you can fix it quickly and easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is my HP scanner not working?
 
  The HP scanner not working issues include**the** scanner won’t scan, the scanner not being detected by your computer, or errors popping**up** when you’re using your scanner, etc.
@@ -28,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
  But don’t worry. We’ll help you fix the scanner not working on HP.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
@@ -70,27 +71,11 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the changes.  
@@ -104,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * **Remote Procedure Call RPC**  
    * **DCOM Server Process Launcher**  
@@ -145,10 +123,7 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 3. Click the Update button next to your scanner to download the latest driver (you can do this with the FREE version), then install it on your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all problem drivers in your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -164,13 +139,6 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot hardware problems
 
  It’s possible that there’s something wrong with your scanner, so run a troubleshooter in your computer to fix the issue.
@@ -184,9 +152,17 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, try your scanner again and see if it’s working properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
 
@@ -203,10 +179,7 @@ sfc /scannow
 3. Then wait for**Verification 100% complete** . This can take a while.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
@@ -248,14 +221,20 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-recordscreenpro-windows-10-edition/"><u>[Updated] In 2024, RecordScreenPro Windows 10 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tunes-to-timelapse-crafting-mobile-music-videos/"><u>[Updated] Tunes to Timelapse Crafting Mobile Music Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-8-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-s17t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo S17t Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-prime-websites-with-free-no-drm-books-and-graphic-novels/"><u>Discover Prime Websites with Free, No-DRM Books & Graphic Novels</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-12-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Pro Without Passcode Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-x-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone X</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13 mini?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionary-ipad-calculator-app-prompts-consideration-of-apple-pencil-investment-insights/"><u>Revolutionary iPad Calculator App Prompts Consideration of Apple Pencil Investment - Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-free-video-meeting-checklist-with-desktop-views/"><u>[New] 2024 Approved Ultimate Free Video Meeting Checklist - With Desktop Views</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>[New] In 2024, The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-hands-free-guide-to-storing-google-voice-chats/"><u>[Updated] Hands-Free Guide to Storing Google Voice Chats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlining-live-gaming-footage-with-apps-for-2024/"><u>[Updated] Streamlining Live Gaming Footage with Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 Pro and iPad Securely</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-the-power-of-iphone-burst-images/"><u>Discovering the Power of iPhone Burst Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-11-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 11 Pro with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-se-2022-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone SE (2022) With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-7-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 7 Properly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-for-overcoming-windows-blue-errors/"><u>Step-by-Step Guide for Overcoming Windows Blue Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-fast-lane-olympic-highlights-in-short-track-speed-skating/"><u>The Fast Lane Olympic Highlights in Short-Track Speed Skating</u></a></li>
 </ul></div>
 

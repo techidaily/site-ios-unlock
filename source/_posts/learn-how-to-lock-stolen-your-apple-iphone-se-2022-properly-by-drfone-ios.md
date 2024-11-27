@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your Apple iPhone SE (2022) Properly
-date: 2024-07-15T02:07:13.834Z
-updated: 2024-07-16T02:07:13.834Z
+date: 2024-11-21T01:15:19.352Z
+updated: 2024-11-26T19:03:53.646Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,9 +54,17 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
 Lost Mode locks the Apple iPhone SE (2022) device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Activating Lost Mode Using Your Smartphone
 
@@ -73,13 +81,22 @@ Lost Mode locks the Apple iPhone SE (2022) device and allows users to showcase a
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Activating Lost Mode Using iCloud Website
 
 - **Step 1.** Access the iCloud website via your computer's web browser. Sign in using your Apple ID, continue to click the “Grid” icon in the top right corner, and select “Find My.”
 
 ![sign into icloud account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** In Find My, add your Apple ID password again to access "All Devices." Now, choose the lost device from the list of all devices in the top left corner. Then, click "Mark As Lost," and the following pop-up Lost Mode prompt, tap "Next."
 
@@ -88,6 +105,10 @@ Lost Mode locks the Apple iPhone SE (2022) device and allows users to showcase a
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
@@ -131,9 +152,6 @@ After your Apple iPhone SE (2022) is stolen, it becomes essential to bolster the
 
 - **Step 1.** Access Settings on an iOS device logged in with the same Apple ID as the lost one. Here, tap on your name on the following screen and scroll down.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open settings and apple id details](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-16.jpg)
 
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
@@ -162,6 +180,10 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 
 ![open find my settings](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-20.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Next, tap "Find My iPhone," on the ensuing window, toggle "Find My iPhone." This will enable the Find My service on your device.
 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
@@ -172,18 +194,12 @@ Enabling “Separation Alerts” assists in preventing the loss of your Apple iP
 
 - **Step 1.** Navigate to and launch the Find My app on your Apple iPhone SE (2022). Select the Apple iPhone SE (2022) device from the "Devices" tab for which you want to enable separation alerts.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![look for device in find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-22.jpeg)
 
 - **Step 2.** From the available options, tap "Notify When Left Behind," and on the following screen, toggle "Notify When Left Behind." You can also add locations on this screen by tapping "New Location," for which you don't want to receive a left-behind notice.
 
 ![notify on separation enabled](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-23.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Precaution #3. Enable 2FA on iPhone
 
 Activating Two-Factor Authentication (2FA) enhances the security of your Apple iPhone SE (2022). The mandatory secondary verification step makes 2FA crucial in securing your accounts. Follow these steps to enable 2FA on your Apple iPhone SE (2022):
@@ -191,6 +207,10 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 - **Step 1.** Access the Settings app on your iOS device and tap your name/Apple ID. Find and tap "Sign-In & Security" to proceed further.
 
 ![open security settings iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-24.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
@@ -219,7 +239,6 @@ Wondershare Dr.Fone is a comprehensive toolkit that addresses many iOS-related i
 Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" tab. Click "Screen Unlock," and on the following screen, choose “iOS." Click "Unlock iOS Screen" on the following screen and link your iOS device to the computer.
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
 
 - Step 2. Entering Recovery Mode and Choosing System Version
 
@@ -253,9 +272,6 @@ The Apple iPhone SE (2022) Lock feature permits remotely locking a lost Apple iP
 
 The Lost Mode menu will ask you to set one if it has no password. Password is obligatory to stop Lost Mode once a device is returned to the owner, as Contact ID or Face ID won't work for this reason.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![lost mode](https://images.wondershare.com/drfone/article/2022/10/iphone-lost-mode-unlock-1.jpg)
 
 **Send a Custom Text Message:** When you sort out your lost iPhone and put it in Lost Mode, another supportive feature accessible to you is a custom message shown on the Lock Screen. You can enter any message to let an individual who found it realize this iPhone is lost. This way, you can demonstrate a phone number for the other person. That will expand opportunities to get your device back.
@@ -341,7 +357,6 @@ The benefit of Apple iPhone Unlock is that they keep themselves updated with the
 
 An expert unlocking tool comes in handy when no other method works. In this case, we strongly suggest you use the Dr.Fone-Screen Unlock tool by Wondershare. Dr.Fone is a reliable tool and has been in the market for a long time. Professional unlock service providers use it because of its ease of use and clean interface.
 
-
 So, without looking any further, download this tool for a remarkable unlocking experience. The methods below will guide you into unlocking your Apple iPhone SE (2022) within no time:
 
 **Step 1. Connect your Apple iPhone SE (2022)/iPad**
@@ -362,12 +377,15 @@ After getting the phone in DFU mode, Dr.Fone will show the Apple iPhone SE (2022
 
 ![device information](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Unlock the Apple iPhone SE (2022) Screen Lock**
 
 After downloading the required firmware effectively, click Unlock Now to remove the lock. However, note that this unlocking system will wipe the user data on your Apple iPhone SE (2022). Truly, there is no answer for **iPhone Lost Mode unlock** without losing your data.
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ### The Bottom Line
 
@@ -475,7 +493,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 - **Step 1:** Download Dr.Fone and set up the software on your computer.
 
-
 - **Step 2:** Open the program and select **Screen Unlock** from the available options on the **Toolbox** page.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -483,6 +500,10 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 - **Step 3:** Choose **iOS** as your device type, then select **iCloud Activation Lock Removal** on the next window.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Click **Start** to initiate the bypass process.
 
@@ -527,9 +548,6 @@ Jailbreaking your Apple iPhone SE (2022) weakens its iOS security, possibly expo
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -542,7 +560,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-tips-enhancing-focus-in-your-youtube-video/"><u>[New] 2024 Approved Essential Tips Enhancing Focus in Your YouTube Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-collection-best-anime-channels-to-watch-youtube/"><u>[New] The Ultimate Collection Best Anime Channels to Watch Youtube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-premier-tools-for-post-production-of-dji-videos/"><u>[Updated] Premier Tools for Post-Production of DJi Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-cost-free-video-chat-apps-on-ios-and-android-for-2024/"><u>[Updated] Top 10 Cost-Free Video Chat Apps on iOS & Android for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Galaxy F34 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-14-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6s Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-first-steps-in-virtual-conferencing-with-zoom/"><u>In 2024, First Steps in Virtual Conferencing with Zoom</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-13-mini-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 13 mini Prevention & Solution</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 8 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+</ul></div>
 

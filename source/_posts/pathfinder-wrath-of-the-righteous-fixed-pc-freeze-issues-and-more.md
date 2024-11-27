@@ -1,7 +1,7 @@
 ---
 title: "Pathfinder: Wrath of the Righteous - Fixed PC Freeze Issues and More"
-date: 2024-11-14T16:40:28.852Z
-updated: 2024-11-17T08:38:09.349Z
+date: 2024-11-25T18:02:23.056Z
+updated: 2024-11-26T17:25:55.596Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  The game may not work as expected if some important game files are missing or corrupted, as the game file corruption usually lead to game crashes.
@@ -63,16 +67,13 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -104,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
  Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays sometimes would interfere with the game and even block the game files. You can try disabling Steam Overlay for Pathfinder: Wrath of the Righteous and see if the game crashes again:
@@ -113,10 +118,7 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
@@ -124,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -142,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  Pathfinder: Wrath of the Righteous will crash if there’s a certain app conflicting with it. If you’re not sure which app is conflicting with the game, you need to perform a clean boot to find it out.
@@ -159,8 +147,16 @@ Here’s how to do it:
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
@@ -168,30 +164,13 @@ Here’s how to do it:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Restart** your PC and launch Pathfinder: Wrath of the Righteous to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -230,20 +209,15 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-beat-infused-imagery-mobile-video-making-on-iphone/"><u>[New] Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[Updated] Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-guidelines-to-frame-your-youtube-creation-flow-for-2024/"><u>[Updated] Guidelines to Frame Your YouTube Creation Flow for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-scrutinizing-the-functionality-of-pixelrecorder-12/"><u>[Updated] In 2024, Scrutinizing the Functionality of PixelRecorder 12</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-essential-list-7-leading-generators-for-nft-artworks/"><u>[Updated] The Essential List 7 Leading Generators for NFT Artworks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone XS Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 14</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14 Plus/iPad Without Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1726026902836-pc/"><u>PCにて自らの声を録音するステップバイステップマニュアル</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/remote-classroom-video-archive/"><u>Remote Classroom Video Archive</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-swift-yet-high-priced-swagtron-swagboard-t1-comprehensive-review/"><u>The Swift yet High-Priced Swagtron Swagboard T1: Comprehensive Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-20-public-license-pubg-image-collections/"><u>2024 Approved Best 20 Public License PUBG Image Collections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-blaze-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Blaze 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-mini-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 mini With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 Pro Max Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-non-responsive-fn-key-on-your-lenovo-device/"><u>Quick Fixes for a Non-Responsive Fn Key on Your Lenovo Device</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-not-available-in-windows-os/"><u>Resolving Network Not Available in Windows OS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/5-science-youtube-channels-to-expand-knowledge-for-2024/"><u>Top 15 Science YouTube Channels to Expand Knowledge for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-7-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 7 Plus Without Passcode Easily</u></a></li>
 </ul></div>
 
