@@ -1,7 +1,7 @@
 ---
 title: Resolving Persona 4 Golden's Stability Problems
-date: 2024-11-25T17:08:43.289Z
-updated: 2024-11-26T21:23:35.910Z
+date: 2024-12-05T17:23:31.953Z
+updated: 2024-12-06T18:09:38.593Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
  There’s one tip before you try the fixes:**keep P5S on Window mode.** This is required, the game won’t run in full screen for some reason.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,6 +32,10 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 3. [Edit P5S file](https://tools.techidaily.com/drivereasy/download/)
 4. [Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Change game properties
 
  Changing the exe. properties settings works for most infinite loading screen problems as well as black screen issue. Follow the steps below to fix it.
@@ -42,10 +46,6 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 4. Relaunch the game to check.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your driver
 
@@ -66,18 +66,22 @@ There are two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Edit P5S file
@@ -89,10 +93,6 @@ There are two ways you can update your graphics drivers:
 3. Open**config.xml** .
 4. Edit the file by replacing **<DisplaySetting>1</DisplaySetting>** to **<DisplaySetting>3</DisplaySetting>** (1 to 3) .
 5. Save the change.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Change NVIDIA settings
 
@@ -124,24 +124,19 @@ There are two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tactics-for-excelling-in-twitters-real-time-responses/"><u>[Updated] In 2024, Tactics for Excelling in Twitter's Real-Time Responses</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/wma-m4a/"><u>網路直接無成本變更 WMA 至 M4A - 移體飛速音樂格式切換器</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blissful-movie-moments-your-summertime-classic-list-for-2024/"><u>Blissful Movie Moments Your Summertime Classic List for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-6s-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 6s After Forgetting the Passcode?</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-pcs-media-malfunction-find-and-apply-the-missing-vital-driver/"><u>Fix Your PC's Media Malfunction - Find and Apply the Missing Vital Driver</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-8t-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 8T 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-14-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 14 Pro when Phone is Broken?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 11 Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-se-2020-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokiawithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokiawith/without a PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-pro-5-ways-to-get-into-a-locked-iphone-14-pro-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14 Pro? 5 Ways to get into a Locked iPhone 14 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-xr-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone XR Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>In 2024, Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-14-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 14 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-the-roomba-j7-combination-bot-the-almost-perfect-dual-purpose-cleaner-zdnet-insights/"><u>Review of the Roomba J7 Combination Bot: The Almost Perfect Dual-Purpose Cleaner | ZDNet Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/subnautica-below-zero-on-pc-stop-the-game-from-crashing-with-these-tips/"><u>Subnautica: Below Zero on PC - Stop the Game From Crashing with These Tips!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sync-your-oura-health-metrics-with-strava-effortlessly-a-step-by-step-guide/"><u>Sync Your Oura Health Metrics with Strava Effortlessly - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-step-by-step-guide-to-hilarious-memes/"><u>[New] 2024 Approved Step-by-Step Guide to Hilarious Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-superior-hd-video-capturing-choosing-premium-recorder-models/"><u>[Updated] Superior HD Video Capturing Choosing Premium Recorder Models</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-7-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 7 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/gpu/"><u>GPUを使った高速ビデオ変換手法：動画品質維持のコツ</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone X? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-xs-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone XS Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-hot-30i-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Hot 30i to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-k11x-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo K11x Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-mini-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 mini Without a Home Button</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-image-techniques-for-engaging-views/"><u>In 2024, YouTube Image Techniques for Engaging Views</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-tinder-profiles-top-tricks-for-quick-likes/"><u>Mastering Tinder Profiles Top Tricks for Quick Likes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-for-instant-repair-of-valorant-graphics-driver-error/"><u>Solution for Instant Repair of 'Valorant Graphics Driver Error'</u></a></li>
 </ul></div>
 
