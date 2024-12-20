@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions for Inactive Windows Scanners
-date: 2024-12-07T17:58:13.549Z
-updated: 2024-12-12T17:30:43.293Z
+date: 2024-12-17T18:25:06.679Z
+updated: 2024-12-19T21:05:18.928Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
  If your**HP scanner is not working** , don’t worry. This is a common scanner problem and you can fix it quickly and easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why is my HP scanner not working?
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
  The causes for these problems are various and sometimes hard to identify. As you can imagine, the connection problem can prevent your scanner from connecting to the computer, and the software and services problems in your computer are the possible reasons for this issue.
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
 
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the connection issue
@@ -78,12 +74,12 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -140,7 +136,7 @@ Then try scanning with your scanner to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware problems
@@ -156,13 +152,13 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, try your scanner again and see if it’s working properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
 
@@ -174,16 +170,16 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
 
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
 
@@ -196,6 +192,10 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -221,22 +221,20 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-effortless-preservation-of-your-loved-instagram-reels-for-2024/"><u>[Updated] Effortless Preservation of Your Loved Instagram Reels for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-inclusive-dynamic-movement-examination/"><u>2024 Approved Inclusive Dynamic Movement Examination</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-real-time-viewership-counter-systems/"><u>2024 Approved Real-Time Viewership Counter Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-11-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 11 Pro Max</u></a></li>
-<li><a href="https://win-bits.techidaily.com/four-effective-methods-to-restore-accidentally-deleted-files-in-windows-1011/"><u>Four Effective Methods to Restore Accidentally Deleted Files in Windows 10/11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Without Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-14-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 14 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 15 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-7-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 7 Lock Screen with Notifications?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-14-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 14 Without a Home Button</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-practical-steps-in-mastering-telegram-web-services/"><u>In 2024, Practical Steps in Mastering Telegram Web Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professional-cameras-face-off-hero-5-vs-keymission-for-2024/"><u>Professional Cameras Face Off Hero 5 VS Keymission for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/proven-winners-the-top-5-tools-for-video-conference-recording-for-2024/"><u>Proven Winners The Top 5 Tools for Video Conference Recording for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-realtek-bluetooth-software-for-windows-users/"><u>Update to the Most Recent Realtek Bluetooth Software for Windows Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-affordable-subscriber-boost-buy-and-sell-youtube-views/"><u>[New] 2024 Approved Affordable Subscriber Boost Buy & Sell YouTube Views</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-a-treasure-trove-sifting-through-the-top-10-economical-online-art-hubs-for-2024/"><u>[Updated] A Treasure Trove Sifting Through the Top 10 Economical Online Art Hubs for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-13-pro-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 13 Pro Max with iTunes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-moto-g84-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-15-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 15 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-8-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 8 Plus with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-12-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 12 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/popart-app-deep-dive-2024-edition/"><u>PopArt App Deep Dive - 2024 Edition</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/reviving-retro-gaming-atari-the400-mini-brings-classic-computer-and-video-games-back/"><u>Reviving Retro Gaming: Atari THE400 Mini Brings Classic Computer & Video Games Back</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rumored-details-for-the-next-gen-foldable-iphone-anticipated-costs-and-specs-revealed/"><u>Rumored Details for the Next-Gen Foldable iPhone: Anticipated Costs and Specs Revealed</u></a></li>
+<li><a href="https://win-help.techidaily.com/schnelle-migration-von-daten-umwandeln-sie-ihre-2tb-festplatte-in-eine-schnellere-sicherere-1tb-ssd/"><u>Schnelle Migration Von Daten: Umwandeln Sie Ihre 2TB Festplatte in Eine Schnellere, Sicherere 1TB SSD</u></a></li>
 </ul></div>
 

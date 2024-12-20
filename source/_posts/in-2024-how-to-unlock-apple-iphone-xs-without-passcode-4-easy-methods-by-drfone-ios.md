@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Apple iPhone XS Without Passcode? 4 Easy Methods
-date: 2024-12-06T16:26:34.899Z
-updated: 2024-12-12T16:04:39.431Z
+date: 2024-12-15T17:33:32.276Z
+updated: 2024-12-20T00:23:16.015Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ The Apple iPhone XS are high-end smartphones with many features and capabilities
 
 This blog post will discuss several methods to unlock your Apple iPhone XS without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone XS's passcode or are just looking for ways to unlock iPhones without a passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is It Possible to Unlock Apple iPhone XS without a Passcode?
 
 Unlocking an iPhone without a passcode is possible, but it's not as simple as entering a code. Besides, there are different methods that you can follow to unlock your Apple iPhone XS on 11/12/13.
@@ -38,10 +42,6 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 
 ![use find My Apple iPhone XS to unlock iphone 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1:** Go to icloud.com from any web browser on your computer or another iOS device.
 
 **Step 2:** Enter your Apple ID and password to log into your iCloud account.
@@ -55,7 +55,7 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 **Step 6:** Once your device has been erased, you can set it up again and use it without a passcode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Unlock it with iTunes
@@ -63,6 +63,10 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 Another way to unlock your Apple iPhone XS without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your Apple iPhone XS:
 
 ![how to unlock iphone 12 without passcode with itunes](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1:** Connect your Apple iPhone XS to the computer you previously used to sync your device with iTunes.
 
@@ -93,7 +97,7 @@ If you have never tried to sync your device with iTunes or used the Find My iPho
 **Step 6:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use Siri (only iOS version 10)
@@ -116,10 +120,6 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 ### Dr.Fone-Screen Unlock
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
@@ -139,6 +139,10 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![drfone interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Create the connection from your Apple iPhone XS to the computer with a lightning cable.
 
 ![how to unlock iphone 13 without passcode in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
@@ -148,10 +152,6 @@ If you are interested in using this tool, then here's how you can do it:
 **Step 4:** Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone XS.
 
 ![how to unlock iphone 12 without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
 
@@ -163,10 +163,6 @@ Once the process is completed, your Apple iPhone XS will be unlocked, and you ca
 
 This is the easiest and most effective way to reset your Apple iPhone XS passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
 If you want to turn the Passcode ON your Apple iPhone XS, then follow these steps:
@@ -174,6 +170,10 @@ If you want to turn the Passcode ON your Apple iPhone XS, then follow these step
 **Step 1:** Go to 'Settings' and select 'Touch ID & Passcode' (if you're using an iPhone with Touch ID). If you're using an iPhone without a Touch ID, select 'Passcode.'
 
 ![how to turn passcode on or off on iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Enter your current Passcode when prompted.
 
@@ -198,6 +198,10 @@ If you have an iPhone, you've likely set a passcode to protect your device. Whil
 Not just this, we will give you different methods so that you can select the most convenient one for you.
 
 So let's get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Useful Methods to Remove Passcode from iPhone
 
@@ -332,10 +336,6 @@ After that, you can enter the new passcode that you want to set for your device.
 
 Besides, there is no way to change the passcode on your device. So, if you forget your passcode, you will have to factory reset your device to access it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to remove the passcode if I forgot it?
 
 If you forgot the passcode of your device and you want to remove it, then you can follow the steps given in this article. We have explained the complete process of removing the passcode from your device if you forgot it.
@@ -352,11 +352,11 @@ You can't access your Apple iPhone XS because the Face ID isn't working, and you
 
 Firstly, one ought to realize that it is impossible to hack an iPhone passcode. Therefore, the primary way that attempts to unlock your device without a PIN or Face ID is to erase it. After reading this guide, you will figure out **how to unlock iPhone without passcode or face ID**. Keep reading to find out more and learn about the best tools in the business.
 
-## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
 
 ### 1\. Unlock it via Find My
 
@@ -430,10 +430,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Click the "I" and enter a DNS server IP address to bypass the lock. IP addresses of different regions are given below:
 
 - USA: 104.154.51.7
@@ -460,6 +456,10 @@ Dr.Fone will not only remove the screen lock but also make sure to keep your ide
 After successfully installing Dr.Fone on your PC, open it and select the "Screen Unlock" tool from the main interface.
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Next, connect your locked phone to the system through a wired connection. Then go for the iOS screen unlock feature.
 
@@ -514,7 +514,7 @@ You'll have the option to turn off the switch for Face ID across different activ
 ![turn off passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Can I bypass my iPhone Face ID with a picture?
@@ -543,21 +543,21 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-audio-enhancement-toolkit/"><u>[New] Expert Audio Enhancement Toolkit</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/"><u>[Updated] How to Maximize Revenue The Secret of FB Animation Campaigns</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easy-steps-to-get-vrecorder-running-on-your-device/"><u>[Updated] In 2024, Easy Steps to Get VRecorder Running on Your Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-mystery-of-ai-black-boxes-and-their-working-dynamics/"><u>Decoding the Mystery of AI Black Boxes and Their Working Dynamics</u></a></li>
-<li><a href="https://discover-help.techidaily.com/erstellen-sie-unter-windows-11-mit-einfachem-schritt-fur-schritt-leitfaden-eine-bootable-usb-laufwerk-aus-einer-iso-datei/"><u>Erstellen Sie Unter Windows 11 Mit Einfachem Schritt-Für-Schritt-Leitfaden Eine Bootable USB-Laufwerk Aus Einer ISO-Datei</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-14-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 14 Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-15-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 15 Pro Max Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-6-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 6 Plus With or Without Password</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix GT 10 Pro?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 11 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-12-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 12 Pro? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XS Max</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-with-manycam-top-virtual-camera-software-solutions/"><u>Live Streaming with ManyCam: Top Virtual Camera Software Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/waveform-whispering-how-to-gradually-reduce-volume-in-adobe/"><u>Waveform Whispering How to Gradually Reduce Volume In Adobe</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-social-media-video-trends-for-smbs/"><u>[New] 2024 Approved Social Media Video Trends for SMBs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-essential-handbook-for-instagram-reels/"><u>[New] 2024 Approved The Essential Handbook for Instagram Reels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unfolding-wonders-your-practical-guide-to-travel-vlogging/"><u>[New] 2024 Approved Unfolding Wonders Your Practical Guide to Travel Vlogging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-android-photo-enhancers/"><u>2024 Approved Top 5 Android Photo Enhancers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-se-2020-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-se-2022-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone SE (2022) After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-13-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 13 When You Forget the Passcode?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-gt-neo-5-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme GT Neo 5 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-12-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 12 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-11-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 11 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Plus</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/profi-tipps-zur-ubertragung-und-nutzung-von-dvds-auf-einem-synologyqnap-nas-server-zum-streaming-zwecken/"><u>Profi-Tipps Zur Übertragung Und Nutzung Von DVDs Auf Einem Synology/QNAP NAS Server Zum Streaming Zwecken</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-itel-p40-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Itel P40 on Windows?</u></a></li>
 </ul></div>
 

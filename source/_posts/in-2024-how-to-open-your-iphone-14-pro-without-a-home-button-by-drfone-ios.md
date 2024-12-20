@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Open Your iPhone 14 Pro Without a Home Button
-date: 2024-12-08T17:39:31.745Z
-updated: 2024-12-12T17:57:40.036Z
+date: 2024-12-17T00:54:26.202Z
+updated: 2024-12-19T22:20:29.156Z
 tags: 
   - unlock
   - remove screen lock
@@ -60,10 +60,6 @@ The alternative solution for **how to open an iPhone without the Home button but
 
 ![assistivetouch menu selections](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3**: Tap **Customize** **Top Level Menu** under Assistive Touch and choose **Home**. The action will guide you to the Apple iPhone 14 Pro passcode screen. From here, you can input your passcode to unlock the Apple iPhone 14 Pro without using the Home button.
 
 ### Method 4: Unlock iPhone Without Home Button via Dedicated Tool
@@ -97,6 +93,10 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![dr.fone successful unlock window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Unlock iPhone via Erase iPhone Features (iOS 15.2)
 
 With iOS 15.2, Apple introduced the Erase iPhone feature, aiding users in resetting devices with forgotten passcodes. The functionality applies to iPhones connected to the network with a broken Home button. Compatible devices include iPhone 6 series, iPhone SE series, and newer models. However, it comes at the cost of erasing all content and data on the Apple iPhone 14 Pro device. Follow the steps:
@@ -106,7 +106,7 @@ With iOS 15.2, Apple introduced the Erase iPhone feature, aiding users in resett
 ![erase iphone process](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2:** Tap the **Erase iPhone** button and input your Apple ID passcode to initiate the process. Once the Apple logo displays on your Apple iPhone 14 Pro screen, you can now access your device without the need for a passcode.
@@ -155,6 +155,10 @@ This unconventional method involves using the charging cable to apply gentle pre
 
 If your Apple iPhone 14 Pro is still under warranty, visiting an Apple Store is advisable. Apple's warranty covers hardware issues, including malfunctioning Home buttons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 A broken iPhone Home button need not spell disaster. Embrace the solutions discussed and try the best solution available. Enable AssistiveTouch, recalibrate the Home button, clean the area, or even visit an Apple Store if under warranty.
@@ -162,6 +166,10 @@ A broken iPhone Home button need not spell disaster. Embrace the solutions discu
 For a comprehensive fix, consider Dr.Fone Screen - Unlock iOS if data loss is a concern. The tool can easily handle unlocking an iPhone without a functioning Home button. It ensures a hassle-free experience. Pick the method that meets your needs best, and regain full access to your device. The power to **unlock an iPhone without a Home button** is within your grasp.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Without iTunes
 
@@ -189,10 +197,6 @@ On the main interface of Dr.Fone, you need to select " Screen Unlock. " You may 
 
 ![factory reset without itunes](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #3: Get your Apple iPhone 14 Pro in Recovery Mode and Make it connected to the Computer:**
 
 You must put your Apple iPhone 14 Pro in recovery mode and then connect it to the computer using a USB cable. If you don't know how to put your Apple iPhone 14 Pro into recovery mode, don't worry, you will all the instructions on the screen.
@@ -207,10 +211,6 @@ After your Apple iPhone 14 Pro is in recovery mode, you need to select the appro
 
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #5: Reset your Apple iPhone 14 Pro:**
 
 Once the firmware is downloaded, you can click on the "Unlock Now" button to begin resetting your device.
@@ -220,10 +220,6 @@ Your locked iPhone has now been successfully unlocked without iTunes after the r
 The process will take a few minutes if you have a strong internet connection because the Firmware may take some time to download. So be patient and wait for the process to be completed.
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
@@ -248,6 +244,10 @@ To do this, you need to follow these steps:
 **Step 4:** Enter your Apple ID password when prompted, and click the " Erase " button to proceed.
 
 Now that your device has been erased, you can reset it as a new one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
@@ -285,17 +285,9 @@ Your device will now be erased, and it'll become a new device.
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Can a Factory Reset Bypass the Lock screen Passcode on iPhone?
 
 Yes. A factory reset will bypass the lock screen passcode on your Apple iPhone 14 Pro and allow you to access it without a passcode. However, all your data will disappear, so make sure you have a backup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Can I Factory Reset my iPhone without Losing the Data?
 
@@ -312,6 +304,10 @@ A soft reset is when you restart your device, and a hard reset is when you facto
 To force your Apple iPhone 14 Pro to factory reset with buttons, you need to follow these steps:
 
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
 
@@ -341,6 +337,10 @@ Like most iPhone users, you rely on your lock screen to keep your data safe and 
 
 We'll explain to you how to use the new features, protect your data, and more. So don't waste any time - read on for all the details!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Have a Customized iOS 17 Lock Screen?
 
 Before we get started, you should know that there are three ways to have a customized lock screen in iOS 17. Let's get to know more about them.
@@ -354,6 +354,10 @@ The first way is to use a pre-made wallpaper from the Apple Wallpaper Gallery.
 To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. Then, select the Apple Wallpaper Gallery and choose the image you want to use.
 
 ![select favorite wallpaper](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The second way to have a customized lock screen is to use a Live Photo. To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. Then, select the Live Photo option and choose the image you want to use.
 
@@ -375,10 +379,6 @@ If you want to set the Auto-Lock time, go to Settings > Display & Brightness > A
 
 ![set auto lock on ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By default, the Auto-Lock time is set to 30 seconds. But you can choose to lock it immediately, after 1 minute, 5 minutes, or never.
 
 ## How to Turn Off/On Lock Screen in iOS 17?
@@ -390,6 +390,10 @@ Enable the Unlock with Passcode (or Unlock with Face ID) to turn ON the lock scr
 ![ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-5.jpg)
 
 But if you have forgotten your passcode, don't worry. The next section will show you how to bypass the lock screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Bypass the iOS 17 Lock Screen Passcode?
 
@@ -405,6 +409,10 @@ That's how you bypass the lock screen without losing any data.
 
 ![emergency dial](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Bypass passcode with iTunes restore
 
 If your Apple iPhone 14 Pro needs to be backed up with iTunes sync feature, you can use this method to bypass the passcode.
@@ -414,10 +422,6 @@ To do this, connect your Apple iPhone 14 Pro to a computer and open iTunes. Then
 It will take some time, but you can use your Apple iPhone 14 Pro without a passcode once it's done.
 
 ![recovery mode on itunes](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Use Find My in iCloud
 
@@ -491,10 +495,6 @@ There are various ways to fix the lock screen bugs in iOS 17. You can try resett
 
 If none of these methods work, you can try using a third-party tool like Dr.Fone-Screen Unlock to bypass the lock screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do you unlock a locked iPhone iOS 17?
 
 There are various ways to unlock a locked iPhone running on iOS 17. You can try the feature of Find My iPhone, or you can also use a third-party tool like Dr.Fone-Screen Unlock.
@@ -531,17 +531,18 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/1716118409556-new-2024-approved-facebook-videos-vertical-or-horizontal/"><u>[New] 2024 Approved Facebook Videos Vertical or Horizontal?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-journey-through-youtubes-spectacular-vr-realms/"><u>[New] In 2024, Journey Through YouTube's Spectacular VR Realms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bright-beginnings-quick-ways-to-brighten-iphone-clips-and-more/"><u>Bright Beginnings Quick Ways to Brighten iPhone Clips and More</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 Pro After Forgetting the Passcode?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cing-video-content-through-effective-use-of-cardsannotations-for-2024/"><u>Enhancing Video Content Through Effective Use of Cards/Annotations for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-troubleshoot-and-resolve-the-ark-crashing-issue-effortlessly/"><u>Guide to Troubleshoot & Resolve the Ark Crashing Issue Effortlessly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-mini-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 mini Passcode without a Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-garmin-forerunner-e945-the-pinnacle-of-gps-sport-watches-on-the-market-today/"><u>In-Depth Analysis of Garmin Forerunner E945: The Pinnacle of GPS Sport Watches on the Market Today</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-no-imovie-no-problem-top-5-free-online-video-editors/"><u>Updated 2024 Approved No iMovie? No Problem! Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-can-i-peruse-friends-shared-videos-and-pics-via-messenger/"><u>[New] 2024 Approved Can I Peruse Friends' Shared Videos & Pics via Messenger?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-eliminate-cacophony-perfecting-sound-quality-for-youtube/"><u>[Updated] Eliminate Cacophony Perfecting Sound Quality for YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-simplifying-slide-creations-with-youtube-content/"><u>[Updated] In 2024, Simplifying Slide Creations with YouTube Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>2024 Approved The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-pop-8-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Pop 8 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-13-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-14-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 14 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone 15 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-how-to-choose-the-best-lipo-battery-for-your-drone/"><u>In 2024, How to Choose the Best LiPo Battery for Your Drone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unblocking-the-road-to-successful-imessages-addressing-undelivered-messages-on-your-iphone/"><u>Unblocking the Road to Successful iMessages: Addressing Undelivered Messages on Your iPhone</u></a></li>
 </ul></div>
 

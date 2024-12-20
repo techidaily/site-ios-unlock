@@ -1,7 +1,7 @@
 ---
 title: Defeat the Crash Bug in Star Wars Battlefront II - A Comprehensive Fix
-date: 2024-12-07T17:07:13.604Z
-updated: 2024-12-12T16:22:15.093Z
+date: 2024-12-13T16:57:51.835Z
+updated: 2024-12-19T16:01:56.467Z
 tags:
   - win11
   - win10
@@ -40,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Change launch directory
 
@@ -87,12 +79,12 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Run-appdata.png)
 3. **Double-click** on the**.minecraft** folder to open it. Then create a new folder and name it as_new launch directory_ (or whatever you like).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
@@ -100,13 +92,13 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
@@ -126,18 +118,22 @@ To perform a clean boot, just follow the steps below:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -146,6 +142,10 @@ To perform a clean boot, just follow the steps below:
  Once you find out the software that crashes your game, you may need to close or uninstall it before you launch Lunar Client.
 
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Minecraft and Lunar Client
 
@@ -175,21 +175,18 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertly-easy-timekeepers-without-a-price-tag/"><u>[Updated] Expertly Easy Timekeepers Without a Price Tag</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-content-creation-on-facebook-aspect-ratio-choice/"><u>[Updated] In 2024, Content Creation on Facebook Aspect Ratio Choice</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-sync-shutter-speed-blur-artistry-in-photoshop/"><u>2024 Approved Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-6s-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 6s and iPad Securely</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-performance-of-finties-laptop-sleeve-for-macbook-pro-13-a-blend-of-resilience-and-value-appeal/"><u>Evaluating the Performance of Fintie's Laptop Sleeve for MacBook Pro 13: A Blend of Resilience & Value Appeal</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-12-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 12 Pro After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 14 Plus Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro In Different Conditionsin</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-se-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone SE</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-8-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 8</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-8-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 8 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-installing-canon-cb5150-printer-driver-for-microsoft-windows/"><u>Step-by-Step Guide: Downloading and Installing Canon CB5150 Printer Driver for Microsoft Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-removing-hp-client-security-manager-fixing-error-code-1325-on-windows-7/"><u>Successfully Removing HP Client Security Manager: Fixing Error Code 1325 on Windows 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 14 Pro Max Without Passcode Easily</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-intel-integrated-graphics-for-windows-10-and-11-free-software-downloads/"><u>Update Your Intel Integrated Graphics for Windows 10 and 11: Free Software Downloads!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win10-cpu-usage-prevention-and-control-tips/"><u>Win10 CPU Usage: Prevention and Control Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-seamless-collaboration-the-top-5-video-call-recorder-choices/"><u>[New] In 2024, Seamless Collaboration The Top 5 Video Call Recorder Choices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-radial-blur-photoshop-edition-for-2024/"><u>[New] Mastering Radial Blur Photoshop Edition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vegas-pro-2021-reviewed-a-sports-betting-journey/"><u>2024 Approved Vegas Pro 2021 Reviewed – A Sports Betting Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone X in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xs-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS Max</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-can-you-fix-programs-that-arent-functioning-correctly-expert-advice-from-yl-computing/"><u>How Can You Fix Programs That Aren't Functioning Correctly? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark 10 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Lock Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-workflow-with-windows-and-sudo-integration/"><u>Optimize Your Workflow with Windows & Sudo Integration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia Phones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/form-your-youtube-presence-effortlessly/"><u>Transform Your YouTube Presence Effortlessly</u></a></li>
 </ul></div>
 

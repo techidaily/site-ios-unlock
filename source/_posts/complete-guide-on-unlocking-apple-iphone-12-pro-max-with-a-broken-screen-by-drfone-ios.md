@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 12 Pro Max with a Broken Screen?
-date: 2024-07-15T01:35:07.083Z
-updated: 2024-07-16T01:35:07.083Z
+date: 2024-12-16T16:41:05.614Z
+updated: 2024-12-19T23:51:03.304Z
 tags: 
   - unlock
   - remove screen lock
@@ -96,9 +96,6 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
@@ -109,9 +106,6 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 12 Pro Max device and let you pick a photo.
@@ -125,7 +119,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -158,7 +151,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 In almost no time, the software will unlock your Apple iPhone 12 Pro Max effectively. However, note that this unlocking will likewise wipe your user data.
-
 
 ### The Bottom Line
 
@@ -209,7 +201,15 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock iPhone Face ID Using Apple Watch
 
@@ -225,9 +225,6 @@ To enable the feature of unlocking the Apple iPhone 12 Pro Max with an Apple Wat
 
 **Step** **1:** Head to the " Settings " app and choose "Face ID & Passcode." Give your passcode for authenticity and proceed further.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
@@ -236,11 +233,13 @@ To enable the feature of unlocking the Apple iPhone 12 Pro Max with an Apple Wat
 
 After enabling this feature, you can unlock your Apple iPhone 12 Pro Max with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 12 Pro Max has been unlocked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -282,6 +281,10 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 ![using find my to locate iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Scenarios Where Find My Works
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
@@ -296,6 +299,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 - **Step 1.** Access the Find My app on a trusted device and open it. If you can't access one, use the iCloud website to access Find My service.
 
 ![open find my app](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
@@ -313,9 +320,6 @@ Lost Mode locks the Apple iPhone 12 Pro Max device and allows users to showcase 
 
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
 
 - **Step 3.** After adding a message, tap "Next" on the following screen and press "Activate" from the top right corner.
@@ -344,17 +348,22 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![erase device from find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** If using the iCloud website, tap "Erase This Device" and click "Next" on the upcoming prompt. You will be asked to enter the Apple ID password, after which you can use the on-screen guidelines to finish the process.
 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5. Other Things To Do iPhone Is Stolen
 
 There are additional measures you can take to enhance your overall security apart from understanding **how do I lock my stolen iPhone**. The following are some options you should utilize in case of device loss:
@@ -364,6 +373,10 @@ There are additional measures you can take to enhance your overall security apar
 If your Apple iPhone 12 Pro Max is stolen, it is crucial to immediately inform your local law enforcement agency. It facilitates the recovery process and assists in combatting criminal activities. Provide essential details about your Apple iPhone 12 Pro Max, such as the Model, color, and IMEI number. Share information about your efforts to locate the stolen iPhone using Find My.
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
@@ -400,6 +413,10 @@ After your Apple iPhone 12 Pro Max is stolen, it becomes essential to bolster th
 ## Part 6. Precautions To Take for Avoiding Losing iPhone
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 12 Pro Max when stolen**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Precaution #1. Enable Find My on Device
 
@@ -443,6 +460,10 @@ Recovering your stolen iPhone successfully can be a joyous event. Yet, the frust
 
 It provides a hassle-free solution for those locked out of their devices. This powerful tool effortlessly removes various lock screens on iPhones and iPads. It can [<u>bypass the iCloud activation lock without the need for a password</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
@@ -460,7 +481,6 @@ Wondershare Dr.Fone is a comprehensive toolkit that addresses many iOS-related i
 Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" tab. Click "Screen Unlock," and on the following screen, choose “iOS." Click "Unlock iOS Screen" on the following screen and link your iOS device to the computer.
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
 
 - Step 2. Entering Recovery Mode and Choosing System Version
 
@@ -480,9 +500,6 @@ Knowing **how to lock stolen iPhone**s is essential for safeguarding personal an
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -495,9 +512,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-achieving-gentle-volume-alteration-using-fl-studio/"><u>[New] In 2024, Achieving Gentle Volume Alteration Using FL Studio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ho-earns-more-in-the-video-market-dailymovement-vs-youtube-for-2024/"><u>[New] Who Earns More in the Video Market? DailyMovement Vs YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-tips-for-effective-mov-file-saving-on-windows-11/"><u>2024 Approved Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-14-pro-max-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ideal-thinkpad-models-for-the-modern-hybrid-worker-beyond-lenovos-latest-innovations-techadvice/"><u>Ideal ThinkPad Models for the Modern Hybrid Worker: Beyond Lenovo's Latest Innovations | TechAdvice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 11 Pro Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-7-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 7 Prevention & Solution</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-final-showdown-is-obs-studio-superior-to-bandicam/"><u>In 2024, The Final Showdown Is OBS Studio Superior to Bandicam?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-11-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus 11 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-corporate-space-for-storage/"><u>Superior Corporate Space for Storage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-toms-tech-resource-for-savvy-consumers/"><u>The Ultimate Tom’s Tech Resource for Savvy Consumers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6s-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6s Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-14-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 14 i Do? Get Answers here</u></a></li>
+</ul></div>
 

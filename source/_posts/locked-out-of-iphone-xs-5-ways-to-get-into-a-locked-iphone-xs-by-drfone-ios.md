@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone XS? 5 Ways to get into a Locked iPhone XS
-date: 2024-12-10T16:53:18.114Z
-updated: 2024-12-12T17:45:00.636Z
+date: 2024-12-17T16:20:51.136Z
+updated: 2024-12-19T23:44:43.571Z
 tags: 
   - unlock
   - remove screen lock
@@ -63,17 +63,9 @@ You can watch the video below about how to unlock your Apple iPhone XS without P
 
 ![confirmation code to get into locked Apple iPhone XS](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone XS successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to get into a locked Apple iPhone XS with iTunes?
 
@@ -92,10 +84,6 @@ This is another popular way to resolve the locked out of the Apple iPhone XS pro
 **Step 3.** Click on the “Restore” button. This would reset your device.
 
 ![restore Apple iPhone XS](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone XS")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to get into a locked Apple iPhone XS via Find My Apple iPhone XS?
 
@@ -183,6 +171,10 @@ A few methods allow you to guess or brute-force your way into the password. Stil
 
 Additionally, it is simple and can be finished in minutes rather than hours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is iPhone backup unlocker?
 
 ![incorrect password](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-3.jpg)
@@ -217,10 +209,6 @@ After downloading Dr.Fone, please run it and locate the red button **"Screen Unl
 To start, tap "Remove iTunes BackUp Encryption" in the bottom right corner of the Screen Unlock window.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When you reach this screen, connect your iOS device to your computer using a USB connection. If Dr.Fone can identify this link, the graphic below will display.
 
@@ -261,10 +249,6 @@ PassFab iPhone Backup Unlocker is considerably different from other iPhone backu
 
 ![passfab](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Why do Users like it? (Review)**
 
 PassFab is an iPhone backup unlocker that works well and is safe to use. It comes with three different and robust password attack methods. This powerful program gets the job done quickly, with as few steps as possible, and without hurting your data. PassFab also has a free trial version that users can use to try.
@@ -282,10 +266,6 @@ PassFab is an iPhone backup unlocker that works well and is safe to use. It come
 
 - Customer service may be frustrating and time-consuming.
 - Activation locks need the PassFab Activation Unlocker, which is sold separately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. 4uKey-iTunes Backup
 
@@ -405,6 +385,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
 Lost Mode locks the Apple iPhone XS device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
@@ -433,9 +417,17 @@ Lost Mode locks the Apple iPhone XS device and allows users to showcase a person
 
 ![access lost mode option](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
@@ -463,6 +455,10 @@ If your Apple iPhone XS is stolen, it is crucial to immediately inform your loca
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
 You can claim insurance if you have AppleCare+ coverage for your Apple iPhone XS. AppleCare+ with Theft and Loss for iPhone includes protection against theft and loss incidents. It offers up to two incidents of such coverage every 12 months.
@@ -472,7 +468,7 @@ To qualify for theft or loss coverage, it is necessary for Find My to be enabled
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
@@ -485,6 +481,10 @@ After your Apple iPhone XS is stolen, it becomes essential to bolster the securi
 
 ![open settings and apple id details](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
 
 ![remove stolen device from account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-17.jpg)
@@ -495,13 +495,13 @@ After your Apple iPhone XS is stolen, it becomes essential to bolster the securi
 
 ![log into apple id account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Once logged in, click "Devices" from the left side and select the lost device. To remove this device as a trusted device, click "Remove from Account."
 
 ![remove device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6. Precautions To Take for Avoiding Losing iPhone
 
@@ -544,7 +544,7 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Tip. Find Stolen iPhone Back but Locked? Unlock With Wondershare Dr.Fone
@@ -558,10 +558,6 @@ It provides a hassle-free solution for those locked out of their devices. This p
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
 2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone XS or iPad if you have forgotten its password.
 3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -587,6 +583,10 @@ To show your acknowledgment of the warning, enter the asked code, which is "0000
 
 ![acknowledge and unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Knowing **how to lock stolen iPhone**s is essential for safeguarding personal and sensitive data. Apple's Find My empowers users to remotely locate, lock, and erase their lost devices. If you have recovered your stolen device but it is locked, Wondershare Dr.Fone emerges as the top choice to unlock it within minutes.
@@ -607,18 +607,19 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-draft-satirical-graphics-for-giphy-use/"><u>[New] In 2024, Draft Satirical Graphics for Giphy Use</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-essential-techniques-for-fast-forwarding-in-spotify-for-2024/"><u>[New] The Essential Techniques for Fast-Forwarding in Spotify for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-xr-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone XR Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xs-max-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone XS Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-world-of-microsofts-activex-technologies-dive-into-complus-fundamentals/"><u>Exploring the World of Microsoft's ActiveX Technologies - Dive Into COM+ Fundamentals</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-x-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone X</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-12-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 12 without Password?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 Pro Properly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pro-mastering-full-screen-views/"><u>In 2024, Premiere Pro Mastering Full-Screen Views</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-update-and-download-dell-laptop-model-d3100-drivers/"><u>Step by Step Tutorial: Update & Download DELL Laptop Model D3100 Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/whats-included-in-the-enhanced-windows-11-settings-app/"><u>What's Included in the Enhanced Windows 11 Settings App?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-immediate-impact-integrating-luts-into-your-ae-workflow-for-2024/"><u>[New] Immediate Impact Integrating LUTs Into Your AE Workflow for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-boutique-online-portals-for-individualized-gift-artistry/"><u>[New] In 2024, Best Boutique Online Portals for Individualized Gift Artistry</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-tp-link-wifi-card-drivers-supporting-windows-11-and-earlier-versions/"><u>Get the Most Recent TP-Link WiFi Card Drivers Supporting Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-xr-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone XR When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-mini-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nubia-red-magic-8s-proplus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nubia Red Magic 8S Pro+ Face Lock?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-smooth-gaming-on-outriders-expert-fixes-for-optimal-frame-rates/"><u>Maximize Smooth Gaming on Outriders: Expert Fixes for Optimal Frame Rates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximizing-harvest-valheims-prime-planting-choices/"><u>Maximizing Harvest Valheim's Prime Planting Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-8-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 8 Plus Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-6s-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 6s Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-selection-of-vertical-keyboard-mouse-controllers-for-the-year-2024/"><u>The Ultimate Selection of Vertical Keyboard Mouse Controllers for the Year 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-nomad-iphone-cases-on-sale-bogo-offer-available-today-shop-at-yourwebsitecom/"><u>Top Nomad iPhone Cases on Sale - BOGO Offer Available Today! Shop at [YourWebsite.com]</u></a></li>
 </ul></div>
 

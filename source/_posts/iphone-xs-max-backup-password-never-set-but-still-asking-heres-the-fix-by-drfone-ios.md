@@ -1,7 +1,7 @@
 ---
 title: iPhone XS Max Backup Password Never Set But Still Asking? Heres the Fix
-date: 2024-12-05T17:42:43.227Z
-updated: 2024-12-12T16:29:05.247Z
+date: 2024-12-16T17:01:42.733Z
+updated: 2024-12-19T16:51:16.049Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,6 +27,10 @@ In most cases, this occurs when the Encrypt Backup option is activated. As an of
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone XS Max backup unlocking never set by you.
 
 But the good news is you have some possible fixes. So, let's talk about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
@@ -112,21 +116,17 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone XS Max backup never set in the first place!
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -175,11 +175,19 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
 
 ![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Jailbreak your Apple iPhone XS Max**
 
@@ -188,7 +196,7 @@ Jailbreak your Apple iPhone XS Max by following the instructions given by the sy
 ![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5: Confirmation Window**
@@ -198,7 +206,7 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6: Unlock your Apple iPhone XS Max**
@@ -212,10 +220,6 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
@@ -240,7 +244,7 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
@@ -303,10 +307,6 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 ![how to factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #4: Choose the Appropriate Firmware and Download it:**
 
 After your Apple iPhone XS Max is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
@@ -322,6 +322,10 @@ Your locked iPhone has now been successfully unlocked without iTunes after the r
 The process will take a few minutes if you have a strong internet connection because the Firmware may take some time to download. So be patient and wait for the process to be completed.
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
@@ -381,14 +385,10 @@ To do this, you need to follow these steps:
 
 Your device will now be erased, and it'll become a new device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Can a Factory Reset Bypass the Lock screen Passcode on iPhone?
@@ -411,10 +411,6 @@ To force your Apple iPhone XS Max to factory reset with buttons, you need to fol
 
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
 
 **Step 2:** After 10 seconds have passed, release the " Sleep/Wake " button but keep holding the " Home " button.
@@ -424,6 +420,10 @@ To force your Apple iPhone XS Max to factory reset with buttons, you need to fol
 **Step 4:** Here, you will be in recovery mode, and now you can reset your Apple iPhone XS Max.
 
 Your device will now be reset, and you will have a phone like a new one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. How can I get into a locked iPhone?
 
@@ -451,20 +451,22 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-guiding-principles-for-swapping-gender-on-instagram-facebook-and-snapchat-pics-for-2024/"><u>[New] Guiding Principles for Swapping Gender on Instagram, Facebook & Snapchat Pics for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-pathway-to-proficient-league-of-legends-screen-recordings/"><u>[New] In 2024, The Pathway to Proficient League of Legends Screen Recordings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/become-a-vr-pro-ios-devices-guide-to-vr-viewing/"><u>Become a VR Pro IOS Device's Guide to VR Viewing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-films-on-the-house-secrets-to-finding-free-trial-offers-with-netflix/"><u>Enjoy Films on the House: Secrets to Finding Free Trial Offers with Netflix</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-xs-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone XS Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-7ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 7/iPad Without Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-6-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 6 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18e Phone without Google Account?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-12-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 12 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Plus Without Passcode Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-8-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 8 Without Passcode Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-x-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone X Without Passcode Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-typing-speed-without-sacrificing-accuracy/"><u>Maximizing Typing Speed Without Sacrificing Accuracy</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/top-off-your-printing-experience-latest-aio-updates-in-windows-7/"><u>Top Off Your Printing Experience: Latest AIO Updates in WIndows 7</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96316844-9781781803738-virgo-moon-sign/"><u>Virgo Moon Sign | Free Book</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-optimal-youtube-video-formats-a-comprehensive-guide/"><u>[New] Optimal YouTube Video Formats A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>[New] The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-watch-experience-youtube-list-shuffle/"><u>[Updated] 2024 Approved Elevating Your Watch Experience YouTube List Shuffle</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-advanced-strategies-for-enhancing-vhs-images-digitally/"><u>[Updated] Advanced Strategies for Enhancing VHS Images Digitally</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-mac-image-compiler/"><u>[Updated] In 2024, Advanced Mac Image Compiler</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-xs-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone XS Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone SE Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-xs-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone XS Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-8-plus-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 8 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-pro-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 Pro With 7 Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-z-fold-5-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy Z Fold 5 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shadow-broadcasters-master-the-art-of-anonymous-livestreaming-on-instagram/"><u>Shadow Broadcasters Master the Art of Anonymous Livestreaming on Instagram</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-v30-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo V30 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-11-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 11 Pro</u></a></li>
 </ul></div>
 

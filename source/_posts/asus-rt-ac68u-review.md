@@ -1,7 +1,7 @@
 ---
 title: Asus RT-AC68U Review
-date: 2024-12-07T17:09:29.545Z
-updated: 2024-12-12T18:04:38.918Z
+date: 2024-12-15T17:28:25.713Z
+updated: 2024-12-19T16:12:07.298Z
 categories:
   - BestProducts
 description: This Article Describes Asus RT-AC68U Review
@@ -43,10 +43,6 @@ Lifewire / Andy Zahn
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
 
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
@@ -79,6 +75,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -92,7 +92,7 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process** :**Get charged up and you’re ready to go**
@@ -113,6 +113,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -122,7 +126,7 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
@@ -141,10 +145,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -158,10 +158,6 @@ Lifewire / Andy Zahn
  A problem with all these automated modes and scene settings is that the images they produce are exclusively JPEG, with RAW being unavailable. Fortunately, Program mode is essentially the same as Auto, and you can enable RAW image recording there.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Video Quality: A mixed bag**
 
@@ -187,15 +183,15 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -212,6 +208,10 @@ Lifewire / Andy Zahn
  **A tremendously fun camera that is exceedingly well-rounded if a bit pricey.**
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -253,20 +253,22 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-low-cost-hd-cameras-for-sports-enthusiasts/"><u>[New] 2024 Approved Essential Low-Cost HD Cameras for Sports Enthusiasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-earnings-expertise-on-streaming-services-the-ultimate-guide-for-2024/"><u>[Updated] Earnings Expertise on Streaming Services The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>2024 Approved How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-15-pro-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 15 Pro Lock Screen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hdr-mastery-transforming-your-portrait-journey/"><u>HDR Mastery Transforming Your Portrait Journey</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-14-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Pro Max Without a Home Button</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-2020-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE (2020) when Phone is Broken?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-15-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 15 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-15-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 15 Pro After Forgetting the Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-11-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 11 Pro Lock Screen</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/iphone-document-scanning-and-conversion-use-ocr-technology-with-finereader-pdf/"><u>IPhone Document Scanning & Conversion: Use OCR Technology with FineReader PDF</u></a></li>
-<li><a href="https://app-tips.techidaily.com/latest-breakthroughs-in-5g-networking-and-edge-tech-trends-top-picks-from-todays-market-zdnet/"><u>Latest Breakthroughs in 5G Networking & Edge Tech Trends: Top Picks From Today's Market (ZDNet)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mmfwavmovavi/"><u>MMF到WAV格式自由转换：使用Movavi的简单方法</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-expertly-curated-list-of-premier-audio-trimming-software-websites/"><u>New 2024 Approved Expertly Curated List of Premier Audio Trimming Software Websites</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamless-transition-upgrading-from-windows/"><u>Seamless Transition: Upgrading From Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/70120090-new-best-free-youtube-ending-creators-top-6-picks/"><u>[New] Best Free YouTube Ending Creators - Top 6 Picks!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-frozen-yum-screening-device-deep-review-for-2024/"><u>[New] Frozen Yum Screening Device Deep Review for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-direct-to-youtube-stepwise-process-of-mobile-and-desktop-video-posting/"><u>[Updated] Direct to YouTube Stepwise Process of Mobile & Desktop Video Posting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-hit-the-high-notes-in-capturing-twitch-live-events-for-2024/"><u>[Updated] How to Hit the High Notes in Capturing Twitch Live Events for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>2024 Approved Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/achieving-synergy-integrating-linktree-into-your-tiktok-profile/"><u>Achieving Synergy Integrating Linktree Into Your TikTok Profile</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-xs-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone XS Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 14, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6s</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Reno 10 5G Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone XR Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-se-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone SE i Do? Get Answers here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-the-unboxing-game-strategies-for-more-viral-videos-and-likes-for-2024/"><u>Master the Unboxing Game Strategies for More Viral Videos and Likes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro</u></a></li>
 </ul></div>
 

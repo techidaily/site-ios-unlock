@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 12 mini Backup Password? Heres What to Do
-date: 2024-07-15T01:33:59.475Z
-updated: 2024-07-16T01:33:59.475Z
+date: 2024-12-14T23:19:48.035Z
+updated: 2024-12-19T19:04:07.518Z
 tags: 
   - unlock
   - remove screen lock
@@ -72,6 +72,10 @@ The typical method that each individual attempts for the first time is to input 
 - Passcode for the administrator
 - Passcode for the iPhone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. "Reset All Settings" via "Settings"
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
@@ -115,8 +119,9 @@ After successfully signing in with your Apple ID, choose **Backup**.
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Dr.Fone-Screen Unlock
 
 With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of the iTunes backup password.
@@ -137,9 +142,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Don't open iTunes while doing this.
 - Your device will reboot
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
@@ -150,10 +152,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -181,8 +179,6 @@ You can even add a description of the password, so you remember which account it
 As a last piece of advice, please safely save your newly created passwords. Rather than writing them down in the iPhone's notepad, you should save the passwords in a secure location.
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
-
-
 
 ## Complete Fixes To Solve Apple iPhone 12 mini Randomly Asking for Apple ID Password
 
@@ -252,10 +248,11 @@ Open Wondershare Dr. Fone on your computer and navigate to the Toolbox > Screen 
 
 In the next window, select the option to Remove Apple ID to initiate the process of removing your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Choose Remove Apple ID on Dr.Fone](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Connect Your Device
 
@@ -289,6 +286,10 @@ Once you download the firmware, it will be verified by the software. Click Unloc
 
 ![Input the code to unlock the Apple ID](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** Monitor Apple ID Removal Progress
 
 Keep your device connected and avoid any disconnections. Once the Apple ID is unlocked, the software will prompt the completion. Click Done to conclude the process. If the Apple ID is not unlocked, you can click Try Again.
@@ -311,6 +312,10 @@ Turning off iCloud Keychain and then turning it back on can help refresh the dat
 
 ![Disable your iCloud keychain](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 7: Check Network Connectivity**
 
 Make sure that your Apple iPhone 12 mini has a reliable internet connection. Weak or unstable networks can trigger password prompts. Try to switch between different Wi-Fi networks or use cellular data.
@@ -325,6 +330,9 @@ These are some of the methods that can help you stop your Apple iPhone 12 mini f
 
 If the issue persists, it's recommended to visit an authorized Apple service center.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus Part: How To Get Your Apple ID Password Back if You Forget It**
 
@@ -366,8 +374,6 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a unique tool designed to help you avoid all hassles and get back on track quickly. It comprises modules designed to help you with all the issues that you might encounter during smartphone use. Naturally, there is something to help you when your Apple iPhone 12 mini is disabled. You don't need to use anything else, no other software or special cable or support. All you need is this one software you can download on your computer (both macOS and Windows supported) and you're good to go.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 12 mini Without iTunes/ iCloud.
@@ -394,6 +400,10 @@ Do note that all methods that unlock your Apple iPhone 12 mini will necessarily 
 **Step 4:** Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click "Start" to download the specific firmware file for your particular Apple iPhone 12 mini model.
 
 ![download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** After the download completes, please click Unlock Now to start unlocking the disabled Apple iPhone 12 mini.
 
@@ -467,19 +477,28 @@ As you may be aware, using iTunes or macOS Finder allows you to backup and resto
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
 After all this to get access back, you might think let's go passcode-less and prevent the hassle. Don't do that - that's worse and unsafe. Instead, here are tips you can use to make sure you don't accidentally disable your Apple iPhone 12 mini again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip 1: About Passcodes
 
 - 1.1 Set a passcode that is easier to remember for you but difficult to think of for thieves and others.
 - 1.2 Never use birthdates, years, vehicle numbers or any such numbers that may be easily tried by others.
 - 1.3 Never use repeating numbers.
 - 1.4 Do not use your ATM PIN as your phone passcode either. Think of some digits or combination that makes sense to you and only you. And then use it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 2: Use Face ID
 
@@ -490,7 +509,6 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 12 mini, so
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 12 mini disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 12 mini device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -504,9 +522,22 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-stay-grounded-in-virtual-reality-spaces-for-2024/"><u>[New] How to Stay Grounded in Virtual Reality Spaces for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-elevate-your-videography-with-top-seo-gadgets/"><u>[New] In 2024, Elevate Your Videography with Top SEO Gadgets</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-aural-journey-illustrating-sound-patterns-with-waveform-graphics-and-dynamic-animations-in-nle-essential/"><u>2024 Approved Aural Journey Illustrating Sound Patterns with Waveform Graphics and Dynamic Animations in NLE Essential</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beyond-the-basics-advanced-techniques-for-improved-recordings/"><u>Beyond the Basics Advanced Techniques for Improved Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-switch-your-windows-11-logon-technique-ditch-pin-embrace-password/"><u>Easily Switch Your Windows 11 Logon Technique: Ditch PIN, Embrace Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-mini-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-x-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone X? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-pro-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-can-i-stop-my-videos-from-flipping-on-instagram/"><u>In 2024, How Can I Stop My Videos From Flipping on Instagram?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23-fe-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23 FE to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-15-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 15 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 8 Passcode without a Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-low-volume-playback-system-guide-for-2024/"><u>The Art of Low-Volume Playback System Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-11-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zoom-optimization-for-effective-virtual-meetings/"><u>Zoom Optimization for Effective Virtual Meetings</u></a></li>
+</ul></div>
 

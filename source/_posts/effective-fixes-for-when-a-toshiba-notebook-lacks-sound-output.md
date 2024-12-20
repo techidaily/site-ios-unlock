@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for When a Toshiba Notebook Lacks Sound Output
-date: 2024-12-10T17:05:36.470Z
-updated: 2024-12-12T17:16:02.557Z
+date: 2024-12-14T22:15:46.345Z
+updated: 2024-12-19T23:21:12.488Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:**Check if it’s a video problem**
 
  There are many reasons why a Facebook video has no sound, and the most common one is that the video is incorrectly encoded, or is silent at the first place. In that case, you can try other videos and see if they have audio issues as well.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
  Also don’t forget to check the video volume control in Facebook. It pops up at the bottom when you hover your mouse cursor over the video. Make sure you set the video volume correctly.
 
  If the volume is set correctly and your no sound issue reappears on other videos, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2:**Unmute your browser**
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
@@ -70,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
  If the problem persists after changing your browser, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4:**Restart your computer**
 
  It may sound silly, but rebooting your computer actually solves many problems. Especially when you’ve kept your PC running for a long period, and some programs start to function improperly. In all cases, a restart resets the current state of a software, and it might just fix your no sound issue at the same time.
 
  If restarting your computer doesn’t help either, please continue to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Update your audio driver**
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -122,18 +122,14 @@ This method also applies to Windows 10, 8 or 7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Change your audio channel**
 
@@ -154,11 +150,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -182,20 +182,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-the-most-effective-internet-tools-for-caption-perfection/"><u>[New] Unveiling the Most Effective Internet Tools for Caption Perfection</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mellow-playtime-10-top-rated-stress-erasers/"><u>[Updated] 2024 Approved Mellow Playtime 10 Top-Rated Stress Erasers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginners-guide-to-essential-photo-edits-in-ps-for-2024/"><u>Beginner's Guide to Essential Photo Edits in PS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsoft-print-to-pdf-issues-on-windows-11/"><u>How to Fix Microsoft Print to PDF Issues on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-find-x6-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo Find X6 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus Passcode Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60s-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel A60s Phone without PIN</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-6-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 6 Plus Lock Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-itel-p55t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel P55T Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xr-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone XR Unavailable Issue With Ease</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterful-text-effects-in-adobe-after-effects-for-2024/"><u>Masterful Text Effects in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-6-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 6 Plus Prevention & Solution</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-x-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone X Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-awareness-tactics-for-social-media-visibility/"><u>[New] 2024 Approved YouTube Awareness Tactics for Social Media Visibility</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-captivate-with-instagrams-live-feature/"><u>[Updated] 2024 Approved How to Captivate with Instagram's Live Feature</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-joining-the-twitter-community-from-scratch-for-2024/"><u>[Updated] Joining the Twitter Community From Scratch for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-frequent-monetization-is-it-real-on-youtube/"><u>2024 Approved Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amdradeon5770supportxps13/"><u>AMDRADEON5770SupportXPS13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-13-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 13 mini Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-7-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 7 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-create-and-edit-videos-on-windows-11-for-2024/"><u>How to Create and Edit Videos on Windows 11 for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-13-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 13 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-pro-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mastering-vsphere-high-availability-ha-an-essential-guide-to-effortless-vm-recovery-and-management/"><u>Mastering vSphere High Availability (HA): An Essential Guide to Effortless VM Recovery and Management</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Dell Audio Malfunctions: Expert Solutions for Windows 7 Users"
-date: 2024-12-11T17:12:06.913Z
-updated: 2024-12-12T17:31:42.459Z
+date: 2024-12-18T17:30:44.336Z
+updated: 2024-12-19T18:07:52.564Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/f07bcde69983933cb76ff9d178455e2b69ef74b8f
 If your external speakers are not working on Windows 10, don’t worry, you’re not alone. The speakers not working problem could relate to many factors, for instance, the speakers, the hardware themselves, could be damaged, your system sound could be muted, your audio driver could be faulty, and so forth. If you encounter this problem, follow the troubleshooting tips here and find the solution that works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1, make sure your speakers are not the problem
@@ -26,10 +26,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  Try to test your speakers on another device (a computer or a mobile phone would both do) to see if they are working properly. This will help determine if the issue is with the speakers themselves or with your computer.
 
  When the above check is done, and you find the problem on your computer, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2, make sure the connection between your speakers and computer is good
 
@@ -43,10 +39,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -57,27 +49,23 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
@@ -93,11 +81,23 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -107,10 +107,6 @@ Follow these steps:
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
@@ -134,6 +130,10 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
 <ins class="adsbygoogle"
@@ -151,16 +151,18 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-choose-wisely-best-border-tools-for-stylizing-instagram-photos-for-2024/"><u>[New] Choose Wisely Best Border Tools for Stylizing Instagram Photos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-characters-that-captivate-key-growth-strategies/"><u>[Updated] Characters That Captivate Key Growth Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mastering-quadcopter-efficiency-with-best-motor-selection-tips/"><u>[Updated] Mastering Quadcopter Efficiency with Best Motor Selection Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-14-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 Plus with iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Plus? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/netgear-c3700-cable-modem-router-review/"><u>Netgear C3700 Cable Modem Router Review</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-c02-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia C02 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-your-online-world-keeping-fb-free-from-strangers-views/"><u>Secure Your Online World: Keeping FB Free From Strangers' Views</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-buyers-guide-top-five-priorities-when-shopping-for-a-fitness-gadget/"><u>The Buyer's Guide: Top Five Priorities When Shopping for a Fitness Gadget</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-your-time-online-embracing-facebook-fully/"><u>[New] 2024 Approved Maximizing Your Time Online Embracing Facebook Fully</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guide-to-selecting-best-vhs-edits-via-computer/"><u>[New] Guide to Selecting Best VHS Edits via Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-aerial-artistry-essential-steps-for-drone-video-excellence/"><u>[New] In 2024, Aerial Artistry Essential Steps for Drone Video Excellence</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-secrets-to-10-music-video-fame-on-facebook-for-2024/"><u>[New] The Secrets to #10 Music Video Fame on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-economics-for-beginners-channel-creation-and-income-strategies/"><u>2024 Approved Youtube Economics for Beginners Channel Creation & Income Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-a1x-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Oppo A1x 5G.</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-days-gone-at-its-best-on-pc-with-latest-fixes-and-optimizations/"><u>Experience 'Days Gone' At Its Best on PC with Latest Fixes and Optimizations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-aim-higher-than-xsplit-top-video-editors-reviewed/"><u>In 2024, Aim Higher than Xsplit Top Video Editors Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-7-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 7 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-11-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 11 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-11-pro-max-5-ways-to-get-into-a-locked-iphone-11-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 11 Pro Max? 5 Ways to get into a Locked iPhone 11 Pro Max</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-temptation-ais-role-in-romance-risk/"><u>Tech Temptation: AI's Role in Romance Risk</u></a></li>
 </ul></div>
 

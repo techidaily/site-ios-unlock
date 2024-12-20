@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 mini
-date: 2024-07-15T01:33:58.309Z
-updated: 2024-07-16T01:33:58.309Z
+date: 2024-12-14T22:13:19.701Z
+updated: 2024-12-19T19:23:30.742Z
 tags: 
   - unlock
   - remove screen lock
@@ -82,9 +82,6 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
 Fix No.4: Remove Network Settings Installed by MDM
@@ -120,6 +117,10 @@ Have you ever bought a used iPad or Apple iPhone 12 mini to find the Auto-Lock o
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
@@ -141,6 +142,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
@@ -237,6 +242,10 @@ These are the steps for registering a new Apple ID:
 
 ![create your apple id step 1](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
 
 ### B. Verifying Your Identity
@@ -277,6 +286,10 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -294,11 +307,14 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
@@ -321,18 +337,27 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![firmware complete](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** The following screen shows the unlocking status of your Apple ID. Don't let the Apple iPhone 12 mini device lose its connection under any circumstances. The screen prompts the process of completing the Apple ID once the ID has been unlocked. If the Apple ID has been unlocked, click **Done** to proceed. If that fails, click the **Try Again** button and give it another shot.
 
 ![apple id completely unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 This guide has simplified the process of **creating a new Apple ID**, ensuring you can effortlessly personalize, secure, and organize your digital experience. **Creating a new Apple ID** is easy, and it allows you to tailor your Apple journey to your preferences. Remember, it's all about you, your privacy, and your convenience.
 
 Should you encounter any challenges while managing your Apple ID, such as removing a previous one, consider Dr.Fone - iOS Screen Unlock tool. This user-friendly resource stands ready to assist, ensuring a seamless and secure Apple experience. Explore the possibilities and make the most of your Apple adventure!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reset iTunes Backup Password Of Apple iPhone 12 mini: Prevention & Solution
 
@@ -416,14 +441,10 @@ So, whether your loved one has forgotten their screen lock code, had their phone
 
 The process is simple -download the software, connect your Apple iPhone 12 mini to your computer, click a few buttons, and voila! Your device is unlocked with no data loss. And there's no need to jailbreak your device or enter any passwords - it's all done with just a few clicks.
 
-
 With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes backup password.
 
 **Step 1:** Install Dr.Fone, launch it and select the red button **"Screen Unlock."**
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Go to the Screen Unlock interface, tap on **"Remove iTunes BackUp Encryption"** on the bottom right to reset the encryption password iPhone.
@@ -440,6 +461,10 @@ Click **"Remove Now"**
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Dr.Fone will verify and remove your iTunes backup password when the progress bar reaches 100%
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
@@ -447,7 +472,6 @@ Click **"Remove Now"**
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 4: Tips to Keep Your Apple iPhone 12 mini Backup Password
 
@@ -465,9 +489,6 @@ These applications cannot only safeguard your data but also add additional level
 
 KeepSafe and Norton Zone are just examples of the many different programs available. Not only will your Apple iPhone 12 mini backup password be safe and secure with these programs, but other crucial information stored on your phone will also be protected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Write it down on a note
 
 If you need to change your Apple iPhone 12 mini's backup password but have forgotten it, you'll know how aggravating it is. Passwords can be difficult to keep straight in your head even after you've exhausted the most obvious possibilities.
@@ -479,16 +500,14 @@ Launch Notes and make a new note to do this. After that, you may protect the mes
 You may now easily access your backup password by referring to the note. Though it's not ideal, it's better than losing track of your password and starting over from scratch.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Bottom Line
 
 The process to reset iPhone's backup password is not as complicated as you think and can be completed in a matter of minutes. You may quickly and reset your password and go back to using your phone by following the steps outlined above.
 
 Dr.Fone - Screen Unlock is the easiest method to delete the password from your iTunes backup. This program makes regaining access to your phone and its contents as simple as tapping a screen. If you want to avoid going through this procedure again, be sure to implement the suggestions provided in Section 3.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -502,9 +521,24 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-10-online-video-tools-perfecting-webcam-footage/"><u>[New] 2024 Approved Top 10 Online Video Tools Perfecting Webcam Footage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-enhancing-artistic-photographs-with-illustrators-motion-blur-for-2024/"><u>[Updated] Enhancing Artistic Photographs with Illustrator's Motion Blur for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-11-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 11 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/data-realm-renaissance-pioneering-cloud-services-s-needs/"><u>Data Realm Renaissance Pioneering Cloud Services 'S Needs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enriching-video-storytelling-implement-3-vital-description-methods-on-instagram/"><u>Enriching Video Storytelling Implement 3 Vital Description Methods on Instagram</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-infinix-smart-8-frp-by-drfone-android/"><u>Full Guide to Bypass Infinix Smart 8 FRP</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-8-plus-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 8 Plus without losing data?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-backspace-key-isnt-functioning-correctly/"><u>How to Resolve When Your Backspace Key Isn't Functioning Correctly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone X, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-x-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone X when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-essential-guide-to-asmr-for-sleep-enthusiasts-for-2024/"><u>The Essential Guide to ASMR for Sleep Enthusiasts for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro</u></a></li>
+</ul></div>
 

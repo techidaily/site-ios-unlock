@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max
-date: 2024-07-15T01:36:32.590Z
-updated: 2024-07-16T01:36:32.590Z
+date: 2024-12-16T21:23:36.992Z
+updated: 2024-12-19T17:08:08.166Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -127,6 +131,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
@@ -160,6 +168,10 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
 
 1. **Setup Auto-Lock on iPhone**
@@ -171,6 +183,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 3:** Choose the desired time interval for your Apple iPhone 12 Pro Max to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -185,6 +201,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 Are you aware of the common mistakes people make when creating their Apple ID passwords, such as using weak passwords and personal information? And how often should you change your Apple ID password? If it's been a while since your last update, stay in this article to learn **how to change your Apple ID password on your account**.
 
 ![change apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Is Your Apple ID Safe? Watch Out for These Signs
 
@@ -214,9 +234,6 @@ Friends and family receiving strange emails from your Apple ID should raise susp
 
 To protect your account from unauthorized access, Apple may lock or disable your account if your password or other account information is entered incorrectly several times.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![apple id locked](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-03.jpg)
 
 Now that you're aware of these signs, it's crucial to know **how to change your Apple ID password** to fortify your account's security. Don't worry; the next section will guide you through the process step by step.
@@ -292,6 +309,10 @@ Click **Forgot password** on the Apple ID sign-in page on the web browser. This 
 
 ![reset apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **After You Setup Your Device**
 
 Need to create a new Apple ID or reset your password after setup? You can find the "Forgot password or don't have an Apple ID?" in your Settings app. Here's how to find it:
@@ -312,10 +333,11 @@ If you prefer to use your desktop:
 - **Step 1:** From the Apple menu, go to **System Settings**.
 - **Step 2:** Click **Sign in with your Apple ID** and click **Forgot password**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![apple id sign in on mac](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions to reset your password or recover your account.
 
@@ -333,9 +355,6 @@ Losing your phone or being unable to access your iOS device can be a major incon
 
 You can also designate a friend or family member you trust as your account recovery contact. They can help you reset your password if you forget it by providing a recovery code upon request.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![get account recovery code](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-11.jpg)
 
 Still Can't Change Your Apple ID Password? Try Account Recovery
@@ -371,7 +390,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 1:** Download [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their official website and install it on your computer.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** > **iOS**.
 
 ![dr.fone select screen unlock from toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -386,9 +404,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 5:** Follow the in-app instructions to put your iOS device into Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone in-app instructions for recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 - **Step 6:** Select an option from the **System Version** dropdown list for the **Device Model**, then click **Start**.
@@ -409,12 +424,9 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 10:** Click **Done** once the process is successful or click **Try again** to repeat.
 
-
 ## Conclusion
 
 Creating a strong Apple ID password is simple: mix letters and numbers, make it lengthy, and keep it unique. Regularly **changing your Apple ID password** using the steps above is key to protecting your digital data. And if you ever find yourself locked out, consider the Dr.Fone Unlock Tool, a reliable mobile solution. Stay private and secure to enjoy your Apple experience with peace of mind.
-
-
 
 ## Reset iTunes Backup Password Of Apple iPhone 12 Pro Max: Prevention & Solution
 
@@ -456,6 +468,10 @@ Our step-by-step guide will show you how to reset iPhone backup password in minu
 
 Follow on to learn how to reset your Apple iPhone 12 Pro Max backup password now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. "Reset All Settings" in "Settings."
 
 Get into **Settings** on your iOS device, then choose **General**, and **Reset.**
@@ -478,6 +494,10 @@ After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Find it back in the macOS keychain
 
 Launch Keychain Access by going to **Application,** then **Utilities,** and choose **Keychain Access** once your Mac has booted up.
@@ -498,12 +518,15 @@ So, whether your loved one has forgotten their screen lock code, had their phone
 
 The process is simple -download the software, connect your Apple iPhone 12 Pro Max to your computer, click a few buttons, and voila! Your device is unlocked with no data loss. And there's no need to jailbreak your device or enter any passwords - it's all done with just a few clicks.
 
-
 With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes backup password.
 
 **Step 1:** Install Dr.Fone, launch it and select the red button **"Screen Unlock."**
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Go to the Screen Unlock interface, tap on **"Remove iTunes BackUp Encryption"** on the bottom right to reset the encryption password iPhone.
 
@@ -526,7 +549,6 @@ Click **"Remove Now"**
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 4: Tips to Keep Your Apple iPhone 12 Pro Max Backup Password
 
@@ -554,15 +576,11 @@ Launch Notes and make a new note to do this. After that, you may protect the mes
 
 You may now easily access your backup password by referring to the note. Though it's not ideal, it's better than losing track of your password and starting over from scratch.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 The process to reset iPhone's backup password is not as complicated as you think and can be completed in a matter of minutes. You may quickly and reset your password and go back to using your phone by following the steps outlined above.
 
 Dr.Fone - Screen Unlock is the easiest method to delete the password from your iTunes backup. This program makes regaining access to your phone and its contents as simple as tapping a screen. If you want to avoid going through this procedure again, be sure to implement the suggestions provided in Section 3.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -576,9 +594,18 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-pioneering-performance-exclusive-insights-into-oculus-headsets/"><u>[New] Pioneering Performance Exclusive Insights Into Oculus Headsets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[New] Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
+<li><a href="https://win-trending.techidaily.com/0x80nf0922-windows-10-18/"><u>0X80nF0922 Windows 10 エラーを克服する究極ガイド - 18通りの修正方法</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-officejet-pro-6968-printer-drivers-download-now/"><u>Get Your HP OfficeJet Pro 6968 Printer Drivers - Download Now</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 7?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) Passcode Screen?</u></a></li>
+<li><a href="https://facebook.techidaily.com/instructions-editing-account-details-on-facebook/"><u>Instructions: Editing Account Details on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-tech-6-chatgpt-applications-for-documents/"><u>Revolutionary AI Tech: 6 ChatGPT Applications for Documents</u></a></li>
+</ul></div>
 

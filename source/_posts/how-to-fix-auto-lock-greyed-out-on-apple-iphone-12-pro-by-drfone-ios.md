@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
-date: 2024-07-15T01:40:18.857Z
-updated: 2024-07-16T01:40:18.857Z
+date: 2024-12-16T20:14:24.171Z
+updated: 2024-12-19T23:23:04.491Z
 tags: 
   - unlock
   - remove screen lock
@@ -68,6 +68,10 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Fix No.3: Remove MDM Configuration Profile
 
 A configuration profile is a file that contains settings and restrictions that can be applied to an iOS device. Organizations, schools, or IT administrators often use it to manage devices remotely and enforce specific configurations. Once installed, the settings within a profile override the Apple iPhone 12 Pro device's default settings. It can include restrictions related to security, network access, app usage, and more.
@@ -96,9 +100,6 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -199,6 +200,10 @@ Face ID is an authentication system that came with iPhone X for the first time, 
 
 Face ID is not a new and advanced version of Touch ID, but a completely different authentication system that utilizes a different component what Apple calls a TrueDepth camera to scan your face metrics. Face ID is not available on phones with Touch ID (iPhone SE 2022 today) and Touch ID is not available on iPhones that come with Face ID as their authentication mechanism.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part II: What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your Apple iPhone 12 Pro 13/12/11 with Face ID:
@@ -217,9 +222,6 @@ When the lock symbol changes to the unlocked position, you can swipe up to unloc
 
 Note that Face ID will not work in landscape mode on an iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.II Making Purchases Using Face ID on Your Apple iPhone 12 Pro
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
@@ -233,6 +235,10 @@ Step 1: Check if Face ID is enabled for purchases in these stores by going to Se
 Step 2: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
 
 ![make purchases with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 
@@ -270,6 +276,10 @@ Step 3: Toggle Attention Aware Features On.
 
 That‘s it. Now, when you get a call and your Apple iPhone 12 Pro 13 is ringing loud, looking at your Apple iPhone 12 Pro 13/12/11 will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your Apple iPhone 12 Pro. Additionally, your Apple iPhone 12 Pro screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.IV Filling Passwords in Safari Automatically Using Face ID
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your Apple iPhone 12 Pro with Face ID.
@@ -286,6 +296,10 @@ Up until now, we saw how Face ID enables productivity features and how convenien
 
 ![animojis and memojis](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Animojis are animated emojis. These are made possible with advanced algorithms enabled by the TrueDepth camera in Face ID. Animated emojis or Animojis can mimic your facial expressions and you can use them in your message conversations in apps.
 
 Here‘s how to send Animojis in conversations on your new iPhone 13/12/11:
@@ -294,9 +308,6 @@ Step 1: Open a message conversation in the Messages app.
 
 Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to select the desired Animoji/ Memoji you want to send.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recording a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-8.jpg)
 
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
@@ -351,8 +362,6 @@ If this does not resolve it, you need to take the Apple iPhone 12 Pro device to 
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone 12 Pro (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone 12 Pro can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone 12 Pro with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -364,22 +373,25 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 **4,395,217** people have downloaded it
 
-
-
 ## How To Open Your Apple iPhone 12 Pro Without a Home Button
 
 Accidents happen, and sometimes they take a toll on your Apple iPhone 12 Pro's essential components, like the Home button. Whether it's a drop, spill, or wear and tear, a damaged Home button can be a problem over time. The frustration peaks when you find yourself locked out, and at a loss.
 
 But fear not, for there are ways to **unlock an iPhone without a Home button**. This guide explores ways **how to open an iPhone without a Home button**. In case of a Home button malfunction, explore these quick and easy fixes for a reliable workaround. Read on to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
 
 If your Apple iPhone 12 Pro's Home button is out of commission, don't worry. There are several ways to regain access to your device. Let's explore seven methods on **how to unlock an iPhone without a Home button.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Unlock the Apple iPhone 12 Pro Without the Home Button via Touch ID
 
@@ -388,6 +400,10 @@ If your device supports Touch ID, you can use your fingerprint to unlock it. Fol
 - **Step 1**: Head to **Settings** > **Touch ID & Passcode**. Next, tap **Add a Fingerprint**.
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2**: Follow the on-screen instructions to set up Touch ID.
 
@@ -423,6 +439,10 @@ The alternative solution for **how to open an iPhone without the Home button but
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Remove all types of Lock Screens.**Fone Screen Unlock (iOS) can bypass various lock screen types, including [<u>passcodes</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html), Touch ID, and Face ID.
 - **Bypass Apple ID without a password.**If your Home button is compromised, and you can't enter the [<u>Apple ID </u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) password, Dr.Fone can bypass it.
 - The tool is compatible with all iPhones equipped with a Home button, ensuring versatility across multiple iPhone models.
@@ -436,6 +456,9 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![dr.fone unlock ios screen window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Click **Start** and follow the on-screen instructions. Dr.Fone will automatically detect your device and provide the appropriate firmware package for download. Confirm and proceed.
 
@@ -461,9 +484,6 @@ With iOS 15.2, Apple introduced the Erase iPhone feature, aiding users in resett
 
 **_**_Note_**__**_：_**_****Keep in mind that all previous content and data on the phone will be erased during this operation.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Unlock iPhone via iTunes/Finder
 
 For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 12 Pro without the Home button**. Windows or Mac Mojave users are recommended to use iTunes. Mac Catalina and newer users should use Finder. Before using iTunes or Finder, it's advisable to back up your Apple iPhone 12 Pro on iCloud. Here's how to proceed:
@@ -514,7 +534,6 @@ For a comprehensive fix, consider Dr.Fone Screen - Unlock iOS if data loss is a 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -527,9 +546,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-no-more-ghosting-bring-back-your-invisible-videos-with-these-12-hacks-facebook-for-2024/"><u>[New] No More Ghosting Bring Back Your Invisible Videos with These 12 Hacks, Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[Updated] In 2024, Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-12-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 12 Without a Passcode</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/explore-your-options-top-premiere-rush-alternatives-for-video-creators-for-2024/"><u>Explore Your Options Top Premiere Rush Alternatives for Video Creators for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-pre-windows-era-to-modern-windows-11-today/"><u>From Pre-Windows Era To Modern Windows 11 Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-se-2022-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone SE (2022) With or Without Password</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-missing-from-windows-device-manager-a-step-by-step-guide/"><u>How to Fix Bluetooth Missing From Windows Device Manager: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone XS Max</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-examining-benq-sw320-the-4k-visionary/"><u>In 2024, Examining BenQ SW320 The 4K Visionary</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-15-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-and-easy-audio-extraction-top-6-free-apps-to-convert-youtube-videos-to-mp3-for-2024/"><u>Quick & Easy Audio Extraction Top 6 Free Apps to Convert YouTube Videos to MP3 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/review-alert-the-genius-widecam-f1eons-performance-with-blurry-visuals-and-echoing-audio-problems/"><u>Review Alert! The Genius WideCam F1eon's Performance with Blurry Visuals and Echoing Audio Problems</u></a></li>
+</ul></div>
 

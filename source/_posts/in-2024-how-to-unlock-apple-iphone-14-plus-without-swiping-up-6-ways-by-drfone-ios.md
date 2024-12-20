@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Apple iPhone 14 Plus Without Swiping Up? 6 Ways
-date: 2024-12-08T16:50:55.601Z
-updated: 2024-12-12T16:15:13.614Z
+date: 2024-12-14T22:20:21.292Z
+updated: 2024-12-19T19:35:49.407Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 The **Swipe Up Unlock** function has been a fundamental aspect of iPhone functionality for a long time. It enables swift access to your phone by swiping upward from the screen's bottom. This gesture grants entry to all your applications and data on your Apple iPhone 14 Plus. It was initially introduced to replace the physical Home button. However, it significantly simplified the user experience with iPhones.
 
 It streamlined various tasks without the need for excessive button pressing. Moreover, its simplicity and speed became vital in how individuals utilized their iPhones. Yet, as preferences evolve, not everyone finds the exclusive Swipe Up Unlock feature appealing. Hence, exploring alternative methods to unlock your Apple iPhone 14 Plus is advisable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why Do You Need To Swipe Up to Unlock on iPhone?
 
@@ -54,10 +58,6 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 ![access touch in accessibility](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** On the following screen, scroll down to the bottom and press "Back Tap." Now, either choose "Double Tap" or "Triple Tap" and select "Lock Screen" from the options under the "System" section.
 
 ![enable back tap to lock screen](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-2.jpg)
@@ -65,6 +65,10 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 ### Method 2: Unlock iPhone Without Swiping Up Using iPhone Screen Unlocker: Dr.Fone - Screen Unlock
 
 If you've forgotten the passcode for your Apple iPhone 14 Plus and are unable to access it anymore, there is no need to panic. We have the perfect tool for you that can unlock any lock on your screen in a few moments. The tool we are talking about is [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), an industry leader in smartphones. Dr.Fone, a pioneering tool for iOS lock screen removal, assists in unlocking various iPhone/iPad/iPod touch lock screens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -74,10 +78,6 @@ Unlock iPhone Without Swiping Up!
 - Unlock screen passwords from all iPhones and iPads.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone 15 /iPhone 14 /iPhone 13, iPhone 12, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4,395,218** people have downloaded it
 
@@ -110,10 +110,6 @@ After this step, enter Recovery Mode on your iDevice by following the specific o
 The screen will showcase the download progress of the iOS firmware on the platform. Once the iOS firmware download is completed, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will appear, requesting confirmation for the process. Enter the necessary code and tap on "Unlock" to proceed. Upon successful unlocking of the iDevice, click "Done" to complete the process.
 
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Unlock the Apple iPhone 14 Plus Without Swiping Up via Touch ID/Face ID
 
@@ -186,6 +182,10 @@ Utilizing Voice Control to unlock your Apple iPhone 14 Plus offers a hands-free 
 
 ![toggle on voice control option](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Unlock iPhone Without Swiping Up with Switch Control
 
 Utilizing Switch Control is an excellent accessibility feature on iOS devices. It allows users to interact with their iPhones using adaptive switches or the Apple iPhone 14 Plus device's screen itself. Moreover, it can provide an alternative way to navigate the Apple iPhone 14 Plus and access the Home screen. You no longer have to rely solely on the conventional swipe gesture. Here is how you can set up switch control to **iPhone swipe to unlock**:
@@ -206,10 +206,6 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 ![set switch control as accessibility shortcut](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 To conclude, we have explored different ways to **unlock iPhones without swiping up** beyond just using the usual swipe-up method. We've talked about using your fingerprint or face to unlock, using voice commands or special controls. The swipe-up gesture on iPhones is great, but these other methods give you more options.
@@ -221,7 +217,7 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 If you have forgotten the passcode of your Apple iPhone 14 Plus or if your device has been disabled, then you have landed in the right place. There are multiple ways **how to unlock a disabled iPhone without iTunes**, and it is also workable for iPad disabled fix without iTunes. [Forgetting the passcode of your Apple iPhone 14 Plus](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html) can sometimes incur tedious tasks. Though, one can easily fix a disabled iPhone or iPad without relying on iTunes. In this post, we will provide 5 solutions for a disabled iPhone fix without iTunes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Makes Your Apple iPhone 14 Plus Disabled?
@@ -235,12 +231,16 @@ There are several reasons why your Apple iPhone 14 Plus may become disabled, inc
 3. **Jailbreaking:** If you have jailbroken your Apple iPhone 14 Plus and installed unauthorized software, it may cause your Apple iPhone 14 Plus to become disabled.
 4. **Hardware issues:** If there are any hardware issues with your Apple iPhone 14 Plus, it may cause it to become disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Why Not Use iTunes to Unlock Disabled iPhone?
 
 ![unlock disabled iphone without itunes](https://images.wondershare.com/drfone/article/2023/11/how-to-unlock-disabled-iphone-without-itunes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 iTunes has lost popularity due to its heavy and confusing features, along with frequent crashes. You may be seeking alternatives to unlock disabled iPhones opt for more straightforward methods that don't involve iTunes.
@@ -261,6 +261,10 @@ Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
 - Effectively remove the Apple iPhone 14 Plus lock screen without the passcode.
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3981454** people have downloaded it
 
@@ -407,6 +411,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![share content](https://images.wondershare.com/drfone/article/2017/07/14993657343482.jpg "share content")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**. This will open another window, listing various options related to sharing. Tap on the Message icon to continue.
 
 ![tap on message](https://images.wondershare.com/drfone/article/2017/07/14993657505607.jpg "tap on message")
@@ -422,10 +430,6 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 8**. It will open a new window. From here, tap on the “**Create New Contact**” button.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14993658058445.jpg "create new contact")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 9**. On the Add new contact screen, choose to add a photo and tap on the “**Add Photo**” option.
 
@@ -451,10 +455,6 @@ _**Tips:** Since it is considered a loophole in iOS, it is not an efficient way 
 - Requires an active internet connection, and the Apple iPhone 14 Plus device must be plugged into a power source.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to Avoid a Disabled iPhone?
 
@@ -493,10 +493,6 @@ Unlocking an iPhone without a passcode is possible, but it's not as simple as en
 And we are going to teach all those methods with some simple steps. So, without any further ado, let's get started.
 
 ![unlock iphone 11 12 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Easy Ways to Unlock Apple iPhone 14 Plus without Passcode by Yourself
 
@@ -558,6 +554,10 @@ You can use this hack to unlock your Apple iPhone 14 Plus without a passcode. Bu
 
 ![iphone lock screen with siri](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here's how you can use Siri to bypass the Passcode:
 
 **Step 1:** Press and hold the Home button to activate Siri.
@@ -571,6 +571,10 @@ Here's how you can use Siri to bypass the Passcode:
 But this method will not work on newer iPhones 11/12/13 and iPhone 14 because they run on the latest iOS.
 
 ### Dr.Fone-Screen Unlock
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -619,10 +623,6 @@ If you want to turn the Passcode ON your Apple iPhone 14 Plus, then follow these
 
 ![how to turn passcode on or off on iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Enter your current Passcode when prompted.
 
 **Step 3:** Scroll down and toggle the 'Passcode' switch to the 'ON' position.
@@ -653,16 +653,17 @@ If you're not interested in using a third-party tool, you can try one of the met
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[New] 2024 Approved How to Play YouTube in Background on iPhone and Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-start-capturing-high-quality-mov-videos-on-windows-11/"><u>[New] 2024 Approved Quick Start Capturing High-Quality MOV Videos on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-lost-connection-revive-the-invisible-logitech-brio-webcam-in-new-windows-environment-answered/"><u>Bring Back Lost Connection: Revive the Invisible Logitech Brio Webcam in New Windows Environment [Answered]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-x-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone X and iPad Securely</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Max Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-6-plus-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 6 Plus Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-14-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Pro Max Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unveiling-concealed-intentions-the-art-of-snapchat-emojis/"><u>In 2024, Unveiling Concealed Intentions The Art of Snapchat Emojis</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-esd-format-to-compatible-windows-isos/"><u>Transforming ESD Format to Compatible Windows ISOs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6s-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6s Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ecuring-your-stake-in-youtubes-financial-future/"><u>[New] Securing Your Stake in YouTube's Financial Future</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-setting-the-stage-your-first-virtual-boardroom-with-google-for-2024/"><u>[New] Setting the Stage Your First Virtual Boardroom with Google for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tips-for-uploading-external-urls-to-ig-for-2024/"><u>[New] Tips for Uploading External URLs to IG for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-between-podcast-and-youtube-for-content-consumption/"><u>[Updated] Choosing Between Podcast and YouTube for Content Consumption</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/guide-to-identifying-recent-instagram-leavers-for-2024/"><u>Guide to Identifying Recent Instagram Leavers for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-12-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-11-pro-max-how-to-unlock-a-disabled-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Disabled iPhone 11 Pro Max How to Unlock a Disabled iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y100-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y100 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-12-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 Pro Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-mini-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 mini with iTunes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-must-watch-documentary-films-starring-max-july-2024-edition/"><u>Top Picks: Must-Watch Documentary Films Starring Max - July 2024 Edition</u></a></li>
 </ul></div>
 

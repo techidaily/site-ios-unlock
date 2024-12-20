@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12 Pro
-date: 2024-07-15T01:40:02.871Z
-updated: 2024-07-16T01:40:02.871Z
+date: 2024-12-16T23:04:45.844Z
+updated: 2024-12-19T23:36:18.667Z
 tags: 
   - unlock
   - remove screen lock
@@ -29,6 +29,10 @@ If the new Apple iPhone 12 Pro is your first-ever iPhone, or if you have neither
 Face ID is an authentication system that came with iPhone X for the first time, and then the Apple iPhone 12 Pro 13, the Apple iPhone 12 Pro 14, and now the Apple iPhone 12 Pro 15. Like Touch ID that uses your fingerprints, Face ID uses your face metrics to authenticate you for everything, the way Touch ID does.
 
 Face ID is not a new and advanced version of Touch ID, but a completely different authentication system that utilizes a different component what Apple calls a TrueDepth camera to scan your face metrics. Face ID is not available on phones with Touch ID (iPhone SE 2022 today) and Touch ID is not available on iPhones that come with Face ID as their authentication mechanism.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part II: What Can You Do with Face ID?
 
@@ -58,9 +62,17 @@ Step 1: Check if Face ID is enabled for purchases in these stores by going to Se
 
 ![check face id settings](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
 
 ![make purchases with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 
@@ -81,6 +93,10 @@ Step 4: Look at your Apple iPhone 12 Pro to authenticate yourself using your Fac
 Step 5: When paying at retail outlets, hold your Apple iPhone 12 Pro (top being close to the reader) and wait for the checkmark and Done message.
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone 12 Pro, and wait for the Done message and checkmark to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
@@ -123,6 +139,10 @@ Step 1: Open a message conversation in the Messages app.
 Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to select the desired Animoji/ Memoji you want to send.
 
 ![recording a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
 
@@ -176,8 +196,6 @@ If this does not resolve it, you need to take the Apple iPhone 12 Pro device to 
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone 12 Pro (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone 12 Pro can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone 12 Pro with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -188,6 +206,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,217** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Your Apple iPhone 12 Pro in Security Lockout? Proper Ways To Unlock
 
@@ -236,7 +258,6 @@ First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone
 
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2. Advance to Unlocking iOS Screen**
 
 After that, choose “iOS” to run the required process. On the next window, select the "Unlock iOS Screen" option. The tool will take you to the next screen, and there, click the "Start" button to proceed with unlocking the iOS device. Continue to put your iDevice into Recovery Mode as per the provided instructions on-screen.
@@ -254,6 +275,10 @@ Your "Device Model" will be recognized automatically in Wondershare Dr.Fone. Sel
 Type the code in the confirmation box in the next prompt window and hit the "Unlock" option. After confirmation, a bar shows the Apple iPhone 12 Pro device unlocking progress on the next screen. Once the Apple iPhone 12 Pro is unlocked successfully, click the “Done” button to terminate the process.
 
 ![verify and unlock ios device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How To Get iPhone out of Security Lockout From iPhone Directly?
 
@@ -284,6 +309,10 @@ If you have recently changed the iDevice password, you can use your old passcode
 
 ![restore iphone from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How To Get iPhone out of Security Lockout Using iCloud?
 
 iCloud service is another handy method for people having queries about **how to get an iPhone out of the security lockout**. You should know this method removes your device data to access the phone screen again. Also, it requires the Find My option enabled on your Apple iPhone 12 Pro, and you need to know your Apple ID and password to proceed. After having these details, follow the given steps below:
@@ -301,8 +330,6 @@ iCloud service is another handy method for people having queries about **how to 
 Security Lockout or “iPhone Unavailable” is a common issue that appears when you enter an incorrect passcode up to 10 times. Our detailed guide provided authentic ways to fix the **security lockout iPhone** using simple steps. Here, Wondershare Dr.Fone is the most recommended method because it helps recover your Apple iPhone 12 Pro easily within a few steps.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## Trouble with Apple iPhone 12 Pro Swipe-Up? Try These 11 Solutions
 
@@ -329,6 +356,10 @@ Insufficient memory or many background apps running simultaneously can overload 
 ### 5\. Water Exposure
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 11 Ways To Fix iPhone Swipe up Not Working
 
@@ -370,6 +401,10 @@ After successfully downloading Dr.Fone on your device, navigate towards the left
 
 ![repair system using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Opt for iOS Restoration and Enable Recovery Mode**
 
 Select the Apple iPhone 12 Pro device type from the available options and select "iPhone." From the new window, select "iOS Repair," and following that, select "Standard Repair." Now, follow the instructions available and enable recovery mode for your iOS.
@@ -381,7 +416,6 @@ Select the Apple iPhone 12 Pro device type from the available options and select
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
 
 ### Fix 2. Force Restart iPhone
 
@@ -419,14 +453,8 @@ If your Apple iPhone 12 Pro swipe-up gesture isn't working specifically on the l
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -435,9 +463,6 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7. Update to the Latest iOS Version
 
 Running an outdated iOS version can sometimes lead to various software issues. These include unresponsive gestures like the swipe-up function on your Apple iPhone 12 Pro. Updating your device to the latest iOS version can often resolve such problems. Here's how to check for and update your Apple iPhone 12 Pro to the latest iOS version:
@@ -486,18 +511,12 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 12 Pro can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
 
 **Step 1.** Go to your device's "General" settings and scroll down to tap the second last option, "Transfer or Reset iPhone." On the following screen, press "Reset" from the available two options.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 12 Pro is restored to its original settings.
@@ -507,8 +526,6 @@ Resetting all settings on your Apple iPhone 12 Pro can help resolve software-rel
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 12 Pro device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 12 Pro without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -551,13 +568,11 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 12 Pro and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone 12 Pro. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone 12 Pro even when gestures aren't working properly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -571,9 +586,20 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-complete-playbook-for-team-call-recording-desktopmobile/"><u>[New] 2024 Approved The Complete Playbook for Team Call Recording (Desktop/Mobile)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-master-iphone-cams-with-these-hacks-for-2024/"><u>[New] Master iPhone Cams with These Hacks for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-jesters-junction-laughter-without-price-tags/"><u>[Updated] 2024 Approved Jester’s Junction Laughter Without Price Tags</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mpemp4-movavi/"><u>免費網路上自行MPE到MP4轉換 - 利用Movavi的方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cut-costs-on-high-tech-get-asus-2024-rog-zephyrus-g14-with-stunning-oled-and-nvidia-rtx/"><u>Cut Costs on High-Tech: Get Asus' 2024 ROG Zephyrus G14 with Stunning OLED & Nvidia RTX 지킬하세요!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-7-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 7 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 Pro Max with iTunes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-transform-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9/"><u>In 2024, Transform Your Media A Curated List of the Best Free Video Editing Software (Top 9)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Pro Prevention & Solution</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/revealing-reasons-why-no-videos-pop-up-on-fb-feed-in-2024/"><u>Revealing Reasons Why No Videos Pop Up on FB Feed, In 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-user-account-from-windows-11-with-revo-uninstaller/"><u>Step-by-Step Guide: Removing a User Account From Windows 11 with Revo Uninstaller</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 12 Pro Swipe-Up? Try These 11 Solutions
-date: 2024-07-15T01:40:28.967Z
-updated: 2024-07-16T01:40:28.967Z
+date: 2024-12-18T22:45:27.559Z
+updated: 2024-12-19T18:18:44.494Z
 tags: 
   - unlock
   - remove screen lock
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 ## Trouble with Apple iPhone 12 Pro Swipe-Up? Try These 11 Solutions
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why Is My iPhone Screen Not Swiping?
 
 The iPhone's swipe-up gesture serves as a fundamental navigation tool. It allows users to access various functions and features swiftly. Yet, when this functionality encounters issues, it can be perplexing and disruptive. That's why learning the reasons behind **I can’t swipe up on my iPhone** is essential. Summarized below are some of the common reasons behind frozen swipe-up issues:
@@ -95,7 +92,6 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
-
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 12 Pro. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -128,9 +124,6 @@ If your Apple iPhone 12 Pro swipe-up gesture isn't working specifically on the l
 
 **Step 1.** On your iOS device, access the “Settings” app and launch it. Now scroll down to find and tap "Face ID & Passcode."
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
@@ -153,9 +146,17 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![check for software update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** If an update is available, press the "Update Now" button to commence the updating process. During the process, make sure to follow the prompts carefully to avoid issues.
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8. Turn Off VoiceOver
 
@@ -164,6 +165,10 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 **Step 1.** You will need to open the Settings app and scroll down to select the "Accessibility" menu. There, tap "VoiceOver" to get access to the "VoiceOver" settings.
 
 ![navigate to voiceover feature](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
@@ -189,6 +194,10 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![navigate motion features in accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
@@ -203,16 +212,11 @@ Resetting all settings on your Apple iPhone 12 Pro can help resolve software-rel
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 12 Pro is restored to its original settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 12 Pro device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 12 Pro without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -222,6 +226,10 @@ Unlock iPhone/iPad Lock Screen Without Swiping Up.
 - Unlock screen passwords from all iPhones and iPads.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone 15 / iPhone 14 / iPhone 13 / 12, iPhone 11, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -255,7 +263,6 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 12 Pro and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
@@ -269,8 +276,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -363,6 +368,10 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 
 ![erase iphone when locked-erase iphone](https://images.wondershare.com/drfone/article/2017/07/14993650012081.jpg "erase iphone")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
@@ -373,9 +382,6 @@ Among smartphones, the Apple iPhone 12 Pro is well known for its quality and rel
 
 It allows them to manage their children's access to certain content and functionalities. This article aims to go through the details of **how to disable parental controls on iPhone**s. It will offer a range of methods catering to both scenarios: disabling parental controls with and without a password. Moreover, it will feature an in-depth exploration of the most effective method to disable parental control.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disabling parental controls on iphone](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-1.jpg)
 
 ## Part 1. Defining Parental Controls on iPhone and Why People Want To Disable/Remove It?
@@ -432,9 +438,17 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
 
 Disabling parental controls on an iPhone is still possible, even without the password. Below, we explore two methods that can be used to bypass parental controls without requiring a password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 1. Wondershare Dr.Fone - Screen Unlock (iOS)
 
@@ -458,7 +472,6 @@ To initiate the procedure, open Wondershare Dr.Fone on your computer. Navigate t
 
 ![choose to unlock screen time passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
 
-
 - **Step 2. Start Unlocking by Disabling Find My Feature**
 
 Upon connecting the Apple iPhone 12 Pro device, the platform will detect the iDevice and showcase its status on the screen. Afterward, you are required to proceed by clicking on the "Unlock Now" button. However, it is necessary to deactivate the Find My service as indicated in the prompt. Navigate to your Apple iPhone 12 Pro's Settings and select the Apple ID at the top of the settings menu. Access the “Find My” settings and toggle off the “Find My iPhone” feature.
@@ -471,6 +484,10 @@ Upon completion, confirm by clicking “OK” on the computer screen. The progre
 
 ![iphone screen unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2. Restore iPhone From iTunes
 
 Restoring an iPhone using iTunes is an alternative method for removing parental controls. iTunes is a multimedia management software that is developed by Apple. It provides various functions, including media playback and data synchronization. The most important function is the Apple iPhone 12 Pro device backup and restoration. Restoring your Apple iPhone 12 Pro via iTunes results in the complete erasure of all data and settings. Here is **how to disable restrictions on iPhones without password:**
@@ -479,21 +496,19 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 ![access the summary tab within itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Afterward, initiate the Apple iPhone 12 Pro restoration by selecting "Restore iPhone." A menu box will appear, asking you to create a "Back Up" or not. Choose the preferred option, and another dialog box will appear, alerting you about the deletion of all content and settings on your Apple iPhone 12 Pro. You should proceed by clicking "Restore" to confirm. Then, follow the on-screen instructions to finalize the process.
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 In summary, this article explored **how to disable restrictions on iPhones without a password** and with a password. Accessing settings with a passcode simplifies the process. Wondershare Dr.Fone stands out as the optimal solution for those seeking **how to delete parental controls without password**. When passcode access is limited, Dr.Fone – Screen Unlock (iOS) offers the most efficient solution.
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -507,9 +522,16 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-elite-8-cameras-revolutionizing-online-broadcasts/"><u>[New] Elite 8 Cameras Revolutionizing Online Broadcasts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger/"><u>[New] In 2024, The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversor-de-musica-en-linea-gratis-mp3-a-m4a-con-facilidad-movavi/"><u>Conversor De Música en Línea Gratis: MP3 a M4A Con Facilidad - Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-13-mini-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 13 mini Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Pro Without a Home Button</u></a></li>
+<li><a href="https://article-posts.techidaily.com/iconic-top-tier-virtual-reality-films-for-2024/"><u>Iconic Top-Tier Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-launch-errors-for-davinci-resolve-on-windows-expert-tips-and-tricks/"><u>Resolving Launch Errors for DaVinci Resolve on Windows - Expert Tips & Tricks</u></a></li>
+</ul></div>
 

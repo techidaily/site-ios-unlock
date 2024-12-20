@@ -1,7 +1,7 @@
 ---
 title: Forgot Locked Apple iPhone 12 Pro Password? Learn the Best Methods To Unlock
-date: 2024-07-15T01:39:58.298Z
-updated: 2024-07-16T01:39:58.298Z
+date: 2024-12-13T17:05:33.331Z
+updated: 2024-12-19T18:23:58.556Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,8 +23,9 @@ This app offers a reliable and secure platform for storing personal and confiden
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
 Apple allows users to create a separate password for notes or use their iPhone passcode. Many users choose the second option to avoid remembering a new password. Forgetting the Apple iPhone 12 Pro device passcode poses a drawback, making your notes inaccessible. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the most straightforward solutions for addressing this scenario.
@@ -49,6 +50,9 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -62,11 +66,12 @@ When the firmware is displayed after verification, press "Unlock Now." Upon trig
 
 ![enter confirmation code for unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How To Unlock Notes on iPhone Through Settings
 
 If you've locked a note on your Apple iPhone 12 Pro but forgot the password, there is no need to worry. You can unlock the notes through “Settings” on your device as long as you have your Apple ID credentials. The following are the steps for **what to do if you forgot your notes password**:
@@ -80,6 +85,10 @@ If you've locked a note on your Apple iPhone 12 Pro but forgot the password, the
 - **Step 2.** You will be prompted to enter the Apple ID password for confirmation. After entering the Apple ID password, tap "Reset Password" again to reset the password. Finalize the process by setting up a new “Password,” “Verify” it, set a “Hint,” and press “Done.”
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
@@ -101,9 +110,6 @@ Locking notes on your Apple iPhone 12 Pro provides extra security for your sensi
 
 - **Step 1.** Open the “Note” you want to lock and tap the “three dots” near the top right corner. From the appearing menu, press the "Lock" icon.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone 12 Pro device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
@@ -114,12 +120,13 @@ Locking notes on your Apple iPhone 12 Pro provides extra security for your sensi
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Access Your Apple iPhone 12 Pro When You Forget the Passcode?
 
 We all have secrets in our iPhone or some important financial or business data that we all wish to protect from unwanted access. For this, we set up a passcode. But what if Apple iPhone 12 Pro passcode is forgotten by you? Well, you may now wonder how to perform Apple iPhone 12 Pro passcode bypass, right? Worry no more! We’re right here to help you with the proven solutions for Apple iPhone 12 Pro passcode reset without iTunes or with it too. Let’s explore.
-
 
 ## Part 1. Unlock Apple iPhone 12 Pro screen passcode in one click (unlock tool needed)
 
@@ -151,9 +158,6 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 12 Pro
@@ -165,6 +169,10 @@ Here we’re going to be familiar with the Apple iPhone 12 Pro passcode reset us
 **Step 2:** Then, hit the “Summary” option from the left panel and then you need to hit the “Restore iPhone” button. Confirm your actions by simply pushing the “Restore” button on the pop-up message and you’re done. Now, just wait for the process to complete.
 
 ![iTunes backup restoring](https://images.wondershare.com/drfone/article/2019/09/restore-iphone-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Restore Apple iPhone 12 Pro in recovery mode to remove screen passcode
 
@@ -192,6 +200,10 @@ Note: Since we’re going to unlock your Apple iPhone 12 Pro using Find My iPhon
 
 ![find iphone from icloud](https://images.wondershare.com/drfone/article/2019/09/icloud-launchpad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Next, tap on the “All Devices” drop-down menu available over the top midsection and then select the Apple iPhone 12 Pro that you wish to bypass the passcode off.
 
 **Step 4:** Then, you’ll get to witness a pop-up window over your screen. Tap the “Erase iPhone” button over it and then confirm your actions. All the settings and data will be wiped off remotely from your Apple iPhone 12 Pro now.
@@ -214,6 +226,10 @@ Now, in case you know the Apple iPhone 12 Pro restrictions passcode and just wis
 
 ![restrictions passcode](https://images.wondershare.com/drfone/article/2019/09/restrictions-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Once you’ve entered the current passcode, hit on the “Disable Restrictions” and to confirm your actions, key in your passcode when prompted.
 
 ![restrictions passcode disabling](https://images.wondershare.com/drfone/article/2019/09/disable-restrictions-iphone.jpg)
@@ -229,8 +245,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -261,10 +275,11 @@ Wait for a while as the application will automatically recognize your phone. Cli
 
 Follow the on-screen instructions to put your phone into the DFU (Device Firmware Update) mode. It can be done by pressing the Home and Power button simultaneously for 10 seconds. Afterward, it would help if you released the Power button while pressing the Home button for another 5 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4. Download firmware package.**
 
@@ -275,6 +290,10 @@ After putting your device into the DFU mode, the application will automatically 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5. Start to unlock.**
 
@@ -330,7 +349,6 @@ Confirm your choice and wipe locked iPhone remotely using the Find My iPhone fea
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -343,9 +361,19 @@ After following this informative guide, you would learn how to wipe a locked iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-10-social-media-tag-analyzers-fb-twt-and-insta/"><u>2024 Approved Top 10 Social Media Tag Analyzers FB, Twt & Insta</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-galaxy-s23-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Galaxy S23</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-12-mini-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 12 mini After Forgetting the Passcode?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 screen lock without losing data?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone XS Without Passcode?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-8-ultimate-free-3d-players-perfect-for-pcmac-users-out-there/"><u>In 2024, 8 Ultimate Free 3D Players Perfect for PC/Mac Users Out There</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-7-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 7 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-approaches-to-color-correction-with-gopro-studio-for-2024/"><u>Innovative Approaches to Color Correction with GoPro Studio for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-t2-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo T2 Pro 5G Phones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlocking-virtual-potential-with-kinemasters-latest-android-release/"><u>Unlocking Virtual Potential with KineMaster's Latest Android Release</u></a></li>
+</ul></div>
 
