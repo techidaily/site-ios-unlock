@@ -1,7 +1,7 @@
 ---
 title: Forgot Locked Apple iPhone 12 mini Password? Learn the Best Methods To Unlock
-date: 2024-07-15T01:29:32.817Z
-updated: 2024-07-16T01:29:32.817Z
+date: 2024-12-13T16:11:21.127Z
+updated: 2024-12-20T16:14:27.242Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,14 +46,10 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
@@ -78,6 +74,10 @@ If you've locked a note on your Apple iPhone 12 mini but forgot the password, th
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -87,6 +87,10 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 - **Step 1.** Before starting, ensure you have Touch ID/Face ID already enabled. Now, open the Notes app and navigate to the locked note. Tap the note followed by pressing "View Note." Then, you will be required to use Touch ID or Face ID to unlock the note.
 
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
@@ -107,8 +111,6 @@ Locking notes on your Apple iPhone 12 mini provides extra security for your sens
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
-
-
 
 ## Remove Device Supervision From your Apple iPhone 12 mini
 
@@ -179,23 +181,10 @@ First, launch Wondershare Dr.Fone on the computer and connect it to your Apple i
 
 ![access toolbox to select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2: Select iOS and Head To Unlock MDM**
 
 After that, choose “iOS” as the Apple iPhone 12 mini device type to open the related tool. Once the tool starts working, select the "Unlock MDM iPhone" option from the list.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access unlock mdm iphone feature](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
 
 - **Step 3. Select Remove MDM Function To Start the Process**
@@ -210,6 +199,10 @@ A prompt will pop up stating that you need to turn off the Find My feature on yo
 
 ![mdm removed successfully](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Easy Removal of Device Supervision From Settings
 
 Looking for other conventional methods about **how to remove supervision from iPad** or iPhone? If you wish to perform such actions, you can access some options in your Apple iPhone 12 mini settings. However, to utilize this method, you should know the login information and password of the Apple iPhone 12 mini device. If you have them with you, follow the given steps to remove device supervision from iPhone settings:
@@ -222,9 +215,6 @@ Looking for other conventional methods about **how to remove supervision from iP
 
 ![remove mdm management from ios device](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4. Using Apple Configurator 2 for Removing iPhone Supervision System
 
 [Apple Configurator](https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12) is a free tool for Mac users that provides a simple technique for removing iPhone supervision. To use this method, you must have a password for the Apple iPhone 12 mini device; otherwise, you will need to contact the organization to get the necessary permissions. Below are easy steps about **how to remove device supervision from iPad** and iPhone through your Mac:
@@ -249,6 +239,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 Are you concerned about your privacy and would like to secure certain apps on your iOS device? Don’t worry! There are plenty of ways to app lock the Apple iPhone 12 mini and protect your privacy. You can follow the same drill to restrict the usage of certain apps for your kids as well by taking the assistance of the Apple iPhone 12 mini app lock feature. The app lock for iPhone and iPad options can be used pretty easily. There are plenty of native and third-party solutions out there that you can use. In this post, we will make you familiar with seven different techniques on how to lock apps on iPhones and iPads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Lock Apps on iPhone with Screen Time?
 
 Utilizing Screen Time on your Apple iPhone 12 mini offers a versatile way to manage app access. It is done through time restrictions and a dedicated passcode. By implementing Screen Time settings, you can exercise control over app usage. It ensures added security and regulated access to your preferred applications. Now, let's walk through the steps to learn **how to lock apps on iPhone** Screen Time:
@@ -256,6 +250,10 @@ Utilizing Screen Time on your Apple iPhone 12 mini offers a versatile way to man
 **Step 1.** Begin by accessing the Settings on your iOS device and tapping on the "Screen Time" option. On the ensuing screen, tap "App Limits," followed by "Add Limit."
 
 ![choose the app limits option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
 
@@ -299,9 +297,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 1.** Unlock your device and go to its Settings > General > Restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setup iphone restrictions](https://images.wondershare.com/drfone/article/2017/09/15060134646367.jpg)
 
 **Step 2.** Turn the feature on and set up a passcode for app restrictions. To provide added security, you can set up a passcode that is not similar to your lock screen passcode.
@@ -312,14 +307,9 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone 12 mini passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -331,6 +321,10 @@ Remove iPhone iPhone-locked screen without Hassle.
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,008,670** people have downloaded it
 
 ## Part 5: How to Lock Apps on iPhone Using Guided Access?
@@ -340,6 +334,10 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 1.** To start with, go to your device’s Settings > General > Accessibility and tap on the “Guided Access” option.
 
 ![enable guided access](https://images.wondershare.com/drfone/article/2017/09/15060135337469.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Turn on the “Guided Access” feature and tap on the “Passcode Settings”.
 
@@ -351,11 +349,19 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
 
 **Step 6.** To exit the Guided Access mode, tap the Home screen three times and provide the respective passcode.
 
 ![exit guided access](https://images.wondershare.com/drfone/article/2017/09/15060136247710.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to Lock Apps on iPhone with Touch ID?
 
@@ -441,6 +447,10 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![protected applications](https://images.wondershare.com/drfone/article/2017/09/15060137256044.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Simply turn on (or off) the feature of the app that you wish to lock.
 
 **Step 8.** You can also go to the “Touch ID” feature to further calibrate the app.
@@ -452,7 +462,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone 12 mini without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone 12 mini in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -466,9 +475,26 @@ By following these solutions, you would be able to learn how to lock apps on the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/acid-pro-revisited-exploring-equivalent-tools-for-2024/"><u>ACID Pro Revisited Exploring Equivalent Tools for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipate-the-future-top-3-innovative-features-of-the-new-iphone-16-that-will-revamp-your-tech-experience-detailed-review-by-techenthusiasts/"><u>Anticipate the Future: Top 3 Innovative Features of the New iPhone 16 That Will Revamp Your Tech Experience - Detailed Review by TechEnthusiasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-100-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 100 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xr-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XR to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 8 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-14-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 14 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pros-and-cons-the-best-vr-gear-for-your-hands/"><u>In 2024, Pros and Cons The Best VR Gear for Your Hands</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtube-studios-pathway-to-high-quality-videography/"><u>In 2024, YouTube Studio's Pathway to High-Quality Videography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-10-mobile-apps-for-immediate-sports-action-access/"><u>Leading 10 Mobile Apps for Immediate Sports Action Access</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-introduces-innovative-2-in-1-device-a-hybrid-of-windows-laptop-and-android-tablet/"><u>Lenovo Introduces Innovative 2-in-1 Device: A Hybrid of Windows Laptop and Android Tablet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-13-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-13-mini-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 13 mini Passcode without a Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Resolve Your Apple iPhone 12 mini Keeps Asking for Outlook Password
-date: 2024-07-15T01:32:33.170Z
-updated: 2024-07-16T01:32:33.170Z
+date: 2024-12-14T16:05:25.255Z
+updated: 2024-12-20T16:02:49.786Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,8 +27,9 @@ Among these challenges, iPhone users specifically grapple with a persistent issu
 The **iPhone asking for Outlook password** arises from a combination of factors. Understanding these reasons is crucial in diagnosing and resolving the problem effectively:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Incorrect Password Entry
 
 Users might unknowingly enter the wrong password. They may have changed their Outlook password without updating it on their iPhones. This mismatch can trigger continuous password prompts.
@@ -117,6 +118,10 @@ Deleting and re-inserting your Outlook account on your Apple iPhone 12 mini can 
 
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6. Re-Check Sync Settings
 
 Ensuring that your sync settings align with Outlook's recommended configurations is crucial. Follow these steps to re-check and adjust your sync settings on your Apple iPhone 12 mini:
@@ -128,6 +133,10 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 - **Step 2.** Confirm that the "Push" or "Fetch" settings are configured to your preference. "Push" enables real-time updates, while "Fetch" allows you to set specific intervals for email updates.
 
 ![select required schedule for outlook](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7. Uninstall and Re-Install Outlook App
 
@@ -167,9 +176,6 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 - **Step 1.** Navigate to the "General" tab in the "Settings" app on your Apple iPhone 12 mini after you open it. Move down the screen, and at the bottom, choose "Transfer or Reset iPhone."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access transfer or reset option](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-17.jpg)
 
 - **Step 2.** On the following screen, tap "Reset" and select "Reset All Settings" from the available options. Enter your device passcode if prompted and confirm the action by selecting "Reset All Settings" again.
@@ -238,7 +244,6 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 12 mini into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -251,13 +256,15 @@ Monitor the iOS firmware download progress on the screen. After successful downl
 
 ![enter code to unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To summarize, resolving **an iPhone asking for an Outlook password** requires a systematic approach. From re-entering passwords to adjusting settings, this guide has covered 13 comprehensive fixes. For those facing the challenge of a locked iPhone, Dr.Fone offers a reliable solution. Users can ensure integration between their iPhones and Outlook by addressing these issues. This will enhance their overall email experience.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## How To Bypass the Required Apple Store Verification For Apple iPhone 12 mini
 
@@ -303,6 +310,10 @@ Sometimes, unpaid subscriptions can trigger the verification prompt. Tap the App
 
 ![subscriptions page app store](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Don’t Require Password for Purchases
 
 For less frequent purchases, you should change the settings so you don’t always have to enter your password. Go to Settings, then to **Screen Time**. Under **Content & Privacy Restrictions**, select **iTunes & App Store Purchases**. Here, you can change the settings to **Don’t Require** for purchases. However, be cautious with this method as it reduces security.
@@ -328,7 +339,6 @@ Dr.Fone - Screen Unlock (iOS) function includes an Apple ID remover tool. This f
 Here’s a complete guide on bypassing **the verification required on the App Store**.
 
 - **Step 1:** Install and open Wondershare Dr.Fone on your computer.
-
 
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
@@ -372,9 +382,6 @@ While it’s an effective solution, always consider it a secondary option to saf
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen?
 
 Is your Apple iPhone 12 mini screen broken, and you're wondering **how to unlock iPhone with broken screen?** Then don't worry; this guide is all you need to **unlock iPhone with broken screen.**
@@ -406,10 +413,11 @@ Also, if your Apple iPhone 12 mini screen is broken, you can use this feature to
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
@@ -448,6 +456,10 @@ You can erase your Apple iPhone 12 mini and its password once you synchronize it
 - Select your Apple iPhone 12 mini in iTunes and pick the latest backup.
 - You'll then see the "Set Up" screen after that. Here, tape on the "Restore from iTunes Backup" choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Unlock iPhone with Siri If its Screen is broken
 
 Siri is a voice assistant on Apple devices. Like other devices have Alexa and Google Assistant, iPhone has Siri. It empowers you to use the Apple iPhone 12 mini through voice commands. You can converse with Siri to unlock your Apple iPhone 12 mini password.
@@ -480,13 +492,13 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the later versions of the Apple iPhone 12 mini and won't assist you with fooling Siri into unlocking your Apple iPhone 12 mini.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
-### Dr.Fone-Screen Unlock
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+### Dr.Fone-Screen Unlock
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -506,6 +518,10 @@ Removing the lock screen requires you to boot your Apple iPhone 12 mini in Recov
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Confirm your Phone Model**
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 12 mini.
@@ -520,11 +536,13 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 12 mini effectively. However, note that this unlocking will likewise wipe your user data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -538,9 +556,22 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-securely-capturing-and-storing-itunes-media-content-for-2024/"><u>[Updated] Securely Capturing and Storing iTunes Media Content for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guide-to-group-photo-and-video-uploads-in-instagram-for-2024/"><u>[Updated] The Ultimate Guide to Group Photo and Video Uploads in Instagram for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/captivating-subscription-making-an-animated-button-for-youtube-with-filmora/"><u>Captivating Subscription Making an Animated Button for YouTube with Filmora</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-headset-steelseries-arctis-ve-audio-software-setup/"><u>Get the Most Out of Your Headset: SteelSeries Arctis Ve Audio Software Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuite-convertir-des-gif-en-jpeg-en-ligne-avec-movavi/"><u>Gratuité: Convertir Des GIF en JPEG en Ligne Avec Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-8-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-12-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 12 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-xs-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-pro-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 Pro with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/restoring-your-trashed-data-a-guide-to-retrieving-files-from-the-recycle-bin-with-yl-software-assistance/"><u>Restoring Your Trashed Data: A Guide to Retrieving Files From the Recycle Bin with YL Software Assistance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-this-amazing-laptop-outperforms-macbook-air-while-offering-exceptional-value-a-top-picks-guide-by-zdnet/"><u>Why This Amazing Laptop Outperforms MacBook Air While Offering Exceptional Value: A Top Picks Guide by ZDNet</u></a></li>
+</ul></div>
 

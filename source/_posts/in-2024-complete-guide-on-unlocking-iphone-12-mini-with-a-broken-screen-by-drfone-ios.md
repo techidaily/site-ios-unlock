@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?
-date: 2024-07-15T01:33:48.289Z
-updated: 2024-07-16T01:33:48.289Z
+date: 2024-12-17T16:07:43.944Z
+updated: 2024-12-20T16:05:58.227Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,6 +42,10 @@ Also, if your Apple iPhone 12 mini screen is broken, you can use this feature to
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
 ![click find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
@@ -84,9 +88,6 @@ You can erase your Apple iPhone 12 mini and its password once you synchronize it
 - Select your Apple iPhone 12 mini in iTunes and pick the latest backup.
 - You'll then see the "Set Up" screen after that. Here, tape on the "Restore from iTunes Backup" choice.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Unlock iPhone with Siri If its Screen is broken
 
 Siri is a voice assistant on Apple devices. Like other devices have Alexa and Google Assistant, iPhone has Siri. It empowers you to use the Apple iPhone 12 mini through voice commands. You can converse with Siri to unlock your Apple iPhone 12 mini password.
@@ -101,6 +102,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -111,6 +116,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 12 mini device and let you pick a photo.
 
 **Step 8.** When the photo library is open, tap on the home button or return button to get back to the unlock screen to get to the Settings symbol.
@@ -119,10 +128,13 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the later versions of the Apple iPhone 12 mini and won't assist you with fooling Siri into unlocking your Apple iPhone 12 mini.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -146,18 +158,6 @@ Removing the lock screen requires you to boot your Apple iPhone 12 mini in Recov
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 12 mini.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Screen Now**
@@ -168,12 +168,9 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 12 mini effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
-
 
 ## Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 mini
 
@@ -231,9 +228,6 @@ These are the steps for registering a new Apple ID:
 
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### B. Verifying Your Identity
 
 The next step is verifying your identity. Check out the steps below:
@@ -272,6 +266,10 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -281,6 +279,10 @@ This versatile tool offers the following key features in the context of Apple ID
 - **Multiple Unlock Modes.**Fone offers various unlock modes to cater to different scenarios, including removing the previous Apple ID. This flexibility ensures that you have the right solution for your specific situation.
 - **Data Security.**Fone - Screen Unlock (iOS) prioritizes data security, ensuring that your personal information and content remain intact during the Apple ID removal process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide on Using Dr.Fone Screen Unlock (iOS)
 
 Check out the steps on how to remove an Apple ID account using Dr.Fone below:
@@ -288,7 +290,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 1:** Launch Wondershare Dr.Fone on your PC to use the **Screen Unlock** function and then navigate to **Toolbox**. Click the **Screen Unlock** section, then choose **iOS**.
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -320,6 +321,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![apple id completely unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This guide has simplified the process of **creating a new Apple ID**, ensuring you can effortlessly personalize, secure, and organize your digital experience. **Creating a new Apple ID** is easy, and it allows you to tailor your Apple journey to your preferences. Remember, it's all about you, your privacy, and your convenience.
@@ -327,8 +332,9 @@ This guide has simplified the process of **creating a new Apple ID**, ensuring y
 Should you encounter any challenges while managing your Apple ID, such as removing a previous one, consider Dr.Fone - iOS Screen Unlock tool. This user-friendly resource stands ready to assist, ensuring a seamless and secure Apple experience. Explore the possibilities and make the most of your Apple adventure!
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Complete Guide For Apple iPhone 12 mini Lock Screen
 
 Like most iPhone users, you rely on your lock screen to keep your data safe and protected. But with the release of iOS 17, there are a few new features and changes that you need to know about. This complete guide will clarify everything you need to know about the iOS 17 lock screen.
@@ -395,6 +401,10 @@ That's how you bypass the lock screen without losing any data.
 
 ![emergency dial](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Bypass passcode with iTunes restore
 
 If your Apple iPhone 12 mini needs to be backed up with iTunes sync feature, you can use this method to bypass the passcode.
@@ -429,7 +439,6 @@ A third-party tool named Dr.Fone-Screen Unlock can help you in this regard. The 
 
 First, download/install Dr.Fone-Screen Unlock on your computer or MacBook. You can get it from here:
 
-
 After downloading the tool, install launch it on your PC.
 
 **Step #2: Launch the Application and Go for Screen Unlock**
@@ -446,9 +455,6 @@ To do this, you need to press and hold the Home button and Sleep/Wake button sim
 
 After that, release the Sleep/Wake button but keep holding the Home button until Dr.Fone detects your device in DFU mode.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode to bypass ios 17 lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step #4: Download the Appropriate Firmware**
@@ -467,7 +473,6 @@ After the firmware is downloaded, you need to press the Unlock Now button, and D
 
 ![ios 17 lock screen without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## FAQs
 
 ### Why iOS 17 Lock Screen is not working?
@@ -481,6 +486,10 @@ You can try resetting your device to factory settings if the problem still exist
 There are various ways to fix the lock screen bugs in iOS 17. You can try resetting your device to factory settings, or you can also try restoring your device from a previous backup.
 
 If none of these methods work, you can try using a third-party tool like Dr.Fone-Screen Unlock to bypass the lock screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do you unlock a locked iPhone iOS 17?
 
@@ -504,7 +513,6 @@ But if you are still facing problems with your lock screen, then the greatest th
 
 So, if you are looking for a hassle-free solution to fix your lock screen issues, then this is the best one you should never miss.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -517,9 +525,26 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-step-by-step-approach-to-google-voice-recordings/"><u>[New] In 2024, A Step-by-Step Approach to Google Voice Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[New] In 2024, Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converte-i-file-mp4-nel-formato-avi-utilizzando-lestesa-gamma-di-funzionalita-gratuite-online-di-movavi/"><u>Converte I File MP4 Nel Formato AVI Utilizzando L'Estesa Gamma Di Funzionalità Gratuite Online Di Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-15-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 15 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/easily-change-profile-contact-information/"><u>Easily Change Profile Contact Information</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Pro Without Passcode Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/handling-soundtracks-opening-srt-on-pcmac-for-2024/"><u>Handling Soundtracks Opening SRT on PC/Mac for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-7-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-6-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-se-2020-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone SE (2020) With or Without Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-motorola-moto-g14-by-fonelab-android-recover-video/"><u>How to recover old videos from your Motorola Moto G14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xs-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone XS when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-xs-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone XS Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 mini</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pivotal-user-feedback-a-look-at-vllo/"><u>In 2024, Pivotal User Feedback A Look at VLLO</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-unresponsive-dvd-bd-and-cd-drives/"><u>Troubleshooting Steps for Unresponsive DVD, BD, and CD Drives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tweak-pointer-efficiency-for-dell-windows/"><u>Tweak Pointer Efficiency for Dell (Windows)</u></a></li>
+</ul></div>
 

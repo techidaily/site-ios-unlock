@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12
-date: 2024-07-15T01:27:18.170Z
-updated: 2024-07-16T01:27:18.170Z
+date: 2024-12-16T16:12:26.999Z
+updated: 2024-12-20T16:05:58.010Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 12 or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -31,6 +35,10 @@ Low Power Mode
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Screen Time Restrictions
 
@@ -54,9 +62,6 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
@@ -70,6 +75,10 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 - **Step 3:** Tap **Turn Off Screen Time**.
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.3: Remove MDM Configuration Profile
 
@@ -120,6 +129,10 @@ Have you ever bought a used iPad or Apple iPhone 12 to find the Auto-Lock option
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
@@ -137,6 +150,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
@@ -191,9 +208,6 @@ To bring back your Apple iPhone 12 in a working state, this guide provides some 
 
 ![unlock iphone in security lockout solutions](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Understanding Security Lockout in iPhone: What It Is?
 
 Security lockout error appears when you try entering a wrong passcode several times. That is when you have no chance left to enter the passcode, so you should be aware of the number of attempts.
@@ -211,6 +225,10 @@ The security lockout issue does not appear immediately on your Apple iPhone 12. 
 
 If you have encountered this issue, unfortunately, we will offer easy solutions to fix iPhone or **iPad security lockout** errors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. \[Easiest Way\] Remove Security Lockout From iPhone Using Wondershare Dr.Fone
 
 As you've gone through the entire issue of Security Lockout in iOS devices, you will need to find an appropriate solution. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) provides a dedicated screen unlock tool to solve all relevant iOS unlocking issues. When discovering **how to unlock the Apple iPhone 12 security lockout,** Wondershare Dr.Fone helps you resolve it in no time.
@@ -218,8 +236,9 @@ As you've gone through the entire issue of Security Lockout in iOS devices, you 
 You can find the latest support of iDevice and iOS versions across the tool, which makes it a versatile option. Consequently, you can bypass all types of screen locks from your Apple iPhone 12 or iPad without any inconvenience. This includes support in removing the carrier and iCloud activation locks.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Highlights of Dr.Fone
 
 1. You can remove Touch ID, Face ID, alphanumeric passcode, and Screen Time passcode at a high success rate within a few minutes.
@@ -235,7 +254,6 @@ Do you have a query about **how to get out of security lockout on your Apple iPh
 First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone 12 via cable. Open the "Toolbox" and select the “Screen Unlock” option.
 
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2. Advance to Unlocking iOS Screen**
 
@@ -265,8 +283,9 @@ Getting your Apple iPhone 12 out of Security Lockout from the Apple iPhone 12 di
 ![perform direct unlock security lockout](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What if I Have Recently Changed My iPhone's Passcode?
 
 If you have recently changed the iDevice password, you can use your old passcode within 72 hours to sign in temporarily. After getting into your Apple iPhone 12, set a new passcode immediately to complete the “Passcode Reset” process.
@@ -285,9 +304,6 @@ If you have recently changed the iDevice password, you can use your old passcode
 
 - **Step 2.** Subsequently, iTunes will detect your Apple iPhone 12 in Recovery Mode. A prompt will appear stating that you want to “Update” or “Restore” your Apple iPhone 12. From there, choose “Restore” and hit the “OK” button to restore your Apple iPhone 12.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![restore iphone from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-8.jpg)
 
 ## Part 5: How To Get iPhone out of Security Lockout Using iCloud?
@@ -371,6 +387,10 @@ To enable the feature of unlocking the Apple iPhone 12 with an Apple Watch, the 
 
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
@@ -380,8 +400,6 @@ After enabling this feature, you can unlock your Apple iPhone 12 with a mask on 
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -398,12 +416,13 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 You can also unlock Apple ID and iCloud passwords without losing the data. Also, while unlocking iPhone Screen Time Passcode through this platform, all of your data and information will be kept intact, and you can function your phone normally again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone 12 Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone 12 Face ID while wearing a mask.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -417,9 +436,23 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-blending-beats-with-video-footage-on-vimeo-platform/"><u>[Updated] 2024 Approved Blending Beats with Video Footage on Vimeo Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-list-top-free-screen-recorder-tools-for-easy-capture-for-2024/"><u>[Updated] Ultimate List Top Free Screen Recorder Tools for Easy Capture for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>2024 Approved Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-youtube-video-wizardry-top-conversion-techniques-to-mp4mpeg/"><u>2024 Approved YouTube Video Wizardry Top Conversion Techniques to MP4/MPEG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-microsoft-bing-ai-vs-google-bard-which-is-the-best-ai-chatbot/"><u>ChatGPT Vs. Microsoft Bing AI Vs. Google Bard: Which Is the Best AI Chatbot?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-audiences-writing-magical-youtube-description-templates-for-higher-views/"><u>Engage Audiences Writing Magical YouTube Description Templates for Higher Views</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-8-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 8 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-13-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 13 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-se-2022-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-6-plus-how-to-unlock-a-disabled-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 6 Plus How to Unlock a Disabled Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-x-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone X Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-12-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 12 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/premier-mp4-broadcast-converter-for-2024/"><u>Premier MP4 Broadcast Converter for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-to-instantaneous-live-streaming-via-obs-and-instagram/"><u>The Ultimate Guide to Instantaneous Live Streaming via OBS & Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-12-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Passcode without a Computer</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-1011-pc-hdd/"><u>Windows 10/11 の新PCへ HDD アップグレードと追加 - 旧ハードディスク使いまわしガイド</u></a></li>
+</ul></div>
 

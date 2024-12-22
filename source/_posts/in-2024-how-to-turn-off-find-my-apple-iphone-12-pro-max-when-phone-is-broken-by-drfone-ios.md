@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken?
-date: 2024-12-15T17:45:49.355Z
-updated: 2024-12-19T23:51:00.123Z
+date: 2024-12-19T16:06:23.140Z
+updated: 2024-12-20T16:26:58.246Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,10 +21,6 @@ In today’s world, your phone is your most important asset. Especially when you
 Apple ensures the privacy and security of its customers. For that, it has introduced this excellent feature of Find My iPhone, which keeps track of the location of your device no matter in which part of the world you are. So, if you've lost your Apple iPhone 12 Pro Max or it is stolen, this app is your savior.
 
 Downloading and enabling Find My iPhone can be really easy and cinch but turning it off can be an arduous task. But we have you covered through this article that shall tell you about this app in detail and guide you on how to turn off Find My iPhone even when your Apple iPhone 12 Pro Max is broken.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is Find My iPhone?
 
@@ -76,6 +72,10 @@ Jailbreak your Apple iPhone 12 Pro Max by following the instructions given by th
 A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Unlock your Apple iPhone 12 Pro Max**
 
@@ -147,13 +147,13 @@ There are many ways to unlock the Apple iPhone 12 Pro Max without a passcode. Yo
 
 So, let's get straight to the different methods to unlock the Apple iPhone 12 Pro Max lock screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Easy Methods to Unlock Apple iPhone 12 Pro Max without Passcode
 
 Following are the four different methods to unlock Apple iPhone 12 Pro Max without a passcode:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method #1: Unlock iPhone Screen Passcode With iTunes
 
@@ -169,7 +169,7 @@ Follow the steps to do this.
 4. By clicking this button, you will be asked again for confirmation. After confirmation, iTunes will wipe out everything on your Apple iPhone 12 Pro Max, and once the process is completed, you will be able to unlock your Apple iPhone 12 Pro Max XR lock screen without any passcode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method #2: Unlock It Via Find My iPhone
@@ -192,10 +192,6 @@ All you have to do is follow the steps given below.
 If both above-given methods don't work for you, or you don't have access to a computer or MacBook to use those methods, there is a 3rd method for you. But it only works on iPhones with iOS 15.2 versions.
 
 ![erase iphone feature](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 With this method, you can follow the steps below to remove the screen lock passcode on Apple iPhone 12 Pro Max.
 
@@ -249,6 +245,10 @@ Once the process is completed, you can unlock your Apple iPhone 12 Pro Max XR lo
 
 Following are 3 frequently asked questions that might come into your mind and their answers to help you understand everything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to remove the passcode on an iOS device?
 
 First, open the Settings menu and scroll down to the Touch ID & Passcode option. Here, you will need to enter your current passcode to disable it.
@@ -275,10 +275,6 @@ Another possibility is that someone tried to break into your phone using an ille
 
 Finally, if you have an Apple iPhone 12 Pro Max with Face ID, it's possible that your phone was locked because it didn't recognize your face. You ought to enter your passcode to unlock your phone if this is the case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Bottom Line
 
 So, these are some most effective methods to follow and unlock the Apple iPhone 12 Pro Max XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone 12 Pro Max lock screen without a passcode.
@@ -300,7 +296,7 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14994463688829.jpg "hey siri")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Tap on the Add (plus) icon.
@@ -319,10 +315,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994464494089.jpg "share on message")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6.** It will open another interface to draft a new message. Wait for a while and write something in the “To” field. Once you are done, tap on the return button on the keyboard.
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994464718727.jpg "send to")
@@ -330,10 +322,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 **Step 7.** This will highlight your text in green. Now, tap on the add icon located nearby.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994464865459.jpg "add contact")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 8.** A new interface would be launched to add a new contact. From here, tap on the “Create New Contact” button.
 
@@ -346,6 +334,10 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 **Step 10.** This will open your device’s gallery. You can browse your photo library from here.
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994465537722.jpg "iphone photo library")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 11.** After a while, press the Home button. If everything goes right, you will enter the Home screen of your iOS device after unlocking it.
 
@@ -369,7 +361,15 @@ After implementing this solution, your iOS device will reset, and your data woul
 
 ![erase Apple iPhone 12 Pro Max](https://images.wondershare.com/drfone/article/2017/07/14994466099482.jpg "erase Apple iPhone 12 Pro Max")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By following this method, you can learn how to unlock the iPad passcode without a computer remotely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Unlock disabled Apple iPhone 12 Pro Max/iPad using Dr.Fone - Screen Unlock?
 
@@ -380,10 +380,6 @@ Dr.Fone can help you to remove the screen from the disabled Apple iPhone 12 Pro 
 - Works for all models of Apple iPhone 12 Pro Max, iPad, and iPod touch.
 - Fully compatible with the latest iOS 14.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1.** Install Dr.Fone on your computer.
 
 **Step 2.** Open 'Screen Unlock'. Select 'Unlock iOS Screen.'
@@ -391,7 +387,7 @@ Dr.Fone can help you to remove the screen from the disabled Apple iPhone 12 Pro 
 ![start to remove Apple iPhone 12 Pro Max lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** Follow the on-screen instruction.
@@ -407,6 +403,10 @@ Select device information on Dr.Fone
 **Step 4.** Start to Unlock. The phone will be unlocked after that.
 
 ![download Apple iPhone 12 Pro Max firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Tips to protect your Apple iPhone 12 Pro Max from being unlocked by thieves
 
@@ -448,18 +448,24 @@ By implementing the above suggestions, you can easily make your iOS device more 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-elevate-youtube-presence-ideal-release-windows/"><u>[New] 2024 Approved Elevate Youtube Presence Ideal Release Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-personal-growth-chronicles-for-youtube-audience/"><u>[New] In 2024, Personal Growth Chronicles for YouTube Audience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-subtitle-mastery-made-easy-10-free-online-tools-for-2024/"><u>[New] Subtitle Mastery Made Easy - 10 Free Online Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-picture-perfection-the-ultimate-iosandroid-covers-app-for-2024/"><u>[Updated] Picture Perfection The Ultimate iOS/Android Covers App for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini, Apples New iPhone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Without iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-netflixs-innovative-multi-stream-feature/"><u>In 2024, Exploring Netflix's Innovative Multi-Stream Feature</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-15-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 15 Pro Max i Do? Get Answers here</u></a></li>
-<li><a href="https://fox-access.techidaily.com/iphone-and-samsung-faces-examining-their-biometric-security-for-2024/"><u>IPhone & Samsung Faces Examining Their Biometric Security for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/windows-8-flv-editor-the-ultimate-solution-for-video-editing-needs-for-2024/"><u>Windows 8 FLV Editor The Ultimate Solution for Video Editing Needs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>[New] Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-creative-twists-on-image-captions/"><u>[Updated] Creative Twists on Image Captions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-beginners-companion-swift-iphone-screen-recording/"><u>[Updated] In 2024, Beginner's Companion Swift Iphone Screen Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-9-video-calling-apps-android-and-ios-review/"><u>[Updated] In 2024, Essential 9 Video Calling Apps Android & iOS Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-13-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 13 Pro When Its Locked Within Seconds</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/digital-content-arena-competing-titans-vimeo-youtube-dailymotion/"><u>Digital Content Arena Competing Titans - Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-motorola-defy-2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Motorola Defy 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-7-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 7 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-xr-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone XR Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-mini-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 12 mini Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-7-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 7 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-mini-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 mini Lock Screen with Notifications?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-phantom-slow-motion-masterclass/"><u>In 2024, Phantom Slow Motion Masterclass</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Pro Properly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shrink-windows-interface-in-win-10/"><u>Shrink Windows Interface in WIN 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-higher-performance-a-guide-to-faster-gaming-on-windows-11/"><u>Unlocking Higher Performance: A Guide to Faster Gaming on Windows 11</u></a></li>
 </ul></div>
 

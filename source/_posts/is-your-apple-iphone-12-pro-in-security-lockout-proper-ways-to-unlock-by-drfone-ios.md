@@ -1,7 +1,7 @@
 ---
 title: Is Your Apple iPhone 12 Pro in Security Lockout? Proper Ways To Unlock
-date: 2024-12-16T20:20:08.230Z
-updated: 2024-12-19T17:40:26.765Z
+date: 2024-12-16T16:21:15.277Z
+updated: 2024-12-20T16:14:01.838Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,15 +45,15 @@ As you've gone through the entire issue of Security Lockout in iOS devices, you 
 
 You can find the latest support of iDevice and iOS versions across the tool, which makes it a versatile option. Consequently, you can bypass all types of screen locks from your Apple iPhone 12 Pro or iPad without any inconvenience. This includes support in removing the carrier and iCloud activation locks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Highlights of Dr.Fone
 
 1. You can remove Touch ID, Face ID, alphanumeric passcode, and Screen Time passcode at a high success rate within a few minutes.
 2. When unlocking your iDevice's lock screen, it is unnecessary to deactivate Find My services to make Wondershare Dr.Fone operate.
 3. It also helps to remove MDM profiles and [bypass MDM lock](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/) without data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock iPhone Screen Using Wondershare Dr.Fone
 
@@ -70,10 +70,6 @@ First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone
 After that, choose “iOS” to run the required process. On the next window, select the "Unlock iOS Screen" option. The tool will take you to the next screen, and there, click the "Start" button to proceed with unlocking the iOS device. Continue to put your iDevice into Recovery Mode as per the provided instructions on-screen.
 
 ![put ios device in recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3. Set Device Details and Continue To Unlock**
 
@@ -96,10 +92,6 @@ Getting your Apple iPhone 12 Pro out of Security Lockout from the Apple iPhone 1
 
 ![perform direct unlock security lockout](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What if I Have Recently Changed My iPhone's Passcode?
 
 If you have recently changed the iDevice password, you can use your old passcode within 72 hours to sign in temporarily. After getting into your Apple iPhone 12 Pro, set a new passcode immediately to complete the “Passcode Reset” process.
@@ -121,7 +113,11 @@ If you have recently changed the iDevice password, you can use your old passcode
 ![restore iphone from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How To Get iPhone out of Security Lockout Using iCloud?
@@ -136,10 +132,6 @@ iCloud service is another handy method for people having queries about **how to 
 
 ![erase iphone device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Security Lockout or “iPhone Unavailable” is a common issue that appears when you enter an incorrect passcode up to 10 times. Our detailed guide provided authentic ways to fix the **security lockout iPhone** using simple steps. Here, Wondershare Dr.Fone is the most recommended method because it helps recover your Apple iPhone 12 Pro easily within a few steps.
@@ -152,15 +144,7 @@ _How do I unlock my Apple iPhone 12 Pro? I know you're supposed to connect it to
 
 ![unlock-iPhone-to-use-accessories](https://images.wondershare.com/drfone/unlock-new/unlock-usb/unlock-iPhone-to-use-accessories.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You may have had the experience of connecting your Apple iPhone 12 Pro to a computer with USB accessories. Usually, "**Unlock Apple iPhone 12 Pro to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why You Need to "Unlock Apple iPhone 12 Pro to Use Accessories"?
 
@@ -180,6 +164,10 @@ If you find this warning annoying or your Apple iPhone 12 Pro not charging when 
 After completing all the steps, your Apple iPhone 12 Pro can connect USB accessories anytime, anywhere. However, it is very common to forget to unlock the passcode. Next, we will recommend four solutions to help you use USB accessories without a passcode.
 
 ![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Unlock Apple iPhone 12 Pro to Use USB Accessories without Passcode via Dr.Fone?
 
@@ -231,10 +219,14 @@ With iCloud, you can quickly clean up your Apple iPhone 12 Pro, remove screen lo
 
 ![icloud-erase-phone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/icloud-erase-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, your Apple iPhone 12 Pro will reboot without a passcode. Then, you can unlock Apple iPhone 12 Pro to use accessories and bypass the passcode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Unlock Apple iPhone 12 Pro to Use USB Accessories without Passcode via iTunes?
@@ -247,10 +239,6 @@ There is currently no way to unlock an iPhone without erasing all data. Luckily,
 ![itunes-restore](https://images.wondershare.com/drfone/unlock-new/unlock-usb/itunes-restore.jpg)
 
 Wait for a while and you could unlock the screen to use USB accessories. However, in step one, you may need to enter your passcode to get stuck during the process. Therefore, this method is not the most efficient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: How to Unlock Apple iPhone 12 Pro to Use USB Accessories without Passcode via Recovery Mode?
 
@@ -269,6 +257,10 @@ If you have forgotten your Apple ID or password and have not synced iCloud and i
 2\. Quickly press and hold the button while connecting your phone and computer until the recovery mode appears.
 
 ![recovery-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/recovery-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Find your tool in iTunes on the computer. Choose Restore and this process will take a few minutes.
 
@@ -316,21 +308,25 @@ Now, launch the tool and then opt for the “Unlock” tile from the main screen
 
 ![launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Boot in Recovery/DFU mode**
 
 Next move that you need to perform is to opt for the correct mode, i.e. “Unlock iOS Screen”. Then, you’ll be prompted to boot your device in Recovery/DFU mode. The on-screen instructions will guide you on how to do it.
 
 ![opt for the correct mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Double-Check iPhone information**
 
 On the upcoming screen, you’ll be displayed the “Device Model” and most recent “System Version” which is compatible with your Apple iPhone 12 Pro. Simply, hit the “Start” button here.
 
 ![iOS firmware version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Perform Apple iPhone 12 Pro passcode removal**
 
@@ -349,6 +345,10 @@ Here we’re going to be familiar with the Apple iPhone 12 Pro passcode reset us
 **Step 2:** Then, hit the “Summary” option from the left panel and then you need to hit the “Restore iPhone” button. Confirm your actions by simply pushing the “Restore” button on the pop-up message and you’re done. Now, just wait for the process to complete.
 
 ![iTunes backup restoring](https://images.wondershare.com/drfone/article/2019/09/restore-iphone-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Restore Apple iPhone 12 Pro in recovery mode to remove screen passcode
 
@@ -420,24 +420,17 @@ Now, in case you know the Apple iPhone 12 Pro restrictions passcode and just wis
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-demystifying-payment-systems-in-shortform-creator-ecosystem/"><u>[New] In 2024, Demystifying Payment Systems in Shortform Creator Ecosystem</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-19-secrets-to-free-capture-of-virtual-learning-sessions/"><u>[Updated] 19 Secrets to FREE Capture of Virtual Learning Sessions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-recording-erasing-identifiable-information/"><u>[Updated] 2024 Approved Covert Recording Erasing Identifiable Information</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-earning-as-a-video-game-geek/"><u>[Updated] 2024 Approved Earning as a Video Game Geek</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-chrome-security-champions-discover-how-to-claim-rewards-of-up-to-250k-for-uncovering-critical-flaws/"><u>1. Chrome Security Champions: Discover How To Claim Rewards of Up to $250K For Uncovering Critical Flaws</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029448472-2024/"><u>最新の2024年対応ボイスレコーディングソフトウェア選び：初心者から上級者まで完全ガイド</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-8-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 8 with a Broken Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-6s-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 6s</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone XS Max After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-se-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone SE Lock Screen with Notifications?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>In 2024, 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-13-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 13 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Pro Max With or Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-7-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 7 when Phone is Broken?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-pillars-behind-chatgpts-surge-in-popularity/"><u>Top 5 Pillars Behind ChatGPT’s Surge in Popularity</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210411988-9781667416113-una-vida-de-ensueno/"><u>Una vida de ensueño | Free Book</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-making-yt-thumbnails-pop-a-mac-centric-approach/"><u>[New] 2024 Approved Making YT Thumbnails Pop A Mac-Centric Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-camera-woes-ended-by-fix-obs-for-2024/"><u>[Updated] Camera Woes Ended by Fix - OBS for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-c55-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-11-pro-how-to-unlock-a-disabled-iphone-11-pro-by-drfone-ios/"><u>Disabled iPhone 11 Pro How to Unlock a Disabled iPhone 11 Pro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290451235-dvd-shrinkdvd/"><u>DVD-Shrink使用時にコピー保護があるDVDのコピー不能：理由と解決手順</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-download-options-for-every-generation-of-iphone-handbook-and-support-documents/"><u>Easy Download Options for Every Generation of iPhone Handbook and Support Documents</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-a34-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy A34 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-11-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 11 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-building-a-rpg-storyline-with-ai-powered-by-chatgpt/"><u>Step-by-Step Tutorial on Building a RPG Storyline with AI Powered by ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Your iPhone 12 mini Keeps Asking for Outlook Password
-date: 2024-07-15T01:31:12.958Z
-updated: 2024-07-16T01:31:12.958Z
+date: 2024-12-16T16:00:40.571Z
+updated: 2024-12-20T16:12:18.166Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,6 +34,10 @@ Users might unknowingly enter the wrong password. They may have changed their Ou
 
 An outdated Outlook mail app on your Apple iPhone 12 mini may struggle to communicate with its latest security protocols. This can lead to performance issues like the Apple iPhone 12 mini keeps asking for passwords.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Network Connectivity Issues
 
 Upholding a stable internet connection is necessary for effortless communication. An unreliable or unstable network can disrupt the synchronization process in Outlook.
@@ -64,14 +68,15 @@ If your Apple iPhone 12 mini continuously prompts you for the Outlook password, 
 
 - **Step 1.** You begin by accessing your iDevice’s “Settings” app and scrolling down to tap the "Mail" option. Next, press "Accounts," and on the following screen, select the Outlook account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![head to mail accounts in settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-2.jpg)
 
 - **Step 2.** Encountering the error message "Account not authenticated" is what you will come across. Now, tap the "Re-enter Password" option to enter your correct Outlook password.
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2. Change the Password to Your Outlook Mail
 
@@ -83,10 +88,11 @@ Sometimes, the email service provider may force users to change their passwords 
 
 - **Step 2.** Upon reaching the verification page, provide your password and tap the "Sign In" button. Afterward, you will be asked for other verification methods. Upon verifying, the "Change your password" window will appear. Here, you will need to enter your "Current password," "New password," and re-enter it to proceed. Then, hit the "Save" button, and your password will be changed.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3. Checking the Network Connection
 
@@ -155,6 +161,10 @@ Exploring alternative mail applications may offer a viable workaround. This is e
 \=
 
 ![alternatives of outlook to consider](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10. Try Disabling Privacy Protection
 
@@ -238,7 +248,6 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 12 mini into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -257,17 +266,12 @@ To summarize, resolving **an iPhone asking for an Outlook password** requires a 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 mini
 
 Your Apple ID email is the key to your digital world with Apple devices. It's the address Apple recognizes you by, allowing you to access your apps, music, and more. But sometimes, life brings changes, and your Apple ID email may need an update.
 
 This guide will take you through the simple process of **changing your Apple ID email** address, ensuring it's easy to understand every step. Explore why you might want to make this change, shedding light on common scenarios where this adjustment can enhance your Apple experience. So dive in and explore!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change your apple id](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-01.jpg)
 
 ## Part I: Why Change Your Apple ID Email?
@@ -275,6 +279,10 @@ This guide will take you through the simple process of **changing your Apple ID 
 Your Apple ID email helps you access your apps, music, and more. But sometimes, you might need to change it for simple reasons. Let's look at why you might want to change your Apple ID email in easy-to-understand terms.
 
 ![why change your apple id email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Your email address is part of your identity. Changing it to something that better suits you can make your Apple experience more personal.
 - If you think someone else knows your old email password, changing it can keep your Apple account safer. A fresh email means a new layer of security.
@@ -284,6 +292,10 @@ Your Apple ID email helps you access your apps, music, and more. But sometimes, 
 - Using a more professional email address for your Apple ID can make a better impression when using Apple services for work or business.
 
 These are the simple reasons why you might want to change your Apple ID email. It's all about making your Apple experience better, safer, and more suited to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part II: Step-by-Step Guide: How to Change Apple ID Email
 
@@ -308,6 +320,10 @@ If you're a Mac enthusiast, changing your Apple ID email is straightforward:
 - **Step 3:** Navigate to the **Name, Phone, Email** section, then click **Edit** next to your email address.
 
 ![change apple id on mac 3](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Input your new email address, and Apple will send a verification code to it.
 - **Step 5:** Check your new email for the verification code, enter it, and voilà! Your Apple ID email is updated on your Mac.
@@ -365,7 +381,6 @@ What if you find yourself in a situation where you want to change your Apple ID 
 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 Check out the key features that Dr.Fone has to offer:
@@ -419,7 +434,6 @@ By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device
 
 [<u>How to Fix Email Disappeared from iPhone?</u>](https://drfone.wondershare.com/iphone-problems/email-disappeared-from-iphone.html)
 
-
 ## Conclusion
 
 This guide easily explored the process of **changing your Apple ID email address**. It started by understanding why this change might be necessary and provided straightforward methods for Mac, mobile, and browser users to accomplish it seamlessly.
@@ -433,6 +447,10 @@ Is your Apple iPhone 12 mini screen broken, and you're wondering **how to unlock
 Locking an iPhone with a passcode is a great way to prevent it from getting into the wrong hands. However, some misfortunes can happen, and you might be left with a broken screen. In such cases, you won't be able to get the data inside your phone. So, to get back at your files or to reset your device, you will need to unlock your phone first.
 
 In this detailed guide, we will elaborate on the best possible methods you can employ to **unlock iPhone with broken screen.** Moreover, we will introduce you to the best unlocking tools available for your situation. So stay with us till the end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Use the Feature "Find My iPhone" to Unlock an iPhone with Broken Screen
 
@@ -461,9 +479,6 @@ Also, if your Apple iPhone 12 mini screen is broken, you can use this feature to
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
 
 **Step 6.** Enter the password to proceed.
@@ -490,6 +505,10 @@ Again, iPhone will show the Apple iPhone 12 mini locked message. You then need t
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Use iTunes**
 
 You can erase your Apple iPhone 12 mini and its password once you synchronize it with iTunes. Follow these steps:
@@ -498,6 +517,10 @@ You can erase your Apple iPhone 12 mini and its password once you synchronize it
 - iTunes will coordinate your Apple iPhone 12 mini and make a backup. When the sync and backup are done, click Restore iPhone.
 - Select your Apple iPhone 12 mini in iTunes and pick the latest backup.
 - You'll then see the "Set Up" screen after that. Here, tape on the "Restore from iTunes Backup" choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Unlock iPhone with Siri If its Screen is broken
 
@@ -511,9 +534,6 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
@@ -537,7 +557,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -571,11 +590,9 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 12 mini effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -589,9 +606,23 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-charting-a-course-to-success-understanding-youtube-income/"><u>[Updated] 2024 Approved Charting a Course to Success Understanding YouTube Income</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-the-updated-movavi-video-editor/"><u>[Updated] Evaluating the Updated Movavi Video Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-virtual-reality-tours/"><u>[Updated] How to Use Virtual Reality Tours</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-guide-to-enhanced-video-capturing-in-vlc-for-2024/"><u>[Updated] Quick Guide to Enhanced Video Capturing in VLC for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>[Updated] Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-xs-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone XS When Its Locked Within Seconds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-apple-laptop-a-comprehensive-guide-comparing-macbook-air-and-macbook-pro/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide Comparing MacBook Air and MacBook Pro</u></a></li>
+<li><a href="https://win-best.techidaily.com/facilizar-la-resolucion-del-error-de-shadow-copy-no-creador/"><u>Facilizar La Resolución Del Error De Shadow Copy No Creador</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-13-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 13 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-7-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 7? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-minecraft-banner-templates-get-them-here/"><u>In 2024, Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-perfect-your-gif-game-on-windows-nine-best-capture-software/"><u>In 2024, Perfect Your GIF Game on Windows Nine Best Capture Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-11-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 11 Keeps Asking for Outlook Password</u></a></li>
+</ul></div>
 

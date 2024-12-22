@@ -1,7 +1,7 @@
 ---
 title: In 2024, Resolve Your Apple iPhone 12 Keeps Asking for Outlook Password
-date: 2024-07-15T01:27:16.997Z
-updated: 2024-07-16T01:27:16.997Z
+date: 2024-12-18T16:16:44.077Z
+updated: 2024-12-20T16:01:16.401Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,9 +22,6 @@ Among these challenges, iPhone users specifically grapple with a persistent issu
 
 ![iphone ipad asking outlook password issue](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Does My iPhone Keep Asking for Outlook Password
 
 The **iPhone asking for Outlook password** arises from a combination of factors. Understanding these reasons is crucial in diagnosing and resolving the problem effectively:
@@ -61,6 +58,10 @@ The smooth functioning of the Mail app may be disrupted by problems and malfunct
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1. Add Password Once and Let the Prompt Disappear
 
 If your Apple iPhone 12 continuously prompts you for the Outlook password, a simple solution is to re-enter the password. Follow these steps to potentially resolve the issue once and for all by accessing the respective settings:
@@ -68,6 +69,10 @@ If your Apple iPhone 12 continuously prompts you for the Outlook password, a sim
 - **Step 1.** You begin by accessing your iDevice’s “Settings” app and scrolling down to tap the "Mail" option. Next, press "Accounts," and on the following screen, select the Outlook account.
 
 ![head to mail accounts in settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Encountering the error message "Account not authenticated" is what you will come across. Now, tap the "Re-enter Password" option to enter your correct Outlook password.
 
@@ -86,8 +91,13 @@ Sometimes, the email service provider may force users to change their passwords 
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3. Checking the Network Connection
 
 [<u>Network inconsistencies</u>](https://drfone.wondershare.com/reset-iphone/reset-network-settings-iphone.html) can often disrupt the authentication process. This can be the leading cause behind persistent password prompts. To ensure a stable connection, ensure that you are connected to a reliable and stable Wi-Fi network. You can also try toggling the Wi-Fi and mobile data switches on and off.
@@ -119,6 +129,10 @@ Deleting and re-inserting your Outlook account on your Apple iPhone 12 can provi
 - **Step 2.** Once you have deleted the account, return to the "Accounts" tab. Select "Outlook.com" after tapping on "Add Account." Now, follow the on-screen instructions to re-enter your account details.
 
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6. Re-Check Sync Settings
 
@@ -238,7 +252,6 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 12 into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -274,8 +287,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -352,6 +363,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone 12 allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone 12 updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -392,11 +407,6 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a unique tool designed to help you avoid all hassles and get back on track quickly. It comprises modules designed to help you with all the issues that you might encounter during smartphone use. Naturally, there is something to help you when your Apple iPhone 12 is disabled. You don't need to use anything else, no other software or special cable or support. All you need is this one software you can download on your computer (both macOS and Windows supported) and you're good to go.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 12 Without iTunes/ iCloud.
@@ -433,8 +443,9 @@ Your Apple iPhone 12 will be unlocked in a short span of time. Please note that 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Unlock Disabled Apple iPhone 12 Using iTunes or macOS Finder
 
 Of course, there is an official way that Apple provides for users to restore device firmware using iTunes or macOS Finder. For this, iPhone is put under Recovery Mode manually and Finder or iTunes is used to reinstall software on it directly from Apple. This process is fine for people who are conversant in tech, since this process can throw up a lot of errors that are just numbers, and people can get confused as to what they mean, resulting in frustration.
@@ -450,6 +461,10 @@ Step 2: Pick your Apple iPhone 12 and do the following:
 (2.3) Press the Side Button (power button, on the right side of your Apple iPhone 12) and keep it pressed till Finder or iTunes detects the phone in Recovery Mode.
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Choose Restore to download and reinstall the latest iOS on your Apple iPhone 12 and unlock your Apple iPhone 12.
 
@@ -471,15 +486,16 @@ Step 3: Click Erase iPhone and confirm.
 
 This will start the wipe process on your Apple iPhone 12 remotely and your Apple iPhone 12 will be reset to factory settings. You can now proceed to setup your Apple iPhone 12 once again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Unlock Disabled Apple iPhone 12 Using Find My iPhone App
 
 There are times you have another iOS device in the family or just lying around, you can use that device to unlock your disabled Apple iPhone 12. This method is particularly useful if you're traveling with family or alone, and only have family members with their own iOS devices or, say, your iPad with you. As always, note that all these methods will wipe your data from your Apple iPhone 12.
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 12 from the Apple iPhone 12 devices from the left pane, click/ tap your disabled Apple iPhone 12 and click/ tap Erase This Device
@@ -506,6 +522,10 @@ As you may be aware, using iTunes or macOS Finder allows you to backup and resto
 
 After all this to get access back, you might think let's go passcode-less and prevent the hassle. Don't do that - that's worse and unsafe. Instead, here are tips you can use to make sure you don't accidentally disable your Apple iPhone 12 again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: About Passcodes
 
 - 1.1 Set a passcode that is easier to remember for you but difficult to think of for thieves and others.
@@ -523,9 +543,6 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -538,9 +555,26 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use/"><u>[New] 2024 Approved The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-and-proficiently-implementing-cc-rights/"><u>[Updated] 2024 Approved Understanding and Proficiently Implementing CC Rights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-straightforward-recording-tips-for-2024/"><u>[Updated] Instagram Story Straightforward Recording Tips for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unlimited-sky-storage-solutions-for-your-visual-chronicles-free-and-premium/"><u>[Updated] Unlimited Sky Storage Solutions for Your Visual Chronicles, Free & Premium</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-6-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 6 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-14-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 14 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-15-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 15 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-6-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Without iTunes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-14-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 14 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone XS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tale-transmogrifiers-guild-elite-eight/"><u>In 2024, Tale Transmogrifiers Guild – Elite Eight</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/master-the-art-of-fast-instagram-videos/"><u>Master the Art of Fast Instagram Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixes-and-steps-for-restoring-missing-files-in-steam/"><u>Resolved: Fixes and Steps for Restoring Missing Files in Steam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-graphics-issues-in-red-dead-redemption-2-with-errgfxstate-errors/"><u>Resolving Graphics Issues in Red Dead Redemption 2 with ERR_GFX_STATE Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-methods-to-enhance-image-dissolution-techniques/"><u>Top 6 Methods to Enhance Image Dissolution Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 12 Passcode without a Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do?
-date: 2024-12-14T22:05:39.120Z
-updated: 2024-12-19T23:52:32.940Z
+date: 2024-12-15T16:20:12.131Z
+updated: 2024-12-20T16:19:42.111Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,7 +27,7 @@ One of the worst things you can do when faced with this situation is to enter pa
 The more times you get your code wrong, the longer you’ll be locked out, so avoid doing this at all costs, so make sure you move straight onto these approaches to get your phone working as quickly as possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
@@ -41,7 +41,7 @@ While we said, you shouldn’t type in random numbers to try and guess the passw
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.2 Unlock iPhone with an unlock tool
@@ -59,6 +59,10 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 **Step 2.** Click the Unlock iOS Screen option.
 
 ![android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
@@ -89,7 +93,7 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.4 Restore in recovery mode
@@ -107,10 +111,6 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 **Step 2.** Now connect your Apple iPhone XS to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
 
 **Step 3.** iTunes should automatically detect that your device is in Recovery Mode and automatically restore your device to a default state without a lock screen. Wait until this process is completed before disconnecting your device and using it as normal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.5 Use Find My iPhone feature in iCloud
 
@@ -141,6 +141,10 @@ Numerous security features make all Mac devices like iPhones, iPads, and Macs st
 If your device is gone, you can use the Find My application on your other Apple device connected to a similar account to **unlock the lost iPhone.**
 
 If your Apple iPhone XS is in Lost Mode and you don't have the foggiest idea of how to restore it, relax. This guide will cover every one of the techniques that you can use for **iPhone Lost Mode unlock**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Will Happen When iPhone Is in Lost Mode?
 
@@ -174,10 +178,6 @@ One more method for unlocking the Lost Mode on your Apple iPhone XS is to utiliz
 4. Click the "Stop Lost Mode" button to remove the lock from the phone.
 5. Confirm this activity by clicking the "Stop Lost Mode" button again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Use iCloud DNS Bypass
 
 Domain Name Service is an unsafe technique that utilizes a domain name to an IP address. iCloud stores every iPhone's information, and when an iPhone is set up, it sends a request through DNS to ensure whether the Apple iPhone XS device has an activation lock enabled.
@@ -188,10 +188,6 @@ The DNS bypass will send a fake "device isn't locked" message to iCloud through 
 - A WiFi screen will spring up. Tap on the "I" icon. If you are now connected with your WiFi, tap "Forget this Network."
 
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/10/iphone-lost-mode-unlock-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Tap on "Configure DNS," and enter a DNS server as per your region from the list underneath:
 
@@ -221,6 +217,10 @@ If your Apple iPhone XS is on lost mode and attempting to unlock it, you can try
 - Dial "\*#96274825\*0000\*1#," then, at that point, press and hold the dial button for 10 to 15 minutes.
 - If it's not working, try changing the last digit from 1-9. If this doesn't work, have a go at setting 0 after 9. Remember to hold the dial button.
 - Press Home, and it will return you to the beginning screen. Select the language and country, and the activation screen will never appear again. Now create a new password after **iPhone Lost Mode unlock.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Apple iPhone Unlock
 
@@ -282,7 +282,7 @@ That is why you want to unlock that iPhone. So, in this article, we will teach y
 So, let's get started.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Efficient Ways to Unlock a Found iPhone
@@ -356,6 +356,10 @@ Here are the simple steps that can help you.
 
 ![drfone screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Now, click on the Screen Unlock option from the main interface.
 3. After that, click on the iOS Screen Unlock to begin the process.
 
@@ -378,11 +382,11 @@ Here are the simple steps that can help you.
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-So that's how you can easily unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+So that's how you can easily unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
 
 ## What Can I Do to Contact Its Owner?
 
@@ -396,11 +400,11 @@ Many iPhone owners habitually put their phone numbers in lost mode. So, you can 
 
 ![contact the owner with the phone number in lost mode](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The rightful owner of the Apple iPhone XS activates lost mode. You can see the lost mode on the notification panel, where a message will show that the phone is lost. The owner can also remotely lock the phone using this mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check medical ID in an emergency call
 
@@ -415,10 +419,6 @@ To do this, go to the emergency call screen and tap on the Medical ID option. He
 This is a great way to contact the owner of a lost iPhone. You can use this method if you cannot find the owner's phone number in the lost mode or medical ID.
 
 ![contact the owner with the picloud share photo library](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To do this, go to Settings -> iCloud -> Photos and turn on the iCloud Photo Library. Now, take some pictures with the found iPhone, and they will be automatically uploaded to iCloud.
 
@@ -448,19 +448,19 @@ Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-best-cloud-storage-for-your-photos-free-and-paid-included/"><u>[New] 2024 Approved The Best Cloud Storage for Your Photos Free and Paid Included</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-xr-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone XR in Lost Mode</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138553217-9781462907038-body-of-light/"><u>Body of Light | Free Book</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6 Plus with iTunes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y100t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y100t Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-11-pro-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 11 Pro? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 8 Plus</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-spark-20c-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Spark 20C FRP</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-xs-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone XS Properly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rising-trend-for-oled-displays-analysts-predict-yearly-shipment-of-more-than-1-million-screens/"><u>Rising Trend for OLED Displays: Analysts Predict Yearly Shipment of More Than 1 Million Screens</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-reviving-your-ios-device-with-an-icloud-backup/"><u>Step-by-Step Guide: Reviving Your iOS Device with an iCloud Backup</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-foundations-of-a-youtube-venture-a-comprehensive-guide-for-2024/"><u>The Foundations of a YouTube Venture A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-selection-of-video-editing-tools-for-mastering-youtube-shorts-content-creation/"><u>Ultimate Selection of Video Editing Tools for Mastering YouTube Shorts Content Creation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-from-bottom-to-top-seo-guide-for-podcasters/"><u>[Updated] 2024 Approved From Bottom to Top Seo Guide for Podcasters</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-correctly-install-and-update-hp-monitor-drivers-for-smooth-functionality-in-windows-10-8-or-7/"><u>How to Correctly Install & Update HP Monitor Drivers for Smooth Functionality in Windows 10, 8 or 7</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-color-profiles-explained-srgb-versus-rgb/"><u>In 2024, Color Profiles Explained Srgb Versus Rgb</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-12-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 12 mini Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone SE?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X Passcode Screen?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-creating-viral-memes-on-9gag/"><u>In 2024, The Insider's Guide to Creating Viral Memes on 9GAG</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-x-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone X Passcode without a Computer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/link-sounds-to-visual-elements-in-ppt-for-2024/"><u>Link Sounds to Visual Elements in PPT for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reconsider-downloading-a-mobile-gpt-app/"><u>Reconsider Downloading a Mobile GPT App</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-o365-sync-issues-on-windows/"><u>Troubleshooting O365 Sync Issues on Windows</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ultra-clear-captain-marvel-wallpaper-collection-from-yl-software-elevate-your-device-with-superhero-flair/"><u>Ultra-Clear Captain Marvel Wallpaper Collection From YL Software: Elevate Your Device with Superhero Flair</u></a></li>
 </ul></div>
 

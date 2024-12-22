@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
-date: 2024-07-15T01:32:19.889Z
-updated: 2024-07-16T01:32:19.889Z
+date: 2024-12-18T16:03:21.849Z
+updated: 2024-12-20T16:05:53.789Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,11 +28,17 @@ Find My iPhone is an application forged by Apple that keeps track of your Apple 
 
 The best part about this application is that it is free of cost. It usually comes built-in your Apple iPhone 12 mini already, but if not, you can easily download it from the app store. Sign in with your Apple ID, and it will automatically locate your Apple iPhone 12 mini no matter where you go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -87,6 +93,10 @@ As your activation lock is removed, go to the settings and remove your Apple ID.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
 iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone 12 mini with other iOS devices so you can share your data, documents, and location with other iCloud users.
@@ -108,6 +118,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
@@ -131,12 +145,13 @@ Once your Apple iPhone 12 mini shows the Apple logo, it means the Recovery Mode 
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 12 mini is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 12 mini to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Apple iPhone 12 mini Without Passcode Easily
 
@@ -175,9 +190,6 @@ After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone
 
 On the screen, you will see instructions to enter DFU mode. Follow them and boot your Apple iPhone 12 mini in DFU.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Confirmation of Model**
@@ -196,9 +208,6 @@ When the firmware is downloaded successfully, all you have to do is click on the
 
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 2: Remove Passcode by Restoring Apple iPhone 12 mini/Apple iPhone 12 mini Plus**
 
 If your Apple iPhone 12 mini has been accidentally locked or disabled, there is an effective method to restore it. You can erase your Apple iPhone 12 mini  data and restore it from iTunes if you have previously backed up with it. Backing up data regularly is an advisable way to avoid the trouble of losing it forever.
@@ -209,6 +218,10 @@ Here are the steps to recover Apple iPhone 12 mini  via iTunes backup.
 2. Click on "Summary," which shall be visible on the left side of the screen.
 
     ![feasible ways to unlock Apple iPhone 12 mini 1](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. From there, look for the “Restore Backup” option and click on it. A confirmation window will pop up. Confirm your action.
 
@@ -247,11 +260,13 @@ If you wish to change the passcode on Apple iPhone 12 mini , simply follow the s
 
 8. Enter your new password once again for confirmation and conclude the process by clicking on "Done."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Closing
 
 Now you know what to do the next time you forget your passcode. Using the simple methods and techniques mentioned above, you can easily restore your Apple iPhone 12 mini the passcode, or you can unlock your Apple iPhone 12 mini without knowing the passcode, avoiding much trouble. Hopefully, this could prove to be of service to you.
-
-
 
 ## How to Unlock Apple iPhone 12 mini Passcode without iTunes without Knowing Passcode?
 
@@ -267,11 +282,10 @@ Most of the users find it hard to unlock their devices by taking the assistance 
 
 It is compatible with all the leading iOS versions and devices. All you need to do is access its user-friendly interface and follow simple click-through steps to unlock your device. To learn how to unlock Apple iPhone 12 mini passcode without iTunes (using Dr.Fone toolkit), follow these steps:
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Screen Without Password
@@ -291,10 +305,11 @@ Unlock iPhone Screen Without Password
 
 3\. As you would connect your Apple iPhone 12 mini to your system, you will get a “Trust this Computer” prompt. Make sure that you close this window by tapping on the “x” button. Once connected, Dr.Fone will ask you to follow some steps to set your device in Recovery mode, allowing it to be detected.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to unlock Apple iPhone 12 mini passcode without itunes-set your device in DFU mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Meanwhile, the Dr.Fone interface will provide the following screen, asking for various details related to your device. Provide crucial information related to your device (model, iOS version, and more) and click on the “Download” button.
 
@@ -341,6 +356,10 @@ Apple also allows its users to remotely locate, lock, and erase their devices. T
 
 ![how to unlock Apple iPhone 12 mini passcode without itunes-erase Apple iPhone 12 mini](https://images.wondershare.com/drfone/article/2017/09/15060131746196.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. Agree with the pop-up message and choose to restore your device. Once it is done, your phone will be restarted without any lock.
 
 ## Part 3: How to unlock Apple iPhone 12 mini passcode in Recovery Mode?
@@ -375,7 +394,6 @@ Now when you know how to unlock Apple iPhone 12 mini passcode without iTunes, yo
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -388,9 +406,26 @@ Now when you know how to unlock Apple iPhone 12 mini passcode without iTunes, yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-smartest-devices-to-modify-your-speech-on-the-go/"><u>[New] 2024 Approved Smartest Devices to Modify Your Speech on the Go</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-your-content-utilizing-the-green-screen-on-instagram-for-2024/"><u>[New] Enhance Your Content Utilizing the Green Screen on Instagram for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-premium-sound-to-text-converters/"><u>[New] Premium Sound to Text Converters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-crossfade-methods-to-elevate-your-audiovisual-projects/"><u>[Updated] Advanced Crossfade Methods to Elevate Your Audiovisual Projects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[Updated] In 2024, Enter the World of Online Promotion Exclusive Free YouTube Banner Access</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-free-top-8-best-apps-to-get-likes-on-instagram/"><u>2024 Approved FREE Top 8 Best Apps to Get Likes on Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-pro-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 Pro and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 Plus With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 15 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-6-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 6 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-s17-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo S17 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-15-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 15 Pro Max with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-mini-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 13 mini Passcode not Working?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-elevate-your-online-collaboration-discover-the-best-voice-transformation-technologies-for-google-meet-users-for-2024/"><u>New Elevate Your Online Collaboration Discover the Best Voice Transformation Technologies for Google Meet Users for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/round-the-houses-full-rotation-photography/"><u>Round the Houses Full Rotation Photography</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-6-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 6 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+</ul></div>
 

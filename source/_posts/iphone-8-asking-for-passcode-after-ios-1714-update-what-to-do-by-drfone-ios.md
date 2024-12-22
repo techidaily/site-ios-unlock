@@ -1,7 +1,7 @@
 ---
 title: iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?
-date: 2024-12-18T17:38:42.755Z
-updated: 2024-12-19T19:13:45.832Z
+date: 2024-12-16T16:03:44.671Z
+updated: 2024-12-20T16:08:47.848Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,10 +27,6 @@ One of the worst things you can do when faced with this situation is to enter pa
 The more times you get your code wrong, the longer you’ll be locked out, so avoid doing this at all costs, so make sure you move straight onto these approaches to get your phone working as quickly as possible.
 
 ## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.1 Try a default passcode in your family
 
@@ -71,7 +67,7 @@ That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.3 Restore an old backup from iTunes
@@ -88,10 +84,6 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.4 Restore in recovery mode
 
 In some cases, restoring your device using just iTunes will not be good enough, and it won’t have the effect you’re looking for; in this case, restoring your device with no lock screen after an iOS 17/14 update.
@@ -105,7 +97,7 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Now connect your Apple iPhone 8 to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
@@ -130,9 +122,17 @@ Of course, this will only work if the Find My iPhone features have been enabled 
 
 Leave the Apple iPhone 8 device to erase, and once completed, you’ll be able to pick up and use your phone as normal without a lock screen. You should also now be able to update to iOS 17/14 without any problems!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 And there you go, the five key ways you need to know when it comes to removing an unwanted lock screen from your iOS device after an iOS 17/14 update. We highly recommend the Dr.Fone - Screen Unlock (iOS) since the software makes the whole process incredibly easy, especially when managing any problems you may have on your iOS device!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove and Reset Face ID on Apple iPhone 8
 
@@ -165,7 +165,7 @@ Step 2: Look at the iPhone.
 ![unlocking iphone 13 with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When the lock symbol changes to the unlocked position, you can swipe up to unlock your Apple iPhone 8 using Face ID and get to the Home Screen.
@@ -181,6 +181,10 @@ Face ID allows you to authenticate yourself to make purchases in the App Store, 
 Step 1: Check if Face ID is enabled for purchases in these stores by going to Settings > Face ID and Passcode and ensuring that iTunes and App Store are toggled On.
 
 ![check face id settings](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
 
@@ -205,6 +209,10 @@ Step 4: Look at your Apple iPhone 8 to authenticate yourself using your Face ID 
 Step 5: When paying at retail outlets, hold your Apple iPhone 8 (top being close to the reader) and wait for the checkmark and Done message.
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone 8, and wait for the Done message and checkmark to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
@@ -272,10 +280,6 @@ Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Appl
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 8
 
 Sometimes, you may just want to disable Face ID temporarily or the issue gets solved, and want to activate Face ID again. Setting up a Face ID on your Apple iPhone 8 13 is easy. To set up Face ID, sit in a comfortable spot with adequate lighting and follow these steps:
@@ -288,6 +292,10 @@ Step 3: Hold your Apple iPhone 8 in the portrait orientation at about an arm‘s
 
 ![setting up face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Adjust to have your face inside the shown circle and then slowly rotate your head in a smooth motion to complete the circle. This step will be done one more time.
 
 Step 5: When done, tap Done.
@@ -295,6 +303,10 @@ Step 5: When done, tap Done.
 In case you are getting the following error:
 
 ![face id error](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are a few things you can try to resolve this, you can try to update your Apple iPhone 8 13/12/11 to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
 
@@ -349,10 +361,6 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 ![how to factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #4: Choose the Appropriate Firmware and Download it:**
 
 After your Apple iPhone 8 is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
@@ -368,10 +376,6 @@ Your locked iPhone has now been successfully unlocked without iTunes after the r
 The process will take a few minutes if you have a strong internet connection because the Firmware may take some time to download. So be patient and wait for the process to be completed.
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
@@ -396,10 +400,6 @@ To do this, you need to follow these steps:
 **Step 4:** Enter your Apple ID password when prompted, and click the " Erase " button to proceed.
 
 Now that your device has been erased, you can reset it as a new one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
@@ -451,6 +451,10 @@ But if you want your Apple iPhone 8 set to return to the default without losing 
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. How do I force my iPhone 6 to factory reset with buttons?
 
 To force your Apple iPhone 8 to factory reset with buttons, you need to follow these steps:
@@ -466,10 +470,6 @@ To force your Apple iPhone 8 to factory reset with buttons, you need to follow t
 **Step 4:** Here, you will be in recovery mode, and now you can reset your Apple iPhone 8.
 
 Your device will now be reset, and you will have a phone like a new one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. How can I get into a locked iPhone?
 
@@ -497,22 +497,21 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-seamless-gaming-top-5-high-res-display-with-hdmi-21/"><u>[New] Seamless Gaming Top 5 High-Res Display with HDMI 2.1</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-social-forecast-in-graphs-2023-edition-unveiled/"><u>[New] Social Forecast in Graphs 2023 Edition Unveiled</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-updated-comprehensive-bd-review-s3700/"><u>[Updated] 2024 Approved The Updated Comprehensive BD Review S3700</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-tackling-live-broadcasts-the-intersection-of-obs-and-zoom-for-2024/"><u>[Updated] Tackling Live Broadcasts The Intersection of OBS and Zoom for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-13-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 13 Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oneplus-nord-n30-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Nord N30 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-7-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 13 Pro Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-xs-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone XS Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-12-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 12 Properly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-8-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-14-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 14 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-xs-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/linguistic-inputs-utilize-no-fee-required/"><u>Linguistic Inputs, Utilize No Fee Required</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-reboot-comprehensive-guide-to-samsung-soundbar-resets/"><u>Mastering the Reboot: Comprehensive Guide to Samsung Soundbar Resets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-essential-strategies-for-mastering-effective-ai-prompts/"><u>Top 5 Essential Strategies for Mastering Effective AI Prompts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-15-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 15 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-with-snap-zoom-guide/"><u>[New] 2024 Approved Capturing with Snap Zoom Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>[New] 2024 Approved Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[Updated] 2024 Approved How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-video-shape-study-overview/"><u>[Updated] FB Video Shape Study Overview</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-link-building-strategies-for-2024/"><u>[Updated] Mastering YouTube Link-Building Strategies for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-12-mini-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 mini Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-15-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 15 Pro in Lost Mode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-f5-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco F5 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-13-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 13 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 12 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE, Apples New iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfecting-mp4-conversion-ipv-techniques-for-high-quality-videos/"><u>In 2024, Perfecting MP4 Conversion IPV Techniques for High-Quality Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-se-2020-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone SE (2020) Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-shelldll-error-a-comprehensive-guide/"><u>Solving 'Shell.dll' Error: A Comprehensive Guide</u></a></li>
 </ul></div>
 

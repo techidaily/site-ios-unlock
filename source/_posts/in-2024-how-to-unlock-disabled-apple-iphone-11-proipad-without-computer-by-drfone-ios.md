@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Disabled Apple iPhone 11 Pro/iPad Without Computer
-date: 2024-12-17T22:05:19.852Z
-updated: 2024-12-19T18:21:37.943Z
+date: 2024-12-15T16:04:30.306Z
+updated: 2024-12-20T16:09:03.311Z
 tags: 
   - unlock
   - remove screen lock
@@ -66,10 +66,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994465537722.jpg "iphone photo library")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 11.** After a while, press the Home button. If everything goes right, you will enter the Home screen of your iOS device after unlocking it.
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994465721934.jpg "iphone home")
@@ -87,6 +83,10 @@ After implementing this solution, your iOS device will reset, and your data woul
 **Step 2.** Visit the Find My Apple iPhone 11 Pro service. Under the “All Devices” category, you can view all the iOS devices linked to your Apple ID. Select the Apple iPhone 11 Pro device you want to reset.
 
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994465948766.jpg "icloud all devices")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Select the feature of the Erase device and confirm your choice. Wait for a while as your Apple iPhone 11 Pro or iPad would be restored remotely.
 
@@ -139,15 +139,15 @@ There are times when users forget to enable the Find My Apple iPhone 11 Pro feat
 
 ![find my Apple iPhone 11 Pro](https://images.wondershare.com/drfone/article/2017/07/14994466577687.jpg "find my Apple iPhone 11 Pro")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Set a strong alphanumeric password
 
 One of the best ways to secure your iOS device is by adding secure passwords. To do this, visit your device’s Settings > Touch ID & Passcode > Change Passcode and select the option of “Custom Alphanumeric Code.” Provide a strong alphanumeric passcode to boost the security of your device.
 
 ![custom Alphanumeric code](https://images.wondershare.com/drfone/article/2017/07/14994466798156.jpg "custom Alphanumeric code")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -168,6 +168,10 @@ Get the tool Dr.Fone - Screen Unlock (iOS) downloaded and installed over your co
 Now, launch the tool and then opt for the “Unlock” tile from the main screen.
 
 ![launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Boot in Recovery/DFU mode**
 
@@ -231,11 +235,11 @@ Note: Since we’re going to unlock your Apple iPhone 11 Pro using Find My iPhon
 
 ![erase iPhone](https://images.wondershare.com/drfone/article/2019/09/unlock-iphone-icloud.jpg)
 
-**Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
 
 ## Part 5. How about Apple iPhone 11 Pro restrictions passcode?
 
@@ -256,12 +260,16 @@ Now, in case you know the Apple iPhone 11 Pro restrictions passcode and just wis
 ![restrictions passcode disabling](https://images.wondershare.com/drfone/article/2019/09/disable-restrictions-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Lastly, hit on “Enable Restrictions”. You’ll be asked to set up a new passcode now. Do it and you’re done.
 
 ![set up a new passcode](https://images.wondershare.com/drfone/article/2019/09/reset-restrictions-passcode-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Your Apple iPhone 11 Pro Keeps Asking for Outlook Password
 
@@ -270,6 +278,10 @@ Individuals and organizations use a diverse range of mail platforms to exchange 
 Among these challenges, iPhone users specifically grapple with a persistent issue. It often appears as “**iPhone keeps asking for Outlook password**.” This issue disrupts the user experience and raises security concerns. To address this problem, this guide presents a detailed guide featuring effective fixes.
 
 ![iphone ipad asking outlook password issue](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Does My iPhone Keep Asking for Outlook Password
 
@@ -295,17 +307,9 @@ A corrupted email account profile on the Apple iPhone 11 Pro can cause disruptio
 
 Other mail applications installed on the Apple iPhone 11 Pro can also cause an issue. They might interfere with the Outlook app's proper functioning. Identifying and temporarily disabling such apps can help diagnose and resolve the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Excessive Email Fetching
 
 Configuring the Outlook mail app to fetch emails too frequently causes the issue. It can strain the connection with Outlook servers, leading to authentication challenges. That causes issues like the Apple iPhone 11 Pro asking for a password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. iOS Software Glitches
 
@@ -314,6 +318,10 @@ The smooth functioning of the Mail app may be disrupted by problems and malfunct
 ## Part 2. \[Fixes\] Solve iPhone/iPad Keeps Asking for Outlook Password
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1. Add Password Once and Let the Prompt Disappear
 
@@ -348,7 +356,7 @@ Another way to confirm if network errors are the problem is to try enabling Airp
 ![check network iphone settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4. Using the Mail Toggle as a Remedy
@@ -403,10 +411,6 @@ Outdated iOS versions can contribute to compatibility issues and glitches. This 
 
 ![update ios software for resolving error](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9. Try Other Alternatives to Outlook
 
 Exploring alternative mail applications may offer a viable workaround. This is especially true if the **iPhone asking for the Outlook password** proves resistant to previous solutions. Consider using other email platforms such as Apple Mail, [<u>Gmail</u>](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html), and Yahoo Mail. This solution might not directly resolve the issue with Outlook. Yet, an alternative can provide a temporary workaround until a solution is found.
@@ -442,10 +446,6 @@ In some cases, switching the account type to IMAP during the setup process can h
 - **Step 1.** Begin by accessing the "Settings" app on your Apple iPhone 11 Pro, then scroll down to locate and tap on "Mail." Within this section, choose "Accounts" to display the roster of email accounts, and proceed to tap on "Add Account."
 
 ![head to accounts in mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
@@ -501,10 +501,6 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 11 Pro into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -516,6 +512,10 @@ Subsequently, you need to place your Apple iPhone 11 Pro into Recovery Mode. Adh
 Monitor the iOS firmware download progress on the screen. After successful download and verification, proceed by selecting "Unlock Now." A confirmation window will appear, prompting you to input the necessary code. Enter the code and tap Unlock to proceed to the outcome. Upon unlocking the iDevice, click the “Done” button to finalize the process.
 
 ![enter code to unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -537,18 +537,18 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-syncopating-soundtracks-with-flawless-audio-transitions/"><u>[New] In 2024, Syncopating Soundtracks with Flawless Audio Transitions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-launch-your-own-fb-stream-on-pc-mac-and-laptop-using-obs/"><u>2024 Approved Launch Your Own FB Stream on PC, Mac & Laptop Using OBS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-7-plus-how-to-unlock-a-disabled-iphone-7-plus-by-drfone-ios/"><u>Disabled iPhone 7 Plus How to Unlock a Disabled iPhone 7 Plus?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-x-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone X</u></a></li>
-<li><a href="https://driver-error.techidaily.com/macos-high-sierra-not-detecting-dell-xps-laptop-issue-resolved/"><u>MacOS High Sierra Not Detecting Dell XPS Laptop, Issue Resolved</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-methods-for-assessing-youtube-channel-profitability-for-2024/"><u>Proven Methods for Assessing YouTube Channel Profitability for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-qbittorent-performance-stall-problems/"><u>Step-by-Step Guide: Overcoming qBittorent Performance Stall Problems</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/travel-video-setup-must-have-items-checklist/"><u>Travel Video Setup Must-Have Items Checklist</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-exclusive-get-the-apple-m2-macbook-air-for-749-less-find-more-details-latest-report/"><u>Amazon Prime Day Exclusive: Get the Apple M2 MacBook Air for $749 Less! Find More Details Latest Report</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-8-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 8? How to Fix it?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-onikuma-headsets-mic-working-again-a-step-by-step-guide/"><u>Get Your Onikuma Headset's Mic Working Again - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-moto-g73-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Moto G73 5G Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-15-pro-how-to-unlock-a-disabled-iphone-15-pro-by-drfone-ios/"><u>In 2024, Disabled iPhone 15 Pro How to Unlock a Disabled iPhone 15 Pro?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-youtubes-free-text-translations-and-downloads/"><u>In 2024, Discover YouTube's Free Text Translations & Downloads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 8</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-magic-5-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor Magic 5 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-6s-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 6s Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-windows-11-taskbar-problem-today-expert-tips-and-tricks/"><u>Solve Your Windows 11 Taskbar Problem Today - Expert Tips & Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 

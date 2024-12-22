@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Bypass iPhone X Passcode Easily Video Inside
-date: 2024-12-12T17:48:24.566Z
-updated: 2024-12-19T22:15:11.592Z
+date: 2024-12-17T16:05:14.397Z
+updated: 2024-12-20T16:10:54.201Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
 If you have forgotten the passcode of your Apple iPhone X, then don’t worry! You are not the only one. It happens with plenty of iOS users every now and then. Lately, we have received lots of feedback from our readers asking for a solution to bypass Apple iPhone X. Therefore, we thought of compiling an informative post to help you bypass the Apple iPhone X passcode without much trouble. Go ahead and follow these hassle-free methods to perform an Apple iPhone X bypass.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to bypass Apple iPhone X passcode with Dr.Fone - Screen Unlock? (iOS 15.4)
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an extremely secure and easy-to-use application that can help you bypass locked screens within minutes. Afterward, you can simply use your phone by resetting its lock. It provides a reliable way to update your phone’s firmware without causing any complications. The application can also be used to resolve plenty of other Apple iPhone X-related issues. The only disadvantage you should notice is that your data will be wiped out after using this tool. So, you'd better backup it before.
@@ -29,6 +25,10 @@ If you have forgotten the passcode of your Apple iPhone X, then don’t worry! Y
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qxEIOKjeNZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Compatible with every leading iOS device, it runs on all major iOS versions. Since Dr.Fone has an easy-to-use interface, it can simply resolve your issues without much trouble. You can restore your phone and perform an Apple iPhone X bypass with Dr.Fone - Screen Unlock by following these steps.
 
@@ -59,6 +59,10 @@ Bypass Apple iPhone X Passcode at Ease
 
 ![select Apple iPhone X details to bypass Apple iPhone X passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**. Wait for a while as the application will download the firmware update for your phone. Once it is done, click on the “**Unlock Now**” button.
 
 ![start to actually bypass Apple iPhone X passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -70,6 +74,10 @@ Bypass Apple iPhone X Passcode at Ease
 **Step 7**. As soon as it is completed, you will be notified by the interface. You can also repeat the process by clicking on the “**Try Again**” button.
 
 ![bypassed Apple iPhone X passcode with success](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
@@ -84,10 +92,6 @@ If you are an avid user of Apple products, then the chances are that you must ha
 **Step 2.** It will open an interface for the world clock feature. From here, add another clock.
 
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14993666502651.jpg "world clock")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3.** Simply provide a textual input while searching for the city and tap on the “Select all” button.
 
@@ -114,7 +118,7 @@ If you are an avid user of Apple products, then the chances are that you must ha
 ![Create new Contact](https://images.wondershare.com/drfone/article/2017/07/14993669187170.jpg "Create new Contact")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 9.** While adding a new contact, tap on the contact photo icon and choose “Add Photo”.
@@ -126,7 +130,7 @@ If you are an avid user of Apple products, then the chances are that you must ha
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14993669795676.jpg "iphone photo library")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 11.** Wait for 3-5 seconds before pressing the home button again. This will lead you to the home screen of your device.
@@ -151,13 +155,13 @@ Another popular way to restore your Apple iPhone X is by taking the assistance o
 
 ![restore backup](https://images.wondershare.com/drfone/article/2017/07/14993665043433.jpg "restore backup")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5.** Agree with the pop-up message and erase all the previous content on your phone.
 
 ![erase content](https://images.wondershare.com/drfone/article/2017/07/14993665401648.jpg "erase content")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to bypass Apple iPhone X passcode with Elcomsoft iOS Forensic Toolkit?
 
@@ -186,6 +190,10 @@ It allows them to manage their children's access to certain content and function
 Parental controls on an iPhone refer to features designed to allow parents to track various aspects of the Apple iPhone X device's usage. These controls aim to provide younger users with a safer, more regulated digital experience. They include a range of functions, such as [screen time limits](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) and app restrictions. Moreover, content filtering and purchase controls also fall under parental control.
 
 Primarily, parental controls serve as a protective measure. They enable parents to safeguard their children from potential online dangers. These include inappropriate content and excessive screen time. It turns out valuable for managing a child's interaction with digital devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why Do People Want To Disable/Remove Parental Control?
 
@@ -219,13 +227,13 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![access content privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Now, switch the slider next to "Content & Privacy Restrictions" to turn it off. It will disable all parental control on the targeted device. However, before it disables, the Apple iPhone X will prompt for the Screen Time passcode, which needs to be added.
 
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2. By Resetting the Entire iPhone
 
@@ -239,17 +247,9 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
 
 Disabling parental controls on an iPhone is still possible, even without the password. Below, we explore two methods that can be used to bypass parental controls without requiring a password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 1. Wondershare Dr.Fone - Screen Unlock (iOS)
 
@@ -280,7 +280,7 @@ Upon connecting the Apple iPhone X device, the platform will detect the iDevice 
 ![unlock device with on screen instructions](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3: Complete Screen Time Passcode Removal Process**
@@ -388,6 +388,10 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
 **Changing your Apple ID on an iPad** is usually easy. However, there can be setbacks during the process. Now, here's what to do if you find yourself unable to do it and why it might be happening:
@@ -433,10 +437,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 - **Step 4:** Connect your iPad or other iOS device to your computer, then click **Unlock Now** to continue.
 
 ![dr.fone unlocks connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Click **Yes** to confirm your device has a screen lock. Otherwise, it won't work.
 
@@ -516,21 +516,18 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-ultimate-guide-to-maximizing-your-medical-ads-on-fb/"><u>[New] In 2024, The Ultimate Guide to Maximizing Your Medical Ads on FB</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-step-by-step-guide-to-creating-compelling-instagram-puzzles-for-2024/"><u>[Updated] A Step-by-Step Guide to Creating Compelling Instagram Puzzles for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-transform-textual-treasures-ae-font-exploration/"><u>[Updated] Transform Textual Treasures AE Font Exploration</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-14-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 14 Pro Max Unavailable Issue With Ease</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-11-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 11 Pro Max when Phone is Broken?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-xs-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone XS In Different Conditionsin</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-15-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 15 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Passcode Screen?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-windows-8-flv-video-editor-convert-trim-and-enhance-your-videos/"><u>New Windows 8 FLV Video Editor Convert, Trim, and Enhance Your Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-f04-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy F04 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protective-covers-expert-picks-from-zdnet/"><u>Top Rated iPhone 12 & 12 Pro Protective Covers : Expert Picks From ZDNet</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-12-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 12 Pro Max Without Passcode Easily</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-revolutionize-your-soundtracks-a-comprehensive-guide-to-the-most-effective-voice-suppressing-technology-in-music-and-karaoke-productio/"><u>Updated 2024 Approved Revolutionize Your Soundtracks A Comprehensive Guide to the Most Effective Voice-Suppressing Technology in Music and Karaoke Production.</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-troubleshooting-alternatives-to-rename-folder-functions/"><u>Win 11 Troubleshooting: Alternatives to Rename Folder Functions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamlining-your-instagram-storytelling-with-size-tweaks/"><u>[New] In 2024, Streamlining Your Instagram Storytelling with Size Tweaks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-10-webcam-applications-in-windows-a-comprehensive-list/"><u>[Updated] 2024 Approved Top 10 Webcam Applications in Windows A Comprehensive List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-digital-diaries-reviewing-the-best-personal-devices/"><u>[Updated] In 2024, Digital Diaries Reviewing the Best Personal Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-joke-jamboree-7-hilarious-plot-ideas-for-youtube-stars/"><u>[Updated] Joke Jamboree 7 Hilarious Plot Ideas for YouTube Stars</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-supreme-song-synchronizer-app-android-for-2024/"><u>[Updated] Supreme Song Synchronizer App (Android) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-xr-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone XR</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-6-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 6 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-15-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 15 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xs-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XS Max? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6s-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-the-secrets-of-earning-via-youtube/"><u>Unlocking the Secrets of Earning via YouTube</u></a></li>
 </ul></div>
 

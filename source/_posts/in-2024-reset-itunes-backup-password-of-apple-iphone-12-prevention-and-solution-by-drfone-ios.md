@@ -1,7 +1,7 @@
 ---
 title: In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Prevention & Solution
-date: 2024-07-15T01:27:35.942Z
-updated: 2024-07-16T01:27:35.942Z
+date: 2024-12-18T16:00:53.067Z
+updated: 2024-12-20T16:17:23.331Z
 tags: 
   - unlock
   - remove screen lock
@@ -62,10 +62,11 @@ Get into **Settings** on your iOS device, then choose **General**, and **Reset.*
 
 Now, go to **Reset All Settings** and confirm by entering the security passcode. Your phone will reset to the default setting. Get rid of the password for the last backup without deleting any other apps or data.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. "Back Up Now" in "iCloud."
 
@@ -77,9 +78,6 @@ Navigate to the **Apps & Data menu**, and choose the **Restore from iCloud Backu
 
 After successfully signing in with your Apple ID, choose **Backup**.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-5.jpg)
 
 ### 3\. Find it back in the macOS keychain
@@ -92,6 +90,10 @@ Double-click **Show Password**, and choose it from the drop-down menu. The passw
 
 ![macos keychain](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Best App to Remove iTunes Backup Password
 
 Do you have a loved one's locked iPhone and don't know the passcode?
@@ -101,7 +103,6 @@ Dr.Fone - Screen Unlock is the world's first and only tool to remove any lock sc
 So, whether your loved one has forgotten their screen lock code, had their phone stolen, or is stuck on the activation lock screen, Dr.Fone Screen Unlock can help.
 
 The process is simple -download the software, connect your Apple iPhone 12 to your computer, click a few buttons, and voila! Your device is unlocked with no data loss. And there's no need to jailbreak your device or enter any passwords - it's all done with just a few clicks.
-
 
 With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes backup password.
 
@@ -130,7 +131,6 @@ Click **"Remove Now"**
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 4: Tips to Keep Your Apple iPhone 12 Backup Password
 
@@ -202,6 +202,10 @@ These are some of the common causes that can trigger the **random Apple ID verif
 
 ![Apple ID pop up on iPhone](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2: Solutions To Stop iPhone Randomly Asking for Apple ID Password**
 
 After we've concluded the **“Why does my iPhone keep asking for my apple ID”** question, let's explore solutions to help you end this annoyance. Here are eight methods that you can try to stop your Apple iPhone 12 from repeatedly asking for your Apple ID password:
@@ -210,9 +214,6 @@ After we've concluded the **“Why does my iPhone keep asking for my apple ID”
 
 Ensure that your Apple iPhone 12 is operating on the most up-to-date iOS version. Software updates usually incorporate bug fixes and security improvements that can address the problem effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check for iPhone’s software updates](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-2.jpg)
 
 **Method 2: Sign Out and Sign In to Apple ID.**
@@ -297,6 +298,10 @@ Make sure that your Apple iPhone 12 has a reliable internet connection. Weak or 
 
 ![Check your network connection](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 8: Contact Apple Support**
 
 If none of the above methods work, contacting Apple Support can be a viable option. They can provide further assistance and guidance in resolving the issue.
@@ -304,7 +309,6 @@ If none of the above methods work, contacting Apple Support can be a viable opti
 These are some of the methods that can help you stop your Apple iPhone 12 from randomly asking for your Apple ID password. Don't forget to always back up your data before changing your Apple iPhone 12 settings.
 
 If the issue persists, it's recommended to visit an authorized Apple service center.
-
 
 ## **Bonus Part: How To Get Your Apple ID Password Back if You Forget It**
 
@@ -334,9 +338,6 @@ It’s essential to use secure and unique passwords for your accounts. Then, con
 
 ## Disabled Apple iPhone 12: How to Unlock a Disabled Apple iPhone 12?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
 
 _Apple iPhone 12 Disabled?_
@@ -348,8 +349,6 @@ Because of using face masks, [Face ID](https://drfone.wondershare.com/unlock/ho
 We know and understand that the word troubleshooting can remind you of long telephone calls with support or making appointments and driving down to specialists and spending obscene amounts of money to get solutions. You do not want that. How about a way you could [unlock your Apple iPhone 12](https://drfone.wondershare.com/unlock/how-to-unlock-an-iphone-13.html) in a simple, 1-click way instead?
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a unique tool designed to help you avoid all hassles and get back on track quickly. It comprises modules designed to help you with all the issues that you might encounter during smartphone use. Naturally, there is something to help you when your Apple iPhone 12 is disabled. You don't need to use anything else, no other software or special cable or support. All you need is this one software you can download on your computer (both macOS and Windows supported) and you're good to go.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -370,6 +369,10 @@ Do note that all methods that unlock your Apple iPhone 12 will necessarily wipe 
 
 ![screen unlock page](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Follow the provided instructions to start the disabled Apple iPhone 12 in Recovery Mode to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called DFU mode.
 
 ![device page](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
@@ -382,9 +385,17 @@ Do note that all methods that unlock your Apple iPhone 12 will necessarily wipe 
 
 ![start unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your Apple iPhone 12 will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 12 device. When you set the Apple iPhone 12 device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 12 prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 12 device again.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Unlock Disabled Apple iPhone 12 Using iTunes or macOS Finder
 
@@ -401,6 +412,10 @@ Step 2: Pick your Apple iPhone 12 and do the following:
 (2.3) Press the Side Button (power button, on the right side of your Apple iPhone 12) and keep it pressed till Finder or iTunes detects the phone in Recovery Mode.
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Choose Restore to download and reinstall the latest iOS on your Apple iPhone 12 and unlock your Apple iPhone 12.
 
@@ -448,10 +463,11 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 12 easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -468,14 +484,15 @@ After all this to get access back, you might think let's go passcode-less and pr
 
 Along with Passcode comes the option of Face ID on your Apple iPhone 12, so use that. That will minimize instances for you to enter your passcode, and may make you forget it again, though. So, make sure that the passcode you set does make sense to you and you can remember it always without effort.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 12 disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 12 device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -489,9 +506,24 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-expert-tips-for-navigating-the-telegram-online-experience/"><u>[New] 2024 Approved Expert Tips for Navigating the Telegram Online Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-cameras-showdown-gopro-hero5-black-clashes-with-yi-4ks-latest/"><u>[New] Action Cameras Showdown GoPro Hero5 Black Clashes with Yi 4K's Latest</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-video-sharing-adding-imovie-clips-to-vimeo/"><u>[New] Maximizing Video Sharing Adding iMovie Clips to Vimeo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-beginners-path-to-professional-windows-10-video-production/"><u>[New] The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[Updated] In 2024, A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-speed-up-video-on-instagram-mobileonlinedesktop-solutions/"><u>2024 Approved How to Speed Up Video on Instagram [Mobile/Online/Desktop Solutions]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/androidsd/"><u>Android音楽再生に失敗するSDカードを修正する方法</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-13-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 13 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-7-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 13 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-15-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-pro-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12 Pro? Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Plus Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 6 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-chatgpt-in-various-languages-essential-strategies-and-techniques/"><u>Unlocking the Potential of ChatGPT in Various Languages: Essential Strategies and Techniques</u></a></li>
+</ul></div>
 

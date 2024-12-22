@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 12 mini when Phone is Broken?
-date: 2024-07-15T01:30:57.395Z
-updated: 2024-07-16T01:30:57.395Z
+date: 2024-12-18T16:11:51.493Z
+updated: 2024-12-20T16:07:39.236Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,11 +32,6 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
@@ -58,9 +53,6 @@ Launch Wondershare Dr.Fone on your computer and connect your Apple iPhone 12 min
 
 Open Wondershare Dr.Fone and select “Screen Unlock” among the other options on the home interface. Now another interface will appear displaying four options. Click on "Unlock Apple ID."
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3: Remove Active Lock**
@@ -106,6 +98,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 2:** Click on the "Find My iPhone" icon at the end of the page. The app will start locating your device, but as your Apple iPhone 12 mini is damaged, it might not find anything.
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 12 mini, which you want to remove by clicking on "Remove from account."
 
@@ -211,7 +207,6 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 1:** Install and open Wondershare Dr.Fone on your computer.
 
-
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -232,11 +227,12 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 ![recovery mode instructions](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** The tool will download the appropriate iOS firmware for your device. After the download, it will verify the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone download process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 8:** After firmware verification, click **Unlock Now**. You’ll be prompted to enter a code for confirmation. Once entered, the unlocking process will begin.
@@ -248,6 +244,10 @@ Here’s a complete guide on bypassing **the verification required on the App St
 ![dr.fone complete screen unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 **Note:** After Apple ID removal, you must re-enter a new Apple ID to access the App Store. Take note of the password now if you forgot your previous one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -281,9 +281,6 @@ The article below guides you through seven methods on **how to change the countr
 - **Offload Apps.**When you **change your App Store country**, your device may prompt you to offload apps that are not available in your new region. This can be inconvenient if you rely on specific apps for daily use. For instance, a banking app may be region-specific and unavailable in your new country.
 - **Family Sharing Issues.**If you're part of a Family Sharing group, **changing your App Store country** can affect the access and sharing of purchased apps and subscriptions. Family members may lose access to content tied to your previous country. For example, if you switch from the UK to the US store, your family members might no longer have access to UK-specific content.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. Different Methods to Change Your App Store Country
 
 **Changing your App Store country** can be done through various methods. Below are different ways to achieve that, along with step-by-step instructions for each technique.
@@ -300,6 +297,10 @@ It is the most common and straightforward way to change your App Store country. 
 
 ![change country on iphone settings](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Changing Apple ID Region via Mac/Windows
 
 To change your Apple ID region via Mac/Windows, follow these steps:
@@ -307,10 +308,11 @@ To change your Apple ID region via Mac/Windows, follow these steps:
 - **Step 1:** Open iTunes (on Windows) or Music (on Mac). Sign in with your Apple ID.
 - **Step 2:** Go to **Account** > **View My Account**. Under Apple ID Summary, click **Change Country or Region**. Click your desired country and follow the instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![change country on mac](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Changing Apple ID Region via Web
 
@@ -320,6 +322,10 @@ The steps below are to change your Apple ID region via the web.
 - **Step 2:** Under **Personal Information**, click the **Country/Region** button. Next, click the **Change country or region** and choose your preferred country.
 
 ![change country on web](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Leaving a Family-Sharing Group
 
@@ -339,12 +345,20 @@ If you have any subscriptions, you must cancel them before **changing your App S
 
 ![cancel all subscriptions on iphone](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Using a VPN
 
 You can also use a VPN to **change your App Store country**. However, this method is not recommended, as it can be unreliable and may result in your account being banned. Here are the steps below.
 
 - **Step 1**: Install a VPN app from the App Store.
 - **Step 2**: Connect to a server in your desired country. Open the App Store and see content from the connected country.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 7: Creating a New Apple ID
 
@@ -363,6 +377,9 @@ Dr.Fone - Screen Unlock (iOS) helps you regain access to your Apple ID and fix a
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -371,6 +388,10 @@ Dr.Fone - Screen Unlock (iOS) is a powerful tool that can help you to:
 - **Unlock iOS Device Without Passcode.**Regain [<u>access to your locked iPhone or iPad without needing the passcode</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html).
 - **Remove All Lock Screen Types.**Versatile unlock support for 4-digit/6-digit passcodes, Touch ID, and Face ID lock screens.
 - **Unlock Apple ID Without Password.**Effortlessly unlock your Apple ID without requiring the password, simplifying access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Unlock Your Apple iPhone 12 mini in Seconds
 
@@ -391,9 +412,6 @@ Dr.Fone's Screen Unlock tool offers a streamlined solution to get you back into 
 
 When **changing the App Store country on your Apple iPhone 12 mini**, it's important to consider Apple ID access issues. You never know when you will get locked out or suddenly forget your password. Wondershare Dr.Fone - Screen Unlock (iOS) offers a reliable solution during these instances. The tool ensures uninterrupted access to your App Store and Apple ID account, making it a valuable resource for managing your digital experience seamlessly.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -406,9 +424,26 @@ When **changing the App Store country on your Apple iPhone 12 mini**, it's impor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-achieving-comprehensive-participant-visualization-on-meet/"><u>[Updated] Achieving Comprehensive Participant Visualization on Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-discovering-streamer-favorite-live-cam-technology/"><u>[Updated] Discovering Streamer-Favorite Live Cam Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-to-polished-a-complete-picture-guide/"><u>2024 Approved From Raw to Polished A Complete Picture Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-14-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 14 Pro When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-pro-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 Pro in Lost Mode</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-sony-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Sony</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722875765371-all-about-the-apple-ring-projected-price-tags-release-calendar-tech-specs-and-ongoing-rumors-exposed/"><u>All About The Apple Ring: Projected Price Tags, Release Calendar, Tech Specs and Ongoing Rumors Exposed!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-14-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 14 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-se-2020-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone SE (2020) Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-entry-point-not-available-error-in-fortnite/"><u>Fixing the 'Entry Point Not Available' Error in Fortnite</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-6-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-15-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 15 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 13 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 i Do? Get Answers here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tream-giants-rivalry-facebook-vs-youtube-vs-periscope-for-2024/"><u>Livestream Giants' Rivalry Facebook Vs. YouTube Vs. Periscope for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/los-mejores-reproductores-mkv-en-2020-comparativa-criticas-y-descargas-para-windowsmac/"><u>Los Mejores Reproductores MKV en 2020 - Comparativa, Críticas Y Descargas Para Windows/Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-window-10-shutdown-lags-with-ease/"><u>Resolve Your Window 10 Shutdown Lags with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-lag-times-could-it-be-your-internet-or-actual-nintendo-switch-online-disruptions/"><u>Understanding Lag Times: Could It Be Your Internet or Actual Nintendo Switch Online Disruptions?</u></a></li>
+</ul></div>
 

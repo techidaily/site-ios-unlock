@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Apple iPhone 12 mini Keeps Asking for Outlook Password
-date: 2024-07-15T01:29:54.350Z
-updated: 2024-07-16T01:29:54.350Z
+date: 2024-12-16T16:00:31.431Z
+updated: 2024-12-20T16:00:08.990Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,9 +50,6 @@ Other mail applications installed on the Apple iPhone 12 mini can also cause an 
 
 Configuring the Outlook mail app to fetch emails too frequently causes the issue. It can strain the connection with Outlook servers, leading to authentication challenges. That causes issues like the Apple iPhone 12 mini asking for a password.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. iOS Software Glitches
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
@@ -105,6 +102,10 @@ A strategic approach to resolving authentication issues involves using the Mail 
 
 ![toggle on off mail switch](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5. Delete and Re-Insert Outlook Account
 
 Deleting and re-inserting your Outlook account on your Apple iPhone 12 mini can provide a fresh start to the email integration. Follow these steps if the persistent **iPhone keeps asking for an Outlook password:**
@@ -129,9 +130,6 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 
 ![select required schedule for outlook](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7. Uninstall and Re-Install Outlook App
 
 Is the Outlook app generally showing a lot of glitches on your Apple iPhone 12 mini? If yes, uninstalling and then re-installing it can address potential **“**iPhone**/iPad keeps asking for Outlook password”** issues:
@@ -139,6 +137,10 @@ Is the Outlook app generally showing a lot of glitches on your Apple iPhone 12 m
 **Instructions:** On your Apple iPhone 12 mini's home screen, navigate to the Outlook mail app. Long-press the Outlook app icon and choose "Remove App" from the pop-up menu. Then, tap "Delete App" and follow it by pressing "Delete" to uninstall the app. Afterward, access the App Store and download the Microsoft Outlook app again.
 
 ![remove outlook app from device](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8. Update iOS From Settings
 
@@ -188,6 +190,10 @@ In some cases, switching the account type to IMAP during the setup process can h
 
 ![add new imap mail account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Utilize the specified settings for the "Incoming Mail Server" and "Outgoing Mail Server" sections under the “IMAP” tab:
 
 **Incoming Mail Server**
@@ -236,11 +242,7 @@ Unlocking your Apple iPhone 12 mini using Wondershare Dr.Fone is a straightforwa
 
 Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen Unlock" and choose “iOS.” In the opened window, choose the "Unlock iOS Screen" option to unlock your iOS device's screen. On the subsequent screen, click "Start" to commence the iOS device unlocking process.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
 
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
@@ -274,6 +276,10 @@ Apple allows users to create a separate password for notes or use their iPhone p
 
 It offers an absolute way to regain access to your notes and device if you **forgot locked Notes password**. However, it's essential to note that this method will remove all data from your Apple iPhone 12 mini. That allows you to set your device as new and restore the old data using backups. Dr.Fone offers a comprehensive solution with the ability to bypass or remove most of the locks on iOS devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
@@ -292,14 +298,14 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
@@ -334,9 +340,17 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
@@ -350,9 +364,17 @@ Locking notes on your Apple iPhone 12 mini provides extra security for your sens
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlocking Apple iPhone 12 mini  Lock Screen: 3 Foolproof Methods that Actually Work
 
@@ -429,6 +451,10 @@ You will see the option “Save to.” Guide the path, and all taken screenshots
 
 ![select “ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Provide the system with an on-screen confirmation code to continue the process. When that is done, the interface will notify you. By clicking on the 'Try Again' button, you can repeat the process.
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -464,9 +490,6 @@ iPhone users can even restore their phones to factory settings without losing an
 2. Now, the user should press and hold the 'Home' button and 'Power' button together. Release them when you see 'Connect to iTunes' on the screen.
 3. Once that is done, the user is now requested that from the menu on the left side of the screen, select 'Summary.'
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![ways to bypass Apple iPhone 12 mini  lock screen 3](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-3.jpg)
 
 4. A new window will appear, the Summary window. From this, the user is supposed to select the option of 'Restore iPhone.'
@@ -482,9 +505,6 @@ Users can now retrieve all the data that has been backed up on iTunes.
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone 12 mini . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -497,9 +517,20 @@ The article has covered a sufficient portion of knowledge for the user regarding
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-podcasters-guide-to-the-10-finest-mic-options/"><u>[New] In 2024, Podcaster's Guide to the 10 Finest Mic Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-making-an-impact-integrating-individual-thumbnails-in-videos/"><u>[Updated] Making an Impact Integrating Individual Thumbnails in Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/charting-a-course-through-creative-professions-for-2024/"><u>Charting a Course Through Creative Professions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-microsoft-wi-fi-display-adapter-connection-issues-in-windows-11-a-complete-guide/"><u>Fixing Microsoft Wi-Fi Display Adapter Connection Issues in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-15ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-reno-10-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Reno 10 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/installing-and-running-handbrake-on-windows-11-a-comprehensive-guide/"><u>Installing and Running HandBrake on Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/printer-woes-solved-yl-softwares-guide-to-restoring-print-functionality/"><u>Printer Woes Solved: YL Software's Guide to Restoring Print Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/warcraft-iii-reforged-freezing-issues-solved-essential-troubleshooting-guide/"><u>Warcraft III: Reforged Freezing Issues Solved – Essential Troubleshooting Guide</u></a></li>
+</ul></div>
 

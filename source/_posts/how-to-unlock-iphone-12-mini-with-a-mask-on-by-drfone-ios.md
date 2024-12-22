@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 12 mini with a Mask On
-date: 2024-07-15T01:31:43.982Z
-updated: 2024-07-16T01:31:43.982Z
+date: 2024-12-15T16:04:37.894Z
+updated: 2024-12-20T16:02:55.688Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,9 +45,6 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone 12 mini. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
@@ -57,6 +54,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 mini to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 mini device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
 ![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -80,6 +81,10 @@ To enable the feature of unlocking the Apple iPhone 12 mini with an Apple Watch,
 
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
@@ -90,8 +95,6 @@ After enabling this feature, you can unlock your Apple iPhone 12 mini with a mas
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -99,9 +102,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Intuitive instructions to unlock iPhone without the passcode.
 - Removes the iPhone's lock screen whenever it is disabled.
 - Works for all models of iPhone, iPad and iPod touch.
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 - Fully compatible with the latest iOS 11,12,13.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **3981454** people have downloaded it
@@ -114,8 +114,6 @@ You can also unlock Apple ID and iCloud passwords without losing the data. Also,
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone 12 mini Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone 12 mini Face ID while wearing a mask.
 
-
-
 ## 3 Ways to Erase Apple iPhone 12 mini When It's Locked Within Seconds
 
 Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
@@ -123,8 +121,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -143,9 +139,6 @@ To learn how to erase iPhone when locked, follow these steps:
 
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone 12 mini to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
 
 **Step 2. Click Start button.**
@@ -160,6 +153,10 @@ Follow the on-screen instructions to put your phone into the DFU (Device Firmwar
 
 ![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Download firmware package.**
 
 After putting your device into the DFU mode, the application will automatically move to the next window. Here, you would be required to provide essential information related to your phone like device model, firmware update, and more. After filling in the correct information, click on the “Download” button.
@@ -169,6 +166,10 @@ After putting your device into the DFU mode, the application will automatically 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5. Start to unlock.**
 
@@ -193,6 +194,10 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 1\. Firstly, put your Apple iPhone 12 mini into recovery mode. To do this, launch an updated version of iTunes on your system and connect it to a lightning cable. Now, long-press the Home button on your device and connect it to the other end of the lightning cable. Release the Home button once the iTunes logo would appear.
 
 ![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
 
@@ -232,6 +237,14 @@ Yet, worry not, for reliable methods exist to address this problem efficiently. 
 
 ![fix iphone unavailable](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. iPhone is Unavailable: Explaining the Basics
 
 The "iPhone Unavailable" issue is a distressing fix encountered by users. It occurs when their **iPhone becomes unavailable with a black screen** and inaccessible due to many incorrect passcode attempts. This problem arises as a security measure implemented by Apple. Its primary aim is to protect the data on the Apple iPhone 12 mini device and deter unauthorized access.
@@ -239,6 +252,10 @@ The "iPhone Unavailable" issue is a distressing fix encountered by users. It occ
 The iPhone's security mechanism typically activates after six wrong attempts. It starts with making the Apple iPhone 12 mini unavailable for a specific period. The device becomes permanently locked when the incorrect code is entered consecutively for the 10th time. This lock manifests as the "iPhone Unavailable" message on the screen.
 
 This acts as a shield against potential intruders trying to gain access by guessing or brute-forcing the passcode. However, this protective measure can affect users who forget their passcodes or insert incorrect entries mistakenly. For example, there are cases of children playing with the Apple iPhone 12 mini device, leading to accidental key presses. All of this makes learning **how to unlock the Apple iPhone 12 mini unavailable** an essential thing to learn.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. \[Top Fix\] Unlock iPhone Unavailable Without Lossing Data By Wondershare Dr.Fone
 
@@ -264,7 +281,6 @@ After installing Wondershare Dr.Fone onto your computer, launch it. Proceed by a
 
 ![select unlock ios screen option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - **Step 2. iDevice Recovery Mode and Firmware Download**
 
 Afterward, place your iDevice into Recovery Mode by following the on-screen instructions. Then, the platform will detect the “Device Model” and showcase it. If necessary, change the model and choose the “System Version.” Once these adjustments are made, click on "Start "to continue. The next screen will display the download progress of the iOS firmware.
@@ -279,6 +295,10 @@ After ensuring the iOS firmware is downloaded and validated, you're ready to pro
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock iPhone Unavailable Using Find My
 
 When encountering the Apple iPhone 12 mini Unavailable issue, a method to regain access is Apple's Find My feature. This method allows users to erase their device remotely and set it up again. Nevertheless, it's important to emphasize that this procedure will delete all information on the Apple iPhone 12 mini device while unlocking it. Below is a detailed, step-by-step guide on unlocking your Apple iPhone 12 mini Unavailable using Find My:
@@ -287,11 +307,12 @@ When encountering the Apple iPhone 12 mini Unavailable issue, a method to regain
 
 ![access find my on icloud website](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** On the following screen, select the unavailable iPhone from the "All Devices” section on the left side. Once you access the Apple iPhone 12 mini device options, tap the "Erase this Device" option. Afterward, follow the on-screen prompts to erase the Apple iPhone 12 mini device completely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device via icloud website](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-6.jpg)
 
 ## Part 4. How To Unlock iPhone Unavailable Using Erase iPhone Feature
@@ -318,9 +339,6 @@ Moreover, it will result in deleting all data on the locked device. These are th
 
 - **Step 2.** Within "Devices," locate and select the "Unavailable" iPhone from the list of devices. Once you have selected the Apple iPhone 12 mini device, choose "Erase This Device" from the available options after scrolling down.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device using find my app](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-10.jpg)
 
 - **Step 3.** Afterward, press the "Continue" button to confirm your choice. On the following screen, "Enter Phone Number" if needed and tap the "Erase" option at the top right corner. Next, write your "Apple ID password for verification purposes and again hit the "Erase" option to erase the Apple iPhone 12 mini device quickly.
@@ -346,7 +364,6 @@ Consider utilizing iTunes as a solution for the "iPhone Unavailable" issue. It i
 
 In conclusion, several helpful methods exist for **how to unlock unavailable iPhone**. Various techniques offer solutions, including iTunes, Find My, and other device removal methods. Dr.Fone distinguishes itself as the most effective choice. This is due to its user-friendly interface and capability to bypass the lock, making it the optimal solution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -359,9 +376,22 @@ In conclusion, several helpful methods exist for **how to unlock unavailable iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-determining-frame-rates-master-choice-between-30fps-and-60fps/"><u>[New] 2024 Approved Determining Frame Rates Master Choice Between 30Fps and 60Fps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-troubleshooting-stuttering-video-on-photo-booth-app/"><u>[New] Troubleshooting Stuttering Video on Photo Booth App</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-get-hd-quality-quickly-enable-av1-in-youtube-settings-for-2024/"><u>[Updated] Get HD Quality Quickly Enable AV1 in YouTube Settings for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-8-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harness-power-of-persuasion-with-these-tips-for-reddit/"><u>Harness Power of Persuasion with These Tips for Reddit</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6 Plus With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15 Plus</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-6-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 6 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-utilizing-edges-split-screen-feature-pip/"><u>In 2024, Utilizing Edge's Split Screen Feature PIP</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ps5xbox-series-x-elite-console-companion-screens-for-2024/"><u>PS5/Xbox Series X Elite Console Companion Screens for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-bright-side-of-reading-at-night-barnes-and-nobles-nook-glowlight-review-and-insights/"><u>The Bright Side of Reading at Night: Barnes & Noble's Nook GlowLight ˈReview and Insights</u></a></li>
+</ul></div>
 

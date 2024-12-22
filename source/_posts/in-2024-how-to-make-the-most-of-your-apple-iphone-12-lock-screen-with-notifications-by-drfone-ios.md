@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone 12 Lock Screen with Notifications?
-date: 2024-07-15T01:27:22.782Z
-updated: 2024-07-16T01:27:22.782Z
+date: 2024-12-16T16:11:52.130Z
+updated: 2024-12-20T16:17:20.902Z
 tags: 
   - unlock
   - remove screen lock
@@ -52,10 +52,11 @@ Sometimes, people can access our private information just by looking at our noti
 
 2\. From here, you can view a list of all the apps that can access notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off iphone lock screen notification](https://images.wondershare.com/drfone/article/2017/09/15063939102971.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Simply tap on the app of your choice (Mail, Message, Photos, iTunes, etc).
 
@@ -64,6 +65,10 @@ Sometimes, people can access our private information just by looking at our noti
 5\. If you simply want to turn off notifications on lock screen, then switch off the option of “Show on Lock Screen”.
 
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
@@ -79,9 +84,6 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 3\. This will provide a list of features related to your passcode. Go to the section of “Allow Access When Locked”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
 
 4\. From here, make sure that the option of “Notification View” is turned off.
@@ -96,9 +98,6 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 1
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -111,11 +110,13 @@ This is undoubtedly one of the most evident new features of the Apple iPhone 12 
 
 ![iphone lock screen with notifications-ios 18 notification new feature](https://images.wondershare.com/drfone/article/2017/09/15063941093235.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to click pictures instantly, then simply swipe left the lock screen. This will launch the Camera on your device, letting you click pictures on the go. Similarly, by swiping right, you can access your Today View. This includes vital data from apps and widgets that your smartphone assumes is important for you regarding the day.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
-
-
 
 ## Can You Unlock Apple iPhone 12 After Forgetting the Passcode?
 
@@ -123,12 +124,15 @@ If you **forget the passcode on your Apple iPhone 12**, you won't have the optio
 
 If you **forgot passcode on iPhone**, the main thing you can do with your iDevice is to make an Emergency call. You should erase your Apple iPhone 12 if you don't remember your screen unlock code. But don't worry; we have many solutions available here. Keep reading to learn about the best tool, i.e., Dr.Fone, for screen unlock.
 
-
 ## Part 1: Can I Unlock My iPhone When I Forgot Passcode?
 
 Yes, you can unlock your locked iPhone without a passcode. If you **forgot passcode on iPhone**, Apple's proper prescribed way is to reset your Apple iPhone 12. In other words, do a factory reset to erase the passcode. However, many individuals can't do this strategy since it's irksome and may lead to a few unforeseen issues. Such issues can worsen the condition.
 
 Therefore, we have introduced some alternate ways to unlock your iDevice. You can even use an expert tool to remove this issue. Keep following us to find out more about our recommended methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Use Find My
 
@@ -140,9 +144,6 @@ To erase the passcode using the Find My feature on iCloud:
 
 **Step 2.** Pick "Find iPhone" and go to "All Devices" > "Erase iPhone".
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-1.jpg)
 
 ### 2\. Use Recovery Mode with iTunes
@@ -167,6 +168,10 @@ After connecting your Apple iPhone 12 to the PC, you will see a popup window in 
 Hang tight for the process to wrap up. Then, a short time later, go to your Apple iPhone 12 and follow the on-screen directions to set up and utilize your phone again.
 
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. "Erase iPhone" Option
 
@@ -198,10 +203,13 @@ To erase the lock screen passcode with Siri on iOS 8 to iOS 10.1:
 
 As you might be aware, this way is helpful because of iOS bugs. This method is also viewed as a method for hacking the iPhone. In later iOS versions, Apple fixed these bugs. In this manner, it works on iPhones running iOS 8.0 to 10.1.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Dr.Fone-Screen Unlock
 
 The Apple iPhone 12 unlock software Dr.Fone-Screen Unlock will help to open the password without iTunes. It is well-versed in unlocking screen locks from various iOS devices, including the iPhone, iPad, and iPod contact. With it introduced on your PC, you can eliminate your Apple iPhone 12 lock screen effectively. It can remove the 4-digit password, 6-digit password, Fingerprint, or Face ID.
-
 
 Therefore, Dr.Fone is a decent option if you like to sidestep the passcode on your Apple iPhone 12 without Siri or iTunes. To fix more issues, such as bypassing the enactment lock without the past proprietor, Dr.Fone-Screen Unlock will be a decent option for you. The following steps illustrate how you can unlock your lock screen passcode:
 
@@ -221,6 +229,10 @@ Before sidestepping the Apple iPhone 12 lock screen, we want to boot it in Recov
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Affirm iOS device information**
 
 After putting the Apple iPhone 12 device in DFU mode, Dr.Fone will show the Apple iPhone 12 device information, for example, the Apple iPhone 12 device Model and OS Variant. You can choose the correct data from the dropdown menu if the information is incorrect. Then, at that point, click Download to download the firmware for your device.
@@ -234,7 +246,6 @@ After the firmware is downloaded effectively, click Unlock Now to begin unlockin
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Simply shortly, your Apple iPhone 12 will be unlocked effectively. Note that this unlocking process will wipe the user data on your Apple iPhone 12. However, it is practical to erase this issue from your device.
-
 
 ## Part 3: How Can I Turn Off/On My Passcode?
 
@@ -258,6 +269,10 @@ The Apple iPhone 12 are high-end smartphones with many features and capabilities
 
 ![unlock iphone 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This blog post will discuss several methods to unlock your Apple iPhone 12 without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone 12's passcode or are just looking for ways to unlock iPhones without a passcode.
 
 ## Is It Possible to Unlock Apple iPhone 12 without a Passcode?
@@ -267,6 +282,10 @@ Unlocking an iPhone without a passcode is possible, but it's not as simple as en
 And we are going to teach all those methods with some simple steps. So, without any further ado, let's get started.
 
 ![unlock iphone 11 12 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Easy Ways to Unlock Apple iPhone 12 without Passcode by Yourself
 
@@ -342,8 +361,6 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 ### Dr.Fone-Screen Unlock
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
@@ -352,6 +369,10 @@ Unlock iPhone Without Passcode.
 - Unlock screen passwords from all iPhones and iPad.
 - No tech knowledge is required. Everybody can handle it.
 - Supports iPhone 14/13/12/XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE, and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,217** people have downloaded it
 
@@ -371,9 +392,6 @@ If you are interested in using this tool, then here's how you can do it:
 
 **Step 4:** Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone 12.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to unlock iphone 12 without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5:** Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
@@ -385,7 +403,6 @@ You only need to wait for some time as the process may take several minutes. So 
 Once the process is completed, your Apple iPhone 12 will be unlocked, and you can choose a new passcode.
 
 This is the easiest and most effective way to reset your Apple iPhone 12 passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
-
 
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
@@ -411,7 +428,6 @@ As you see in the article, there are some ways to reset your Apple iPhone 12 pas
 
 If you're not interested in using a third-party tool, you can try one of the methods mentioned above. But keep in mind that these methods may only work on some iPhones. So, if you need help deciding which way to use it, we recommend going with Dr.Fone-Screen Unlock.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -424,9 +440,20 @@ If you're not interested in using a third-party tool, you can try one of the met
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-deciphering-your-ideal-vr-equipment-preference-for-portable-mobile-or-plugged-in-tethered-in-2024/"><u>[New] Deciphering Your Ideal VR Equipment Preference for Portable (Mobile) or Plugged-In (Tethered), In 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-joke-jamboree-twitters-10-best-comedy-threads-for-2024/"><u>[New] Joke Jamboree Twitter's 10 Best Comedy Threads for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-on-screen-recording-assistant-for-2024/"><u>[New] On-Screen Recording Assistant for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-speedy-retrieval-of-snap-archive-for-2024/"><u>[New] Speedy Retrieval of Snap Archive for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtubes-monetary-system-monthly-or-quarterly/"><u>[Updated] In 2024, YouTube's Monetary System Monthly or Quarterly?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-m34-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy M34 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-11-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-xs-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone XS Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 15 Without Passcode Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-printer-driver-official-guidelines-for-windows-users/"><u>Update Your HP Officejet Printer Driver - Official Guidelines for Windows Users</u></a></li>
+</ul></div>
 

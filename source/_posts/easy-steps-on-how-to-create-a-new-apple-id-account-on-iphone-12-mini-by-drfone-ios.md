@@ -1,7 +1,7 @@
 ---
 title: Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini
-date: 2024-07-15T01:30:53.920Z
-updated: 2024-07-16T01:30:53.920Z
+date: 2024-12-19T16:16:24.954Z
+updated: 2024-12-20T16:05:45.159Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,8 +23,9 @@ This guide will walk you through creating a new account for Apple devices in an 
 ![create a free apple id](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Why Create a New Apple ID?
 
 You might need to create a new Apple ID to enhance your Apple experience. Let's dive into why it's a good idea:
@@ -71,11 +72,12 @@ These are the steps for registering a new Apple ID:
 
 ![create your apple id step 1](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### B. Verifying Your Identity
 
 The next step is verifying your identity. Check out the steps below:
@@ -86,6 +88,10 @@ The next step is verifying your identity. Check out the steps below:
 
 ![create your apple id step 2](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
 
 ### C. Setting Up Security Questions
@@ -94,9 +100,6 @@ The next process will be setting up security questions for your account:
 
 - **Step 6:** Apple asks you to choose and answer security questions. These questions provide an additional layer of protection for your account. Select questions that you can easily remember and that others can't guess.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### D. Finalizing the Process
 
 To finalize the creation process, refer to the steps given below:
@@ -126,6 +129,10 @@ This versatile tool offers the following key features in the context of Apple ID
 - **Multiple Unlock Modes.**Fone offers various unlock modes to cater to different scenarios, including removing the previous Apple ID. This flexibility ensures that you have the right solution for your specific situation.
 - **Data Security.**Fone - Screen Unlock (iOS) prioritizes data security, ensuring that your personal information and content remain intact during the Apple ID removal process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide on Using Dr.Fone Screen Unlock (iOS)
 
 Check out the steps on how to remove an Apple ID account using Dr.Fone below:
@@ -134,11 +141,18 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
@@ -159,9 +173,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware complete](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 - **Step 10:** The following screen shows the unlocking status of your Apple ID. Don't let the Apple iPhone 12 mini device lose its connection under any circumstances. The screen prompts the process of completing the Apple ID once the ID has been unlocked. If the Apple ID has been unlocked, click **Done** to proceed. If that fails, click the **Try Again** button and give it another shot.
@@ -222,6 +233,10 @@ Sometimes, people can access our private information just by looking at our noti
 
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
 ## Part 3: How to turn off notification view on iPhone lock screen?
@@ -237,6 +252,10 @@ The notification view can be used to see previous notifications on the Apple iPh
 3\. This will provide a list of features related to your passcode. Go to the section of “Allow Access When Locked”.
 
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. From here, make sure that the option of “Notification View” is turned off.
 
@@ -269,7 +288,6 @@ We hope that after following this guide, you would be able to gain in-depth info
 ## How to Access Your Apple iPhone 12 mini When You Forget the Passcode?
 
 We all have secrets in our iPhone or some important financial or business data that we all wish to protect from unwanted access. For this, we set up a passcode. But what if Apple iPhone 12 mini passcode is forgotten by you? Well, you may now wonder how to perform Apple iPhone 12 mini passcode bypass, right? Worry no more! We’re right here to help you with the proven solutions for Apple iPhone 12 mini passcode reset without iTunes or with it too. Let’s explore.
-
 
 ## Part 1. Unlock Apple iPhone 12 mini screen passcode in one click (unlock tool needed)
 
@@ -313,6 +331,10 @@ Here we’re going to be familiar with the Apple iPhone 12 mini passcode reset u
 
 ![iTunes backup restoring](https://images.wondershare.com/drfone/article/2019/09/restore-iphone-itunes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Restore Apple iPhone 12 mini in recovery mode to remove screen passcode
 
 If somehow, the above solution fails and you’re just not able to get Apple iPhone 12 mini passcode reset. You need to boot your device into recovery mode and then perform the factory reset. This would certainly wipe off everything from your Apple iPhone 12 mini including the passcode as well. Here are the steps involved in booting your Apple iPhone 12 mini in recovery mode.
@@ -343,9 +365,6 @@ Note: Since we’re going to unlock your Apple iPhone 12 mini using Find My iPho
 
 **Step 4:** Then, you’ll get to witness a pop-up window over your screen. Tap the “Erase iPhone” button over it and then confirm your actions. All the settings and data will be wiped off remotely from your Apple iPhone 12 mini now.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iPhone](https://images.wondershare.com/drfone/article/2019/09/unlock-iphone-icloud.jpg)
 
 **Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
@@ -368,12 +387,13 @@ Now, in case you know the Apple iPhone 12 mini restrictions passcode and just wi
 
 ![restrictions passcode disabling](https://images.wondershare.com/drfone/article/2019/09/disable-restrictions-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, hit on “Enable Restrictions”. You’ll be asked to set up a new passcode now. Do it and you’re done.
 
 ![set up a new passcode](https://images.wondershare.com/drfone/article/2019/09/reset-restrictions-passcode-iphone.jpg)
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -387,9 +407,18 @@ Now, in case you know the Apple iPhone 12 mini restrictions passcode and just wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-ideal-7-video-capture-tools-for-engaging-social-media-presentations/"><u>[New] In 2024, Ideal 7 Video Capture Tools for Engaging Social Media Presentations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-ios-slideshow-software-from-x-to-ios13/"><u>[Updated] Best iOS Slideshow Software From X to IOS13</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-animation-advantage-boosting-profits-in-social-media-ads/"><u>[Updated] In 2024, The Animation Advantage Boosting Profits in Social Media Ads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>2024 Approved Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-basics-enhancing-your-skills-in-board-games-and-art-with-chatgpts-my-gpt-bot-tools/"><u>Beyond the Basics: Enhancing Your Skills in Board Games & Art with ChatGPT's My GPT Bot Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-voice-communication-functionality-for-among-us-players-on-windows-computers/"><u>How to Restore Voice Communication Functionality for Among Us Players on Windows Computers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-by-drfone-ios/"><u>How to Unlock iPhone 12 mini?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-11-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 11 Pro Without Passcode Easily</u></a></li>
+</ul></div>
 
