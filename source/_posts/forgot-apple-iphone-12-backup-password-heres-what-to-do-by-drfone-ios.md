@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 12 Backup Password? Heres What to Do
-date: 2024-07-15T01:24:38.182Z
-updated: 2024-07-16T01:24:38.182Z
+date: 2024-12-16T22:35:21.781Z
+updated: 2024-12-21T23:32:23.026Z
 tags: 
   - unlock
   - remove screen lock
@@ -88,6 +88,10 @@ Use a USB cable to link your Apple iPhone 12 to your PC. Look at the small iOS i
 
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
 ### 3\. Find your password in the macOS keychain
@@ -144,7 +148,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -156,6 +159,10 @@ Here are three tricks to help you keep track of your passwords so you don't have
 You can turn on **AutoFill** in the **Settings** app. This will allow your Apple iPhone 12 to fill in passwords when you visit websites and apps automatically. All you need to do is ensure you've entered the correct username and password once, and your Apple iPhone 12 will save the information, so you don't have to enter it again.
 
 ![autofill](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Try iCloud Keychain to keep your passwords
 
@@ -177,15 +184,16 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 [![drfone](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It's a frustrating situation where you forgot your Apple iPhone 12's passcode and are now unable to unlock it. Unfortunately, if you are experiencing this situation with your Apple iPhone 12, you must be looking to learn how to unlock Apple iPhone 12 without a passcode.
 
 There are many ways to unlock the Apple iPhone 12 without a passcode. You not only do it with the help of iPhone's stock features like Find My Apple iPhone 12 or iTunes, but you can also use third-party methods to unlock the Apple iPhone 12 lock screen.
 
 So, let's get straight to the different methods to unlock the Apple iPhone 12 lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4 Easy Methods to Unlock Apple iPhone 12 without Passcode
 
 Following are the four different methods to unlock Apple iPhone 12 without a passcode:
@@ -203,6 +211,10 @@ Follow the steps to do this.
 3. Now you will have two options under your Apple iPhone 12's specifications. So you will have to click on the other option named **Restore iPhone**.
 4. By clicking this button, you will be asked again for confirmation. After confirmation, iTunes will wipe out everything on your Apple iPhone 12, and once the process is completed, you will be able to unlock your Apple iPhone 12 XR lock screen without any passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method #2: Unlock It Via Find My iPhone
 
 If the above-given method is not helpful or you haven't used iTunes before, we have another solution. You can use the "Find My iPhone" feature to erase your device and unlock it. This is useful when you quickly want to unlock your Apple iPhone 12 without a passcode.
@@ -217,6 +229,10 @@ All you have to do is follow the steps given below.
 4. You will have to click on it, showing you a confirmation message to erase all your data on your Apple iPhone 12.
 5. Confirm it, and your Apple iPhone 12 will be restored to the factory settings, and all your data will be removed.
 6. Once the process is completed, you can unlock your Apple iPhone 12 X lock screen without any passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #3: Remove Passcode With Tapping Erase Phone (iOS 15.2 only)
 
@@ -242,7 +258,6 @@ Here are some easy steps that you should take.
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
 
-
 **Step #2: Connect Your Apple iPhone 12**
 
 After installing Dr.Fone on your computer, you will need to launch the Software and connect your Apple iPhone 12 using the original iPhone's cable.
@@ -255,9 +270,6 @@ After installing Dr.Fone on your computer, you will need to launch the Software 
 
 Once your Apple iPhone 12 is successfully connected, you must take it to recovery or DFU mode. For this, follow the instructions given below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect iphone to screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step #4: Download Firmware**
@@ -275,7 +287,6 @@ Once the downloading is completed, you will need to click on **Unlock Now** butt
 Once the process is completed, you can unlock your Apple iPhone 12 XR lock screen without the passcode.
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## FAQs
 
@@ -347,6 +358,10 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID** isn't just about getting a new email; it's about tailoring your Apple experience to your needs, whether for personalization, privacy, or organization. Now that you know why it's essential, let's explore how to create it in the next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Step-by-Step Guide: How To Create a New Apple ID Account
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
@@ -367,6 +382,10 @@ These are the steps for registering a new Apple ID:
 
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### B. Verifying Your Identity
 
 The next step is verifying your identity. Check out the steps below:
@@ -379,18 +398,12 @@ The next step is verifying your identity. Check out the steps below:
 
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### C. Setting Up Security Questions
 
 The next process will be setting up security questions for your account:
 
 - **Step 6:** Apple asks you to choose and answer security questions. These questions provide an additional layer of protection for your account. Select questions that you can easily remember and that others can't guess.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### D. Finalizing the Process
 
 To finalize the creation process, refer to the steps given below:
@@ -398,6 +411,10 @@ To finalize the creation process, refer to the steps given below:
 - **Step 7:** Read through Apple's Terms and Conditions and Privacy Policy. Once you've understood them, tick the box to confirm that you've read and agree to the iCloud and Apple Media Services Terms and Conditions. Then click **Agree** to proceed. Remember that it's essential to be familiar with Apple's policies to ensure a secure and smooth experience.
 
 ![create your apple id step 3](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** After completing these steps, Apple will send a confirmation email to the address you provided. Go to your email and open the verification link to confirm your new Apple ID.
 
@@ -428,7 +445,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
@@ -438,11 +454,12 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![set up screen lock](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Check if **Two-Factor Authentication** is set up on all your iOS devices. If not, switch it on before confirming your decision to unlock your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm two-factor authentication](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
 - **Step 6:** After you have confirmed these settings, you will be taken to a screen with on-screen instructions for entering **Recovery Mode** on your iDevice. If the steps for your specific iOS device don't work, try tapping **Try DFU Mode** in the app's bottom left corner. To continue with the unlocking process, this will [<u>launch the DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) instructions.
@@ -452,6 +469,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone 12 device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
 
 ![choose device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
@@ -468,9 +489,6 @@ This guide has simplified the process of **creating a new Apple ID**, ensuring y
 
 Should you encounter any challenges while managing your Apple ID, such as removing a previous one, consider Dr.Fone - iOS Screen Unlock tool. This user-friendly resource stands ready to assist, ensuring a seamless and secure Apple experience. Explore the possibilities and make the most of your Apple adventure!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -483,9 +501,24 @@ Should you encounter any challenges while managing your Apple ID, such as removi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-viral-video-venues-clash-youtube-shorts-vs-tiktoks-rapid-rise/"><u>[Updated] In 2024, Viral Video Venues Clash YouTube Shorts Vs. TikTok's Rapid Rise</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-vrs-best-immersion-top-ten-titles-for-2024/"><u>[Updated] VR's Best Immersion Top Ten Titles for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-initiate-your-video-journey-establishing-a-youtube-account/"><u>2024 Approved Initiate Your Video Journey Establishing a YouTube Account</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-changes-in-sony-bdp-s670/"><u>2024 Approved Unveiling Changes in Sony BDP-S670</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Without a Passcode</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-xbox-ultimate-price-hike-with-smart-strategies/"><u>Bypass Xbox Ultimate Price Hike with Smart Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-7-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 7 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-x-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone X Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-record-teams-video-meeting-in-2024/"><u>How to Record Teams Video Meeting, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-a38-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo A38</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-13-pro-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 13 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g42-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G42 5GFRP Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+</ul></div>
 

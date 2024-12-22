@@ -1,7 +1,7 @@
 ---
 title: Easy Steps on How To Create a New Apple ID Account On iPhone 12
-date: 2024-07-15T01:25:35.495Z
-updated: 2024-07-16T01:25:35.495Z
+date: 2024-12-14T20:18:21.950Z
+updated: 2024-12-21T20:07:36.420Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,9 +54,6 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -64,6 +61,10 @@ These are the steps for registering a new Apple ID:
 - **Step 1:** Open your web browser and visit the [<u>Apple ID account management page</u>](http://appleid.apple.com/). Click the **Create Your Apple ID** button to begin.
 
 ![apple id account management page](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** On the registration page, you'll be asked to provide your **First name** and **Last name**. Make sure to use the name associated with your new Apple ID. Next, you'll need to enter your preferred email address. This one will be your new Apple ID.
 
@@ -111,6 +112,10 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -120,6 +125,10 @@ This versatile tool offers the following key features in the context of Apple ID
 - **Multiple Unlock Modes.**Fone offers various unlock modes to cater to different scenarios, including removing the previous Apple ID. This flexibility ensures that you have the right solution for your specific situation.
 - **Data Security.**Fone - Screen Unlock (iOS) prioritizes data security, ensuring that your personal information and content remain intact during the Apple ID removal process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide on Using Dr.Fone Screen Unlock (iOS)
 
 Check out the steps on how to remove an Apple ID account using Dr.Fone below:
@@ -127,7 +136,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 1:** Launch Wondershare Dr.Fone on your PC to use the **Screen Unlock** function and then navigate to **Toolbox**. Click the **Screen Unlock** section, then choose **iOS**.
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -150,6 +158,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![choose device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
 
@@ -159,9 +171,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![apple id completely unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 This guide has simplified the process of **creating a new Apple ID**, ensuring you can effortlessly personalize, secure, and organize your digital experience. **Creating a new Apple ID** is easy, and it allows you to tailor your Apple journey to your preferences. Remember, it's all about you, your privacy, and your convenience.
@@ -224,6 +233,10 @@ With this method, you can follow the steps below to remove the screen lock passc
 4. By clicking this option, you will be asked about your **Apple ID and Password** that you have used on this iPhone.
 5. So provide them, and you will be able to erase your Apple iPhone 12, and in the end, your Apple iPhone 12 will be unlocked without needing a passcode or password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method #4: Dr.Fone-Screen Unlock
 
 This is the most effective and easiest way to remove or break your Apple iPhone 12 passcode. You can use this method if all the above methods don't work for you or you don't remember your Apple ID or Password.
@@ -233,7 +246,6 @@ Here are some easy steps that you should take.
 **Step #1: Download Dr.Fone Tool**
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
-
 
 **Step #2: Connect Your Apple iPhone 12**
 
@@ -247,9 +259,6 @@ After installing Dr.Fone on your computer, you will need to launch the Software 
 
 Once your Apple iPhone 12 is successfully connected, you must take it to recovery or DFU mode. For this, follow the instructions given below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect iphone to screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step #4: Download Firmware**
@@ -267,7 +276,6 @@ Once the downloading is completed, you will need to click on **Unlock Now** butt
 Once the process is completed, you can unlock your Apple iPhone 12 XR lock screen without the passcode.
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## FAQs
 
@@ -299,9 +307,17 @@ Another possibility is that someone tried to break into your phone using an ille
 
 Finally, if you have an Apple iPhone 12 with Face ID, it's possible that your phone was locked because it didn't recognize your face. You ought to enter your passcode to unlock your phone if this is the case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 So, these are some most effective methods to follow and unlock the Apple iPhone 12 XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone 12 lock screen without a passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Full Guide to Unlock Apple iPhone 12 with iTunes
 
@@ -355,9 +371,6 @@ To enter a Recovery Mode, press a combination of buttons on your Apple iPhone 12
 
 As the recovery Mode screen shows up on the iPhone, you will find your Apple iPhone 12 on **iTunes unlock phone** screen. Then, a box shows up with a message saying there is an iPhone issue. It will expect you to update or restore your phone. So, click on Restore.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-1.jpg)
 
 **Step 4.** It then asks you to confirm whether you are sure you need to restore the Apple iPhone 12 to its default factory state. It does so because your media and data will be all erased. Then, click on Restore and Update.
@@ -390,10 +403,11 @@ Find My is a famous element in Apple devices that allows you to find your lost p
 
 Pick your locked gadget under the "All Devices" area.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter apple id](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Click on 'Erase iPhone'. Click on 'Erase' again.
 
@@ -413,7 +427,6 @@ Pick your locked gadget under the "All Devices" area.
 
 ### 2\. Dr.Fone-Screen Unlock
 
-
 If you are searching for an elective way to unlock your Apple iPhone 12 with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
 
 This software is an ideal iTunes elective that doesn't need a passcode to unlock the iPhone. Whatever the situation, Dr.Fone can determine the issue in no time. It can eliminate Face ID, Touch ID, or a 4 to 6-digit passcode in no time. Moreover, it works with almost any iOS version at the moment. Here's the alternate way to **iTunes unlock phone:**
@@ -428,11 +441,19 @@ Then use a USB connector to connect your iOS gadget to the PC. Then, click the "
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Boot your iDevice in Recovery/DFU Mode**
 
 Before deleting the Apple iPhone 12 screen, it is necessary to boot it in Recovery/DFU. You can follow the steps on your screen to do so. Moreover, the Recovery mode is the suggested way for your situation. However, you can use the DFU mode if this doesn't work.
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3. Confirm Phone Model**
 
@@ -452,9 +473,6 @@ Doing so will unlock your Apple iPhone 12 within no time. However, kindly note t
 
 We hope you found out about **how to unlock iPhone with iTunes**. We likewise discussed what to do when you need an alternate method to iTunes. We know that using iTunes can be somewhat complicated; hence, the other options can help you a ton. However, we strongly suggest Dr.Fone-Screen Unlock for a more refined unlocking process.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -467,9 +485,21 @@ We hope you found out about **how to unlock iPhone with iTunes**. We likewise di
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-free-tools-top-5-screen-recorder-apps-for-chrome-devices/"><u>[New] In 2024, Free Tools Top 5 Screen Recorder Apps for Chrome Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-advanced-tips-for-integrating-markers-in-videography-for-2024/"><u>[Updated] Advanced Tips for Integrating Markers in Videography for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-step-by-step-process-to-record-movies-on-multiple-platforms/"><u>[Updated] Step-By-Step Process to Record Movies on Multiple Platforms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/deciphering-youtubes-new-earning-standards/"><u>Deciphering YouTube's New Earning Standards</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-se-2022-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone SE (2022)? Learn All 4 Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-a15-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy A15 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-crystalvision-pro-screen-capturing-101/"><u>In 2024, CrystalVision Pro Screen Capturing 101</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-15-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 15 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-15-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 15 Pro Max with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini, Apples New iPhone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/semaine-francaise-une-symphonie-en-langue/"><u>Semaine Française : Une Symphonie en Langue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-savings-snag-the-newly-reduced-apples-m3-macbook-pro-during-amazons-spring-clearance-event-as-revealed/"><u>Unveiling Savings: Snag the Newly-Reduced Apple's M3 MacBook Pro During Amazon’s Spring Clearance Event, as Revealed</u></a></li>
+</ul></div>
 

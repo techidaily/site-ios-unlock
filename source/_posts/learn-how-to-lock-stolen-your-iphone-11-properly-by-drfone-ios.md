@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone 11 Properly
-date: 2024-12-13T16:01:22.210Z
-updated: 2024-12-20T16:02:19.351Z
+date: 2024-12-19T23:55:43.656Z
+updated: 2024-12-21T21:31:02.703Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,6 +54,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
 Lost Mode locks the Apple iPhone 11 device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
@@ -64,10 +68,6 @@ Lost Mode locks the Apple iPhone 11 device and allows users to showcase a person
 
 ![proceed to activate lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
@@ -75,6 +75,10 @@ Lost Mode locks the Apple iPhone 11 device and allows users to showcase a person
 - **Step 3.** After adding a message, tap "Next" on the following screen and press "Activate" from the top right corner.
 
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Activating Lost Mode Using iCloud Website
 
@@ -102,10 +106,6 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** If using the iCloud website, tap "Erase This Device" and click "Next" on the upcoming prompt. You will be asked to enter the Apple ID password, after which you can use the on-screen guidelines to finish the process.
 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
@@ -114,6 +114,10 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 There are additional measures you can take to enhance your overall security apart from understanding **how do I lock my stolen iPhone**. The following are some options you should utilize in case of device loss:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### To Do List #1. Report to Police
 
 If your Apple iPhone 11 is stolen, it is crucial to immediately inform your local law enforcement agency. It facilitates the recovery process and assists in combatting criminal activities. Provide essential details about your Apple iPhone 11, such as the Model, color, and IMEI number. Share information about your efforts to locate the stolen iPhone using Find My.
@@ -121,7 +125,7 @@ If your Apple iPhone 11 is stolen, it is crucial to immediately inform your loca
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### To Do List #2. Make an Insurance Claim With AppleCare
@@ -132,10 +136,6 @@ To qualify for theft or loss coverage, it is necessary for Find My to be enabled
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
 After your Apple iPhone 11 is stolen, it becomes essential to bolster the security of your online accounts. It is particularly essential for those safeguarded by Two-Factor Authentication (2FA), which needs to be removed:
@@ -145,10 +145,6 @@ After your Apple iPhone 11 is stolen, it becomes essential to bolster the securi
 - **Step 1.** Access Settings on an iOS device logged in with the same Apple ID as the lost one. Here, tap on your name on the following screen and scroll down.
 
 ![open settings and apple id details](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
 
@@ -168,10 +164,6 @@ After your Apple iPhone 11 is stolen, it becomes essential to bolster the securi
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 11 when stolen**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Precaution #1. Enable Find My on Device
 
 Activating Find My increases the likelihood of recovering your device. Take the following steps to enable the Find My feature on your Apple iPhone 11:
@@ -185,7 +177,7 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Precaution #2. Enable Separation Alerts on iPhone
@@ -262,10 +254,6 @@ But don't fret! This article is here to demystify the Apple iPhone 11 blacklist 
 
 ![blacklisted iphone](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Decoding the Apple iPhone 11 Blacklist: What You Need To
 
 You might have heard the term "blacklisted iPhone" before, but what does it mean? Well, it's like your Apple iPhone 11 is in a timeout and can't play with the other phones. Let's break it down in simple terms.
@@ -298,6 +286,10 @@ So, in a nutshell, a blacklisted iPhone is like a digital pariah, shunned from r
 Now that you know what it means for an Apple iPhone 11 to be blacklisted and the troubles it can bring, let's talk about how to set your Apple iPhone 11 free. The good news is there's a way to do this for free! Yes, you read that right. This section will walk you through the steps.
 
 ![iphone blacklist removal](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Is iPhone Blacklisted Removal?
 
@@ -399,7 +391,7 @@ In a world where staying connected is vital, understanding and fixing iPhone bla
 Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphone-sim-unlock.html) to rescue you when your SIM card acts up. It's your go-to solution for SIM-related woes, ensuring you stay connected effortlessly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Guide on How To Change Your Apple ID Email Address On Apple iPhone 11
@@ -415,6 +407,10 @@ This guide will take you through the simple process of **changing your Apple ID 
 Your Apple ID email helps you access your apps, music, and more. But sometimes, you might need to change it for simple reasons. Let's look at why you might want to change your Apple ID email in easy-to-understand terms.
 
 ![why change your apple id email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Your email address is part of your identity. Changing it to something that better suits you can make your Apple experience more personal.
 - If you think someone else knows your old email password, changing it can keep your Apple account safer. A fresh email means a new layer of security.
@@ -441,10 +437,6 @@ If you're a Mac enthusiast, changing your Apple ID email is straightforward:
 
 ![change apple id on mac 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Click **System Preferences**, and then select **Apple ID**.
 
 ![change apple id on mac 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-04.jpg)
@@ -467,6 +459,10 @@ For those who prefer the convenience of mobile devices:
 - **Step 2:** Tap **Name, Phone Numbers, Email**.
 
 ![change apple id on iphone 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Tap **Edit** next to your email address, enter your new one, then tap **Next**.
 
@@ -502,6 +498,10 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 - **Step 3:** Tap **Continue,** then wait for a few moments. Your Apple ID will then get updated.
 
 By following these steps, you'll ensure that all your Apple devices are synced with your updated email address, providing a seamless and consistent Apple experience across all your gadgets. Now, with your new Apple ID email, you're ready to explore the Apple ecosystem with renewed convenience and security.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III: Unlock iOS Screen With <u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>
 
@@ -582,18 +582,18 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>[New] 2024 Approved Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-action-fraps-recorder-insights/"><u>[Updated] 2024 Approved Capturing Action Fraps Recorder Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-guide-to-the-top-6-head-mounted-gopro-options/"><u>Essential Guide to the Top 6 Head-Mounted GoPro Options</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-7-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 7 Plus Without a Home Button</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-12-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 12 Pro Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6s-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6s Plus? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-x-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone X In Different Conditionsin</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-100-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-v2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Magic V2 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-8-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 8 Plus Properly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rapid-bulgarian-proficiency-10-minday/"><u>Rapid Bulgarian Proficiency, 10 Min/Day</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-ndis-error-codes-comprehensive-guide-on-corrections-and-solutions/"><u>Troubleshooting NDIS Error Codes - Comprehensive Guide on Corrections and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-minimizing-dwms-heavy-gpu-consumption-in-windows-operating-systems/"><u>Ultimate Guide: Minimizing DWM's Heavy GPU Consumption in Windows Operating Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-smart-spending-on-action-cams-find-your-bargains-under-100/"><u>[Updated] 2024 Approved Smart Spending on ACTION Cams Find Your Bargains Under $100</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-turning-dull-vids-into-engaging-experienents-with-music/"><u>[Updated] 2024 Approved Turning Dull Vids Into Engaging Experienents With Music</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rising-to-the-top-essential-youtube-video-seo-techniques-for-success-for-2024/"><u>[Updated] Rising to the Top Essential YouTube Video SEO Techniques for Success for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-xr-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-14-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 14 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-magic-vs-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Magic Vs 2 Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-14-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 12 with a Mask On</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-4k-gimbal-picks-top-ten-mirrorless-companions/"><u>In 2024, 4K Gimbal Picks Top Ten Mirrorless Companions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-narzo-n53-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme Narzo N53 FRP Bypass</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/kak-prevratit-fleshku-v-zagruzochnyj-nositel-dlya-windows-10-ili-11-poshagovoe-rukovodstvo/"><u>Как Превратить Флешку В Загрузочный Носитель Для Windows 10 Или 11: Пошаговое Руководство</u></a></li>
 </ul></div>
 

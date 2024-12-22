@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Apple iPhone 12 Keeps Asking for Outlook Password
-date: 2024-07-15T01:24:35.819Z
-updated: 2024-07-16T01:24:35.819Z
+date: 2024-12-19T18:39:25.723Z
+updated: 2024-12-22T00:39:47.898Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ Among these challenges, iPhone users specifically grapple with a persistent issu
 
 ![iphone ipad asking outlook password issue](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Why Does My iPhone Keep Asking for Outlook Password
 
 The **iPhone asking for Outlook password** arises from a combination of factors. Understanding these reasons is crucial in diagnosing and resolving the problem effectively:
@@ -41,6 +45,10 @@ Upholding a stable internet connection is necessary for effortless communication
 ### 4\. Corrupted Email Account Profile
 
 A corrupted email account profile on the Apple iPhone 12 can cause disruptions during the authentication process. Resetting the email account on the Apple iPhone 12 device might be necessary to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Third-Party App Interference
 
@@ -82,6 +90,10 @@ Sometimes, the email service provider may force users to change their passwords 
 
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3. Checking the Network Connection
 
 [<u>Network inconsistencies</u>](https://drfone.wondershare.com/reset-iphone/reset-network-settings-iphone.html) can often disrupt the authentication process. This can be the leading cause behind persistent password prompts. To ensure a stable connection, ensure that you are connected to a reliable and stable Wi-Fi network. You can also try toggling the Wi-Fi and mobile data switches on and off.
@@ -90,24 +102,20 @@ Another way to confirm if network errors are the problem is to try enabling Airp
 
 ![check network iphone settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4. Using the Mail Toggle as a Remedy
 
 A strategic approach to resolving authentication issues involves using the Mail toggle. You can use it to disable and re-enable the email services. This action essentially resets the Outlook app's connection and can be performed as follows:
 
 - **Step 1.** Within your Apple iPhone 12's "Settings" app, scroll down and tap "Mail." On the following screen, press "Accounts" and choose the "Outlook" account.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![proceed with outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-7.jpg)
 
 - **Step 2.** Here, you will find the toggle switch for "Mail." Now, turn off the email service and wait for a few moments. Toggle the switch back on to re-enable the email service.
@@ -133,6 +141,10 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 - **Step 1.** After accessing the "Mail" tab within the Settings app, tap "Accounts." Here, find and choose the "Fetch New Data" option, followed by selecting the "Outlook" account.
 
 ![manage outlook fetch data](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Confirm that the "Push" or "Fetch" settings are configured to your preference. "Push" enables real-time updates, while "Fetch" allows you to set specific intervals for email updates.
 
@@ -181,6 +193,10 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 - **Step 2.** On the following screen, tap "Reset" and select "Reset All Settings" from the available options. Enter your device passcode if prompted and confirm the action by selecting "Reset All Settings" again.
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 12. Add an Account by Switching to IMAP
 
@@ -243,7 +259,6 @@ Unlocking your Apple iPhone 12 using Wondershare Dr.Fone is a straightforward pr
 Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen Unlock" and choose “iOS.” In the opened window, choose the "Unlock iOS Screen" option to unlock your iOS device's screen. On the subsequent screen, click "Start" to commence the iOS device unlocking process.
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
 
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
@@ -324,9 +339,6 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How To Turn Off the Flashlight on iPhone?
 
 Now, let's address turning off the flashlight on your Apple iPhone 12. Even if you've applied Part 1's solutions, knowing how to switch off the flashlight is crucial. In this section, you'll learn **how to turn the light off on iPhone** devices.
@@ -373,6 +385,9 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Select **iOS** as the Apple iPhone 12 device type. Then, within the **Screen Unlock** window, select **Unlock iOS Screen** to begin the process.
 
@@ -408,11 +423,6 @@ And if ever locked out with the flashlight on, consider Dr.Fone Screen Unlock. T
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12
 
 ## Part I: Is It Possible To Unlock A Disabled iPhone?
@@ -433,7 +443,6 @@ What is Dr.Fone? Dr.Fone is a suite of apps designed to help you with tasks on y
 
 This is a must-have set of tools designed for every smartphone owner, regardless of the operating system. It works on both Windows and macOS and supports both Android and iOS. Download [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) here.
 
-
 **Step 1:** Connect your device to the computer and select Screen Unlock in Dr.Fone.
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -441,6 +450,10 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 **Step 2:** Click the big blue button "Unlock iOS Screen":
 
 ![drfone ios screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Onscreen instructions guide you to put your device in Recovery Mode:
 
@@ -453,7 +466,6 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 **Step 5:** When Dr.Fone is ready to unlock disabled iPhone, click Unlock Now and wait until the notification of a successful unlock is shown.
 
 ![unlock disabled iphone with drfone screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ### II.II: Unlock Disabled iPhone With iTunes/ macOS Finder
 
@@ -495,9 +507,6 @@ Worry not, because Apple's Find My is your friend. You can use Find My on your o
 
 **Step 1:** Launch Find My app on your iOS device or Mac. Note that the other device should be signed in with the same Apple ID as the disabled iPhone. If not, you may sign out of iCloud on the Apple iPhone 12 device and sign in using the other Apple ID (of the disabled iPhone).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![unlock disabled iphone with find my app](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-4.jpg)
 
 **Step 2:** Select the disabled iPhone from the Apple iPhone 12 devices in the sidebar, click or tap the Apple iPhone 12 device on the map and click or tap Erase This Device.
@@ -522,10 +531,11 @@ Unlocking a disabled iPhone requires erasing the Apple iPhone 12 device. All dat
 
 After unlocking the disabled iPhone, when you set it up again, if you previously had iCloud Backup enabled, you will get the option to restore data from the latest backup.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Prevent iPhone From Getting Disabled In Future
 
@@ -541,7 +551,6 @@ It has been nearly a decade since iPhones came with biometric authentication and
 
 But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 gets disabled. How to unlock disabled iPhone? The ways outlined in this guide will help you unlock your disabled iPhone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -554,9 +563,24 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 get
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-best-practices-in-extracting-youtube-media-for-2024/"><u>[New] Best Practices in Extracting YouTube Media for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summers-best-10-nostalgic-films-for-the-whole-family/"><u>[New] Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[Updated] In 2024, Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieving-email-clarity-how-to-utilize-labels-for-messaging-order-in-gmail/"><u>Achieving Email Clarity: How to Utilize Labels for Messaging Order in Gmail</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/excellence-in-offline-speech-recognition-software-for-2024/"><u>Excellence in Offline Speech Recognition Software for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-14-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 14?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 15 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-mini-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 mini Passcode without a Computer</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-sony-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Sony</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-uninstallreinstall-issues-with-win11s-clipchamp/"><u>Tackle Uninstall/Reinstall Issues with Win11's ClipChamp</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-a58-4g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo A58 4G Phone Hassle-Free</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2213955-9780008138103-the-rabbit-in-2016-your-chinese-horoscope/"><u>The Rabbit in 2016: Your Chinese Horoscope | Free Book</u></a></li>
+</ul></div>
 

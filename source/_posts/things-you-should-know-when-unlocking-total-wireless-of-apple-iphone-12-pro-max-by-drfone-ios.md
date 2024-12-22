@@ -1,7 +1,7 @@
 ---
 title: Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 Pro Max
-date: 2024-12-13T16:21:00.635Z
-updated: 2024-12-20T16:02:59.685Z
+date: 2024-12-20T22:25:45.895Z
+updated: 2024-12-22T02:11:01.722Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,10 +22,6 @@ In this article, we go through the essence of **unlocking a Total Wireless phone
 
 ![unlock your total wireless phone](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Defining The Total Wireless Phone Terminology
 
 A [Total Wireless](https://www.totalbyverizon.com/) phone refers to a mobile device that operates on the Total Wireless network. It is a prepaid mobile virtual network operator (MVNO) that uses Verizon's network infrastructure. These phones are often sold with Total Wireless plans. Moreover, they are optimized to function within its network coverage area. Unlocking a Total Wireless phone can pose challenges due to the Apple iPhone 12 Pro Max device's association with a specific carrier.
@@ -33,6 +29,10 @@ A [Total Wireless](https://www.totalbyverizon.com/) phone refers to a mobile dev
 The difficulty level largely depends on factors such as the phone model, contract status, and carrier policies. **Unlock Total Wireless iPhone** is indeed feasible under specific conditions. Even so, the procedure might not follow a direct path and is subject to variation on various factors. Like its counterparts, Total Wireless presents distinct guidelines and eligibility criteria for phone unlocking.
 
 ![total wireless phone service](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Looking out the Reasons for Unlocking a Total Wireless Phone
 
@@ -53,7 +53,7 @@ Unlocking a Total Wireless phone opens up a lot of advantages. Here are a few of
 ![looking into unlocking total wireless](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. How To Check if Your Apple iPhone 12 Pro Max Is Already Unlocked?
@@ -80,6 +80,10 @@ Prior to **Total Wireless unlock**, it's essential to verify that it meets the s
 ## Part 5. How To Unlock Total Wireless Phone: The Best Methods
 
 You are now armed with an inherent understanding of Total Wireless phones. We discussed the reasons for **unlocking a Total Wireless phone free** and its prerequisites. Below, the most common methods to unlock a Total Wireless phone are summarized. These will equip you completely to explore the most effective ways to unlock your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 1. Accessing All Important Carriers
 
@@ -112,10 +116,6 @@ As explained before, Total Wireless requires you to use your device for at least
 
 ![contacting total wireless support](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 3. Make the Urgency Fee Payment
 
 While the official Total Wireless device unlocking policy requires you to use the Apple iPhone 12 Pro Max device for at least a year, there are times when it might not be feasible. In such scenarios, you can pay an urgent fee to unlock the Apple iPhone 12 Pro Max device. Remember that even when paying an urgency fee, you need to have used the Apple iPhone 12 Pro Max device for at least 60 days.
@@ -143,6 +143,10 @@ Dr.Fone effectively unlocks your iOS devices across various iOS versions, from i
 1. This tool can effortlessly bypass the iCloud activation lock without needing the Apple ID.
 2. You can find a dedicated option for Data Recovery in Dr.Fone's service, allowing you to easily recover all types of lost data.
 3. It can remove encryption locks from iTunes backups without causing any data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock Your Locked iPhone Using Wondershare Dr.Fone
 
@@ -173,13 +177,13 @@ Ensure that the downloaded iOS firmware is validated before proceeding. To start
 In this comprehensive guide, we navigated through **how to unlock Total Wireless phone**. It covered its definition, reasons for unlocking, and a checklist before initiating the process. We explored multiple unlocking methods, including carrier-specific policies and third-party services. Additionally, we discussed Wondershare Dr.Fone as the ultimate choice when users encounter device unlocking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPhone 12 Pro Max Backup Password Never Set But Still Asking? Here's the Fix
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
@@ -189,6 +193,10 @@ When you use iTunes to create a backup, the backup will probably have a password
 In most cases, this occurs when the Encrypt Backup option is activated. As an official iOS feature, its purpose is to provide iOS users with the iTunes backup encryption for further security.
 
 ![encrypt local backup](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone 12 Pro Max backup unlocking never set by you.
 
@@ -268,10 +276,6 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** When brought to this screen, please use a USB cord to connect your iOS device to your personal computer. If Dr.Fone can identify this relationship, the following picture will appear for you to see.
 
 Please read the following three notes carefully before clicking the **"Remove Now"** button:
@@ -282,13 +286,13 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone 12 Pro Max backup never set in the first place!
 
@@ -300,6 +304,10 @@ There are four ways to fix the problem if iTunes keeps asking for your Apple iPh
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro Max
 
 Auto-lock on iOS devices serves multiple purposes - it conserves battery life, secures your data, and more. But have you encountered the **Auto-Lock greyed-out** dilemma, fixed at 30 seconds? When this setting becomes inaccessible, it limits your control over screen timeout.
@@ -307,10 +315,6 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -358,10 +362,6 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Fix No.3: Remove MDM Configuration Profile
 
 A configuration profile is a file that contains settings and restrictions that can be applied to an iOS device. Organizations, schools, or IT administrators often use it to manage devices remotely and enforce specific configurations. Once installed, the settings within a profile override the Apple iPhone 12 Pro Max device's default settings. It can include restrictions related to security, network access, app usage, and more.
@@ -393,7 +393,7 @@ If your IT team gives the green light, you might also be able to remove the netw
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -492,20 +492,19 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-game-on-securing-your-playthroughs-in-win10/"><u>[Updated] Game On Securing Your Playthroughs in Win10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-obs-configuration-for-budget-pcs-for-2024/"><u>[Updated] Optimal OBS Configuration for Budget PCs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-smartphone-editors-elevating-your-gopro-shots/"><u>2024 Approved Superior Smartphone Editors Elevating Your GoPro Shots</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Plus Without iTunes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvddvd-styler-making-perfect-dvds-with-ease-using-dvd-stylers-finalize-feature/"><u>DVD生成における最終処理DVD Stylerで完璧な作品を手軽に作れます - Making Perfect DVDs with Ease Using DVD Styler's Finalize Feature</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-8-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 8 Plus In Different Conditionsin</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Plus Without a Passcode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Pro Max Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-12-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 mini Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 13</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lens-and-light-the-best-of-cinematographic-insights-24-edition/"><u>In 2024, Lens & Light The Best of Cinematographic Insights - '24 Edition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-imovie-free-alternatives-top-5-online-video-editors/"><u>New 2024 Approved IMovie Free Alternatives Top 5 Online Video Editors</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-downloading-the-newest-drivers-for-your-canon-mp56e/"><u>Quick Guide: Downloading the Newest Drivers for Your Canon Mp56e</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-11-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 11 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-introduction-to-color-grading-with-luts/"><u>2024 Approved A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insider-tips-skyrocketing-your-canva-experience/"><u>2024 Approved Insider Tips Skyrocketing Your Canva Experience</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-pop-7-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pop 7 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-the-refreshed-features-of-karaoki-version-085872-and-beyond-updates-unveiled/"><u>Discover the Refreshed Features of Karaoki Version 0.8.5872 and Beyond – Updates Unveiled</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-13-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 13 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-se-2020ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone SE (2020)/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 8 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone XS Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 with a Broken Screen?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-6s-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 6s Lock Screen with Notifications?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-transformative-travel-companion-patekfly-tripod-12/"><u>The Transformative Travel Companion: Patekfly Tripod 12</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-airpod-wont-charge-or-work/"><u>What To Do When Only One AirPod Won’t Charge or Work?</u></a></li>
 </ul></div>
 

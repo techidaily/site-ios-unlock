@@ -1,7 +1,7 @@
 ---
 title: Resolving Persona 4 Golden's Stability Problems
-date: 2024-12-13T16:02:48.317Z
-updated: 2024-12-20T16:06:20.929Z
+date: 2024-12-20T18:18:45.522Z
+updated: 2024-12-21T23:03:56.310Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 
  There’s one tip before you try the fixes:**keep P5S on Window mode.** This is required, the game won’t run in full screen for some reason.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,7 +29,7 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 4. [Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Change game properties
@@ -48,7 +44,7 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your driver
@@ -70,15 +66,19 @@ There are two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Edit P5S file
 
@@ -91,7 +91,7 @@ There are two ways you can update your graphics drivers:
 5. Save the change.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Change NVIDIA settings
@@ -124,20 +124,22 @@ There are two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-markets-best-gpus-for-uhd-video-processing-for-2024/"><u>[New] Market's Best GPUs for UHD Video Processing for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-screen-snapping-tips-to-enhance-your-gaming-experience/"><u>[Updated] 2024 Approved Essential Screen-Snapping Tips to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>2024 Approved Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-6s-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 6s Plus in Lost Mode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-quickest-way-to-track-opened-emails-in-gmail/"><u>Discover the Quickest Way to Track Opened Emails in Gmail</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-14-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 14 Pro Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fashion-finds-filled-with-fun-editing-for-hauls/"><u>In 2024, Fashion Finds Filled with Fun Editing for Hauls</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-7-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 7 In Different Conditionsin</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 5GFRP Lock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-max-5-ways-to-get-into-a-locked-iphone-xs-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS Max? 5 Ways to get into a Locked iPhone XS Max</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-srt-conversion-masterclass-direct-route-to-sub/"><u>In 2024, SRT Conversion Masterclass Direct Route to SUB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/razer-mamba-drivers-download-swift-easy-steps-for-ultimate-gaming-performance/"><u>Razer Mamba Drivers Download: Swift, Easy Steps For Ultimate Gaming Performance!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964490584-stream-or-game-like-a-pro-score-an-unbelievable-audio-package-including-the-rodecaster-duo-and-free-rode-nth-100m-headset-at-a-steal-for-only-374/"><u>Stream or Game Like a Pro! Score an Unbelievable Audio Package, Including the Rodecaster Duo and Free Rode NTH-100M Headset, at a Steal for Only $374.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-echo-reapers-in-colleges/"><u>[New] Ideal Echo Reapers in Colleges</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-prosperous-gaming-vids-through-smart-hash-implementation/"><u>[New] Prosperous Gaming Vids Through Smart Hash Implementation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-understanding-group-dynamics-in-zoom-sessions/"><u>[Updated] 2024 Approved Understanding Group Dynamics in Zoom Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gastronomy-goals-attractive-food-network-branding-ideas/"><u>[Updated] Gastronomy Goals Attractive Food Network Branding Ideas</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-13-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 13 in Lost Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-the-uninitialized-drive-message-on-pc/"><u>Dealing with the 'Uninitialized Drive' Message on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvdbd-imgburn/"><u>DVD・BDへの書き込み方 - ImgBurnで初心者が使う基本操作</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancers-opt-between-bing-chat-and-chatgptkey-decisions/"><u>Freelancers: Opt Between Bing Chat & ChatGPT—Key Decisions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-6-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 6 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-6-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 6 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/imageinstinct-a-compreehensive-guide-for-instagram-size-control/"><u>ImageInstinct A Compreehensive Guide for Instagram Size Control</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-6s-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Without Passcode?</u></a></li>
+<li><a href="https://facebook.techidaily.com/internet-outlawed-3-countries-excluded-from-facebook/"><u>Internet Outlawed: 3 Countries Excluded From Facebook</u></a></li>
 </ul></div>
 

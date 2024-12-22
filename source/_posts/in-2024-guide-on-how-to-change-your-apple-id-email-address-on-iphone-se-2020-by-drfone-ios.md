@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide on How To Change Your Apple ID Email Address On iPhone SE (2020)
-date: 2024-07-15T01:22:40.452Z
-updated: 2024-07-16T01:22:40.452Z
+date: 2024-12-16T02:08:59.187Z
+updated: 2024-12-21T21:57:43.247Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,14 +51,15 @@ If you're a Mac enthusiast, changing your Apple ID email is straightforward:
 
 - **Step 1:** Click the Apple logo at the top left corner of your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![change apple id on mac 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-03.jpg)
 
 - **Step 2:** Click **System Preferences**, and then select **Apple ID**.
 
 ![change apple id on mac 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Navigate to the **Name, Phone, Email** section, then click **Edit** next to your email address.
 
@@ -74,6 +75,10 @@ For those who prefer the convenience of mobile devices:
 - **Step 1:** Open the **Settings** app on your Apple iPhone SE (2020) or iPad, then tap your **Apple ID** at the top of the screen.
 
 ![change apple id on iphone 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Tap **Name, Phone Numbers, Email**.
 
@@ -101,6 +106,10 @@ If you prefer the simplicity of a web browser:
 - **Step 4:** Input your new email address and click **Continue**.
 - **Step 5:** A verification code will be sent to your new email. Enter it to confirm your email change.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### B. Updating Your Apple ID
 
 Now that you've successfully changed your Apple ID email, it's crucial to ensure that all your Apple devices are on the same page:
@@ -109,6 +118,10 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 - **Step 2:** Go to **Update Apple ID Settings** below your Apple ID settings.
 
 ![update apple id settings](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Tap **Continue,** then wait for a few moments. Your Apple ID will then get updated.
 
@@ -120,6 +133,9 @@ What if you find yourself in a situation where you want to change your Apple ID 
 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
@@ -151,6 +167,10 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 ![drfone unlock ios screen device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** The next screen shows the progress of your [<u>iOS firmware download</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). If at any point you decide you'd rather call it quits, hit the **Stop** button. If the iOS firmware takes a long time to download on your platform, you can copy the download link by clicking the **Copy** option.
 
 ![drfone unlock screen ios firmware download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
@@ -174,14 +194,11 @@ By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device
 
 [<u>How to Fix Email Disappeared from iPhone?</u>](https://drfone.wondershare.com/iphone-problems/email-disappeared-from-iphone.html)
 
-
 ## Conclusion
 
 This guide easily explored the process of **changing your Apple ID email address**. It started by understanding why this change might be necessary and provided straightforward methods for Mac, mobile, and browser users to accomplish it seamlessly.
 
 But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen Unlock (iOS) is a user-friendly tool that can help you regain access to your device. It ensures a smooth transition to your new email. Unlock new possibilities with Dr.Fone, a reliable companion in managing your iOS device. Explore its features and simplify your Apple journey today!
-
-
 
 ## Apple iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do?
 
@@ -197,13 +214,14 @@ The more times you get your code wrong, the longer you’ll be locked out, so av
 
 ## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 Try a default passcode in your family
 
 While we said, you shouldn’t type in random numbers to try and guess the password, of course, if you have a standard family passcode that you use across all iOS devices, perhaps an admin password or just something you use for everything, it can be well worth a try.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone random passcodes](https://images.wondershare.com/drfone/iphone-random-passcodes-.jpg)
 
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
@@ -264,6 +282,10 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Now connect your Apple iPhone SE (2020) to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
 
 **Step 3.** iTunes should automatically detect that your device is in Recovery Mode and automatically restore your device to a default state without a lock screen. Wait until this process is completed before disconnecting your device and using it as normal.
@@ -304,7 +326,6 @@ Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone
 
 Now, you cannot just **unlock any Apple iPhone SE (2020) with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
 
-
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone SE (2020)?
 
 ![phone, earphones, and apple watch on a table](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-2.jpg)
@@ -321,9 +342,6 @@ Depending on the Apple Watch version you own and your Apple iPhone SE (2020) mod
 
 ## Part 2. Requirements for Unlocking Apple iPhone SE (2020) With Apple Watch
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
 
 Unfortunately, not every Apple iPhone SE (2020) can be unlocked with your Apple Watch, and not every Apple Watch can unlock your Apple iPhone SE (2020). Both devices must meet some requirements before you can adjust your settings to enable this option.
@@ -353,18 +371,6 @@ If you meet all the aforementioned criteria, setting up the feature to unlock yo
 
 - **Step 1:** Go to **Settings > Face ID & Passcode**on your Apple iPhone SE (2020);
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
 
 - **Step 2:** Type in your passcode;
@@ -394,6 +400,10 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone SE (2020) With a Watch
 
 ![person wearing face mask unlocking their Apple iPhone SE (2020)](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Generally speaking, unlocking your Apple iPhone SE (2020) with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
@@ -471,8 +481,9 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6. Reset Your Watch and Pair It Again
 
 Finally, if you’re still experiencing issues, you might need to reset your Apple Watch and pair it with your Apple iPhone SE (2020) again.
@@ -491,7 +502,6 @@ Using your Apple Watch to unlock your Apple iPhone SE (2020) is convenient when 
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -504,9 +514,20 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-tracing-treasure-trails-fast-friending-fundamentals/"><u>[Updated] In 2024, Tracing Treasure Trails Fast Friending Fundamentals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastery-over-moments-jake-pauls-youtube-saga/"><u>[Updated] Mastery Over Moments Jake Paul's YouTube Saga</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y36-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y36 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/work-developing-transformative-lifestyle-broadcasts/"><u>Framework Developing Transformative Lifestyle Broadcasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-12-mini-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 12 mini with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-x-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone X Without a Home Button</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-11-proplus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 11 Pro+</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 15 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xs-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XS Without Passcode Now</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>In 2024, Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-insiders-guide-to-evening-photo-taking-for-2024/"><u>The Insider’s Guide to Evening Photo-Taking for 2024</u></a></li>
+</ul></div>
 

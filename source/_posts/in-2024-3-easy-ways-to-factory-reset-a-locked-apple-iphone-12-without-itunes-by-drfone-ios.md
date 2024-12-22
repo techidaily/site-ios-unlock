@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes
-date: 2024-07-15T01:26:44.345Z
-updated: 2024-07-16T01:26:44.345Z
+date: 2024-12-15T16:25:24.413Z
+updated: 2024-12-21T23:48:15.018Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,7 +27,6 @@ Let's get started.
 ## Easy App to Factory Reset Locked iPhone
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone 12 and help you unlock your device within a few minutes.
-
 
 For this, you will need to follow the steps given below.
 
@@ -55,6 +54,10 @@ After your Apple iPhone 12 is in recovery mode, you need to select the appropria
 
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #5: Reset your Apple iPhone 12:**
 
 Once the firmware is downloaded, you can click on the "Unlock Now" button to begin resetting your device.
@@ -64,6 +67,10 @@ Your locked iPhone has now been successfully unlocked without iTunes after the r
 The process will take a few minutes if you have a strong internet connection because the Firmware may take some time to download. So be patient and wait for the process to be completed.
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
@@ -89,11 +96,19 @@ To do this, you need to follow these steps:
 
 Now that your device has been erased, you can reset it as a new one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
 This is another method you can use if you have the " Find My iPhone " feature on your device. You can use this method to remotely factory reset your locked iPhone without iTunes by using another iOS device.
 
 ![the find my iphone on another device](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To do this, you need to follow these steps:
 
@@ -135,6 +150,10 @@ No. If you want a factory reset, all your data will be erased, so make a backup 
 
 But if you want your Apple iPhone 12 set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
@@ -166,6 +185,10 @@ These are some of the most effective methods that can help you factory reset you
 However, if you want to factory reset your Apple iPhone 12 because you have forgotten your passcode, we recommend using Dr.Fone-Screen Unlock app because it is the most effective and safe method.
 
 This app can help you factory reset your locked iPhone without iTunes in just a few minutes, and it is very easy to use. So, if you want to reset your device without any data loss, we recommend using this app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Your Apple iPhone 12 in Security Lockout? Proper Ways To Unlock
 
@@ -204,9 +227,6 @@ You can find the latest support of iDevice and iOS versions across the tool, whi
 2. When unlocking your iDevice's lock screen, it is unnecessary to deactivate Find My services to make Wondershare Dr.Fone operate.
 3. It also helps to remove MDM profiles and [bypass MDM lock](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/) without data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps To Unlock iPhone Screen Using Wondershare Dr.Fone
 
 Do you have a query about **how to get out of security lockout on your Apple iPhone 12** with no effort? Wondershare Dr.Fone offers a legitimate and easy method to unlock your Apple iPhone 12 screen within no time:
@@ -216,7 +236,6 @@ Do you have a query about **how to get out of security lockout on your Apple iPh
 First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone 12 via cable. Open the "Toolbox" and select the “Screen Unlock” option.
 
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2. Advance to Unlocking iOS Screen**
 
@@ -249,9 +268,6 @@ Getting your Apple iPhone 12 out of Security Lockout from the Apple iPhone 12 di
 
 If you have recently changed the iDevice password, you can use your old passcode within 72 hours to sign in temporarily. After getting into your Apple iPhone 12, set a new passcode immediately to complete the “Passcode Reset” process.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Part 4: How To Get iPhone out of Security Lockout Using iTunes?
 
 [iTunes](https://www.apple.com/itunes/) can reset your Apple iPhone 12 to its factory settings, allowing you to bypass the screen lock. While you know this platform for music management, it has brought about many features. The following guide presents instructions about **how to unlock iPhone security lockout** using iTunes:
@@ -263,6 +279,10 @@ If you have recently changed the iDevice password, you can use your old passcode
 - **iPhone 8 and Later Models:** Start by pressing the “Volume Up” button, release it, and continue to press the “Volume Down” button. After releasing it, continue by holding the “Side” button until the Recovery Mode screen displays.
 
 ![put iphone in recovery mode](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Subsequently, iTunes will detect your Apple iPhone 12 in Recovery Mode. A prompt will appear stating that you want to “Update” or “Restore” your Apple iPhone 12. From there, choose “Restore” and hit the “OK” button to restore your Apple iPhone 12.
 
@@ -286,9 +306,6 @@ Security Lockout or “iPhone Unavailable” is a common issue that appears when
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Ways to Unlock Apple iPhone 12 to Use USB Accessories Without Passcode
 
 _How do I unlock my Apple iPhone 12? I know you're supposed to connect it to the computer and put it in recovery mode but when I do, it says “unlock Apple iPhone 12 to use accessories.”_
@@ -297,27 +314,12 @@ _How do I unlock my Apple iPhone 12? I know you're supposed to connect it to the
 
 You may have had the experience of connecting your Apple iPhone 12 to a computer with USB accessories. Usually, "**Unlock Apple iPhone 12 to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why You Need to "Unlock Apple iPhone 12 to Use Accessories"?
 
 The command comes from Apple’s significant privacy safeguard **“USB Restricted Mode”**. It means after an hour of your iOS device is unlocked, the system cuts off the lightning port and limits it to charging only. Simply put, when your Apple iPhone 12 is locked for more than an hour, it needs to be unlocked to allow the connection of USB accessories. Sometimes, when you unlock your Apple iPhone 12 screen to use USB accessories, it can’t charge anymore.
 
 In 2017, a password cracking tool called GrayKey was launched, which can bypass any iPhone screen lock passcode. The FBI, the police, and some government agencies have all become GrayKey customers. To combat hackers including GrayKey and protect iOS users' data security, the USB Restricted Mode feature arrived with iOS 11.4.1 in July 2018 and be improved in iOS12.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Disable USB Restricted Mode?
 
 If you find this warning annoying or your Apple iPhone 12 not charging when using USB accessories, disabling USB Restricted Mode is an optional solution. However, you have to remember the unlock passcode. All the steps will be presented to you next.
@@ -345,6 +347,10 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step 2:** Connect your Apple iPhone 12 to the computer with a lightning cable, and choose “Unlock iOS Screen".
@@ -369,6 +375,9 @@ There is no doubt that you may worry about losing all your data while bypassing 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Unlock Apple iPhone 12 to Use USB Accessories without Passcode via iCloud?
 
@@ -425,6 +434,10 @@ Now, you'll get an iPhone which is like being factory reset. And you could unloc
 
 From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q2: Why does My iPhone Think My Charger is a USB Accessory?
 
 It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
@@ -443,9 +456,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -458,9 +468,24 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-journey-from-ad-revenue-to-bank-account-balance/"><u>[New] In 2024, The Journey From Ad Revenue to Bank Account Balance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-mini-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 mini and iPad Securely</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/advanced-shade-realist-app-for-2024/"><u>Advanced Shade Realist App for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-phantom-v-flip-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Phantom V Flip in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevate-your-edge-experience-with-pip-for-2024/"><u>Elevate Your Edge Experience with PIP for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-macbook-pro-installing-an-ssd/"><u>Elevate Your MacBook Pro: Installing an SSD</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-se-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone SE Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-se-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone SE Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-15-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 15 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 8 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-poco-m6-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Poco M6 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965580565-latest-konica-minolta-driver-downloads-compatible-with-windows-11-10-8-and-7-get-started-now/"><u>Latest Konica Minolta Driver Downloads Compatible with Windows 11, 10, 8, and 7 – Get Started Now!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/refining-your-online-visual-experience-with-zooms-for-2024/"><u>Refining Your Online Visual Experience with Zooms for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/securing-a-spot-in-the-preferred-vendor-lineup-mastering-pcdj/"><u>Securing a Spot in the Preferred Vendor Lineup: Mastering PCDJ</u></a></li>
+</ul></div>
 

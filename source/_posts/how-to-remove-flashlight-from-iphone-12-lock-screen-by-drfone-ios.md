@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From iPhone 12 Lock Screen
-date: 2024-07-15T01:26:08.680Z
-updated: 2024-07-16T01:26:08.680Z
+date: 2024-12-20T21:12:42.644Z
+updated: 2024-12-21T16:17:11.335Z
 tags: 
   - unlock
   - remove screen lock
@@ -86,9 +86,6 @@ You can't remove the flashlight icon from the lock screen, but you can still tur
 - **Step 1:** Find the flashlight icon in the **Control Center**. It's usually located in the bottom left corner.
 - **Step 2:** Tap on the flashlight icon once to turn it off. The icon will turn gray, indicating the flashlight is deactivated.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off flashlight from control center](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-06.jpg)
 
 This method is fast and convenient, especially if you've kept the flashlight icon in the Control Center. Plus, it works regardless of how the flashlight was activated, even if it was an accidental tap on the lock screen.
@@ -102,6 +99,10 @@ To go hands-free and avoid accidental taps, you can use Siri to turn off the fla
 - **Step 3:** Siri will confirm your request and turn off the flashlight. You'll hear a voice cue and see the flashlight icon on your screen dim.
 
 ![use siri to turn off flashlight](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Remember, even with Siri, ensure your Apple iPhone 12's microphone isn't covered or blocked for successful voice recognition.
 
@@ -124,10 +125,13 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** Select **iOS** as the Apple iPhone 12 device type. Then, within the **Screen Unlock** window, select **Unlock iOS Screen** to begin the process.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Start** to remove the iOS screen lock.
 
@@ -137,9 +141,17 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![on screen instructions for recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Check your **Device Model**, select the **System Version** you need from the dropdown list, then click **Start**.
 
 ![dr.fone select system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Dr.Fone will download and install the latest iOS firmware on your device. Then, click **Unlock Now** once the firmware is ready. Follow the on-screen instructions to continue unlocking your device.
 
@@ -187,8 +199,6 @@ Here are 5 alternative ways that will guide **how to unlock disabled iPhone with
 If you don’t want to cause any damage to your iOS firmware while resolving the Apple iPhone 12 disabling issue, the tool [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is what you need. It is a part of the Dr.Fone toolkit and provides an extremely secure and fast solution to unlock a disabled iPhone. Among the industry, it is always the first to support the latest iOS versions.
 
 Not just to get the Apple iPhone 12 disabled unlock without iTunes, it can also be used to resolve plenty of other issues like malware attacks, [iPhone stuck in the recovery loop](https://drfone.wondershare.com/recovery-mode/exit-iphone-recovery-mode-loop.html), the [blue screen of death](https://drfone.wondershare.com/iphone-problems/ways-to-fix-iphone-blue-screen-of-death.html), and more. Furthermore, it has an easy-to-use interface and yields reliable results, making it an essential iOS tool.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -244,6 +254,10 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 
 - The program needs a subscription to unlock full functions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Unlock the Disabled iPhone Via Find My iCloud?
 
 Most people believe that they can resolve the Apple iPhone 12 disabled issue only by taking the assistance of iTunes. While you can always [restore your Apple iPhone 12 with iTunes](https://drfone.wondershare.com/restore-iphone/solutions-to-iphone-wont-restore.html), it is not the only available solution.
@@ -254,9 +268,6 @@ You can learn **how to unlock a disabled iPhone without iTunes** by implementing
 
 - **Step 1.** Firstly, visit ["**Find My iPhone**"](https://www.icloud.com/find) from a web browser and log in to your iCloud account by providing your Apple ID and password. Tap on the “Devices” option. It will display a list of all the Apple iPhone 12 devices that are linked to your Apple ID. Select the iOS device that has been disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone disabled fix without itunes](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-2.jpg "all devices")
 
 - **Step 2.** From here, you can locate the Apple iPhone 12 device, play a sound on it, lock it, or erase it. To fix a disabled iPhone or iPad without iTunes, you have to erase your device. Click on the "Erase iPhone" option and confirm your selection.
@@ -280,9 +291,6 @@ Find My App comes pre-installed on all iPhones running iOS 13 or later. This fea
 
 Here's how to unlock your Apple iPhone 12 using Find My App:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my app](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-5.jpg)
 
 - **Step 1.** Open the Find My App on your Apple iPhone 12.
@@ -338,6 +346,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14993656826965.jpg "hey siri")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**. Visit the World Clock interface and choose to add another clock.
 
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14993657066591.jpg "world clock")
@@ -360,9 +372,6 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 **Step 7**. This will highlight the provided text in green color. Select it and tap on the plus icon.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![highlight text](https://images.wondershare.com/drfone/article/2017/07/14993657891892.jpg "highlight text")
 
 **Step 8**. It will open a new window. From here, tap on the “**Create New Contact**” button.
@@ -393,6 +402,10 @@ _**Tips:** Since it is considered a loophole in iOS, it is not an efficient way 
 - Requires an active internet connection, and the Apple iPhone 12 device must be plugged into a power source.
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to Avoid a Disabled iPhone?
 
@@ -440,6 +453,10 @@ Here's a breakdown of the reasons why you should **create a new Apple ID for you
 
 ![create a free apple id account](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### B. Scenarios Where a New ID Is Needed
 
 Below are the common scenarios where a new Apple ID might be needed:
@@ -452,13 +469,14 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID** isn't just about getting a new email; it's about tailoring your Apple experience to your needs, whether for personalization, privacy, or organization. Now that you know why it's essential, let's explore how to create it in the next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Step-by-Step Guide: How To Create a New Apple ID Account
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -530,6 +548,9 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -567,9 +588,6 @@ This guide has simplified the process of **creating a new Apple ID**, ensuring y
 
 Should you encounter any challenges while managing your Apple ID, such as removing a previous one, consider Dr.Fone - iOS Screen Unlock tool. This user-friendly resource stands ready to assist, ensuring a seamless and secure Apple experience. Explore the possibilities and make the most of your Apple adventure!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -582,9 +600,18 @@ Should you encounter any challenges while managing your Apple ID, such as removi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-freeing-up-youtube-footage-borderless-exploration/"><u>[New] Freeing Up YouTube Footage Borderless Exploration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-improving-visual-storytelling-with-secondary-shoots/"><u>2024 Approved Improving Visual Storytelling with Secondary Shoots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-smart-strategies-for-securely-saving-movie-moments-across-gadgets/"><u>2024 Approved Smart Strategies for Securely Saving Movie Moments Across Gadgets</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/effortlessly-duplicate-your-files-a-step-by-step-guide-to-setting-up-dropbox-folders-across-windows-pcs/"><u>Effortlessly Duplicate Your Files: A Step-by-Step Guide to Setting Up Dropbox Folders Across Windows PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-hiring-game-with-the-best-vids-in-town/"><u>In 2024, Elevate Your Hiring Game with the Best Vids in Town</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-razer-blade-pro-17-the-epitome-of-portability-and-strength/"><u>In-Depth Analysis of the Razer Blade Pro 17: The Epitome of Portability and Strength</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-6s-5-ways-to-get-into-a-locked-apple-iphone-6s-by-drfone-ios/"><u>Locked Out of Apple iPhone 6s? 5 Ways to get into a Locked Apple iPhone 6s</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-effective-ways-to-fix-your-fortnite-loading-woes/"><u>Quick & Effective Ways to Fix Your Fortnite Loading Woes</u></a></li>
+</ul></div>
 

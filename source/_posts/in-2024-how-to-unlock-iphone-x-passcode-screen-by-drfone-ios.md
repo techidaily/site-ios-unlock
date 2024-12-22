@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone X Passcode Screen?
-date: 2024-12-15T16:24:28.826Z
-updated: 2024-12-20T16:12:03.417Z
+date: 2024-12-16T17:15:57.097Z
+updated: 2024-12-22T01:31:17.044Z
 tags: 
   - unlock
   - remove screen lock
@@ -38,7 +38,7 @@ Unlock iPhone Passcode Screen.
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Bypass iPhone Lock Screen
@@ -86,10 +86,6 @@ There are different ways to activate the Recovery mode based on your Apple iPhon
 - Suppose you own an iPhone 6S or earlier, an iPad, or iPod Touch. Press and hold the Home button and the Side buttons. Until the Recovery Mode enables, you need to hold these buttons off.
 
 ![activate iphone recovery mode](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Restoring Process**
 
@@ -169,10 +165,6 @@ If you do not have any potential source for unlocking your Apple iPhone X, you c
 
 ![select the typed text](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You will find the option of the “Share” button soon. A pop-up opens after tapping on the button, which shows different options that can be accessed. Click on “Messages” to move to the next screen.
 
 **Step 4:** Fill out the “To” box with some characters and click on “Return” on your keyboard. You need to press the Home button or swipe up according to your Apple iPhone X model. The home page of your Apple iPhone X will be accessed successfully.
@@ -188,6 +180,10 @@ If you do not have any potential source for unlocking your Apple iPhone X, you c
 
 - If you have a version of iOS except **3.2 and 10.3.3**, you cannot use this method.
 - This method is not applicable if Siri is not activated across your Apple iPhone X.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about iPhone Screen Lock
 
@@ -210,10 +206,6 @@ No, Apple cannot reset the forgotten iPhone passcode. However, they will help yo
 ## Conclusion
 
 Human beings are clumsy, and they often forget passcodes to their devices. However, there is no need to panic as technology has progressed enough to offer loopholes in the situations. The article presented multiple methods to bypass iPhone passcode and steer clear of this mess. Some frequently asked questions were also answered regarding the Apple iPhone X screen lock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Change Your Apple ID on Apple iPhone X With or Without Password
 
@@ -243,7 +235,15 @@ Moving abroad? Your Apple ID may need an update to match your new location. It e
 
 ![apple id account information](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Changing your Apple ID can be smart, ensuring your digital life stays up-to-date, secure, and tailored to your needs. It's not complicated, and it's all about making your Apple experience better suited to you. So, go ahead and learn **how to change your Apple ID on your iPad** in the following sections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Change Apple ID on iPad Without Losing Data?
 
@@ -273,10 +273,6 @@ If you are worried about losing data such as purchases and contacts, don't worry
 
 ![enter a new apple id interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Select **Change Apple ID** to proceed.
 - **Step 5:** Check your email to get a verification code sent by Apple to ensure that only you can change it to a third-party email address. Enter the code to complete the update.
 
@@ -293,10 +289,6 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 - **Step 3:** Tap **Edit** next to **Email & Phone Numbers**.
 
 ![click edit on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Go to the **Delete** icon next to your mobile number and follow the directions given.
 - **Step 5:** Enter the code sent to the mobile number you added as your new Apple ID to verify it.
@@ -355,7 +347,7 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 ![confirm screen unlock setup](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6:** Enable the Two-Factor Authentication on your iPad so you can unlock your Apple ID. Then, click **Yes** to proceed.
@@ -387,7 +379,7 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 ![unlocking apple id in progress](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 13:** Once finished, click **Done**, then check your iPad. If your Apple ID is not unlocked, you may need to click **Try again** to restart.
@@ -427,6 +419,10 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 _“How to unlock Apple iPhone X passcode without computer? I have been locked out of my iPhone and can’t seem to remember its passcode!”_
 
 Lately, we have got plenty of queries like this from users who have forgotten their iPhone passcode and can’t access it. If you are also going through the same and wish to learn how to bypass iPhone 5 passcode without computer, then you have come to the right place. In this post, we will make you familiar with two different solutions to unlock your Apple iPhone X and that too without using your computer. In this way, you don’t need to use any third-party tool to learn how to unlock iPhone 5 passcode without computer. We have provided a stepwise solution for the same in the coming sections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to unlock Apple iPhone X passcode without computer using iCloud?
 
@@ -469,6 +465,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/SG-KuuduzaY"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to unlock Apple iPhone X passcode without computer using Siri bug?
 
 This might surprise you, but there is a loophole in Siri that can be exploited to unlock the Apple iPhone X device. Even though the solution might not work every time, there is no harm in giving it a try. By following this technique, you would be able to learn how to unlock Apple iPhone X passcode without computer while experiencing no data loss. Essentially, it works for iOS devices running on iOS 8.0 to iOS 10.1. You would be needed to follow these stepwise instructions to learn how to bypass iPhone 5 passcode without computer.
@@ -499,10 +499,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![message the text](https://images.wondershare.com/drfone/article/2017/10/15075516929923.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9\. This will open a new interface from where you can draft a new message. On the “To” field, you can type any text and tap on the return button on your keyboard to continue.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/10/15075517097160.jpg)
@@ -513,9 +509,17 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/10/15075517613601.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 12\. This will launch a new interface to add a contact. You can just tap on the “Add Photo” option.
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/10/15075517781481.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 13\. From the provided options, tap on the “Choose Photo” button to select a photo from the library.
 
@@ -526,10 +530,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 15\. Wait for a few seconds and tap on the Home button one more time. This will lead you to the Home screen of your device.
 
 ![iphone unlocked](https://images.wondershare.com/drfone/article/2017/10/15075518174199.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By following these simple steps, you can learn how to unlock iPhone 5 passcode without computer. The same procedure can also be applied to other versions of iPhone as well to unlock it without any data loss.
 
@@ -549,17 +549,24 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-novice-film-capture-scrutiny-report/"><u>[New] Novice Film Capture Scrutiny Report</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-portable-balancing-system-for-video-capture/"><u>[New] Portable Balancing System for Video Capture</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-avoiding-common-hashtag-faux-pas-on-instagram/"><u>[Updated] In 2024, Avoiding Common Hashtag Faux Pas on Instagram</u></a></li>
-<li><a href="https://win-answers.techidaily.com/demystifying-solutions-for-death-stranding-pc-freezing-dilemmas/"><u>Demystifying Solutions for Death Stranding PC Freezing Dilemmas</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-7-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 7 When You Forget the Passcode?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17e-lock-screen-password-by-drfone-android/"><u>How To Change Vivo S17e Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-obtain-and-install-updated-drivers-for-your-epson-xp-440-printer/"><u>How to Easily Obtain and Install Updated Drivers for Your Epson XP-440 Printer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-14-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 14 Plus iCloud Lock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-7-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 7 Plus Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro with a Mask On</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-mini-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 mini Properly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] In 2024, From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-narrating-numbers-making-millions-from-your-micro-vlogs/"><u>[New] In 2024, Narrating Numbers Making Millions From Your Micro-Vlogs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-optimal-transformation-tool-for-hd-videos/"><u>[New] Optimal Transformation Tool for HD Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-engaging-eyes-most-favored-insta-filters/"><u>[Updated] 2024 Approved Engaging Eyes Most Favored Insta Filters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-filmmakers-companion-quickly-convert-any-avi-file-into-a-trendy-gif-using-filmora-for-2024/"><u>[Updated] Filmmakers' Companion Quickly Convert Any AVI File Into a Trendy GIF Using Filmora for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boost-video-appeal-with-these-20-best-thumbnail-fonts/"><u>[Updated] In 2024, Boost Video Appeal with These 20 Best Thumbnail Fonts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-step-by-step-approach-to-scheduling-in-slack-plus-filmora/"><u>2024 Approved A Step-by-Step Approach to Scheduling in Slack + Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-expert-recommendations-top-5-windows-screen-cutting-apps/"><u>2024 Approved Expert Recommendations Top 5 Windows Screen Cutting Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-6-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 6 Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-14-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 14 Plus Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-7-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-14-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 14 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-poco-f5-pro-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Poco F5 Pro 5G Phone Network-Ready</u></a></li>
+<li><a href="https://fox-within.techidaily.com/metodo-simple-y-paso-a-paso-para-reemplazar-su-unidad-principal-por-ssd-en-windows-novo/"><u>Método Simple Y Paso a Paso Para Reemplazar Su Unidad Principal Por SSD en Windows Novo</u></a></li>
 </ul></div>
 

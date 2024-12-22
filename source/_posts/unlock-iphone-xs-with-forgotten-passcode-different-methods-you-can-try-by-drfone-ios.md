@@ -1,7 +1,7 @@
 ---
 title: Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try
-date: 2024-12-19T16:06:42.332Z
-updated: 2024-12-20T16:10:43.555Z
+date: 2024-12-17T19:40:52.846Z
+updated: 2024-12-21T18:13:57.176Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 Have you forgotten the passcode iPhone 6? We know forgetting your Apple iPhone XS passcode can be a frustrating experience, but luckily it is possible to unlock your device. Using different methods, we will show you how to unlock your Apple iPhone XS 6 with a forgotten passcode.
 
 So let's get started.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top 3 Ways to Unlock iPhone 6 without Forgotten Passcode
 
@@ -42,6 +38,10 @@ Just follow the steps below and get started.
 
 Once your Apple iPhone XS has been erased, it can be set up as a new device and you can choose a new passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Unlock it via Recovery mode with iTunes
 
 You can use Recovery mode to reset your device if you've synced your Apple iPhone XS with iTunes. This method will erase all of the data on your Apple iPhone XS, so confirm you have a backup before proceeding.
@@ -57,7 +57,7 @@ Just go with the steps below.
 iTunes will now begin downloading the software for your device. Once it's finished, you can set up your device as new and choose a new passcode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use Siri
@@ -74,10 +74,6 @@ Just follow the instructions.
 - **Step 4:** Tap on "Clock," and you'll be taken to the Clock app. From here, you can access other apps like Calendar, Reminders, and more.
 
 While this method doesn't give you direct access to the home screen, it does allow you to bypass the lock screen and access some of your device's features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Easy Tool to Unlock iPhone 6 without Passcode
 
@@ -114,7 +110,7 @@ Unlock iPhone Without Passcode
 ![complete firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You need to wait as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your Apple iPhone XS. Once the process is completed, your Apple iPhone XS will be unlocked, and you can choose a new passcode.
@@ -161,10 +157,6 @@ As we mentioned before, there is no way to reset your device without losing your
 
 You can unlock your Apple iPhone XS 6 without a passcode by following the steps mentioned in this article. However, this will erase all your data, so ensure you have a backup before proceeding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. I tried unlocking my iPhone using iTunes, but it's not working. What should I do?
 
 If you cannot unlock your Apple iPhone XS using iTunes, you can try Dr.Fone-Screen Unlock. This software is extremely easy to use and supports all iOS devices. Plus, it won't erase your data if you have a backup.
@@ -183,10 +175,6 @@ But fear not, for there are ways to **unlock an iPhone without a Home button**. 
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
 
 If your Apple iPhone XS's Home button is out of commission, don't worry. There are several ways to regain access to your device. Let's explore seven methods on **how to unlock an iPhone without a Home button.**
@@ -199,10 +187,6 @@ If your device supports Touch ID, you can use your fingerprint to unlock it. Fol
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2**: Follow the on-screen instructions to set up Touch ID.
 
 **_**_Note_**__**_:_**_** **Please be aware that this approach is effective only when you can still navigate through your Apple iPhone XS's settings. If that's not the case, proceed to the following method.**
@@ -214,10 +198,6 @@ Building upon the initial method, this resolution is effective only if you have 
 - **Step 1**: Go to **Settings** > **General** > **Accessibility** > **Home Button**.
 
 ![rest finger to open toggle](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Toggle the switch next to **Rest Finger to Open** to enable this feature.
 
@@ -234,10 +214,6 @@ The alternative solution for **how to open an iPhone without the Home button but
 ![assistivetouch menu selections](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-05.jpg)
 
 - **Step 3**: Tap **Customize** **Top Level Menu** under Assistive Touch and choose **Home**. The action will guide you to the Apple iPhone XS passcode screen. From here, you can input your passcode to unlock the Apple iPhone XS without using the Home button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Unlock iPhone Without Home Button via Dedicated Tool
 
@@ -298,6 +274,10 @@ If none of the methods work or Dr.Fone is unavailable to you for some reason, th
 
 ![erase iphone on icloud](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. What To Do if Your Home Button Is Broken
 
 When faced with a broken iPhone Home button, several quick fixes and solutions can sometimes help. Here are some effective measures before considering professional assistance:
@@ -323,6 +303,10 @@ This unconventional method involves using the charging cable to apply gentle pre
 **Visit the Apple Store if Covered by a Warranty**
 
 If your Apple iPhone XS is still under warranty, visiting an Apple Store is advisable. Apple's warranty covers hardware issues, including malfunctioning Home buttons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -352,15 +336,15 @@ The tool provides users with the convenience of checking if their device is blac
 2. doctorSIM can also help you check the [iCloud Activation Lock](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html) Status and MI Account Activation Status.
 3. Along with the old devices, this service is also compatible with the latest models, such as the Apple iPhone XS 15 series,
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros
 
 - There is no need to download and install any software on the Apple iPhone XS device.
 - Jailbreaking the Apple iPhone XS device isn't a requirement.
 - Offers a 30-day money-back guarantee.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Con
 
@@ -390,6 +374,10 @@ The platform operates within the legal frameworks governing IMEI unlocking servi
 
 Customer **doctorSIM reviews** highlight the platform's reliability, effectiveness, and user-friendly interface. It provides clear information about the unlocking process, associated fees, and service terms. Such effective transparency contributes to its credibility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Other Top Alternatives of IMEI Unlocking
 
 It is important to clarify that doctorSIM primarily focuses on IMEI unlocking. This liberates a device from carrier restrictions to enable use with various networks. Amongst all the discussion, it is crucial to differentiate that this service does not offer iCloud Activation Lock removal in any case. Here are some top alternatives specifically that you can consider when using doctorSIM for unlocking purposes:
@@ -418,6 +406,10 @@ This IMEI unlocking service is a comprehensive service renowned for its expansiv
 
 ![iunlockbase imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. What To Do When iCloud Activation Lock Active?
 
 Although IMEI Unlocking turns out to be quite an exceptional service, it generally is not the only thing that becomes a barrier for iPhone users. The iCloud Activation binds an Apple device to a user's Apple ID, making itself a great security measure. It presents a unique circumstance where services such as **doctorSIM legit** are inapplicable. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) specializes in bypassing the iCloud Activation Lock.
@@ -442,6 +434,10 @@ Install and launch the most recent version of Wondershare Dr.Fone onto your comp
 
 ![proceed with icloud activation lock removal](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2. Device Identification and Unlock Initiation**
 
 Now, decide whether your device is GSM or CDMA, as it is an important aspect. Bypassing iCloud Activation Lock on a GSM device won't affect the Apple iPhone XS device. However, running this process on a CDMA device will result in a loss of cellular activities. Click "Unlock Now" to proceed further, and if your device is CDMA type, you'll encounter a series of pointers. Go through them and click "Got It!" after agreeing with all the mentioned points.
@@ -461,6 +457,10 @@ After this, if your iDevice isn't jailbroken, you will be required to jailbreak 
 On accessing the “iCloud Activation Lock Removal” page, a notification will display on the screen, alerting the user about the ongoing process. Carefully review all the information provided and select the "I have read and agree to the agreement" option. Proceed by tapping on the "Got It!" choice.
 
 ![unlock required iphone device](https://images.wondershare.com/drfone/guide/bypass-activation-lock-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. DFU Mode Initiation and Device Unlock**
 
@@ -498,15 +498,21 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>2024 Approved Turbocharge Your YouTube Videos Swift Render & Transfer Strategies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-12-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 12 Pro with iTunes</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-lava-blaze-curve-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Lava Blaze Curve 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 13 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-7-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 7 Without a Home Button</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-remedying-windows-11-package-complications/"><u>Quick Fixes: Remedying Windows 11 Package Complications</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210062867-9781789044256-the-divine-ceo/"><u>The Divine CEO | Free Book</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transforming-movies-into-virtual-reality-realms/"><u>Transforming Movies Into Virtual Reality Realms</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-guide-to-choosing-best-free-srt-translators-online/"><u>[New] The Ultimate Guide to Choosing Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mobile-studio-kits-convenient-for-filmmakers/"><u>[Updated] Mobile Studio Kits Convenient for Filmmakers</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhance-website-traffic-with-advanced-cookiebot-seo-solutions/"><u>Enhance Website Traffic with Advanced Cookiebot SEO Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-8-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-fix-a-scanning-devices-blurry-results-expert-advice-from-yl-computing/"><u>How To Fix a Scanning Device's Blurry Results: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone X Without Passcode?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode Screen?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-mw3-keeps-crashing-on-pc-easy-fixes/"><u>Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/resolu-comment-gerer-le-deces-du-processus-critique-dans-windows-11-7-solutions-et-une-astuce/"><u>Résolu: Comment Gérer Le Décès Du Processus Critique Dans Windows 11 (7 Solutions Et Une Astuce)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solution-for-minecraft-world-connection-errors/"><u>Troubleshooting and Solution for Minecraft World Connection Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-windows-roblox-code-403-issue/"><u>Understanding & Fixing Windows Roblox Code 403 Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-7-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 7 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 
