@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 11 Pro when Phone is Broken?
-date: 2024-07-15T01:13:51.010Z
-updated: 2024-07-16T01:13:51.010Z
+date: 2024-12-26T09:09:39.622Z
+updated: 2024-12-26T22:35:57.649Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,8 +31,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -69,6 +67,10 @@ Jailbreak your Apple iPhone 11 Pro by following the instructions given by the sy
 
 ![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Confirmation Window**
 
 A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
@@ -86,6 +88,10 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
@@ -109,6 +115,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone 11 Pro allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone 11 Pro updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -129,18 +139,12 @@ Once your Apple iPhone 11 Pro shows the Apple logo, it means the Recovery Mode i
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 11 Pro. Once the process is completed, you can set up your Apple iPhone 11 Pro as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 11 Pro is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 11 Pro to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Unlock Apple iPhone 11 Pro Without Passcode? 4 Easy Methods
 
 The Apple iPhone 11 Pro are high-end smartphones with many features and capabilities. However, if you forget your passcode, these phones are nothing more than a paperweight. So, if you have also forgotten your passcode, you may be wondering how to unlock your Apple iPhone 11 Pro 11/12 or 13 without a passcode.
@@ -163,9 +167,6 @@ And we are going to teach all those methods with some simple steps. So, without 
 
 Once you have activated the Find My iPhone function, then you can try it to unlock your Apple iPhone 11 Pro without a passcode. This is an easy and effective method to complete this task. Here's how you can do it:
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use find My Apple iPhone 11 Pro to unlock iphone 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-3.jpg)
 
 **Step 1:** Go to icloud.com from any web browser on your computer or another iOS device.
@@ -180,14 +181,15 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 
 **Step 6:** Once your device has been erased, you can set it up again and use it without a passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Unlock it with iTunes
 
 Another way to unlock your Apple iPhone 11 Pro without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your Apple iPhone 11 Pro:
 
 ![how to unlock iphone 12 without passcode with itunes](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1:** Connect your Apple iPhone 11 Pro to the computer you previously used to sync your device with iTunes.
 
@@ -217,6 +219,10 @@ If you have never tried to sync your device with iTunes or used the Find My iPho
 
 **Step 6:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Siri (only iOS version 10)
 
 You can use this hack to unlock your Apple iPhone 11 Pro without a passcode. But it just functions on devices running iOS 10 or lower. So, if you are using a newer version of iOS, this method won't work for you.
@@ -236,8 +242,6 @@ Here's how you can use Siri to bypass the Passcode:
 But this method will not work on newer iPhones 11/12/13 and iPhone 14 because they run on the latest iOS.
 
 ### Dr.Fone-Screen Unlock
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -262,11 +266,19 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![how to unlock iphone 13 without passcode in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Follow the image on the screen to make your device enter in DFU mode or Recovery mode.
 
 **Step 4:** Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone 11 Pro.
 
 ![how to unlock iphone 12 without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
 
@@ -277,7 +289,6 @@ You only need to wait for some time as the process may take several minutes. So 
 Once the process is completed, your Apple iPhone 11 Pro will be unlocked, and you can choose a new passcode.
 
 This is the easiest and most effective way to reset your Apple iPhone 11 Pro passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
-
 
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
@@ -297,13 +308,15 @@ That's it! Your Passcode is now turned ON, and your device is more secure than e
 
 To shut down the Passcode on your Apple iPhone 11 Pro, follow the steps above and toggle the 'Passcode' switch to the 'OFF' position.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 As you see in the article, there are some ways to reset your Apple iPhone 11 Pro passcode. However, if you're looking for an easy and effective solution, we recommend using Dr.Fone-Screen Unlock. It is a professional tool that can unlock your Apple iPhone 11 Pro without a passcode. Plus, it doesn't cause any damage to the Apple iPhone 11 Pro device, which is always a good thing.
 
 If you're not interested in using a third-party tool, you can try one of the methods mentioned above. But keep in mind that these methods may only work on some iPhones. So, if you need help deciding which way to use it, we recommend going with Dr.Fone-Screen Unlock.
-
-
 
 ## How To Open Your Apple iPhone 11 Pro Without a Home Button
 
@@ -323,9 +336,6 @@ If your device supports Touch ID, you can use your fingerprint to unlock it. Fol
 
 - **Step 1**: Head to **Settings** > **Touch ID & Passcode**. Next, tap **Add a Fingerprint**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-02.jpg)
 
 - **Step 2**: Follow the on-screen instructions to set up Touch ID.
@@ -375,6 +385,9 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![dr.fone unlock ios screen window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Click **Start** and follow the on-screen instructions. Dr.Fone will automatically detect your device and provide the appropriate firmware package for download. Confirm and proceed.
 
@@ -409,6 +422,10 @@ For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 
 ![itunes finder iphone recovery mode](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-12.jpg)
 
 - **Step 2**: A window in Finder will prompt you to choose between restoring or updating; click **Restore**. Confirm your action by tapping **Restore** again. Upon completion, your Apple iPhone 11 Pro will be unlocked without the Home button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 7: Unlock iPhone via iCloud
 
@@ -450,7 +467,6 @@ For a comprehensive fix, consider Dr.Fone Screen - Unlock iOS if data loss is a 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -463,9 +479,19 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-a-streamers-companion-roku-plus-facebook-live-explained/"><u>[New] 2024 Approved A Streamer's Companion ROKU + Facebook Live Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-step-by-step-guide-to-add-clearer-subtitles-on-youtube/"><u>[New] 2024 Approved Step-By-Step Guide to Add Clearer Subtitles on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expertly-selected-top-7-internet-voice-recorders-2023/"><u>[Updated] In 2024, Expertly Selected Top 7 Internet Voice Recorders 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/converting-tweeted-videos-into-playable-mp3-tracks-for-2024/"><u>Converting Tweeted Videos Into Playable MP3 Tracks for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-xs-max-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone XS Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-xripad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone XR/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-7-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 7 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-notch-drones-for-professionals-our-curated-list/"><u>Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-nioh-2-complete-edition-crashes-on-pc/"><u>Ultimate Guide: Resolving Nioh 2 Complete Edition Crashes on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-wins-in-specifications-asus-rog-ally-or-steam-deck/"><u>Who Wins in Specifications: ASUS ROG Ally or Steam Deck?</u></a></li>
+</ul></div>
 

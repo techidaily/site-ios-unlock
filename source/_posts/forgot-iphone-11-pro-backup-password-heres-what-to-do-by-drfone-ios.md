@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 11 Pro Backup Password? Heres What to Do
-date: 2024-07-15T01:15:22.649Z
-updated: 2024-07-16T01:15:22.649Z
+date: 2024-12-22T23:01:40.563Z
+updated: 2024-12-27T10:52:29.503Z
 tags: 
   - unlock
   - remove screen lock
@@ -72,6 +72,10 @@ The typical method that each individual attempts for the first time is to input 
 - Passcode for the administrator
 - Passcode for the iPhone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. "Reset All Settings" via "Settings"
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
@@ -126,6 +130,10 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** When you get to this page, use a USB cable to connect your iOS device to the PC. If Dr.Fone can find this connection, you will see the picture below.
 
 Before you click **Remove Now**, please carefully read the following three notes:
@@ -144,6 +152,9 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -173,14 +184,15 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Trouble with Apple iPhone 11 Pro Swipe-Up? Try These 11 Solutions
 
 ## Part 1: Why Is My iPhone Screen Not Swiping?
 
 The iPhone's swipe-up gesture serves as a fundamental navigation tool. It allows users to access various functions and features swiftly. Yet, when this functionality encounters issues, it can be perplexing and disruptive. That's why learning the reasons behind **I can’t swipe up on my iPhone** is essential. Summarized below are some of the common reasons behind frozen swipe-up issues:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Software Glitches
 
@@ -198,9 +210,6 @@ Physical damage, like heavy falls, can impact the phone's touch sensitivity. Mor
 
 Insufficient memory or many background apps running simultaneously can overload the Apple iPhone 11 Pro device. This leads to performance issues, including unresponsive gestures.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Water Exposure
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
@@ -257,7 +266,6 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
-
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 11 Pro. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -294,9 +302,6 @@ If your Apple iPhone 11 Pro swipe-up gesture isn't working specifically on the l
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
 ### Fix 6. Enable Control Center Within Apps
@@ -337,9 +342,6 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 **Step 1.** Move to the "Accessibility" settings of your Apple iPhone 11 Pro and select "Touch." On the following screen, scroll down and tap "Touch Accommodations."
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access touch accommodations within accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-12.jpg)
 
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
@@ -358,6 +360,10 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 11 Pro can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -370,11 +376,13 @@ Resetting all settings on your Apple iPhone 11 Pro can help resolve software-rel
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 11 Pro device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 11 Pro without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -417,6 +425,9 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -478,6 +489,10 @@ If you are worried about losing data such as purchases and contacts, don't worry
 
 ![apple id sign in and security](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** From the **Apple ID** pop-up window, enter your new Apple ID in the **Change your Apple ID** text field.
 
 ![enter a new apple id interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-05.jpg)
@@ -515,6 +530,10 @@ If you encounter errors during the process, give it a little time and try again.
 
 ![change apple id to icloud email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if Apple ID Is Already in Use
 
 Apple IDs are unique, and you can't have two identical ones. If you're trying to change your Apple ID to one that's already in use, you'll hit a roadblock. Ensure that the new Apple ID you want isn't already taken. Remove it from the family member's account if they are using it.
@@ -539,7 +558,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
 
-
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -550,14 +568,15 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 4:** Connect your iPad or other iOS device to your computer, then click **Unlock Now** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone unlocks connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
 - **Step 5:** Click **Yes** to confirm your device has a screen lock. Otherwise, it won't work.
 
 ![confirm screen unlock setup](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Enable the Two-Factor Authentication on your iPad so you can unlock your Apple ID. Then, click **Yes** to proceed.
 
@@ -619,9 +638,6 @@ If not already enabled, turn on 2FA for an extra layer of security. It's simple 
 
 And if you need to remove your Apple ID without a password, Dr.Fone is a good option. Dr.Fone is a powerful iOS toolkit that can help you with various phone solutions. It's easy to use and can help you solve mobile problems in just a few minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -634,9 +650,24 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-masterpiece-makers-exceptional-android-collage-apps/"><u>[New] Masterpiece Makers – Exceptional Android Collage Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-meeting-fundamentals-for-the-uninitiated/"><u>[New] Zoom Meeting Fundamentals for the Uninitiated</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-exploring-melodies-your-path-to-pixel-tunes-customization/"><u>[Updated] 2024 Approved Exploring Melodies Your Path to Pixel Tunes Customization</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/game-capture-without-xboxs-intrusive-game-bar-for-2024/"><u>Game Capture without Xbox’s Intrusive Game Bar for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-13-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-12-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 12 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-the-power-of-personal-narratives-master-facebook-bios-for-maximum-impact/"><u>In 2024, Unlock the Power of Personal Narratives Master Facebook Bios for Maximum Impact</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-12-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 12 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 14 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-6-low-cost-superior-4k-tv-projectors-for-2024/"><u>Leading 6 Low-Cost, Superior 4K TV Projectors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-video-tag-management-made-easy-top-editors-for-windows-and-mac/"><u>Updated 2024 Approved Video Tag Management Made Easy Top Editors for Windows and Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvideo-ai-comprehensive-hardware-and-software-details/"><u>WinxVideo AI: Comprehensive Hardware and Software Details</u></a></li>
+</ul></div>
 

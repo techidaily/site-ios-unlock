@@ -1,7 +1,7 @@
 ---
 title: "Bookworm Essentials: An In-Depth Assessment of the Amazon Kindle Paperwhite 7 Generation"
-date: 2024-12-15T16:12:16.581Z
-updated: 2024-12-21T16:18:22.383Z
+date: 2024-12-26T15:03:51.477Z
+updated: 2024-12-27T06:17:15.631Z
 categories:
   - BestProducts
 description: "This Article Describes Bookworm Essentials: An In-Depth Assessment of the Amazon Kindle Paperwhite 7 Generation"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/AjVVBONBD_MfQeA3voTlfDA2Jrc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paradox Interactive Surviving Mars
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -86,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
  Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Humans have never been so annoying**
 
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
  In over twenty hours of gameplay, I learned the hard way that humans in this game are not only picky, but they demand the life of luxury the second they step off the rocket and into the dome. It didn’t matter that only twelve called a single dome home. It didn’t matter that there was barely enough of them to cover operating the grocery store and space bar. A lack of space for these amenities fell upon deaf ears. They wanted access to their art stores, electronics, and fine dining immediately. In that regard, I’m a little conflicted; as much as I wanted more shopping options for Mars, I realized not long after humans arrived that Haemimont Games, in reality, gave me a blessing by keeping a bland palate. Plus, more buildings and items become available as research, funding, and planetary discoveries allow.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -120,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Decent for what you get**
@@ -170,18 +170,21 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-hourly-highlight-reel-1-to-10-on-youtubes-view-chart/"><u>[Updated] In 2024, Hourly Highlight Reel #1 to #10 on YouTube's View Chart</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-users-manual-recording-high-quality-audio-with-audacity/"><u>[Updated] Mac Users' Manual Recording High-Quality Audio with Audacity</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-rgbs-legacy-and-how-srgb-is-paving-the-way-forward/"><u>[Updated] RGB's Legacy and How Srgb Is Paving the Way Forward</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-xs-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone XS Without a Passcode</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/affordable-high-definition-cams-for-adventure-enthusiasts/"><u>Affordable High Definition Cams for Adventure Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus with a Mask On</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/infinix-hot-40-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Hot 40 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-13-mini-5-ways-to-get-into-a-locked-apple-iphone-13-mini-by-drfone-ios/"><u>Locked Out of Apple iPhone 13 mini? 5 Ways to get into a Locked Apple iPhone 13 mini</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-file-system-checks-a-guide-to-using-chkdsk-on-windows/"><u>Mastering File System Checks: A Guide to Using ChkDsk on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-and-installing-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Guide: Updating and Installing Intel HD Graphics 5500 Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976614762-update-your-hp-scanjet-printer-drivers-on-windows-1087-free-download/"><u>Update Your [HP Scanjet Printer Drivers] on Windows 10/8/7 - Free Download</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-effortless-background-subtraction-for-mobile-cameras/"><u>[New] Effortless Background Subtraction for Mobile Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-steps-for-perfect-audio-transition-in-adobe-audition/"><u>[Updated] Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-textual-brilliance-in-media-exploring-the-best-effects/"><u>[Updated] Textual Brilliance in Media Exploring the Best Effects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/echo-dot-vs-echo-pop-which-amazon-alexa-device-fits-you-best-expert-insights-from-zdnet/"><u>Echo Dot vs Echo Pop: Which Amazon Alexa Device Fits You Best? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-12-mini-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-mini-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 mini Without Passcode Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-the-durability-of-electric-vehicles-compare-to-traditional-petroldiesel-cars/"><u>How Does the Durability of Electric Vehicles Compare to Traditional Petrol/Diesel Cars?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 with a Mask On</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-6-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 6 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-note-30-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Note 30 Pro Phone?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-google-pixel-8-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Google Pixel 8 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 15 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-x7b-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor X7b IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6s-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Plus Passcode without a Computer</u></a></li>
 </ul></div>
 

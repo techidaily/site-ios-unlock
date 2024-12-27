@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone XS Swipe-Up? Try These 11 Solutions
-date: 2024-12-14T23:20:07.520Z
-updated: 2024-12-22T01:56:42.588Z
+date: 2024-12-24T02:53:40.544Z
+updated: 2024-12-26T21:00:11.133Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,10 +24,6 @@ The iPhone's swipe-up gesture serves as a fundamental navigation tool. It allows
 
 Updates or software bugs can occasionally interfere with the swipe-up gesture. It leads to unresponsiveness or delays.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Touch Screen Calibration
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
@@ -39,10 +35,6 @@ Physical damage, like heavy falls, can impact the phone's touch sensitivity. Mor
 ### 4\. Full Memory or Background Apps
 
 Insufficient memory or many background apps running simultaneously can overload the Apple iPhone XS device. This leads to performance issues, including unresponsive gestures.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Water Exposure
 
@@ -95,7 +87,7 @@ Select the Apple iPhone XS device type from the available options and select "iP
 ![choose to repair ios](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Select iOS Firmware to Initiate the Repair Process**
@@ -162,10 +154,6 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8. Turn Off VoiceOver
 
 VoiceOver is an accessibility feature on iPhones. It assists users with visual impairments by providing spoken feedback for actions on the Apple iPhone XS device. Sometimes, VoiceOver settings can interfere with normal touchscreen gestures like the swipe-up function. Here's how to turn off VoiceOver to resolve **iPhone 13 won’t swipe up to unlock**:
@@ -178,6 +166,10 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone XS 12 won't swipe up to unlock**:
@@ -189,10 +181,6 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10. Turn Off Reduce Motion
 
@@ -219,16 +207,12 @@ Resetting all settings on your Apple iPhone XS can help resolve software-related
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone XS device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone XS without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -258,6 +242,10 @@ You can use the simple steps explained below to unlock your Apple iPhone XS and 
 Upon downloading and installing Wondershare Dr.Fone onto your computer, access the "Toolbox" menu. Here, proceed to select "Screen Unlock" followed by "iOS." Within this window, choose the "Unlock iOS Screen" option to proceed with unlocking your iOS device's screen. Subsequently, connect your Apple iPhone XS and click Start to initiate the unlocking process.
 
 ![access screen lock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Ensure Your Device is in Recovery Mode**
 
@@ -324,6 +312,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Unlock iPhone Face ID Using Apple Watch
 
 Before unlocking iPhone through the Apple Watch, some requirements are necessary for security reasons. Read the following requirements to proceed further:
@@ -378,7 +370,7 @@ But don't fret! This article is here to demystify the Apple iPhone XS blacklist 
 ![blacklisted iphone](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. Decoding the Apple iPhone XS Blacklist: What You Need To
@@ -440,6 +432,10 @@ Now that you've learned how to [rescue a blacklisted iPhone](https://drfone.wond
 
 ![how to avoid iphone blacklist](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check the iPhone's History Before Buying
 
 Before you hand over your hard-earned money, check the iPhone's background. Make sure it's not reported as lost or stolen. You can do this by asking the seller for the phone's IMEI or serial number and checking it online or with your carrier. A clean history is a green light to go ahead with the purchase.
@@ -448,20 +444,20 @@ Before you hand over your hard-earned money, check the iPhone's background. Make
 
 Just like you lock your front door, secure your Apple iPhone XS. Use a strong passcode, Face ID, or Touch ID to protect your phone from unauthorized access. This simple step can prevent it from being misused and reported as stolen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pay Your Bills on Time
 
 Your iPhone needs its "phone allowance" paid on time, too. Ensure you pay your monthly bills to your carrier. Unpaid invoices can lead to your Apple iPhone XS getting blacklisted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Be Careful With iCloud
 
 iCloud is like a protective bubble for your Apple iPhone XS's data. Don't share your Apple ID and password with just anyone. If someone else has access to your iCloud account and does something shady, it can affect your Apple iPhone XS's status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Report a Lost or Stolen iPhone
@@ -515,6 +511,10 @@ Now, see how you can easily unlock your Apple iPhone XS's SIM by following the g
 
 ![drfone sim lock removed](https://images.wondershare.com/drfone/guide/remove-iphone-sim-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In a world where staying connected is vital, understanding and fixing iPhone blacklist issues is crucial. You've learned that a blacklisted iPhone can mean no calls, texts, or internet – a frustrating experience. But fear not because you have **free iPhone blacklist removal** options at your disposal. And remember, prevention is the key. By checking an iPhone's history before purchase and keeping your device secure, you can avoid blacklist troubles altogether.
@@ -535,20 +535,22 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-video-game-editors-simplified-top-picks-for-newbies/"><u>[New] Prime Video Game Editors Simplified Top Picks for Newbies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-best-of-budget-a-guide-to-the-top-10-economical-video-design-schools-on-youtube/"><u>[New] The Best of Budget A Guide to the Top 10 Economical Video Design Schools on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-in-plain-sight-top-e-shops-for-buying-enigmatic-box-collections/"><u>2024 Approved Hidden in Plain Sight Top E-Shops for Buying Enigmatic Box Collections</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-solving-nioh-2-game-crashes-on-any-platform/"><u>Complete Guide: Solving 'Nioh 2' Game Crashes on Any Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-online-research-with-perplexity-ai-transforming-how-you-utilize-googles-search-technology/"><u>Elevate Online Research with Perplexity AI - Transforming How You Utilize Google's Search Technology</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-12-pro-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 12 Pro Max with iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6 Lock Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 12 mini, Apples New iPhone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 14 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max Passcode Screen?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-ios-based-interview-and-journey-podcasts-for-2024/"><u>Ultimate Guide to iOS-Based Interview & Journey Podcasts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-and-linux-how-wsl-changes-the-game/"><u>Windows and Linux: How WSL Changes the Game?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-resolving-dark-scenes-on-youtube-videos/"><u>[Updated] Resolving Dark Scenes on YouTube Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-perfect-youtube-thumbnails-on-macos/"><u>2024 Approved Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-11-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Lock Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-msi-pro-mp161-e2-a-revolutionary-portable-display-solution/"><u>Explore the MSI PRO MP161 E2 - A Revolutionary Portable Display Solution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-mini-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 mini With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-se-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone SE Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-se-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone SE to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://media-tips.techidaily.com/play-anywhere-with-aceplayer-get-your-free-download-for-ultimate-streaming-fun/"><u>Play Anywhere with AcePlayer: Get Your Free Download for Ultimate Streaming Fun!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pocket-safari-androids-selection-of-best-simulators/"><u>Pocket Safari Android's Selection of Best Simulators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24plus-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy S24+ won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/strategie-rapide-per-accelerare-il-tuo-computer-windows-senza-reinstallare/"><u>Strategie Rapide per Accelerare Il Tuo Computer Windows Senza Reinstallare</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-6s-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 6s Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
 

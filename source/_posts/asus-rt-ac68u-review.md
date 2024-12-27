@@ -1,7 +1,7 @@
 ---
 title: Asus RT-AC68U Review
-date: 2024-12-18T21:41:44.919Z
-updated: 2024-12-21T22:55:29.704Z
+date: 2024-12-26T05:40:55.153Z
+updated: 2024-12-27T07:38:31.511Z
 categories:
   - BestProducts
 description: This Article Describes Asus RT-AC68U Review
@@ -13,16 +13,12 @@ thumbnail: https://www.lifewire.com/thmb/jp9yidAiRVouajjO3JCj--i_Wpk=/400x300/fi
 
 4.3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/NltNTWtb6Y6gHFCHDQXlLsrWKTI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
@@ -46,10 +42,6 @@ Lifewire / Andy Zahn
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
 
 4.3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Canon PowerShot SX70
 
@@ -99,19 +91,23 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display and Viewfinder: Saturated and clear**
 
@@ -120,10 +116,6 @@ Lifewire / Andy Zahn
  The electronic viewfinder (EVF) is bright and clear with 2,360,000 dots. It’s not the best EVF we’ve ever used as it seems slightly small and cramped, but it gets the job done. A sensor automatically detects when you put your eye up to it (a function that can be adjusted in the settings), which means you don’t have to hunt for a button to switch the EVF on.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Autofocus: Blazing fast**
 
@@ -163,10 +155,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -181,6 +169,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -190,6 +182,10 @@ Lifewire / Andy Zahn
  There is also the option to connect to a[Canon printer](https://www.lifewire.com/best-canon-printers-4584899) and print your images directly from the camera. We found these features useful but also something of a hassle, since the process of connecting devices to the camera is pretty tedious.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
 
@@ -218,6 +214,10 @@ Lifewire / Andy Zahn
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -253,21 +253,22 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-facebooks-prime-video-snatchers/"><u>[New] In 2024, Facebook's Prime Video Snatchers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-establishing-a-signature-persona-on-youtube/"><u>[New] In 2024, Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-insiders-look-at-mac-preview-software/"><u>[New] In 2024, The Insider's Look at Mac Preview Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-review-of-powerdirector-pro-suite/"><u>Comprehensive Review of PowerDirector Pro Suite</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-apples-latest-timepiece-the-series-6-noteworthy-improvements-with-top-tier-performance/"><u>Evaluating Apple's Latest Timepiece: The Series 6 - Noteworthy Improvements with Top-Tier Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-persistent-sos-mode-on-iphone-6-proven-techniques-for-restoring-normal-operation/"><u>Fixing Persistent SOS Mode on iPhone - 6 Proven Techniques for Restoring Normal Operation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-2020-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-14-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 13?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-11-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus 11 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-nvidias-cutting-edge-ai-initiative-unveiling-the-potential-of-tailorable-generative-technology-services/"><u>Inside NVIDIA's Cutting-Edge AI Initiative: Unveiling the Potential of Tailorable Generative Technology Services</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-xs-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone XS in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 Pro Max Properly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 mini Properly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-8-subtitle-transformers-seamless-switch-from-sub-to-srtr-in-seconds-on-windowsmacos/"><u>[Updated] Best 8 Subtitle Transformers Seamless Switch From SUB to SRTR in Seconds on Windows/MacOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-graphics-driver-for-windows-users/"><u>GTX 1650 Graphics Driver for Windows Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xr-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone XR Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-15-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 15 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-8-by-drfone-ios/"><u>How To Unlock A Found iPhone 8?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-file-forwarding-made-easy-top-5-methods-to-upload-directly-on-pc/"><u>In 2024, File Forwarding Made Easy Top 5 Methods to Upload Directly on PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-mini-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 mini with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-skys-best-hd-pics-top-website-guide/"><u>In 2024, Sky's Best HD Pics Top Website Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>In 2024, The Complete Blueprint Record WhatsApp Conversations Effectively</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Max Passcode without a Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/novel-methods-to-execute-software-on-windows-os/"><u>Novel Methods to Execute Software on Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-the-loading-player-error-on-your-windows-pc-now-available/"><u>Step-by-Step Guide to Fix the Loading Player Error on Your Windows PC - Now Available!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-controversy-unveiled-how-openai-meta-and-stars-like-sarah-silverman-clash-over-ai-rights/"><u>The Controversy Unveiled: How OpenAI, Meta, and Stars Like Sarah Silverman Clash Over AI Rights</u></a></li>
 </ul></div>
 

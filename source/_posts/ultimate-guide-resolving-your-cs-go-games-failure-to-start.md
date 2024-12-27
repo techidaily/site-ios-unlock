@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Your CS: GO Game's Failure to Start"
-date: 2024-12-15T22:44:07.396Z
-updated: 2024-12-22T02:10:04.021Z
+date: 2024-12-23T23:42:42.447Z
+updated: 2024-12-27T14:59:51.541Z
 tags:
   - win11
   - win10
@@ -31,7 +31,11 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Allow your game through Windows Firewall
@@ -43,8 +47,16 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
@@ -53,7 +65,7 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 If this doesn’t do the trick, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
@@ -68,10 +80,6 @@ If this doesn’t do the trick, try the next fix below.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. In addition, having too many programs, especially those memory-hogging programs running in the background can eat up the system resources, causing unexpected issues.
@@ -84,19 +92,11 @@ If this doesn’t do the trick, try the next fix below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -119,7 +119,15 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
@@ -164,10 +172,6 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
@@ -175,10 +179,6 @@ If this doesn’t do the trick, try the next fix below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -213,24 +213,17 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-revolutionary-recorders-outside-the-native-windows-ecosystem/"><u>[New] In 2024, Revolutionary Recorders Outside the Native Windows Ecosystem</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-discover-the-best-of-photo-stickering-ios-and-android-leaders/"><u>[Updated] Discover the Best of Photo Stickering IOS & Android Leaders</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-gold-strategies-for-financial-flourishing/"><u>[Updated] In 2024, YouTube Gold Strategies for Financial Flourishing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionize-your-videography-workflow-recordingediting-on-adobe-connect/"><u>[Updated] Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unlock-your-video-soundtrack-4-cost-effective-wav-extractors-for-2024/"><u>[Updated] Unlock Your Video Soundtrack 4 Cost-Effective WAV Extractors for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-se-2022-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone SE (2022) and iPad Securely</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aol-mail-status-undergoing-maintenance-or-experiencing-outages/"><u>AOL Mail Status: Undergoing Maintenance or Experiencing Outages?</u></a></li>
-<li><a href="https://common-error.techidaily.com/computer-freezes-at-startup-heres-what-you-need-to-know/"><u>Computer Freezes at Startup? Here's What You Need to Know!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13 Pro Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-8-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 8 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-xr-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone XR Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 11 Pro Max Passcode not Working?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-12-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 12 Pro Max Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-6s-plus-how-to-unlock-a-disabled-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 6s Plus How to Unlock a Disabled Apple iPhone 6s Plus?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-11-pro-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 11 Pro with iTunes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lut-techniques-for-professional-color-grading-and-correction/"><u>In 2024, LUT Techniques for Professional Color Grading and Correction</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2020-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2020)</u></a></li>
-<li><a href="https://win11.techidaily.com/in-a-nutshell-how-to-spot-your-pcs-ram-quickly/"><u>In a Nutshell: How to Spot Your PC's RAM Quickly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>ScreenRecorderPro A Detailed Analysis of Video Capture Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-essential-guide-to-using-finalcut-pro-in-youtube-editing/"><u>[New] 2024 Approved The Essential Guide to Using FinalCut Pro in YouTube Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-overwatch-gameplay-captured-step-by-step-guide/"><u>[New] Overwatch Gameplay Captured - Step by Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-dual-display-audio-preservation/"><u>[Updated] In 2024, Dual-Display Audio Preservation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-what-does-instantaneous-video-removal-mean-for-user-privacy/"><u>2024 Approved What Does Instantaneous Video Removal Mean for User Privacy?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-roll-back-windows-1011-patches-using-the-ultimate-tutorial-for-revouninstaller/"><u>Efficiently Roll Back Windows 10/11 Patches Using the Ultimate Tutorial for RevoUninstaller</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-se-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone SE Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE (2022)</u></a></li>
+<li><a href="https://win-top.techidaily.com/losungsansatze-fur-das-erstellen-von-systemwiederherstellungspunkten-auf-windows-10-and-11/"><u>Lösungsansätze Für Das Erstellen Von Systemwiederherstellungspunkten Auf Windows 10 & 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-whats-better-than-subtitle-edit-for-mac-explore-these-options-for-2024/"><u>New Whats Better Than Subtitle Edit for Mac? Explore These Options for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-sound-transferring-music-directly-to-youtube-for-2024/"><u>Syncing Sound Transferring Music Directly to YouTube for 2024</u></a></li>
 </ul></div>
 

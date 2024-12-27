@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Disabled iPhone XS Without iTunes in 5 Ways
-date: 2024-12-18T00:49:17.482Z
-updated: 2024-12-21T18:54:10.523Z
+date: 2024-12-19T16:31:52.036Z
+updated: 2024-12-27T03:42:49.893Z
 tags: 
   - unlock
   - remove screen lock
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 ## Unlock Your Disabled Apple iPhone XS Without iTunes in 5 Ways
 
 If you have forgotten the passcode of your Apple iPhone XS or if your device has been disabled, then you have landed in the right place. There are multiple ways **how to unlock a disabled iPhone without iTunes**, and it is also workable for iPad disabled fix without iTunes. [Forgetting the passcode of your Apple iPhone XS](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html) can sometimes incur tedious tasks. Though, one can easily fix a disabled iPhone or iPad without relying on iTunes. In this post, we will provide 5 solutions for a disabled iPhone fix without iTunes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Makes Your Apple iPhone XS Disabled?
 
@@ -86,6 +90,10 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pros**
 
 - Easy to use.
@@ -125,7 +133,7 @@ Wait for a while as the "Find My iPhone" feature will remotely erase your iOS de
 - Requires an active internet connection and access to another Apple device or computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Use Find My App to Unlock the Disabled iPhone?
@@ -135,10 +143,6 @@ Find My App comes pre-installed on all iPhones running iOS 13 or later. This fea
 Here's how to unlock your Apple iPhone XS using Find My App:
 
 ![find my app](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 1.** Open the Find My App on your Apple iPhone XS.
 - **Step 2.** Tap "Devices" from the bottom menu.
@@ -156,6 +160,10 @@ Here's how to unlock your Apple iPhone XS using Find My App:
 
 - Requires an active internet connection and access to another Apple device.
 - All data is lost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to Try Finder to Unlock a Disabled iPhone on Mac?
 
@@ -192,10 +200,6 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 1**. To start with, hold the Home button on your device to activate Siri and ask for the present time by saying something like, “Hey Siri, what time is it?” or anything else that would display the clock. Tap on the Clock icon to commence the process.
 
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14993656826965.jpg "hey siri")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2**. Visit the World Clock interface and choose to add another clock.
 
@@ -322,14 +326,6 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![toggle off privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 2. By Resetting the Entire iPhone
 
 [Resetting the entire settings of your Apple iPhone XS](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html) is a drastic but effective method. It can disable parental controls by removing all settings, including restrictions and passcodes. Note that this process will erase personalized settings on your device. However, it does not delete data like photos, videos, or apps. Below are the steps on **how to remove parental controls iPhone** by resetting:
@@ -341,10 +337,6 @@ Accessing Screen Time settings allows you to manage and disable parental control
 - **Step 2.** From the available options, after tapping "Reset," choose "Reset All Settings." You will be asked to provide the passcode to successfully reset your Apple iPhone XS and disable parental control settings.
 
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
 
@@ -378,10 +370,6 @@ Upon connecting the Apple iPhone XS device, the platform will detect the iDevice
 
 ![unlock device with on screen instructions](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3: Complete Screen Time Passcode Removal Process**
 
 Upon completion, confirm by clicking “OK” on the computer screen. The progress bar on the screen indicates the progress of unlocking the screen time passcode process. When the Apple iPhone XS device is unlocked, the platform will present a confirmation message. To conclude the entire process, click on the "Done" button.
@@ -396,13 +384,13 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 ![access the summary tab within itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Afterward, initiate the Apple iPhone XS restoration by selecting "Restore iPhone." A menu box will appear, asking you to create a "Back Up" or not. Choose the preferred option, and another dialog box will appear, alerting you about the deletion of all content and settings on your Apple iPhone XS. You should proceed by clicking "Restore" to confirm. Then, follow the on-screen instructions to finalize the process.
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -417,7 +405,7 @@ You may get stuck with any emergency if you do not know how to unlock your Apple
 Normally, you don't believe what you see and start to try entering the passcode to unlock your Apple iPhone XS. However, if you entered an incorrect passcode 10 times, you will receive a messag "[iPhone is disabled, connect to iTunes](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html)". In this case, the only way to unlock your disabled iPhone is to restore it. And that is a situation none of us would like to be in right? Hence, in this article, today, we will elaborate ways on **how to unlock iPhone without passcode** or restore it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Unlocking Your Apple iPhone XS: What Are the 4 Main Causes of Failure?
@@ -510,6 +498,10 @@ This method may be a better choice for unlocking your Apple iPhone XS than using
 
 ![click erase iphone](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-iphone-without-passcode-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1:** Type a wrong passcode on the Lock Screen.
 - **Step 2:** When the message appears, click "Erase iPhone" and click on it.
 - **Step 3:** Enter your Apple ID credentials.
@@ -525,6 +517,10 @@ Instead, you can simply say "Hey Siri" followed by a command. Voice Control also
 To use the Voice Control feature to unlock iPhone (iOS 13 or later), you will need to set it up first. To do this, follow these steps:
 
 ![set up voice control](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-iphone-without-passcode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** To set up Voice Control on your Apple iPhone XS, open the Settings app and tap Accessibility.
 - **Step 2.** Tap Voice Control and then tap Set Up Voice Control.
@@ -567,6 +563,10 @@ Before you start, please ensure you have a computer (Mac or PC). If you're using
 - **Step 2:** Get ready by finding the button on your Apple iPhone XS, as shown in the pictures below. You'll need to hold in the following step.
 
 ![find the button](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Connect your Apple iPhone XS to the computer where the Finder or iTunes is enabled > Click on iTunes and restore your Apple iPhone XS.
 
@@ -629,7 +629,7 @@ You can unlock your device without the Home button if you have an iPhone with a 
 - **Step 4:** This will then unlock your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to unlock the Apple iPhone XS passcode without data loss?
@@ -660,20 +660,19 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-chrome-os-4-screenshots-tricks/"><u>[New] In 2024, Mastering Chrome OS 4 Screenshots Tricks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-heres-what-you-dont-know-about-instagram-story-viewer-for-2024/"><u>[Updated] Here's What You Don't Know About Instagram Story Viewer for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-interactive-multiplayer-experiences-online/"><u>[Updated] Interactive Multiplayer Experiences Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-recapturing-moments-the-xiaomi-mi-11s-superior-screen-record-for-2024/"><u>[Updated] Recapturing Moments The Xiaomi Mi 11'S Superior Screen Record for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-12-pro-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 12 Pro 4G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xs-max-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XS Max?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Pro Lock Screen with Notifications?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-xs-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone XS i Do? Get Answers here</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-8-linux-editors-for-media-professionals/"><u>Leading 8 Linux Editors for Media Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-common-issues-with-initializing-smartaudio/"><u>Resolved: Common Issues with Initializing SmartAudio</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-macaus-language-mosaic/"><u>Unveiling Macau’s Language Mosaic</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-art-of-saving-just-a-bit-from-youtube-videos/"><u>[Updated] In 2024, The Art of Saving Just a Bit From YouTube Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>2024 Approved The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-5-secure-methods-to-maximize-instagram-earnings/"><u>2024 Approved Top 5 Secure Methods to Maximize Instagram Earnings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-a58-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A58 4G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-7-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xr-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XR</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-pro-level-video-editing-with-64-bit-software/"><u>New 2024 Approved Unleash Pro-Level Video Editing with 64-Bit Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-the-file-location-for-your-desktop-images/"><u>Uncover the File Location for Your Desktop Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/value-assessment-of-the-amazon-kindle-oasis-premium-aesthetics-meets-hefty-bill/"><u>Value Assessment of the Amazon Kindle Oasis: Premium Aesthetics Meets Hefty Bill</u></a></li>
 </ul></div>
 

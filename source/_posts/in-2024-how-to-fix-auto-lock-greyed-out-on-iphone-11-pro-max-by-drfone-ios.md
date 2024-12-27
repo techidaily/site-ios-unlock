@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 11 Pro Max
-date: 2024-07-15T01:12:52.997Z
-updated: 2024-07-16T01:12:52.997Z
+date: 2024-12-21T13:01:49.684Z
+updated: 2024-12-27T11:52:02.082Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,9 +42,6 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -140,9 +137,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
@@ -161,6 +155,10 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 - **Step 2:** On the right-hand side of the **Display & Brightness** screen, tap the **Auto-Lock** option.
 
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
@@ -190,7 +188,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 We all have secrets in our iPhone or some important financial or business data that we all wish to protect from unwanted access. For this, we set up a passcode. But what if Apple iPhone 11 Pro Max passcode is forgotten by you? Well, you may now wonder how to perform Apple iPhone 11 Pro Max passcode bypass, right? Worry no more! We’re right here to help you with the proven solutions for Apple iPhone 11 Pro Max passcode reset without iTunes or with it too. Let’s explore.
 
-
 ## Part 1. Unlock Apple iPhone 11 Pro Max screen passcode in one click (unlock tool needed)
 
 The first and the ultimate measure for Apple iPhone 11 Pro Max passcode removal in just a matter of a single click is [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). With the help of this mighty tool, performing Apple iPhone 11 Pro Max passcode reset is even easier than any other alternative. Not only it can perform Apple iPhone 11 Pro Max passcode bypass, you can also make use of this tool to bypass lock screen of an Android smartphone too. Isn’t it amazing? Moreover, this powerful tool works effortlessly with the latest iOS 13 version and even with the most recent iPhone models as well. Here is the step by step tutorial on Apple iPhone 11 Pro Max passcode bypass.
@@ -201,9 +198,6 @@ Get the tool Dr.Fone - Screen Unlock (iOS) downloaded and installed over your co
 
 Now, launch the tool and then opt for the “Unlock” tile from the main screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Boot in Recovery/DFU mode**
@@ -218,11 +212,19 @@ On the upcoming screen, you’ll be displayed the “Device Model” and most re
 
 ![iOS firmware version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Perform Apple iPhone 11 Pro Max passcode removal**
 
 Once, the software downloads the firmware automatically, you can then proceed to Apple iPhone 11 Pro Max passcode reset. Hit the “Unlock Now” button over the next screen and in a short while you’ll be notified that Apple iPhone 11 Pro Max passcode removal is completed.
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
@@ -245,6 +247,10 @@ If somehow, the above solution fails and you’re just not able to get Apple iPh
 - Ensure not to let go the Side button till the recovery mode screen appears over your Apple iPhone 11 Pro Max.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2019/09/iphone11-recovery-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Once the Apple iPhone 11 Pro Max device is booted in recovery mode, iTunes will throw a pop up message that “iTunes has detected an iPhone in recovery mode”. Simply, hit the “OK” button over the message and then push the “Restore iPhone” button followed by confirming your actions.
 
@@ -284,18 +290,21 @@ Now, in case you know the Apple iPhone 11 Pro Max restrictions passcode and just
 
 ![restrictions passcode](https://images.wondershare.com/drfone/article/2019/09/restrictions-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Once you’ve entered the current passcode, hit on the “Disable Restrictions” and to confirm your actions, key in your passcode when prompted.
 
 ![restrictions passcode disabling](https://images.wondershare.com/drfone/article/2019/09/disable-restrictions-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, hit on “Enable Restrictions”. You’ll be asked to set up a new passcode now. Do it and you’re done.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set up a new passcode](https://images.wondershare.com/drfone/article/2019/09/reset-restrictions-passcode-iphone.jpg)
-
-
 
 ## Unlock Your Disabled Apple iPhone 11 Pro Max Without iTunes in 5 Ways
 
@@ -314,9 +323,6 @@ There are several reasons why your Apple iPhone 11 Pro Max may become disabled, 
 
 ## Part 2: Why Not Use iTunes to Unlock Disabled iPhone?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock disabled iphone without itunes](https://images.wondershare.com/drfone/article/2023/11/how-to-unlock-disabled-iphone-without-itunes.jpg)
 
 iTunes has lost popularity due to its heavy and confusing features, along with frequent crashes. You may be seeking alternatives to unlock disabled iPhones opt for more straightforward methods that don't involve iTunes.
@@ -328,8 +334,6 @@ Here are 5 alternative ways that will guide **how to unlock disabled iPhone with
 If you don’t want to cause any damage to your iOS firmware while resolving the Apple iPhone 11 Pro Max disabling issue, the tool [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is what you need. It is a part of the Dr.Fone toolkit and provides an extremely secure and fast solution to unlock a disabled iPhone. Among the industry, it is always the first to support the latest iOS versions.
 
 Not just to get the Apple iPhone 11 Pro Max disabled unlock without iTunes, it can also be used to resolve plenty of other issues like malware attacks, [iPhone stuck in the recovery loop](https://drfone.wondershare.com/recovery-mode/exit-iphone-recovery-mode-loop.html), the [blue screen of death](https://drfone.wondershare.com/iphone-problems/ways-to-fix-iphone-blue-screen-of-death.html), and more. Furthermore, it has an easy-to-use interface and yields reliable results, making it an essential iOS tool.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -374,6 +378,10 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pros**
 
 - Easy to use.
@@ -384,6 +392,10 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 **Cons**
 
 - The program needs a subscription to unlock full functions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Unlock the Disabled iPhone Via Find My iCloud?
 
@@ -445,6 +457,10 @@ Here's how to unlock your Apple iPhone 11 Pro Max via Finder:
 
 ![finder](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1.** Connect your Apple iPhone 11 Pro Max to your Mac using a cable.
 - **Step 2.** Open the Finder app.
 - **Step 3.** Put your Disabled Apple iPhone 11 Pro Max into recovery mode
@@ -501,6 +517,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14993658058445.jpg "create new contact")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 9**. On the Add new contact screen, choose to add a photo and tap on the “**Add Photo**” option.
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/07/14993658262749.jpg "add photo")
@@ -548,7 +568,6 @@ Unlocking a disabled iPhone without iTunes is becoming a popular choice because 
 
 After following these solutions, you can use your Apple iPhone 11 Pro Max and surpass its passcode without any trouble. Now that you know **how to unlock a disabled iPhone without iTunes**, you can simply use your device as per your requirements. Go ahead and pick your preferred option to perform iPhone disabled fix without iTunes. Download [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to resolve any unlocking issue related to your Apple iPhone 11 Pro Max securely and reliably.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -561,9 +580,18 @@ After following these solutions, you can use your Apple iPhone 11 Pro Max and su
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-your-images-choosing-great-border-options-on-ig-for-2024/"><u>[New] Enhance Your Images Choosing Great Border Options on IG for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>2024 Approved Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-troubleshooting-stop-live-streaming-lags-in-obs/"><u>2024 Approved Troubleshooting Stop Live Streaming Lags in OBS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-mini-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-se-2020-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone SE (2020)? Complete Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-c55-phone-by-drfone-android/"><u>How to Reset a Locked Poco C55 Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-it-worth-it-an-in-depth-examination-of-the-nook-glowlight-4-tablet-e-reader/"><u>Is It Worth It? An In-Depth Examination of the Nook GlowLight 4 Tablet E-Reader</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-top-webm-to-mp3-converters-you-need-to-know/"><u>New 2024 Approved The Top WebM to MP3 Converters You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-windows-overloaded-chatgpt-limit-error/"><u>Solving Windows: Overloaded ChatGPT Limit Error</u></a></li>
+</ul></div>
 

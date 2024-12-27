@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 11 Pro when Phone is Broken?
-date: 2024-07-15T01:15:05.386Z
-updated: 2024-07-16T01:15:05.386Z
+date: 2024-12-23T14:59:55.980Z
+updated: 2024-12-27T14:52:27.347Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,7 +32,9 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -56,6 +58,10 @@ Launch Wondershare Dr.Fone on your computer and connect your Apple iPhone 11 Pro
 Open Wondershare Dr.Fone and select “Screen Unlock” among the other options on the home interface. Now another interface will appear displaying four options. Click on "Unlock Apple ID."
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Remove Active Lock**
 
@@ -109,6 +115,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone 11 Pro allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone 11 Pro updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -129,9 +139,6 @@ Once your Apple iPhone 11 Pro shows the Apple logo, it means the Recovery Mode i
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 11 Pro. Once the process is completed, you can set up your Apple iPhone 11 Pro as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
 ### Conclusion
@@ -166,6 +173,14 @@ Do you have the passcode and your Apple Watch paired with an iPhone? It makes th
 
 ![confirm reset content and settings choice](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pro Tip. Make Apple Watch Unlocking Easy With Paired Phone
 
 If you frequently forget the passcode to your Apple Watch, Apple has presented a dedicated option for maintaining control of this problem. It now provides a specific option of automatically unlocking the Apple Watch as soon as it comes near the paired iPhone. To enable this option, follow the simple steps provided as follows:
@@ -173,6 +188,10 @@ If you frequently forget the passcode to your Apple Watch, Apple has presented a
 **Instructions.** Open the "My Watch" app on your Apple iPhone 11 Pro and scroll down to discover the "Passcode" option. Continue next and look for the "Unlock iPhone" option you need to enable.
 
 ![enable unlock from iphone option](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Working Methods To Unlock Apple Watch Without Passcode Perfectly
 
@@ -192,9 +211,6 @@ Nevertheless, external services claim to provide solutions for bypassing the Act
 
 ![unlock watch by entering details](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2. Unlock the Apple Watch Lock by Resetting
 
 If you forget your Apple Watch passcode without a paired device, a method to unlock the watch remains available. In this scenario, performing a reset becomes the answer to the question of **how to unlock Apple Watch without paired phone**. Place your watch onto its charger and keep charging until this process is complete. Follow these steps to reset your Apple Watch and bypass the lock:
@@ -221,14 +237,15 @@ By contacting the previous owner, you can request them to remove the Apple iPhon
 
 ![erase your watch via icloud](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip. Unlock Your Locked iPhone With Wondershare Dr.Fone - Screen Unlock (iOS)
 
 Like the Apple Watch, other Apple devices, such as iPhones, may also encounter locking issues. One such reliable and trusted tool to unlock various types of locks on iOS devices is [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). This tool is highly proficient and is designed to assist users worldwide in unlocking various iOS devices.
 
 Dr.Fone offers a user-friendly interface coupled with powerful features. This makes it a go-to solution for resolving iPhone lock issues. That ensures versatility in resolving locking issues across a wide range of devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prominent Features of Wondershare Dr.Fone
 
@@ -236,9 +253,6 @@ Dr.Fone offers a user-friendly interface coupled with powerful features. This ma
 2. Should your Apple ID password slip your mind, Dr. Fone enables the removal of the ID from your device.
 3. Additionally, it bypasses the encryption lock on iTunes backups while keeping the data inside intact.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Steps To Unlock Your Locked iPhone With Wondershare Dr.Fone
 
 Dr.Fone, preferred by iOS users for its user-friendly interface and straightforward processes, has risen to the top. Unlocking your locked iPhone using Wondershare Dr.Fone involves the following steps:
@@ -248,7 +262,6 @@ Dr.Fone, preferred by iOS users for its user-friendly interface and straightforw
 Upon installing Wondershare Dr.Fone on your computer, launch the program. Access the "Toolbox" and navigate to "Screen Unlock". Select "iOS" as the Apple iPhone 11 Pro device type and then choose "Unlock iOS Screen." Click "Start" to commence the unlocking process for your iOS device.
 
 ![proceed with unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
 
 - **Step 2. Entering Recovery Mode and Firmware Preparation**
 
@@ -268,7 +281,9 @@ In summary, this comprehensive guide navigated **how do you unlock an Apple Watc
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro
 
@@ -277,6 +292,10 @@ Your Apple ID is your gateway to a world of apps and services, making it an esse
 This guide will walk you through creating a new account for Apple devices in an easy-to-understand manner. From setting up your email address to securing your account, this article covered you every step of the way. Embark on this journey and learn **how to create a new Apple ID account** effortlessly.
 
 ![create a free apple id](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Create a New Apple ID?
 
@@ -309,6 +328,10 @@ Below are the common scenarios where a new Apple ID might be needed:
 ## Part 2: Step-by-Step Guide: How To Create a New Apple ID Account
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A. Registering a New Apple ID
 
@@ -364,9 +387,6 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -383,7 +403,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 1:** Launch Wondershare Dr.Fone on your PC to use the **Screen Unlock** function and then navigate to **Toolbox**. Click the **Screen Unlock** section, then choose **iOS**.
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -421,7 +440,6 @@ This guide has simplified the process of **creating a new Apple ID**, ensuring y
 
 Should you encounter any challenges while managing your Apple ID, such as removing a previous one, consider Dr.Fone - iOS Screen Unlock tool. This user-friendly resource stands ready to assist, ensuring a seamless and secure Apple experience. Explore the possibilities and make the most of your Apple adventure!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -434,9 +452,17 @@ Should you encounter any challenges while managing your Apple ID, such as removi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-dissecting-the-components-of-mixed-reality/"><u>[New] 2024 Approved Dissecting the Components of Mixed Reality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-10-gif-utilities-compatible-with-ios-devices/"><u>[New] In 2024, Top 10 GIF Utilities Compatible with iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-11-system-restore-not-working/"><u>[Solved] Windows 11 System Restore Not Working</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-twits-visuals-to-fhd-standards/"><u>Enhancing Twit's Visuals to FHD Standards</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-8-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 8?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-gain-free-photo-footage-via-essential-4-youtube-picks/"><u>In 2024, Gain Free Photo Footage via Essential 4 YouTube Picks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-xs-max-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone XS Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-hardware-comprehensive-reviews-and-advice/"><u>Inside Look at Tom's Hardware: Comprehensive Reviews & Advice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-12-pro-max-5-ways-to-get-into-a-locked-iphone-12-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 12 Pro Max? 5 Ways to get into a Locked iPhone 12 Pro Max</u></a></li>
+</ul></div>
 

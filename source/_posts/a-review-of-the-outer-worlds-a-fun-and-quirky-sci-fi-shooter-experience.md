@@ -1,7 +1,7 @@
 ---
 title: "A Review of 'The Outer Worlds': A Fun and Quirky Sci-Fi Shooter Experience"
-date: 2024-12-20T18:31:41.672Z
-updated: 2024-12-21T19:11:21.376Z
+date: 2024-12-23T11:51:06.021Z
+updated: 2024-12-27T11:20:30.586Z
 categories:
   - BestProducts
 description: "This Article Describes A Review of 'The Outer Worlds': A Fun and Quirky Sci-Fi Shooter Experience"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 ## Amazon Echo Dot (4th Gen)
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/keJ5E0aZJqydWO0ehe3iUZ1hYB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Amazon-Echo-Dot-4th-Generation-1-fc73a047312d4d588ffcbeae7bdd3368.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -40,6 +36,10 @@ Lifewire / Erika Rawes
 [View On Amazon $50](https://www.amazon.com/All-new-generation-International-Version-Charcoal/dp/B085K45C3S/?tag=lifewire-onsite-prod-20&ascsubtag=5083605%7Cn256cf1ee30214e0e97879a24f265685d08%7CB085K45C3S) [View On Best Buy $40](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-echo-dot-4th-gen-smart-speaker-with-alexa-charcoal%2F6430060.p%3FskuId%3D6430060) [View On Verizon](https://www.verizon.com/products/amazon-echo-dot-4th-gen-smart-speaker-with-alexa/?slfpid=3)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Echo Dot (4th Gen)
 
@@ -71,6 +71,10 @@ Lifewire / Erika Rawes
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/TtbQpfhvpeKgt-Aso1WoKQ6m2VI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-2-89fbd54fb6a14efba195a0094b8d7b6f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
  As time has passed and Amazon has released newer versions of its Echo Dot speaker, the company has shied away from sharp edges and hard plastic shells in favor of softer designs. You may remember the 2nd-gen model had more of a puck-shape, with a hard plastic shell and more defined edges. The earlier Dots looked more like networking equipment than home devices. However, this changed with the[3rd-Gen Dot](https://www.lifewire.com/echo-dot-3rd-gen-review-4772274#:~:text=The%20Amazon%20Echo%20Dot%20%283rd,Dot%20is%20a%20great%20buy.) , which had an airier feel, slightly rounded edges, and a fabric surround. This made the Dot feel more like a speaker made for the home and less like an office product.
@@ -81,15 +85,15 @@ Lifewire / Erika Rawes
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/HELf_jWdoxnVe1w7XOL9sC7GoO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-4-f100069b4b7d40dc8661b1614e150934.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
  The 4th Gen Dot still has a 3.5 mm output jack, which I was really pleased to see. Google’s Nest Mini (2nd Gen) lacks a 3.5 mm jack. However, unlike Google’s newest mini smart speaker, the Echo Dot does not have a keyhole mount for mounting on a wall. The speaker is meant for placement on a flat surface, as evidenced by the rubberized bottom that prevents slipping and helps the Echo Dot stay in place.
 
  Overall, I really appreciate the design of the new Dot. Modern and elegant, it fits into my living room, kitchen, or bedroom, as it doesn’t have a cold feel that takes away from the space. The 4th-Gen Dot is made from environmentally conscious materials like post-consumer recycled plastics and fabrics, thus securing it a “Climate Pledge Friendly” tag on Amazon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Easy as ever**
 
@@ -98,10 +102,6 @@ Lifewire / Erika Rawes
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/dVUkRuy5SxFHmCHXxSseZY5tjhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-3-320d298cdb18405d9d326c272464ef0d.jpg)
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Sound Quality: A front-firing speaker**
 
@@ -115,11 +115,19 @@ Lifewire / Erika Rawes
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/UFZM9HpoakK6sRg-7Vm2W8uLIQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-6-with-Clock-86c91da96d4043369f0a4e97b22c4209.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Features: The same Alexa**
 
  The Echo Dot (4th Gen) is powered by[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) . The Alexa voice assistant on the new Echo Dot is the same Alexa that you get on the Echo Dot (3rd Gen). You’ll be able to control your smart devices, listen to music, hear the news, set routines, shop, manage your schedule, and do all of the same things you could do before.[Alexa is always learning new skills](https://www.lifewire.com/alexa-skills-4126799) though. Amazon announced new Alexa features (coming soon) like Care Hub, which is a free feature that lets you check in on loved ones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Echo Dot (4th Gen) With Clock: A Design Game Changer**
 
@@ -130,7 +138,7 @@ Lifewire / Erika Rawes
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/bnVMEDjyf8t4zDkpRwr4-5msD2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-7-with-Clock-9b93a56f3d0049c5a2064cd4b21c7cb5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -141,19 +149,11 @@ Lifewire / Erika Rawes
 
  I like the Echo Dot (4th Gen) with Clock better than the regular Echo Dot (4th Gen), as the regular version feels like it’s missing something.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: $60 with clock, $50 without**
 
  The Echo Dot (4th Gen) retails for $50, and for $10 more, you can pick up the “with clock” version. The clock is very much worth it simply because the device looks so much better with it (aside from the obvious added functionality), and for first-time buyers, the default model is definitely worth $50\. It looks great, sounds good, and provides an affordable way to access Alexa and control your smart home.
 
 ![Amazon Echo Dot (4th Gen)](https://www.lifewire.com/thmb/fdW9QpFUSBjNMTYTGdjFggaOH9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Echo-Dot-4th-Generation-5-Comparison-6841e2f32a734282b509976489bd0383.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -199,16 +199,20 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-hashtags-and-collaborations-for-1k-insta-following/"><u>[New] Leveraging Hashtags & Collaborations for 1K Insta Following</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-secrets-to-dynamic-and-effective-igtv-covers-for-2024/"><u>[Updated] Secrets to Dynamic & Effective IGTV Covers for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-14-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 14 with a Broken Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-13-pro-max-how-to-unlock-a-disabled-iphone-13-pro-max-by-drfone-ios/"><u>Disabled iPhone 13 Pro Max How to Unlock a Disabled iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-13-by-drfone-ios/"><u>How To Unlock A Found iPhone 13?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Premier 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-11-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 11 Pro/iPad Without Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-samsung-ssd-96-cups-drivers-update-and-download-process-on-windows-systems/"><u>Installing Samsung SSD 96 Cups Drivers Update and Download Process on Windows Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-reviews-and-guides/"><u>Navigating the World of Electronics with Tom's Hardware Reviews and Guides</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715701093837-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english/"><u>Navigating Through Top PS2 Games on Android Devices - A Compre Written in English.</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-enhancing-media-experience-combining-video-content-with-audio-elements/"><u>Updated In 2024, Enhancing Media Experience Combining Video Content with Audio Elements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mirthful-missions-delving-into-the-goofy-movie-vhs/"><u>'Mirthful Missions' - Delving Into The Goofy Movie VHS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mov-file-handling-best-practices-on-windows-10-systems/"><u>[Updated] 2024 Approved .mov File Handling Best Practices on Windows 10 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-demystifying-drones-a-deep-dive-into-mechanisms-and-use/"><u>[Updated] Demystifying Drones A Deep Dive Into Mechanisms and Use</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-15-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 13 Pro Passcode not Working?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-your-brands-potential-immerse-in-our-exclusive-collection-of-over-50-free-youtube-banners/"><u>Ignite Your Brand's Potential Immerse in Our Exclusive Collection of over 50 Free YouTube Banners</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-7-plus-5-ways-to-get-into-a-locked-apple-iphone-7-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 7 Plus? 5 Ways to get into a Locked Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/thrilling-rides-recorded-top-action-cam-gear-for-23-bikers-for-2024/"><u>Thrilling Rides Recorded – Top Action Cam Gear for '23 Bikers for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-z-fold-5-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy Z Fold 5 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-free-gaming-essential-tips-for-handling-hearts-of-iron-4-issues/"><u>Trouble-Free Gaming: Essential Tips for Handling Hearts of Iron 4 Issues</u></a></li>
 </ul></div>
 

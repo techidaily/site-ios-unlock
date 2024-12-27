@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)
-date: 2024-07-15T01:21:59.251Z
-updated: 2024-07-16T01:21:59.251Z
+date: 2024-12-25T23:03:51.760Z
+updated: 2024-12-27T12:33:18.216Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -55,6 +59,10 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
@@ -154,9 +162,6 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 - **Step 1:** Within the **Settings** app, scroll down the list on the left-hand side and tap **Display & Brightness**.
 - **Step 2:** On the right-hand side of the **Display & Brightness** screen, tap the **Auto-Lock** option.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
@@ -191,6 +196,10 @@ But fear not, for there are ways to **unlock an iPhone without a Home button**. 
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
 
 If your Apple iPhone SE (2020)'s Home button is out of commission, don't worry. There are several ways to regain access to your device. Let's explore seven methods on **how to unlock an iPhone without a Home button.**
@@ -215,6 +224,10 @@ Building upon the initial method, this resolution is effective only if you have 
 
 ![rest finger to open toggle](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Toggle the switch next to **Rest Finger to Open** to enable this feature.
 
 ### Method 3: Unlock the Apple iPhone SE (2020) Without the Home Button via AssistiveTouch
@@ -228,6 +241,10 @@ The alternative solution for **how to open an iPhone without the Home button but
 - **Step 2:** A floating grayscale button will emerge on your screen after verification. Tap on it. A contextual menu will display, offering options to emulate the functions of your Home button.
 
 ![assistivetouch menu selections](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Tap **Customize** **Top Level Menu** under Assistive Touch and choose **Home**. The action will guide you to the Apple iPhone SE (2020) passcode screen. From here, you can input your passcode to unlock the Apple iPhone SE (2020) without using the Home button.
 
@@ -250,10 +267,13 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![dr.fone unlock ios screen window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2:** Click **Start** and follow the on-screen instructions. Dr.Fone will automatically detect your device and provide the appropriate firmware package for download. Confirm and proceed.
 
 ![start ios screen unlocking process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Once the firmware is downloaded, Dr.Fone will verify it. Confirm the details and click **Unlock Now** to begin the unlocking process. Follow the on-screen instructions once more.
 
@@ -262,6 +282,10 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 - **Step 4:** The software will remove the lock screen from your Apple iPhone SE (2020). Click **Try again** if your Apple iPhone SE (2020) is still locked. Otherwise, click the **Done** button. After successful unlocking, set up your Apple iPhone SE (2020) as new. You can now **unlock your Apple iPhone SE (2020) without the Home button**.
 
 ![dr.fone successful unlock window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Unlock iPhone via Erase iPhone Features (iOS 15.2)
 
@@ -295,9 +319,6 @@ If none of the methods work or Dr.Fone is unavailable to you for some reason, th
 
 When faced with a broken iPhone Home button, several quick fixes and solutions can sometimes help. Here are some effective measures before considering professional assistance:
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![broken iphone home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-14.jpg)
 
 **Recalibrate the Home Button**
@@ -328,7 +349,9 @@ For a comprehensive fix, consider Dr.Fone Screen - Unlock iOS if data loss is a 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Your Apple iPhone SE (2020) Passcode: 4 Easy Methods (With or Without iTunes)
 
@@ -355,8 +378,6 @@ If you have already synced your Apple iPhone SE (2020) with iTunes, then you can
 Too many times, users don’t get the desired results with iTunes. Therefore, we recommend using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool to learn [how to unlock iPhone 6 without a passcode](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html). The tool is compatible with all the leading iOS versions and devices. It provides a seamless solution to fix all the major issues related to an iOS device and that too within minutes. You can learn how to unlock iPhone 5 passcode by following these instructions. Though, the same steps would work with other iOS versions as well.
 
 Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlock.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -393,9 +414,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 7\. In addition, by typing the on-screen code you need to verify your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-confirm your choice](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
 8\. After agreeing with the confirmation message, the application will start fixing your Apple iPhone SE (2020). You might need to wait for a few minutes.
@@ -416,15 +434,16 @@ If your Apple iPhone SE (2020) is already in sync with iCloud and you have enabl
 
 ![Unlock iPhone Passcode using iCloud-Click on “Find iPhone”](https://images.wondershare.com/drfone/article/2017/10/15081779795839.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. If you have linked several devices with your iCloud account, then simply click on the “All Devices” option and select your Apple iPhone SE (2020).
 
 ![Unlock iPhone Passcode using iCloud-select your Apple iPhone SE (2020)](https://images.wondershare.com/drfone/article/2017/10/15081779999401.jpg)
 
 4\. This will provide various options related to your Apple iPhone SE (2020). Simply click on the “Erase iPhone” button and confirm your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-Erase iPhone](https://images.wondershare.com/drfone/article/2017/10/15081780218355.jpg)
 
 This will restart your Apple iPhone SE (2020) while wiping it entirely. You need to set up your Apple iPhone SE (2020) as a new device without any lock screen.
@@ -449,6 +468,10 @@ As you can see, in all the above-stated solutions, your Apple iPhone SE (2020) d
 
 ![Unlock iPhone Passcode-Select all](https://images.wondershare.com/drfone/article/2017/10/15081781269275.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6\. As the entire text would be selected, you will get various options. Choose the “Share” option to proceed.
 
 ![Unlock iPhone Passcode-Choose the “Share” option](https://images.wondershare.com/drfone/article/2017/10/15081781446881.jpg)
@@ -465,9 +488,6 @@ As you can see, in all the above-stated solutions, your Apple iPhone SE (2020) d
 
 10\. This will turn the text in green colour. Now, you need to tap on the add icon beside it.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-tap on the add icon](https://images.wondershare.com/drfone/article/2017/10/15081782429835.jpg)
 
 11\. As it will launch a new interface, you can just select the “Create new contact” option.
@@ -488,7 +508,6 @@ As you can see, in all the above-stated solutions, your Apple iPhone SE (2020) d
 
 As you can see, there are plenty of ways to learn how to unlock iPhone passcode without much trouble. Ideally, you should go with Dr.Fone - Screen Unlock (iOS) to resolve any kind of issue related to your Apple iPhone SE (2020). Easy to use, the application provides highly reliable results and will certainly come handy to you on numerous occasions. Now when you know how to unlock iPhone 6 passcode, you can share this guide with your friends and family as well and help them resolve this issue.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -501,9 +520,19 @@ As you can see, there are plenty of ways to learn how to unlock iPhone passcode 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10-high-quality-photography-lenses-for-2024/"><u>[New] Top 10 High-Quality Photography Lenses for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-searchingforsmartercameraspost-mycam-for-2024/"><u>[Updated] SearchingForSmarterCamerasPost-MyCam for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-p55plus-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel P55+</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone SE (2022) Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-15-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 15 with iTunes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-13-mini-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 13 mini in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-8-plus-5-ways-to-get-into-a-locked-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 8 Plus? 5 Ways to get into a Locked Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapseed-essentials-for-image-enthusiasts/"><u>In 2024, Snapseed Essentials for Image Enthusiasts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-path-to-flawless-film-recording-device-agnostic-guide-for-2024/"><u>The Path to Flawless Film Recording Device Agnostic Guide for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/ultimate-frisbee-unions-dismiss-online-networking/"><u>Ultimate Frisbee Unions Dismiss Online Networking</u></a></li>
+</ul></div>
 

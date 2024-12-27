@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 11 Pro Swipe-Up? Try These 11 Solutions
-date: 2024-07-15T01:15:29.610Z
-updated: 2024-07-16T01:15:29.610Z
+date: 2024-12-26T11:29:56.520Z
+updated: 2024-12-27T05:48:32.153Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,9 +28,6 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
@@ -95,7 +92,6 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
-
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 11 Pro. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -130,9 +126,17 @@ If your Apple iPhone 11 Pro swipe-up gesture isn't working specifically on the l
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6. Enable Control Center Within Apps
 
@@ -178,15 +182,16 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 10. Turn Off Reduce Motion
 
 Reduce Motion is an accessibility setting on iPhones designed to reduce animations and visual effects. It is particularly for users sensitive to motion effects. However, enabling this feature might affect certain gestures or animations on the Apple iPhone 11 Pro device. Thus potentially causing issues with the swipe-up function. Here's how to turn off Reduce Motion to fix the **iPhone 11 won’t swipe up to unlock**:
 
 **Step 1.** Go through your iOS device Settings to open the "Accessibility" tab. Here, find and tap the "Motion" option to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![navigate motion features in accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-14.jpg)
 
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
@@ -201,6 +206,10 @@ Resetting all settings on your Apple iPhone 11 Pro can help resolve software-rel
 
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 11 Pro is restored to its original settings.
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
@@ -208,8 +217,6 @@ Resetting all settings on your Apple iPhone 11 Pro can help resolve software-rel
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 11 Pro device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 11 Pro without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -240,21 +247,25 @@ Upon downloading and installing Wondershare Dr.Fone onto your computer, access t
 
 ![access screen lock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Ensure Your Device is in Recovery Mode**
 
 Now, adhere to the on-screen prompts provided to enter Recovery Mode based on the specific model of your iDevice. Then, the platform automatically recognizes and exhibits the Apple iPhone 11 Pro device Model. If necessary, change the model and choose the system version as per your preferences. Upon completion, click on "Start" to continue the process.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![follow on-screen prompts](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Unlock Your iOS Device Successfully**
 
 Once the iOS firmware has been successfully downloaded, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will emerge on the screen, requesting confirmation of the process. Enter the code and tap "Unlock" to proceed to the final step. Upon successfully unlocking the iDevice, click the "Done" button to finish the process.
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## Conclusion
 
@@ -288,6 +299,10 @@ If you find this warning annoying or your Apple iPhone 11 Pro not charging when 
 After completing all the steps, your Apple iPhone 11 Pro can connect USB accessories anytime, anywhere. However, it is very common to forget to unlock the passcode. Next, we will recommend four solutions to help you use USB accessories without a passcode.
 
 ![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Unlock Apple iPhone 11 Pro to Use USB Accessories without Passcode via Dr.Fone?
 
@@ -326,7 +341,6 @@ There is no doubt that you may worry about losing all your data while bypassing 
 **This guide will teach you about how to unlock iphone using 5 feasible ways.**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
-
 
 ## Part 4: How to Unlock Apple iPhone 11 Pro to Use USB Accessories without Passcode via iCloud?
 
@@ -405,15 +419,16 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 Are you concerned about your privacy and would like to secure certain apps on your iOS device? Don’t worry! There are plenty of ways to app lock the Apple iPhone 11 Pro and protect your privacy. You can follow the same drill to restrict the usage of certain apps for your kids as well by taking the assistance of the Apple iPhone 11 Pro app lock feature. The app lock for iPhone and iPad options can be used pretty easily. There are plenty of native and third-party solutions out there that you can use. In this post, we will make you familiar with seven different techniques on how to lock apps on iPhones and iPads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Lock Apps on iPhone with Screen Time?
 
 Utilizing Screen Time on your Apple iPhone 11 Pro offers a versatile way to manage app access. It is done through time restrictions and a dedicated passcode. By implementing Screen Time settings, you can exercise control over app usage. It ensures added security and regulated access to your preferred applications. Now, let's walk through the steps to learn **how to lock apps on iPhone** Screen Time:
 
 **Step 1.** Begin by accessing the Settings on your iOS device and tapping on the "Screen Time" option. On the ensuing screen, tap "App Limits," followed by "Add Limit."
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the app limits option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-1.jpg)
 
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
@@ -439,6 +454,10 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 **Step 1.** On your Apple iPhone 11 Pro, launch the Shortcuts app and select the "Automation" tab from the bottom toolbar. There, tap "New Automation" and use the search bar to look for and select "App."
 
 ![choose app automation option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Now, tap "Choose" in front of the "App" and select the app you want to lock. Now, move down and select "Is Opened," then move further down to choose "Run Immediately." Here, leave "Notify when Run" deactivated.
 
@@ -471,8 +490,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone 11 Pro passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -510,9 +527,6 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![exit guided access](https://images.wondershare.com/drfone/article/2017/09/15060136247710.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Part 6: How to Lock Apps on iPhone with Touch ID?
 
 On the Apple iPhone 11 Pro 8 Series and iPhone SE, Apple offers Touch ID for security. In the process, it is similar to the Face ID available on the later iPhones. If you have an iOS device with Touch ID, here are the steps you can follow for the **app lock iPhone** process:
@@ -605,12 +619,13 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone 11 Pro without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone 11 Pro in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -624,9 +639,26 @@ By following these solutions, you would be able to learn how to lock apps on the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>[New] 2024 Approved The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-video-playback-issues-on-instagram/"><u>[Updated] 2024 Approved Mastering Video Playback Issues on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-achieving-comprehensive-participant-visualization-on-meet/"><u>[Updated] Achieving Comprehensive Participant Visualization on Meet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-advanced-mac-screen-plus-sound-capturer-extraordinaire/"><u>[Updated] In 2024, Advanced Mac Screen + Sound Capturer Extraordinaire</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-streams-for-gamers-unveiled/"><u>[Updated] Ultimate Streams for Gamers Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/clear-audio-in-videos-essential-tips-and-tool-reviews-for-2024/"><u>Clear Audio in Videos Essential Tips and Tool Reviews for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-lenovo-t430-drivers-for-multiple-windows-os-versions/"><u>Effortless Installation - Lenovo T430 Drivers for Multiple Windows OS Versions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6s-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-xr-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone XR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-by-drfone-ios/"><u>How to Unlock Apple iPhone 15?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-14-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 14 Pro Max with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro Max</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/nailing-your-live-on-facebook-a-recorders-manual/"><u>Nailing Your Live on Facebook A Recorder's Manual</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-alternatives-of-pinnacle-studio-on-mac-for-2024/"><u>New Best Alternatives of Pinnacle Studio on Mac for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Prevention & Solution</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-is-this-what-it-was-designed-for/"><u>Review - Is This What It Was Designed For?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-13-mini-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 13 mini Passcode without a Computer</u></a></li>
+</ul></div>
 

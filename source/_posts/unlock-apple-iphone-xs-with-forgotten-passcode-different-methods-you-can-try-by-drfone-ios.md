@@ -1,7 +1,7 @@
 ---
 title: Unlock Apple iPhone XS With Forgotten Passcode Different Methods You Can Try
-date: 2024-12-14T22:38:38.311Z
-updated: 2024-12-21T18:48:17.104Z
+date: 2024-12-24T02:01:49.311Z
+updated: 2024-12-27T11:17:47.926Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 Have you forgotten the passcode iPhone 6? We know forgetting your Apple iPhone XS passcode can be a frustrating experience, but luckily it is possible to unlock your device. Using different methods, we will show you how to unlock your Apple iPhone XS 6 with a forgotten passcode.
 
 So let's get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 3 Ways to Unlock iPhone 6 without Forgotten Passcode
 
@@ -44,6 +48,10 @@ You can use Recovery mode to reset your device if you've synced your Apple iPhon
 
 ![with itunes](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Just go with the steps below.
 
 - **Step 1:** To begin with, you need to connect your Apple iPhone XS to a computer and turn on iTunes.
@@ -52,11 +60,19 @@ Just go with the steps below.
 
 iTunes will now begin downloading the software for your device. Once it's finished, you can set up your device as new and choose a new passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Use Siri
 
 If you're running iOS 8 or later, you may be able to use Siri to bypass the lock screen. This method doesn't work on all devices, and it can be patched with a software update, so it's not a guaranteed way to reset your passcode.
 
 ![siri](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Just follow the instructions.
 
@@ -66,10 +82,6 @@ Just follow the instructions.
 - **Step 4:** Tap on "Clock," and you'll be taken to the Clock app. From here, you can access other apps like Calendar, Reminders, and more.
 
 While this method doesn't give you direct access to the home screen, it does allow you to bypass the lock screen and access some of your device's features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Easy Tool to Unlock iPhone 6 without Passcode
 
@@ -98,10 +110,6 @@ Unlock iPhone Without Passcode
 **Step 3:** Follow the instructions below to put your device in DFU or Recovery mode.
 
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** Once your device enters into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your Apple iPhone XS 6.
 
@@ -145,9 +153,17 @@ Once it's finished, you can safely disconnect your Apple iPhone XS and keep the 
 
 If your Apple iPhone XS is disabled, restoring your device using above mentioned methods is the only way to fix it. However, this will erase all your data, so ensure you have a backup before proceeding.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How can I reset my iPhone if I forget my passcode without losing any data?
 
 As we mentioned before, there is no way to reset your device without losing your data unless you have a backup. So, ensure you have a backup before proceeding with the reset process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Can I unlock my iPhone 6 without a passcode?
 
@@ -196,6 +212,10 @@ First, download and launch Dr.Fone – Screen Unlock on the computer. Then, clic
 
 ![tap on screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Booting the Apple iPhone XS device**
 
 Tap on “Unlock iOS Screen” afterward. Now, Follow the on-screen instructions to boot your phone in Recovery or DFU mode. If you cannot activate the recovery mode, click the button line to work on the DFU mode.
@@ -214,14 +234,6 @@ After the DFU mode is activated, confirm the Apple iPhone XS device information,
 
 ![click on unlock button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Remove iPhone Screen Lock Using the Recovery Mode
 
 There are other ways to **unlock screen passcode.** For starters, you can consider resolving this issue using the Recovery mode. It is a troubleshooting operation that lets iTunes fix the issue and erase the old passcode. Follow the procedure below vividly:
@@ -239,10 +251,6 @@ There are different ways to activate the Recovery mode based on your Apple iPhon
 - Suppose you own an iPhone 6S or earlier, an iPad, or iPod Touch. Press and hold the Home button and the Side buttons. Until the Recovery Mode enables, you need to hold these buttons off.
 
 ![activate iphone recovery mode](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Restoring Process**
 
@@ -276,10 +284,6 @@ Click on the Apple iPhone XS device that needs to be removed. Then click on “E
 
 ![click on erase iphone](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Pros**
 
 - The user is free to access all the Apple iPhone XS devices through iCloud, whether iPad, iPhone, or iPod.
@@ -301,10 +305,6 @@ You can also consider unlocking your Apple iPhone XS through Find My iPhone. Thi
 **Step 2:** You need to select the “Devices” tab and locate your device in the list. After finding the Apple iPhone XS device, scroll down and click on the “Erase This Device” button.
 
 ![select erase this device option](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** A confirmation message will be provided where you need to tap “Continue” to proceed. When that particular device connects to the internet, the data across it will start to delete automatically.
 
@@ -337,7 +337,7 @@ If you do not have any potential source for unlocking your Apple iPhone XS, you 
 ![return to iphone home page](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Pros**
@@ -349,10 +349,6 @@ If you do not have any potential source for unlocking your Apple iPhone XS, you 
 
 - If you have a version of iOS except **3.2 and 10.3.3**, you cannot use this method.
 - This method is not applicable if Siri is not activated across your Apple iPhone XS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: FAQs about iPhone Screen Lock
 
@@ -431,10 +427,6 @@ Unlocked iPhone 15 Series presents a world of advantages. However, it's essentia
 
 Unlocked iPhones often come with a higher upfront cost compared to locked devices. This is because carriers subsidize locked phones to some extent. Moreover, it allows them to offer lower initial prices in exchange for long-term contracts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Limited Trade-In Options
 
 Some carriers offer trade-in programs for older phones when you upgrade to a new device. These programs might be more limited for unlocked devices. This can potentially affect your ability to offset the cost of a new phone.
@@ -442,6 +434,10 @@ Some carriers offer trade-in programs for older phones when you upgrade to a new
 ### 3\. No Carrier Support for Technical Issues
 
 Apple provides technical support for all iPhones. However, carrier-specific issues might be more challenging to resolve with an unlocked device. Carriers may prioritize support for their locked devices. It could potentially lead to delays or complications in addressing certain problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Limited Carrier-Specific Features
 
@@ -467,6 +463,10 @@ When it comes to purchasing an unlocked iPhone 15 from the latest series, choosi
 - [Best Buy](https://www.bestbuy.com/site/iphone/iphone-unlocked-phones/pcmcat1542305802014.c?id=pcmcat1542305802014)
 - [Swappa](https://swappa.com/buy/unlocked/iphones)
 - [Gazelle](https://buy.gazelle.com/collections/iphone-unlocked)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Is There Any Way To Unlock a Locked iPhone? \[iOS 12.0 – iOS 14.8.1\]
 
@@ -528,19 +528,18 @@ When it comes to unlocking locked iPhones, a cautious and well-informed approach
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-androids-best-youtube-video-downloaders-reviewed/"><u>[Updated] Android's Best YouTube Video Downloaders Reviewed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-master-the-meter-elevate-your-instagram-metrics-by-1kmnth/"><u>[Updated] In 2024, Master the Meter Elevate Your Instagram Metrics by 1K/Mnth</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-revolutionizes-browsing-top-8-productive-chrome-extensions-powered-by-machine-learning/"><u>AI Revolutionizes Browsing: Top 8 Productive Chrome Extensions Powered by Machine Learning</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-value-budget-friendly-pros-for-high-impact-sports/"><u>Best Value Budget-Friendly Pros for High-Impact Sports</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-15-pro-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Pro Lock Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-a1-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo A1 5G.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone XS Max Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-xs-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone XS Max Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-6ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 6/iPad Without Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xr-5-ways-to-get-into-a-locked-iphone-xr-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-key-to-attracting-views-youtube-image-marketing/"><u>In 2024, The Key to Attracting Views YouTube Image Marketing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/step-by-step-tutorial-recording-and-saving-videos-as-mp4s-on-a-windows-pc/"><u>Step-by-Step Tutorial: Recording and Saving Videos as MP4s on a Windows PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-helperdll-could-not-be-found-mistake/"><u>Troubleshooting the 'Helper.dll' Could Not Be Found Mistake</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-a-compreenasion-of-siri-integration-into-tiktok-filmmaking/"><u>[New] A Compreenasion of Siri Integration Into TikTok Filmmaking</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ind-puzzling-stats-a-graphed-journey-through-yt-17-for-2024/"><u>[New] Mind-Puzzling Stats A Graphed Journey Through YT '17 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-deciphering-the-must-haves-for-an-enhanced-youtube-experience/"><u>[Updated] 2024 Approved Deciphering the Must-Haves for an Enhanced YouTube Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-fundamental-equipment-for-channel-foundations/"><u>[Updated] In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-art-of-podcast-storytelling-writing-tips-and-example-guides-for-2024/"><u>[Updated] The Art of Podcast Storytelling Writing Tips & Example Guides for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-6s-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 6s Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-comic-relief-in-the-metaverse-meme-basics-unveiled/"><u>Crafting Comic Relief in the Metaverse – Meme Basics Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-homework-assistance-apps-for-students-and-their-guardians/"><u>Discover the Best 6 Homework Assistance Apps for Students & Their Guardians</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-app-store-glitch-0x80131500/"><u>Fixing Microsoft App Store Glitch #0X80131500</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-6s-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 6s Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone SE with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6s-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6s i Do? Get Answers here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-a78s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo A78s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

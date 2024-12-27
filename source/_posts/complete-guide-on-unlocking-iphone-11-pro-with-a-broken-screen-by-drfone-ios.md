@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 11 Pro with a Broken Screen?
-date: 2024-07-15T01:15:14.347Z
-updated: 2024-07-16T01:15:14.347Z
+date: 2024-12-24T04:44:58.673Z
+updated: 2024-12-27T08:52:11.656Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,6 +46,10 @@ Also, if your Apple iPhone 11 Pro screen is broken, you can use this feature to 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
@@ -96,9 +100,6 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
@@ -111,6 +112,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 11 Pro device and let you pick a photo.
 
 **Step 8.** When the photo library is open, tap on the home button or return button to get back to the unlock screen to get to the Settings symbol.
@@ -122,7 +127,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -142,6 +146,10 @@ Removing the lock screen requires you to boot your Apple iPhone 11 Pro in Recove
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Confirm your Phone Model**
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 11 Pro.
@@ -156,10 +164,13 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 11 Pro effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disabled Apple iPhone 11 Pro: How to Unlock a Disabled Apple iPhone 11 Pro?
 
@@ -175,7 +186,9 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a unique tool designed to help you avoid all hassles and get back on track quickly. It comprises modules designed to help you with all the issues that you might encounter during smartphone use. Naturally, there is something to help you when your Apple iPhone 11 Pro is disabled. You don't need to use anything else, no other software or special cable or support. All you need is this one software you can download on your computer (both macOS and Windows supported) and you're good to go.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -210,10 +223,11 @@ Do note that all methods that unlock your Apple iPhone 11 Pro will necessarily w
 
 Your Apple iPhone 11 Pro will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 11 Pro device. When you set the Apple iPhone 11 Pro device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 11 Pro prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 11 Pro device again.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Unlock Disabled Apple iPhone 11 Pro Using iTunes or macOS Finder
 
@@ -234,6 +248,10 @@ Step 2: Pick your Apple iPhone 11 Pro and do the following:
 Step 3: Choose Restore to download and reinstall the latest iOS on your Apple iPhone 11 Pro and unlock your Apple iPhone 11 Pro.
 
 When the Apple iPhone 11 Pro reboots, it will be reset to factory settings, and you can set it up again as you did when brand new.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Unlock Disabled Apple iPhone 11 Pro Using iCloud Website (Find iPhone method)
 
@@ -300,8 +318,6 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
 ## How to Unlock Apple iPhone 11 Pro without Passcode or Face ID
 
 You can't access your Apple iPhone 11 Pro because the Face ID isn't working, and you forgot your passcode? So you are considering **how to unlock iPhone without face ID or passcode**. If so, this article will walk you through how to do that.
@@ -319,8 +335,9 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 ![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Via iTunes
 
 **Step 1. Go to Recovery Mode**
@@ -328,6 +345,10 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 Entering the recovery mode requires various steps, given your Apple iPhone 11 Pro model or settings. Assuming you're uncertain which one you have, check the rear of your phone or the client manual you got in the first box.
 
 ![enter recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iPhone 8 and Above:**
 
@@ -398,10 +419,13 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ![activate iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** Click Next Page > Back to enter the lock bypass screen. These are all the required steps for **how to unlock iPhone without passcode or face ID 2022.**
 
 ### 4\. Dr.Fone-Screen Unlock
-
 
 This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
 
@@ -439,7 +463,6 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 
 **Note:** This unlocking process will erase everything off your Apple iPhone 11 Pro and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
 
-
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
 Face ID can be a helpful method for unlocking your Apple iPhone 11 Pro - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
@@ -450,18 +473,12 @@ Here's the step-by-step guide to the most effective method to switch off Face ID
 
 First, tap on your Settings app to open it. That is the one on the home screen with a symbol like the mechanical gear.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Tap on Face ID and Passcode
 
 On the Settings menu, tap on the Face ID and Passcode menu.
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Enter your passcode
 
 At this stage, you'll be approached to enter your passcode, so do this to get to the Face ID and Passcode menu.
@@ -484,7 +501,6 @@ It doesn't work by snapping a picture of your face, but by taking a contour of y
 
 That's all about our take on **how to unlock iPhone without passcode or face ID 2022.** We have worked hard to make sure you get the right solutions in hand. However, we strongly suggest Dr.Fone if you still face issues with our solutions. Even if the above methods fail, Dr.Fone will ensure you unlock your phone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -497,9 +513,17 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-platforms-reach-with-ripl-methods/"><u>Elevate Your Platform's Reach with Ripl Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-xs-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone XS Max/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2022-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2022) Without iTunes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-dual-channel-recordings-with-snipping-tool-windows-11-edition-max-156/"><u>Mastering Dual-Channel Recordings with Snipping Tool (Windows 11 Edition) (Max 156)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/navigating-through-get-params-comprehensive-guide-to-definitions-real-world-uses-and-impact-on-seo/"><u>Navigating Through Get Params: Comprehensive Guide to Definitions, Real-World Uses & Impact on SEO</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-applications-for-adding-audio-to-video-in-android/"><u>New Applications for Adding Audio to Video in Android</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-atomic-heart-errors-when-launching-your-computer/"><u>Resolving Atomic Heart Errors When Launching Your Computer</u></a></li>
+</ul></div>
 

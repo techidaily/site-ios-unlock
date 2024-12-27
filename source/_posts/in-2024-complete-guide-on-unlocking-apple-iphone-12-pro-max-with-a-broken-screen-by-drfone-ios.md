@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking Apple iPhone 12 Pro Max with a Broken Screen?
-date: 2024-09-21T02:37:14.997Z
-updated: 2024-09-28T02:28:21.785Z
+date: 2024-12-21T06:02:48.295Z
+updated: 2024-12-26T23:42:49.444Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ Is your Apple iPhone 12 Pro Max screen broken, and you're wondering **how to unl
 Locking an iPhone with a passcode is a great way to prevent it from getting into the wrong hands. However, some misfortunes can happen, and you might be left with a broken screen. In such cases, you won't be able to get the data inside your phone. So, to get back at your files or to reset your device, you will need to unlock your phone first.
 
 In this detailed guide, we will elaborate on the best possible methods you can employ to **unlock iPhone with broken screen.** Moreover, we will introduce you to the best unlocking tools available for your situation. So stay with us till the end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Use the Feature "Find My iPhone" to Unlock an iPhone with Broken Screen
 
@@ -47,9 +51,17 @@ Also, if your Apple iPhone 12 Pro Max screen is broken, you can use this feature
 
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** Enter the password to proceed.
 
@@ -108,6 +120,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 12 Pro Max device and let you pick a photo.
 
 **Step 8.** When the photo library is open, tap on the home button or return button to get back to the unlock screen to get to the Settings symbol.
@@ -152,13 +168,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 12 Pro Max effectively. However, note that this unlocking will likewise wipe your user data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
@@ -182,6 +191,10 @@ The tool provides users with the convenience of checking if their device is blac
 1. It allows you to check the SIM lock status and warranty status of your iOS device.
 2. doctorSIM can also help you check the [iCloud Activation Lock](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html) Status and MI Account Activation Status.
 3. Along with the old devices, this service is also compatible with the latest models, such as the Apple iPhone 12 Pro Max 15 series,
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros
 
@@ -221,24 +234,25 @@ Customer **doctorSIM reviews** highlight the platform's reliability, effectiven
 
 It is important to clarify that doctorSIM primarily focuses on IMEI unlocking. This liberates a device from carrier restrictions to enable use with various networks. Amongst all the discussion, it is crucial to differentiate that this service does not offer iCloud Activation Lock removal in any case. Here are some top alternatives specifically that you can consider when using doctorSIM for unlocking purposes:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. IMEIDocto
 
 Specializing in unlocking iPhones by IMEI, IMEIDoctor is a trusted service. It offers a dependable solution for users seeking freedom from carrier restrictions. IMEIDoctor stands out further due to its extensive support for various iPhone models and carriers. It solidifies its status as a reliable choice.
 
 ![imeidoctor imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. CellUnlocker
 
 CellUnlocker stands out as a reputable IMEI unlocking service, catering to many types of smartphones. Known for its reliability, the service facilitates unlocking for numerous carriers globally. This provides flexibility for users requiring international use of their devices. The user-friendly interface further enhances the overall experience.
 
 ![cellunlocker imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. IMEIUnlockSIM
 
@@ -282,13 +296,6 @@ Now, decide whether your device is GSM or CDMA, as it is an important aspect. By
 
 ![start to unlock device](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3. Jailbreaking and Activation Lock Bypass**
 
 After this, if your iDevice isn't jailbroken, you will be required to jailbreak your device. For that, you can follow the step-by-step textual instructions or watch a video. Once the Apple iPhone 12 Pro Max device is jailbroken, the process will commence automatically to bypass the Activation Lock. A completion message will pop up on the window when the process finishes. Afterward, tap the “Done” button to finalize the process successfully.
@@ -315,6 +322,10 @@ After processing the Apple iPhone 12 Pro Max device in DFU Mode, Dr.Fone initiat
 
 ![icloud activation lock bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. For Devices Running iOS/iPadOS 16.4~16.6
 
 For users with devices operating on iOS/iPadOS versions 16.4~16.6, Dr.Fone offers a streamlined approach to removing the iCloud Activation Lock. This solution is crafted to autonomously retrieve and jailbreak your device. This eliminates the necessity for manual interference or the use of third-party apps. Post-jailbreak, proceed with the steps detailed above in the "For Devices Running iOS/iPadOS 12.0 to 14.8.1" section.
@@ -325,6 +336,10 @@ Throughout this **doctorSIM unlock service review**, we explored the different I
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Much Does It Cost for Unlocking iPhones? Get Answers
 
 Have you purchased a carrier-locked iPhone or got into an “iPhone Disabled” issue? Apple's security makes it hard for you to get into your phone without authorization. There are various legitimate solutions to eliminate these issues, but they require you to focus on guidelines and pay a specific cost. Are you facing similar issues and wondering **how much will it cost to unlock an iPhone** device?
@@ -332,13 +347,6 @@ Have you purchased a carrier-locked iPhone or got into an “iPhone Disabled” 
 This well-researched guide will provide facts and cost details of different carrier services and Apple ID or IMEI unlocking tools. Luckily, you will also find a perfect tool that offers multiple unlocking solutions for iPhones at a reasonable price.
 
 ![costing an iphone to unlock](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. How To Check Whether iPhone Is Locked or Not?
 
@@ -385,13 +393,6 @@ Your iPhone can support different network operators only if it is unlocked and a
 
 1. Your payments for equipment should be clear.
 2. Your Apple iPhone 12 Pro Max should not be reported stolen or missing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Sprint
 
@@ -458,13 +459,6 @@ Approx $200
 Approx $200
 
  |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How Much Does It Cost To Unlock Disabled iPhone?
 
@@ -557,13 +551,6 @@ Hit the "Start" button to initiate unlocking the iPhone. After that, you will ne
 
 ![put your iphone in recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3. Download iOS Firmware and Unlock Screen**
 
 The tool starts downloading the iOS firmware and shows the download progress. After downloading, click on the "Unlock Now" button. Enter the code in the confirmation box to verify the process and start unlocking the screen. At last, hit the "Done" button to complete the process.
@@ -599,10 +586,7 @@ The required iOS firmware starts downloading and shows details on the next scree
 ![apple id unlocked completely](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -625,20 +609,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[New] 2024 Approved Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-revisit-facebooks-top-watches-a-step-by-step/"><u>[New] Revisit Facebook's Top Watches A Step-by-Step</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-google-photos-your-ultimate-tutorial/"><u>2024 Approved Mastering Google Photos Your Ultimate Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-years-finest-photo-framers-and-organizers-compilation/"><u>2024 Approved The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-gentle-volume-declines-in-premiere-pro-videos-for-2024/"><u>Crafting Gentle Volume Declines in Premiere Pro Videos for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-xs-max-how-to-unlock-a-disabled-apple-iphone-xs-max-by-drfone-ios/"><u>Disabled Apple iPhone XS Max How to Unlock a Disabled Apple iPhone XS Max?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-fixing-realtek-hd-audio-unplugged-notifications-on-pcs/"><u>Expert Guide: Fixing Realtek HD Audio Unplugged Notifications on PCs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-7-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 7 in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-6-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 6 When You Forget the Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-screen-expansion-glitches-for-windows/"><u>Rectified Screen Expansion Glitches for Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-7-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 7 Prevention & Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-wmv-format-using-vlc/"><u>Step-by-Step Guide: Transforming MP4 Videos Into WMV Format Using VLC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unleash-creativity-in-windows-10-how-to-trim-movies-and-more/"><u>[Updated] 2024 Approved Unleash Creativity in Windows 10 How To Trim Movies and More</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-racers-dilemma-gopro-hero-4-or-ghost-s/"><u>2024 Approved The Ultimate Racer's Dilemma GoPro Hero 4 or Ghost-S?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/elite-defining-video-processor-advanced-hd-conversion-software-solutions/"><u>Elite Defining Video Processor: Advanced HD Conversion Software Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-mobvois-ticwatch-pro-with-gps-tracking-and-extended-battery-life-via-double-displays/"><u>Expert Analysis of Mobvoi's TicWatch Pro Ⅲ with GPS Tracking and Extended Battery Life via Double Displays</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/more-views-beginners-guide-to-youtube-seo-for-2024/"><u>Gain More Views Beginner’s Guide to YouTube SEO for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-6s-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 6s with a Broken Screen?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-efficient-techniques-for-youtube-shorts-revenue/"><u>In 2024, Efficient Techniques for YouTube Shorts Revenue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-upside-down-world-of-instagram-videos/"><u>In 2024, Exploring the Upside-Down World of Instagram Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-12-mini-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-tips-altering-video-pace-in-instagram-stories/"><u>Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-art-of-precision-introducing-an-obs-countdown-timer-for-2024/"><u>The Art of Precision Introducing an OBS Countdown Timer for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
 

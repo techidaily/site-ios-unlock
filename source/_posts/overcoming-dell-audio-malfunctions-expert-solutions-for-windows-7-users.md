@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Dell Audio Malfunctions: Expert Solutions for Windows 7 Users"
-date: 2024-12-15T19:06:36.846Z
-updated: 2024-12-21T17:44:13.309Z
+date: 2024-12-22T13:20:16.269Z
+updated: 2024-12-27T07:56:45.312Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -48,8 +44,16 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
@@ -60,7 +64,7 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Speakers as Default
@@ -72,17 +76,21 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After it is listed, right-click on the speakers and click**Enable** .
@@ -90,14 +98,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -125,10 +129,6 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
@@ -151,22 +151,17 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools/"><u>[New] 2024 Approved Capturing Every Word A Comprehensive Guide to Zoom Transcription Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-make-a-lasting-impression-with-your-facebook-profile-story/"><u>[New] 2024 Approved How to Make a Lasting Impression with Your Facebook Profile Story</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-apples-m1-expedition-the-new-era-of-computing/"><u>[New] Apple's M1 Expedition The New Era of Computing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-mac-studio-to-youtube-stream-imovie-video-upload-guide/"><u>[New] In 2024, From Mac Studio to YouTube Stream IMovie Video Upload Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-list-of-ad-free-android-capturing-apps/"><u>[New] Ultimate List of Ad-Free Android Capturing Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-decoding-the-art-of-youtube-playlist-recalibration/"><u>2024 Approved Decoding the Art of YouTube Playlist Recalibration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquering-disparity-in-amd-freesync-outputs/"><u>Conquering Disparity in AMD FreeSync Outputs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone X</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 11 Pro Max Without a Home Button</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-se-2020-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone SE (2020) and iPad Securely</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-13-mini-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 13 mini Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 With or Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Pro Max Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Passcode without Computer?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-motorola-g54-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola G54 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-chat-on-google-meet/"><u>[New] 2024 Approved How to Chat on Google Meet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-accelerate-how-to-swiftly-broadcast-playlists/"><u>[Updated] 2024 Approved Accelerate How To Swiftly Broadcast Playlists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-digital-dreamland-gamers-income-evolution-for-2024/"><u>[Updated] Digital Dreamland Gamers' Income Evolution for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-visionary-tools-free-environmental-props-for-2024/"><u>[Updated] Visionary Tools Free Environmental Props for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-13-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 13? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-12-pro-max-5-ways-to-get-into-a-locked-apple-iphone-12-pro-max-by-drfone-ios/"><u>Locked Out of Apple iPhone 12 Pro Max? 5 Ways to get into a Locked Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-6s-plus-5-ways-to-get-into-a-locked-iphone-6s-plus-by-drfone-ios/"><u>Locked Out of iPhone 6s Plus? 5 Ways to get into a Locked iPhone 6s Plus</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-pro-grade-gopro-video-content-creation-for-2024/"><u>Mastering Pro-Grade GoPro Video Content Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/model-creation-made-easy/"><u>Model Creation Made Easy</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-mtp-connection-problems-and-solving-usb-driver-issues/"><u>Troubleshooting iPhone MTP Connection Problems and Solving USB Driver Issues</u></a></li>
 </ul></div>
 

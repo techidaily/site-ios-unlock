@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your Apple iPhone XS Max Properly
-date: 2024-12-16T22:37:52.266Z
-updated: 2024-12-22T01:33:58.477Z
+date: 2024-12-25T20:51:10.541Z
+updated: 2024-12-27T12:09:26.648Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,6 +35,10 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 ![using find my to locate iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Scenarios Where Find My Works
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
@@ -49,10 +53,6 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 - **Step 1.** Access the Find My app on a trusted device and open it. If you can't access one, use the iCloud website to access Find My service.
 
 ![open find my app](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
@@ -90,6 +90,10 @@ Lost Mode locks the Apple iPhone XS Max device and allows users to showcase a pe
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
 When efforts to locate a stolen iPhone fail, the need to protect sensitive data intensifies. As a result, the option to erase the Apple iPhone XS Max device becomes a crucial step instead of **how to lock the Apple iPhone XS Max when lost**. Here's how to protect against the potential misuse of your information by erasing your device via Find My:
@@ -105,6 +109,10 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 - **Step 3.** If using the iCloud website, tap "Erase This Device" and click "Next" on the upcoming prompt. You will be asked to enter the Apple ID password, after which you can use the on-screen guidelines to finish the process.
 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Other Things To Do iPhone Is Stolen
 
@@ -123,6 +131,10 @@ You can claim insurance if you have AppleCare+ coverage for your Apple iPhone XS
 To qualify for theft or loss coverage, it is necessary for Find My to be enabled on your device at the time it goes missing. Moreover, it should remain enabled alongside Lost Mode throughout the claims process.
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
@@ -160,17 +172,9 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 
 ![open find my settings](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-20.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Next, tap "Find My iPhone," on the ensuing window, toggle "Find My iPhone." This will enable the Find My service on your device.
 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Precaution #2. Enable Separation Alerts on iPhone
 
@@ -195,6 +199,10 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Find Stolen iPhone Back but Locked? Unlock With Wondershare Dr.Fone
 
@@ -247,7 +255,7 @@ Yet, despite its significance, issues can arise, disrupting the active status of
 ![apple id not active on device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. Reasons Why Apple ID Is Not Active
@@ -262,17 +270,9 @@ An inactive Apple ID results from incorrect login information. Mistyped password
 
 Apple employs strict security measures to protect user accounts. Sometimes, an Apple ID becomes inactive due to suspicious activities. This triggers security locks to safeguard sensitive information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Payment or Billing Issues
 
 Unsettled payments, expired credit cards, or billing-related problems can lead to an inactive Apple ID. Failure to update payment information or resolve outstanding dues may cause this issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Server or Network Problems
 
@@ -316,21 +316,17 @@ To initiate Recovery Mode for your iDevice, follow the on-screen instructions. O
 
 ![start apple id unlock process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4. Verifying Firmware and Confirming Apple ID Unlock**
 
 Once the firmware download is complete, the platform verifies it. To begin unlocking your Apple ID, select "Unlock Now." A prompt will pop up, requesting you to enter a code to proceed. Input the code and choose "Unlock" to start the unlocking process. After a successful unlocking, a confirmation message will appear on your screen. To conclude the process after the Apple ID is unlocked, click on "Done."
 
 ![apple id successfully unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-_**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+_**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 ## Part 3. Some Other Basic Solutions to Apple ID Not Active
 
@@ -343,6 +339,10 @@ An inactive Apple ID issue might sometimes stem from a temporary glitch within t
 **Instructions.** Begin by pressing the "Side" button along with any volume button at the same time. It will lead to the appearance of the “Power” slider, which you need to slide right to turn off the Apple iPhone XS Max device. Once it is turned off, press and hold the "Side" buttons to turn on your Apple iPhone XS Max.
 
 ![restart your ios device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2. Try Changing Wi-Fi or Mobile Data
 
@@ -395,7 +395,7 @@ When connecting with Apple Support, be ready to provide details about your issue
 ![get help from apple support](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -496,7 +496,7 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
@@ -539,20 +539,24 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-prime-pick-simple-effective-gaming-edit-suites/"><u>[New] 2024 Approved Prime Pick Simple, Effective Gaming Edit Suites</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-avoiding-camera-induced-image-disruption-for-2024/"><u>[Updated] Avoiding Camera-Induced Image Disruption for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-prime-time-for-podcast-debuts/"><u>[Updated] In 2024, Prime Time for Podcast Debuts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-video-to-live-photo-best-conversion-apps-and-methods-for-2024/"><u>From Video to Live Photo Best Conversion Apps and Methods for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-find-x6-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo Find X6 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-x-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone X Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-12-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 12 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solucionados-mantenimiento-tecnico-asegurese-de-que-el-equipo-este-apagado-antes-del-servicio/"><u>Solucionados | Mantenimiento Técnico: Asegúrese De Que El Equipo Esté Apagado Antes Del Servicio</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-13-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-lag-in-resident-evil-village-pc-edition-explained/"><u>Troubleshooting & Solving Lag in Resident Evil Village - PC Edition Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-your-upcoming-laptop-could-feature-thunderbolt-sharing-key-reasons-to-pay-attention/"><u>Why Your Upcoming Laptop Could Feature Thunderbolt Sharing: Key Reasons to Pay Attention</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-prime-audio-festivals-online/"><u>[New] In 2024, Prime Audio Festivals Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-humorous-highlights-create-with-kapwing-meme-maker/"><u>[Updated] Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-shadowy-snapshots-skills-for-stunning-night-images/"><u>[Updated] Shadowy Snapshots Skills for Stunning Night Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-x-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone X</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-insight-using-live-photos-effectively-for-2024/"><u>Expert Insight Using Live Photos Effectively for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-updates-amd-radeon-r5-graphics-driver-for-windows-11-10-8-and-nversions/"><u>Get the Latest Updates: AMD Radeon R5 Graphics Driver for Windows 11, 10, 8 & Nversions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6s-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6s? Complete Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-picshot-transforms-mixed-media-into-masterpieces/"><u>In 2024, How Picshot Transforms Mixed Media Into Masterpieces</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-8-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 8 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-12-pro-5-ways-to-get-into-a-locked-iphone-12-pro-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 12 Pro? 5 Ways to get into a Locked iPhone 12 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-a20-uncovered-is-this-budget-android-device-worth-your-attention/"><u>Samsung Galaxy A20 Uncovered: Is This Budget Android Device Worth Your Attention?</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-for-success-maximizing-windows-10-and-11-pin-length/"><u>Tailored for Success: Maximizing Windows 10 & 11 PIN Length</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-for-engrossing-youtube-stories-in-23-for-2024/"><u>The Ultimate List for Engrossing YouTube Stories in '23 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
 

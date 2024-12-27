@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for When a Toshiba Notebook Lacks Sound Output
-date: 2024-12-16T18:53:18.926Z
-updated: 2024-12-21T22:17:08.442Z
+date: 2024-12-21T00:13:06.551Z
+updated: 2024-12-27T12:39:15.827Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
  A lot of users find that they are**not having any sound on Facebook videos** when they play them on computer. If that’s your case, don’t worry. Here’re 7 fixes proven useful to many users, and they might solve your Facebook sound issue right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not have to try them all. Simply work down the list until you find the one that does the trick.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1:**Check if it’s a video problem**
 
@@ -53,22 +53,10 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t fix your problem, please take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Change to another browser**
 
@@ -103,12 +91,12 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -126,13 +114,17 @@ This method also applies to Windows 10, 8 or 7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
 
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7:**Change your audio channel**
@@ -148,18 +140,26 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -182,20 +182,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-compact-guide-to-transforming-vocal-identity-quickly-in-pubg/"><u>[New] 2024 Approved The Compact Guide to Transforming Vocal Identity Quickly in PUBG</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-adding-pizzazz-to-your-footage-with-moving-text/"><u>[New] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-evaluating-a-64gb-drive-writable-by-videos/"><u>[New] In 2024, Evaluating a 64GB Drive' Writable by Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unleash-creative-potential-for-video-editing-in-windows-photos/"><u>[Updated] Unleash Creative Potential for Video Editing in Windows Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-keeping-score-with-your-xbox-one-screenshots/"><u>2024 Approved Keeping Score with Your Xbox One Screenshots</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 11 Pro Max in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp3-mov-movavi/"><u>網路直接無障礙 MP3 到 MOV 格式轉換 - 利用 Movavi 工具</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-xs-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone XS with a Broken Screen?</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-x-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone X Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-12-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 12 Pro Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-essence-of-online-video-success-keywords-on-youtube/"><u>In 2024, The Essence of Online Video Success Keywords on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-wintvrecorder-effortless-free-live-tv-saving-software/"><u>[Updated] 2024 Approved WinTVRecorder Effortless, FREE Live TV Saving Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-earnings-guide-policy-updates-and-tips/"><u>2024 Approved YouTube Earnings Guide - Policy Updates & Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-15-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 15 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/experts-pick-for-ultimate-choices-top-40-inch-tvs-to-buy-zdnet-insights/"><u>Experts' Pick for Ultimate Choices: Top 40-Inch TVs to Buy | ZDNET Insights</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-paper-bootstrap-admin-design-template-featuring-angular-crafted-by-creative-tim/"><u>Free 'Paper' Bootstrap Admin Design Template Featuring Angular, Crafted by Creative Tim</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6s-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-15-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 15 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-6-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 6 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 8 Plus With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Passcode Screen?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-class-accessing-elite-visual-content-without-expense/"><u>In 2024, Master Class Accessing Elite Visual Content Without Expense</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/professional-tiktok-videos-with-strategic-zoom-use/"><u>Professional TikTok Videos with Strategic Zoom Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-play-7t-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Play 7T? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-dash.techidaily.com/youtube-gif/"><u>YouTube ムービーを GIFへ変換するコツと最適ソフト |無料リスト</u></a></li>
 </ul></div>
 

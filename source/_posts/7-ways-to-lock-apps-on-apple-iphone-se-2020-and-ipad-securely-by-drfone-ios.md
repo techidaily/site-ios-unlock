@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Lock Apps on Apple iPhone SE (2020) and iPad Securely
-date: 2024-07-15T01:18:38.909Z
-updated: 2024-07-16T01:18:38.909Z
+date: 2024-12-21T01:18:10.787Z
+updated: 2024-12-27T11:40:07.028Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,6 +30,10 @@ Utilizing Screen Time on your Apple iPhone SE (2020) offers a versatile way to m
 
 ![tap on add limit option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Lock Apps on iPhone with Face ID & Passcode?
 
 Leveraging the advanced security capabilities of Face ID or Passcode on your Apple iPhone SE (2020) X or later models effectively fortifies app access. By using facial recognition or passcodes, you can put in place an extra layer of protection. It can be done for specific apps, safeguarding your sensitive data from unauthorized access. Now, let's proceed with the detailed steps to lock apps using Face ID or Passcode on your iOS device:
@@ -52,9 +56,6 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 **Step 2.** Now, tap "Choose" in front of the "App" and select the app you want to lock. Now, move down and select "Is Opened," then move further down to choose "Run Immediately." Here, leave "Notify when Run" deactivated.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
@@ -77,9 +78,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 3.** Now, you can set up an app lock for iPhone using Restrictions. Simply go to General > Restrictions and turn this feature on for any app of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on restrictions for the app](https://images.wondershare.com/drfone/article/2017/09/15060135059851.jpg)
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
@@ -87,8 +85,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone SE (2020) passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -102,9 +98,6 @@ Remove iPhone iPhone-locked screen without Hassle.
 
 **4,008,670** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Lock Apps on iPhone Using Guided Access?
 
 Besides the Restrictions feature, you can also take the assistance of Guided Access to lock a certain app on your device. It was originally introduced in iOS 6 and can be used to restrict your device temporarily with the usage of a single app. It is mostly used by parents who would like to restrict their kids from using a single app while lending their devices. Teachers and people with special needs also use Guided Access pretty frequently. To learn how to lock apps on iPhone using Guided Access, follow these steps:
@@ -116,6 +109,10 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 2.** Turn on the “Guided Access” feature and tap on the “Passcode Settings”.
 
 ![guided access password](https://images.wondershare.com/drfone/article/2017/09/15060135537597.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** After selecting the “Set Guided Access Passcode” option, you can set up a passcode to use it as an app lock for iPhone.
 
@@ -193,6 +190,10 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 This will let your app lock the Apple iPhone SE (2020) without any trouble. You can also go to the “Reset Password Phrase” to change the passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Lock Apps onApple iPhone SE (2020) & iPad using BioProtect
 
 Just like Applocker, BioProtect is another third-party tool that works only on jailbroken devices. It can also be downloaded from Cydia’s repository. Apart from apps, you can also use BioProtect to lock settings, SIM features, folders, and more. It is linked to the Touch ID of the Apple iPhone SE (2020) device and scans the fingerprint of a user to grant (or deny) access to any app. The app only works on iPhone 5s and later devices, having a Touch ID. However, you can also set a passcode as well if your Touch ID is not working. To use the BioProtect app lock for iPhone, follow these steps:
@@ -233,6 +234,10 @@ The Apple iPhone SE (2020) are high-end smartphones with many features and capab
 
 This blog post will discuss several methods to unlock your Apple iPhone SE (2020) without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone SE (2020)'s passcode or are just looking for ways to unlock iPhones without a passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is It Possible to Unlock Apple iPhone SE (2020) without a Passcode?
 
 Unlocking an iPhone without a passcode is possible, but it's not as simple as entering a code. Besides, there are different methods that you can follow to unlock your Apple iPhone SE (2020) on 11/12/13.
@@ -240,6 +245,10 @@ Unlocking an iPhone without a passcode is possible, but it's not as simple as en
 And we are going to teach all those methods with some simple steps. So, without any further ado, let's get started.
 
 ![unlock iphone 11 12 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Easy Ways to Unlock Apple iPhone SE (2020) without Passcode by Yourself
 
@@ -315,8 +324,6 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 ### Dr.Fone-Screen Unlock
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
@@ -355,7 +362,6 @@ You only need to wait for some time as the process may take several minutes. So 
 Once the process is completed, your Apple iPhone SE (2020) will be unlocked, and you can choose a new passcode.
 
 This is the easiest and most effective way to reset your Apple iPhone SE (2020) passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
-
 
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
@@ -396,6 +402,10 @@ A lost iPhone can become susceptible to a myriad of threats. It could compromise
 3. **Identity Theft:** Stolen iPhones often contain a wealth of sensitive information. This makes them a prime target for identity theft.
 4. **Compromised Social Media Accounts:** Using social media applications on your smartphone carries potential risks in the event of device loss. Unauthorized access to your social media accounts can lead to many problems, including misinformation and compromised privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Use Find My To Locate Stolen iPhone
 
 On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My</u>](https://www.icloud.com/find) feature emerges as a beacon of hope. It uses a combination of GPS, Wi-Fi, and Bluetooth signals to locate your Apple iPhone SE (2020) accurately.
@@ -431,6 +441,10 @@ Lost Mode locks the Apple iPhone SE (2020) device and allows users to showcase a
 
 ![proceed to activate lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
@@ -459,10 +473,11 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 - **Step 1.** After accessing Find My service, choose the lost device from the list and click "Erase This Device."
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device from find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
@@ -498,9 +513,6 @@ After your Apple iPhone SE (2020) is stolen, it becomes essential to bolster the
 
 - **Step 1.** Access Settings on an iOS device logged in with the same Apple ID as the lost one. Here, tap on your name on the following screen and scroll down.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open settings and apple id details](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-16.jpg)
 
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
@@ -533,6 +545,10 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Precaution #2. Enable Separation Alerts on iPhone
 
 Enabling “Separation Alerts” assists in preventing the loss of your Apple iPhone SE (2020) by alerting you when you distance yourself from it. Follow these steps to enable Separation Alerts on your Apple iPhone SE (2020):
@@ -544,6 +560,10 @@ Enabling “Separation Alerts” assists in preventing the loss of your Apple iP
 - **Step 2.** From the available options, tap "Notify When Left Behind," and on the following screen, toggle "Notify When Left Behind." You can also add locations on this screen by tapping "New Location," for which you don't want to receive a left-behind notice.
 
 ![notify on separation enabled](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-23.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Precaution #3. Enable 2FA on iPhone
 
@@ -581,7 +601,6 @@ Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" t
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2. Entering Recovery Mode and Choosing System Version
 
 The next step requires you to put your device in Recovery Mode, for which you can follow the instructions given on-screen. After your device is in Recovery Mode, Dr.Fone will display its “Model.” Now choose the appropriate "System Version" and click "Start." Here, Dr.Fone will start downloading the required firmware. Once it is downloaded and verified, tap "Unlock Now."
@@ -600,9 +619,6 @@ Knowing **how to lock stolen iPhone**s is essential for safeguarding personal an
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -615,9 +631,26 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-ar-development-leveraging-custom-luts/"><u>[Updated] Accelerating AR Development Leveraging Custom LUTs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-13-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 13 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-smart-8-plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Smart 8 Plus Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mp4-in-avi-online-senza-costi-il-tuo-guida-facile-e-ingressibile-con-movavi/"><u>Convert MP4 in AVI Online Senza Costi: Il Tuo Guida Facile E Ingressibile Con Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-tv-selection-top-10-in-hdtvs-for-2024/"><u>Cutting-Edge TV Selection – Top 10 in HDTVs for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Max Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-6s-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-cutting-edge-tempo-detection-top-free-tools-unveiled/"><u>In 2024, Cutting-Edge Tempo Detection Top Free Tools Unveiled</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Passcode Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27e-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27e Bootloader Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-smartwatch-purchases-the-ultimate-5-point-checklist-to-ensure-satisfaction/"><u>Navigating Smartwatch Purchases: The Ultimate 5 Point Checklist to Ensure Satisfaction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resident-evil-village-failed-to-initialize/"><u>Troubleshooting Steps: 'Resident Evil Village Failed to Initialize'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-smart-capabilities-of-the-android-ecosystem/"><u>Unveiling the Smart Capabilities of the Android Ecosystem</u></a></li>
+</ul></div>
 

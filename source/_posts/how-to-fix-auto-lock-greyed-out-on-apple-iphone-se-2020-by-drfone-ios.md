@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020)
-date: 2024-07-15T01:19:19.552Z
-updated: 2024-07-16T01:19:19.552Z
+date: 2024-12-21T03:50:04.005Z
+updated: 2024-12-27T05:38:54.543Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,9 +20,6 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -213,6 +210,10 @@ Besides interacting with widgets and apps, you can also search for something on 
 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
 Sometimes, people can access our private information just by looking at our notifications. In this way, they can get read your crucial information and that too without unlocking your device. By simply visiting your device’s settings, you can customize iPhone lock screen with notifications. In this way, you can turn on or off iPhone lock screen notifications for the apps of your choice.
@@ -240,6 +241,10 @@ The notification view can be used to see previous notifications on the Apple iPh
 1\. Firstly, unlock your device and got to its Settings > Touch ID & Passcode option.
 
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
 
@@ -275,6 +280,10 @@ If you want to click pictures instantly, then simply swipe left the lock screen.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone SE (2020)
 
 Your Apple ID is the cornerstone of your Apple device experience. It serves as the key to accessing a lot of functions. It plays an essential role, from App Store purchases to [iCloud storage](https://drfone.wondershare.com/icloud-storage-is-full.html) and device syncing. It ensures smooth functionality across Apple devices. Apart from its convenience, the Apple ID serves as an essential element for security.
@@ -287,28 +296,34 @@ Yet, despite its significance, issues can arise, disrupting the active status of
 
 Understanding the causes behind “ why **my Apple ID is not active**” is necessary for resolving it. Several factors contribute to this problem, requiring attention for a successful resolution. A few of these reasons are outlined below to help you understand the issues with Apple ID:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Incorrect Login Credentials
 
 An inactive Apple ID results from incorrect login information. Mistyped passwords or forgotten Apple ID usernames can render the account inactive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Account Security Measures
 
 Apple employs strict security measures to protect user accounts. Sometimes, an Apple ID becomes inactive due to suspicious activities. This triggers security locks to safeguard sensitive information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Payment or Billing Issues
 
 Unsettled payments, expired credit cards, or billing-related problems can lead to an inactive Apple ID. Failure to update payment information or resolve outstanding dues may cause this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Server or Network Problems
 
 At times, issues with Apple's servers or network connectivity problems on your end can contribute to an inactive Apple ID. This may prevent proper authentication and verification, resulting in the inactivity of the account.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Software Updates or Glitches
 
 System updates or software glitches might also play a role in deactivating an Apple ID. Incompatibility issues can arise from software updates or glitches within the OS. These can interfere with the account's active status.
@@ -335,14 +350,10 @@ Begin by opening Wondershare Dr.Fone on your computer. Then, navigate through "T
 
 ![proceed with remove apple id feature](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-
 - **Step 2. Verification of Device Locks and Two-Factor Authentication**
 
 Afterward, the platform will prompt you with inquiries before advancing. Firstly, confirm if a screen lock is set up on your iDevice. Ensure that it is active, and proceed by selecting “Yes.” Subsequently, verify if Two-Factor Authentication is activated on your iDevice. If not, activate it and click “Yes” to unlock the Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![verify device lock](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
 - **Step 3. Accessing Recovery Mode and Downloading iOS Firmware**
@@ -350,6 +361,10 @@ Afterward, the platform will prompt you with inquiries before advancing. Firstly
 To initiate Recovery Mode for your iDevice, follow the on-screen instructions. Once in “Recovery Mode,” the Apple iPhone SE (2020) device's information will display on the subsequent screen. Upon recognizing the “Device Model,” you'll be prompted to select the “System Version.” The iOS firmware download commences on clicking “Start,” and its progress is visible on the next screen.
 
 ![start apple id unlock process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4. Verifying Firmware and Confirming Apple ID Unlock**
 
@@ -371,6 +386,10 @@ An inactive Apple ID issue might sometimes stem from a temporary glitch within t
 
 ![restart your ios device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2. Try Changing Wi-Fi or Mobile Data
 
 An inactive Apple ID issue might occasionally arise due to connectivity problems. Switching between Wi-Fi and mobile data can help troubleshoot network-related issues. As a result, it can resolve the error affecting your Apple ID's activity. As a result, the Apple iPhone SE (2020) device can be restored to its normal state.
@@ -387,9 +406,6 @@ Do you know your Apple ID and simply need to reset the password? You can easily 
 
 - **Step 1.** Initially, access the “Settings” on your device and select the "Apple ID" at the top. Press "Sign-In & Security" on the following screen to proceed further.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access sign in and security options](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-8.jpg)
 
 - **Step 2.** Next, tap "Change Password" and provide your device passcode. You will need to type in a new password, verify it, and press "Change" from the top-right corner.
@@ -416,6 +432,10 @@ Verifying the status of Apple's services, including iCloud, can help determine i
 
 ![visit apple system status page](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 5. Look Out for Apple Support
 
 When all other troubleshooting methods fail to resolve the issue of an inactive Apple ID, contacting Apple Support is the last step. It can be an essential step if you seek personalized assistance and guidance. Apple's support team comprises experts capable of providing tailored solutions for various iOS issues.
@@ -424,12 +444,13 @@ When connecting with Apple Support, be ready to provide details about your issue
 
 ![get help from apple support](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, an **Apple ID that is not active** can disrupt access to essential device services. Various troubleshooting methods offer solutions, including resetting passwords, checking network connections, and consulting Apple Support. Yet, Dr.Fone is a hassle-free and efficient option among the solutions provided.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -443,9 +464,26 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screen-separation-assessing-splitcams-leadership/"><u>[New] In 2024, Screen Separation Assessing SplitCam's Leadership</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac-for-2024/"><u>[Updated] Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-red-magic-9-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Red Magic 9 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-live-event-success-expertly-selecting-5-recording-hardware/"><u>2024 Approved Live Event Success Expertly Selecting 5 Recording Hardware</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-13-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 13 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/comedy-cornucopia-twitters-best-for-2024/"><u>Comedy Cornucopia Twitter's Best for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-features-of-espnplus-the-ultimate-sports-streaming-hub/"><u>Exploring the Features of ESPN+, The Ultimate Sports Streaming Hub</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-xr-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone XR Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-11-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>In 2024, Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-social-traction-afb-insiders-guide-for-2024/"><u>Navigating Social Traction AFB Insider's Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-started-with-microsoft-video-editor-easy-video-editing-for-windows-users/"><u>New In 2024, Get Started with Microsoft Video Editor Easy Video Editing for Windows Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-12-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 12 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-ultimate-guide-to-t5s-action-footage/"><u>The Ultimate Guide to T5's Action Footage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-xs-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone XS Without iTunes in 5 Ways</u></a></li>
+</ul></div>
 

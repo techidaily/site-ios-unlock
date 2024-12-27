@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen?
-date: 2024-09-25T17:25:49.715Z
-updated: 2024-09-28T00:48:38.858Z
+date: 2024-12-21T07:14:00.075Z
+updated: 2024-12-26T18:54:01.562Z
 tags: 
   - unlock
   - remove screen lock
@@ -98,6 +98,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -132,13 +136,6 @@ Click the "Screen Unlock" option from the main homepage and connect your iDevice
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2. Access the Recovery or DFU mode**
 
 Removing the lock screen requires you to boot your Apple iPhone 12 mini in Recovery or DFU mode. The Recuperation mode is suggested for iOS devices. But if you can't, you can go for the DFU mode.
@@ -156,6 +153,10 @@ Dr.Fone will now show you the phone Model and OS version. You can choose the rig
 After the firmware is downloaded effectively, click Unlock Now.
 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In almost no time, the software will unlock your Apple iPhone 12 mini effectively. However, note that this unlocking will likewise wipe your user data.
 
@@ -187,6 +188,10 @@ To erase the passcode using the Find My feature on iCloud:
 
 ![find my](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use Recovery Mode with iTunes
 
 How to bypass the Apple iPhone 12 mini passcode or eliminate the passcode? The method is to utilize iTunes. However, using iTunes to restore the Apple iPhone 12 mini in recovery mode will erase all data from the Apple iPhone 12 mini device.
@@ -217,10 +222,7 @@ However long the locked iPhone has a functioning WiFi connection, you can now de
 ![erase iphone](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After several wrong attempts, an "Erase iPhone" choice will appear on the screen's lower part. Just tap on that, confirm you need to erase the Apple iPhone 12 mini and enter your Apple ID details afterward. The device will then reset itself, completely deleting all data and beginning as a new one.
@@ -246,13 +248,6 @@ To erase the lock screen passcode with Siri on iOS 8 to iOS 10.1:
 ![use siri](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-4.jpg)
 
 As you might be aware, this way is helpful because of iOS bugs. This method is also viewed as a method for hacking the iPhone. In later iOS versions, Apple fixed these bugs. In this manner, it works on iPhones running iOS 8.0 to 10.1.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Dr.Fone-Screen Unlock
 
@@ -283,10 +278,7 @@ After putting the Apple iPhone 12 mini device in DFU mode, Dr.Fone will show the
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4. Unlock the Apple iPhone 12 mini screen lock**
@@ -305,22 +297,13 @@ Simply shortly, your Apple iPhone 12 mini will be unlocked effectively. Note tha
 
 ![go to settings](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click again to agree with your decision to turn off your passcode.
 
 ![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -334,29 +317,19 @@ Apple ensures the privacy and security of its customers. For that, it has introd
 
 Downloading and enabling Find My iPhone can be really easy and cinch but turning it off can be an arduous task. But we have you covered through this article that shall tell you about this app in detail and guide you on how to turn off Find My iPhone even when your Apple iPhone 12 mini is broken.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is Find My iPhone?
 
 Find My iPhone is an application forged by Apple that keeps track of your Apple iPhone 12 mini's location protects your data. Once you enable this application, it requires your iCloud password to unlock your phone to keep your Apple iPhone 12 mini safe from the wrong hands. This application comes in handy when you accidentally lose or misplace your phone.
 
 The best part about this application is that it is free of cost. It usually comes built-in your Apple iPhone 12 mini already, but if not, you can easily download it from the app store. Sign in with your Apple ID, and it will automatically locate your Apple iPhone 12 mini no matter where you go.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -381,6 +354,10 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
@@ -392,13 +369,6 @@ After choosing the “Unlock Apple ID” option, an interface will be displayed 
 Jailbreak your Apple iPhone 12 mini by following the instructions given by the system. Once you complete them, click on "Finish Jailbreak."
 
 ![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5: Confirmation Window**
 
@@ -440,6 +410,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone 12 mini allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone 12 mini updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -457,6 +431,10 @@ However, Recovery Mode can also be useful to turn off Find My iPhone on your dev
 Once your Apple iPhone 12 mini shows the Apple logo, it means the Recovery Mode is activated.
 
 ![wait for apple logo to appear](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 12 mini. Once the process is completed, you can set up your Apple iPhone 12 mini as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
@@ -480,20 +458,18 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>[New] Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons/"><u>[Updated] 2024 Approved Breaking Down Barriers Adding Chapters to Create Cohesive YouTube Lessons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-errors-and-bugs-with-the-ios-device-based-remote-application/"><u>Fixing Errors and Bugs with the iOS Device-Based Remote Application</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-intel-iris-xe-graphics-driver-compatible-with-windows-11/"><u>Free Download: Intel® Iris XE Graphics Driver Compatible with Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-7-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 7 Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-start-streaming-sports-creating-your-own-mac-based-channel/"><u>In 2024, Start Streaming Sports Creating Your Own Mac-Based Channel</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-14-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-6s-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 6s Plus Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-gadget-analysis-t172386287985311/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/top-rated-foxfree-software-pack-complimentary-high-quality-dvd-ripper-and-video-converter-suite/"><u>Top-Rated FOXFree Software Pack: Complimentary High-Quality DVD Ripper & Video Converter Suite</u></a></li>
+<li><a href="https://techidaily.com/capture-crystal-clear-audio-on-your-iphone-using-these-8-free-techniques/"><u>Capture Crystal Clear Audio on Your iPhone Using These 8 FREE Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-7-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 13, Apples New iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-12-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 12 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100i-power-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y100i Power 5G Bootloader Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-15-plus-how-to-unlock-a-disabled-iphone-15-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 15 Plus How to Unlock a Disabled iPhone 15 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) with a Mask On</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-xs-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone XS Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-text-superimposition-windows-and-mac-edition/"><u>Mastering Text Superimposition Windows & Mac Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-unraveling-computer-components/"><u>Tom's Tech Hub - Unraveling Computer Components</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-secret-mouse-gestures-and-shortcuts-every-tech-enthusiast-should-master-learn-now/"><u>Top Secret Mouse Gestures and Shortcuts Every Tech Enthusiast Should Master – Learn Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-audio-potential-pazeras-free-tool-review-for-2024/"><u>Unleash Your Audio Potential Pazera's Free Tool Review for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live/"><u>Unveiling the Mechanisms That Govern YouTube After a Video Is Live</u></a></li>
 </ul></div>
 
