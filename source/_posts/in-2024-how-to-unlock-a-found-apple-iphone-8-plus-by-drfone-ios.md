@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock A Found Apple iPhone 8 Plus?
-date: 2024-12-25T16:09:27.065Z
-updated: 2024-12-27T12:01:28.340Z
+date: 2025-01-03T02:45:44.743Z
+updated: 2025-01-06T01:54:12.146Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ That is why you want to unlock that iPhone. So, in this article, we will teach y
 
 So, let's get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Efficient Ways to Unlock a Found iPhone
 
 Unlocking an iPhone seems challenging, especially when it's not yours, but it's not impossible. You have various ways to unlock a found iPhone, but most are a waste of time. So, to save time and energy, we have compiled 3 efficient ways to unlock a found iPhone.
@@ -29,10 +33,6 @@ Unlocking an iPhone seems challenging, especially when it's not yours, but it's 
 ![i found an iphone how do i unlock it](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-1.jpg)
 
 These methods will be easy to follow because of the detailed step-by-step guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.Unlock it from Recovery mode
 
@@ -71,7 +71,7 @@ The process of unlocking an iPhone 8 or newer model differs from the older model
 Now, set up your Apple iPhone 8 Plus, and you are good to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Unlock it via the DNS server
@@ -79,6 +79,10 @@ Now, set up your Apple iPhone 8 Plus, and you are good to go.
 If the above method doesn't work or iTunes is not detecting that iPhone, you can follow this method.
 
 ![found iphone how to unlock via dns](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. This method is easy to follow and doesn't require any technical skills.
 2. All you need is the DNS server IP address.
@@ -125,6 +129,10 @@ Here are the simple steps that can help you.
 
 So that's how you can easily unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can I Do to Contact Its Owner?
 
 Once the found iPhone is successfully unlocked, you can contact its owner in many ways.
@@ -145,21 +153,17 @@ There is a feature in the Apple iPhone 8 Plus known as medical ID. This feature 
 
 ![contact the owner with the help of emergency medical id](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To do this, go to the emergency call screen and tap on the Medical ID option. Here, you can find out the name and phone number of the owner. So, you can use this information to contact the owner and return the iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Take photos to communicate with the owner via iCloud
 
 This is a great way to contact the owner of a lost iPhone. You can use this method if you cannot find the owner's phone number in the lost mode or medical ID.
 
 ![contact the owner with the picloud share photo library](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To do this, go to Settings -> iCloud -> Photos and turn on the iCloud Photo Library. Now, take some pictures with the found iPhone, and they will be automatically uploaded to iCloud.
 
@@ -241,13 +245,13 @@ Here are the steps to recover Apple iPhone 8 Plus  via iTunes backup.
 
     ![feasible ways to unlock Apple iPhone 8 Plus 1](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. From there, look for the “Restore Backup” option and click on it. A confirmation window will pop up. Confirm your action.
 
     ![feasible ways to unlock Apple iPhone 8 Plus 2](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. You shall be asked to enter your iTunes account information. Enter the previously used account to set up the Apple iPhone 8 Plus and navigate through the instructions to register.
 5. Select a suitable backup that you wish to use for the restore.
@@ -256,7 +260,7 @@ Here are the steps to recover Apple iPhone 8 Plus  via iTunes backup.
     ![feasible ways to unlock Apple iPhone 8 Plus 3](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Change Passcode on Apple iPhone 8 Plus?**
@@ -270,6 +274,10 @@ If you wish to change the passcode on Apple iPhone 8 Plus , simply follow the st
 
     ![feasible ways to unlock Apple iPhone 8 Plus 4](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type in your current passcode to proceed.
 4. Here, click on the option "Change Passcode."
 
@@ -279,10 +287,6 @@ If you wish to change the passcode on Apple iPhone 8 Plus , simply follow the st
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
 
     ![feasible ways to unlock Apple iPhone 8 Plus 6](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Select a specific passcode type, enter your new password and click on "Next."
 
@@ -387,7 +391,7 @@ Once your device is in Recovery Mode, you can see its details on the next screen
 ![Select system version according to your device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 7:** Download iOS Firmware
@@ -399,6 +403,10 @@ The software will start downloading the corresponding iOS firmware. If the firmw
 Once you download the firmware, it will be verified by the software. Click Unlock Now until a prompt window appears. It will ask you to enter a code to continue. Enter the code and click Unlock to start the process.
 
 ![Input the code to unlock the Apple ID](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 9:** Monitor Apple ID Removal Progress
 
@@ -422,19 +430,11 @@ Turning off iCloud Keychain and then turning it back on can help refresh the dat
 
 ![Disable your iCloud keychain](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Method 7: Check Network Connectivity**
 
 Make sure that your Apple iPhone 8 Plus has a reliable internet connection. Weak or unstable networks can trigger password prompts. Try to switch between different Wi-Fi networks or use cellular data.
 
 ![Check your network connection](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Method 8: Contact Apple Support**
 
@@ -484,21 +484,21 @@ It’s essential to use secure and unique passwords for your accounts. Then, con
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/full-guide-how-to-clean-install-graphics-drivers/"><u>[FULL GUIDE] How to Clean Install Graphics Drivers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-life-written-in-stillness-to-moving-pictures/"><u>[Updated] 2024 Approved From Life' Written in Stillness to Moving Pictures</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-enable-vlcs-webcam-recording-for-high-quality-footage/"><u>[Updated] In 2024, Enable VLC's Webcam Recording for High-Quality Footage</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1728471395610-hddssd/"><u>「東芝HDDからSSDへ完璧なコピー機能を持つクローニングソフトウェア」</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-11-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 11 Pro Max to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-se-2022-by-drfone-ios/"><u>How To Unlock A Found iPhone SE (2022)?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-by-drfone-ios/"><u>How to Unlock iPhone XR?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 11 Pro Max in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 With or Without Password</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 11 Pro Max</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-user-insights-on-vllo/"><u>In 2024, User Insights on VLLO</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-all-in-one-solution-expert-analysis-of-the-arlo-video-doorbell/"><u>The All-in-One Solution: Expert Analysis of the Arlo Video Doorbell</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-trending-dj-karaoke-songs-of-the-week-ignite-your-parties-with-exclusive-platinumcloud-music/"><u>Top Trending DJ Karaoke Songs of the Week: Ignite Your Parties with Exclusive PlatinumCloud Music!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-x-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone X Without Passcode Easily</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/youtube-snippets-for-captivating-ig-stories/"><u>YouTube Snippets for Captivating IG Stories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[New] How To Acquire Standardized Thumbnails From Youtube Online & Desktop Options for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-reverberation-artisan-collection/"><u>[New] In 2024, Reverberation Artisan Collection</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-instagram-cultivating-a-robust-following/"><u>[New] In 2024, The Art of Instagram Cultivating a Robust Following</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-are-earnings-linked-to-assessing-merchandise/"><u>[Updated] Are Earnings Linked to Assessing Merchandise?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-streaming-to-mp3-a-compreenas-guide/"><u>[Updated] Vimeo Streaming to MP3 - A Compreenas Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-switching-viewing-apps-a-guide-to-opens-windows-files-using-alternative-programs-your-learning-center/"><u>1. Switching Viewing Apps: A Guide to Opens Windows Files Using Alternative Programs - Your Learning Center</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-step-by-step-guide-for-seamless-sending-of-large-videos-from-iphones/"><u>2024 Approved Step by Step Guide for Seamless Sending of Large Videos From iPhones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-15-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 15 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-15-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 15 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/discover-the-leading-12-ai-powered-free-video-editing-tools-for-windows-and-mac-users-online/"><u>Discover the Leading 12 AI-Powered Free Video Editing Tools for Windows and Mac Users Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-14-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-13-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 13 With 7 Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-srgb-advantages-over-regular-rgb/"><u>In 2024, Srgb Advantages Over Regular Rgb</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-se-2022-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone SE (2022) Without Passcode Easily</u></a></li>
 </ul></div>
 

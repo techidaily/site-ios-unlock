@@ -1,7 +1,7 @@
 ---
 title: Resolving Persona 4 Golden's Stability Problems
-date: 2024-12-24T00:33:58.462Z
-updated: 2024-12-27T05:23:07.350Z
+date: 2025-01-01T22:05:19.539Z
+updated: 2025-01-05T22:12:46.553Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
  There’s one tip before you try the fixes:**keep P5S on Window mode.** This is required, the game won’t run in full screen for some reason.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,7 +33,7 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 4. [Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Change game properties
@@ -48,7 +48,7 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your driver
@@ -70,6 +70,10 @@ There are two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
@@ -77,7 +81,7 @@ There are two ways you can update your graphics drivers:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Edit P5S file
@@ -89,10 +93,6 @@ There are two ways you can update your graphics drivers:
 3. Open**config.xml** .
 4. Edit the file by replacing **<DisplaySetting>1</DisplaySetting>** to **<DisplaySetting>3</DisplaySetting>** (1 to 3) .
 5. Save the change.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Change NVIDIA settings
 
@@ -124,21 +124,21 @@ There are two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-audio-restoration-on-visual-posts-from-twitter/"><u>[New] Audio Restoration on Visual Posts From Twitter</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-step-up-your-gameplay-with-these-5-best-rated-ps2-android-emulators/"><u>[New] In 2024, Step Up Your Gameplay with These 5 Best-Rated PS2 Android Emulators</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-join-the-fun-best-gratuitous-meme-tools-available/"><u>[Updated] Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-chatgpt-shared-links-and-their-operation-explained/"><u>Exploring the World of ChatGPT Shared Links and Their Operation Explained</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 Pro Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 Pro Max Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-video-hacks-instant-mp4-downloads/"><u>In 2024, FB Video Hacks Instant MP4 Downloads</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 Pro With or Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini with a Mask On</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max with a Mask On</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-issues-how-to-use-apples-dedicated-support-app-for-solutions/"><u>Mastering iPhone Issues: How to Use Apple's Dedicated Support App for Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/secrets-to-stunning-fisheye-sphere-photography/"><u>Secrets to Stunning Fisheye Sphere Photography</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-desired-additions-for-visionos-anticipated-updates-from-apple-in-the-latest-wwdc-highlights-zdnet-insights/"><u>Top 10 Desired Additions for VisionOS: Anticipated Updates From Apple in the Latest WWDC Highlights - ZDNet Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mobile-audio-speed-the-fastest-app-list/"><u>[Updated] Mobile Audio Speed The Fastest App List</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-sculptive-strategies-in-creating-striking-fb-video-ads/"><u>[Updated] Sculptive Strategies in Creating Striking Fb Video Ads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-xr-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone XR When Its Locked Within Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-mini-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-13-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 13 mini Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-13-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 13 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S23 FE FRP Bypass</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-cut-to-the-chase-techniques-for-tightening-youtube-content/"><u>In 2024, Cut to the Chase Techniques for Tightening YouTube Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-sonic-sanctuary-the-mac-experience/"><u>In 2024, Sonic Sanctuary The Mac Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instant-access-windows-photos-view-for-2024/"><u>Instant Access Windows Photos View for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimized-obs-options-for-low-end-systems/"><u>Optimized OBS Options for Low-End Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-your-equations-how-these-asterisk-the-top-7-ai-powered-math-helpers/"><u>Simplify Your Equations: How These Asterisk The Top 7 AI-Powered Math Helpers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-rated-mp4-converter-software-of-2024-for-windows-10-and-11-users/"><u>Top-Rated MP4 Converter Software of 2024 for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

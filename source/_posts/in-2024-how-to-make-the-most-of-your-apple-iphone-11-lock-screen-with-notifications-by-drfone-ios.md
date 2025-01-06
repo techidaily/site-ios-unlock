@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications?
-date: 2024-12-25T09:15:25.474Z
-updated: 2024-12-27T03:45:51.817Z
+date: 2025-01-02T19:05:21.084Z
+updated: 2025-01-05T23:32:35.417Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,13 +34,13 @@ Not just your messages, you can interact with other apps as well right from the 
 
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
 
 ![iphone lock screen with notifications-long press app notification](https://images.wondershare.com/drfone/article/2017/09/15063938297428.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Search for anything**
 
@@ -49,7 +49,7 @@ Besides interacting with widgets and apps, you can also search for something on 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
@@ -70,11 +70,11 @@ Sometimes, people can access our private information just by looking at our noti
 
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
 
-Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
 ## Part 3: How to turn off notification view on iPhone lock screen?
 
@@ -194,7 +194,7 @@ You will see the option “Save to.” Guide the path, and all taken screenshots
 ![select “ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Provide the system with an on-screen confirmation code to continue the process. When that is done, the interface will notify you. By clicking on the 'Try Again' button, you can repeat the process.
@@ -211,6 +211,10 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 
     ![ways to bypass Apple iPhone 11  lock screen-1](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     In case the user has enabled the two-factor authentication on iPhone, then they should hit 'Trust' and enter the six-digit verification code sent to their iPhones on the iCloud web.
 
 2. Once that is done, and you have logged in to iCloud, select the option of 'Find iPhone.'
@@ -221,6 +225,10 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
     ![ways to bypass Apple iPhone 11  lock screen 2](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-2.jpg)
 
 6. Doing this will wipe all the data, settings and, also the password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Restore Apple iPhone 11  Apple iPhone 11 to Factory Reset by iTunes
 
@@ -233,10 +241,6 @@ iPhone users can even restore their phones to factory settings without losing an
 3. Once that is done, the user is now requested that from the menu on the left side of the screen, select 'Summary.'
 
     ![ways to bypass Apple iPhone 11  lock screen 3](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. A new window will appear, the Summary window. From this, the user is supposed to select the option of 'Restore iPhone.'
 
@@ -251,10 +255,6 @@ Users can now retrieve all the data that has been backed up on iTunes.
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone 11 . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11
 
 Your Apple ID is the cornerstone of your Apple device experience. It serves as the key to accessing a lot of functions. It plays an essential role, from App Store purchases to [iCloud storage](https://drfone.wondershare.com/icloud-storage-is-full.html) and device syncing. It ensures smooth functionality across Apple devices. Apart from its convenience, the Apple ID serves as an essential element for security.
@@ -267,12 +267,16 @@ Yet, despite its significance, issues can arise, disrupting the active status of
 
 Understanding the causes behind “ why **my Apple ID is not active**” is necessary for resolving it. Several factors contribute to this problem, requiring attention for a successful resolution. A few of these reasons are outlined below to help you understand the issues with Apple ID:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Incorrect Login Credentials
 
 An inactive Apple ID results from incorrect login information. Mistyped passwords or forgotten Apple ID usernames can render the account inactive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Account Security Measures
@@ -283,17 +287,9 @@ Apple employs strict security measures to protect user accounts. Sometimes, an A
 
 Unsettled payments, expired credit cards, or billing-related problems can lead to an inactive Apple ID. Failure to update payment information or resolve outstanding dues may cause this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Server or Network Problems
 
 At times, issues with Apple's servers or network connectivity problems on your end can contribute to an inactive Apple ID. This may prevent proper authentication and verification, resulting in the inactivity of the account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Software Updates or Glitches
 
@@ -310,6 +306,10 @@ It can permanently bypass the Apple ID lock, even when the Find My feature is ac
 1. Supports different unlock types and is compatible with the latest iOS versions and iPhone models, making it versatile.
 2. It alsooffers the ability to remove iTunes backup encryption without damaging its data.
 3. Allows removing the SIM lock, allowing you to use your device internationally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Fix Apple ID Not Active Issue With Dr.Fone
 
@@ -332,10 +332,6 @@ Afterward, the platform will prompt you with inquiries before advancing. Firstly
 To initiate Recovery Mode for your iDevice, follow the on-screen instructions. Once in “Recovery Mode,” the Apple iPhone 11 device's information will display on the subsequent screen. Upon recognizing the “Device Model,” you'll be prompted to select the “System Version.” The iOS firmware download commences on clicking “Start,” and its progress is visible on the next screen.
 
 ![start apple id unlock process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4. Verifying Firmware and Confirming Apple ID Unlock**
 
@@ -387,6 +383,10 @@ Are you unable to reset your Apple ID password directly from your device? If you
 
 ![reset password via iforgot website](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Upon reaching the subsequent screen, input the “Email or Phone Number” linked to your Apple ID. Then, verify the CAPTCHA verification and proceed by tapping "Continue." Adhere to the instructions on the screen to finalize the password reset procedure.
 
 ![enter phone and captcha characters](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-11.jpg)
@@ -425,21 +425,15 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-elite-equipment-showcasing-gameplay-innovations/"><u>[New] 2024 Approved Elite Equipment Showcasing Gameplay Innovations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-logic-pros-strategy-for-muffled-sound-tracks/"><u>[New] Logic Pro's Strategy for Muffled Sound Tracks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-apowersoft-screen-record-review-and-top-contenders-unveiled/"><u>[Updated] 2024 Approved Apowersoft Screen Record Review & Top Contenders Unveiled</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>[Updated] 2024 Approved Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-insightful-review-understanding-du-recorder/"><u>[Updated] In 2024, Insightful Review Understanding Du Recorder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-places-to-find-background-music-for-videos/"><u>2024 Approved Top Places to Find Background Music for Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-15-pro-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 15 Pro in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 Plus and iPad Securely</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-mic-recommendations-for-professional-4k-recording/"><u>Essential Mic Recommendations for Professional 4K Recording</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/essential-techniques-how-to-convert-and-preserve-your-microsoft-outlook-messages-in-pdf-format/"><u>Essential Techniques: How to Convert and Preserve Your Microsoft Outlook Messages in PDF Format</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hearts-of-iron-4-troubleshooting-tips-fixing-game-crashing-bugs-successfully/"><u>Hearts of Iron 4 Troubleshooting Tips: Fixing Game-Crashing Bugs Successfully</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6s-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6s Plus? Learn All 4 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 Pro With or Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-xr-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone XR</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-2022-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE (2022) Prevention & Solution</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-xr-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone XR i Do? Get Answers here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-walkthrough-for-console-gaming-pc-recordings/"><u>[New] In 2024, The Complete Walkthrough for Console Gaming PC Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-home-office-flow-the-power-of-chatgpt-techniques/"><u>Boost Your Home Office Flow - The Power of ChatGPT Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-how-to-overcome-new-world-connection-error/"><u>Expert Advice: How to Overcome 'New World Connection Error'</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 Pro Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantaneous-access-with-custom-windows-shortcuts-uwp/"><u>Instantaneous Access with Custom Windows Shortcuts (UWP)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209998966-9781641375641-rise-to-the-sun/"><u>Rise to the Sun | Free Book</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
 

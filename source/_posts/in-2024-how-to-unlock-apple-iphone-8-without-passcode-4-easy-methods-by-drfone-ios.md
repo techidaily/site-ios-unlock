@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Apple iPhone 8 Without Passcode? 4 Easy Methods
-date: 2024-12-24T18:28:31.371Z
-updated: 2024-12-27T14:49:43.734Z
+date: 2025-01-02T17:53:06.562Z
+updated: 2025-01-05T17:58:18.338Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,7 +23,7 @@ The Apple iPhone 8 are high-end smartphones with many features and capabilities.
 This blog post will discuss several methods to unlock your Apple iPhone 8 without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone 8's passcode or are just looking for ways to unlock iPhones without a passcode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Possible to Unlock Apple iPhone 8 without a Passcode?
@@ -53,6 +53,10 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 **Step 5:** Click the 'Erase' option to confirm your action.
 
 **Step 6:** Once your device has been erased, you can set it up again and use it without a passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock it with iTunes
 
@@ -141,6 +145,10 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![how to unlock iphone 11 without password](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You only need to wait for some time as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your Apple iPhone 8.
 
 Once the process is completed, your Apple iPhone 8 will be unlocked, and you can choose a new passcode.
@@ -171,6 +179,10 @@ As you see in the article, there are some ways to reset your Apple iPhone 8 pass
 
 If you're not interested in using a third-party tool, you can try one of the methods mentioned above. But keep in mind that these methods may only work on some iPhones. So, if you need help deciding which way to use it, we recommend going with Dr.Fone-Screen Unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Forgot Apple iPhone 8 Backup Password? Here's What to Do
 
 Forgetting your Apple iPhone 8 backup password can be a real pain. Not only does it mean you can't access your data, but it also means you can't restore your phone if something goes wrong.
@@ -180,11 +192,7 @@ There are still chances that you could forget your Apple iPhone 8 backup passwor
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Overview of iPhone Backup Password
@@ -215,10 +223,6 @@ Select the Encrypt Local Backup option in the Backups section directly from eith
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Create a Password
 
 When prompted in the window, create a password for the account. Make it powerful yet that is simple for you to remember. You might also save it somewhere secure to help you recall it later.
@@ -241,10 +245,6 @@ The typical method that each individual attempts for the first time is to input 
 - Passcode for the administrator
 - Passcode for the iPhone
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. "Reset All Settings" via "Settings"
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
@@ -261,6 +261,10 @@ Use a USB cable to link your Apple iPhone 8 to your PC. Look at the small iOS ic
 
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
 ### 3\. Find your password in the macOS keychain
@@ -272,10 +276,6 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 8 backup will be shown.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
 
@@ -290,6 +290,10 @@ After successfully signing in with your Apple ID, choose **Backup**.
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-7.jpg)
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Dr.Fone-Screen Unlock
 
@@ -333,6 +337,10 @@ You can turn on **AutoFill** in the **Settings** app. This will allow your Apple
 
 ![autofill](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Try iCloud Keychain to keep your passwords
 
 iCloud Keychain is a great way to keep all your passwords in one place. Once you've turned on the iCloud Keychain, all your passwords will be synced across your devices. That means if you create a new password on your laptop, it will automatically appear on your Apple iPhone 8.
@@ -344,7 +352,7 @@ If you're finding a simple way to keep all your passwords, try using the Notes a
 You can even add a description of the password, so you remember which account it's for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Bottom Line
@@ -362,10 +370,6 @@ The competition in the market between Android and iOS has been increased ever si
 Someone who is new in the Apple world must not be aware of the security activation lock and many other different features. No one can use your Apple device without the activation lock. The fact that user can remove all the data from iPhone whenever they want and can even restore it instantly gets user attention.
 
 Looking more into the Apple iPhone 8 world, people might be confused between the lock screen and activation lock. Also, they might be facing the problem of how to bypass the lock screen of iPhone Apple iPhone 8 . Let us answer your questions and provide you some knowledge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 1. Can Someone Bypass the Apple iPhone 8  Activation Lock?**
 
@@ -428,10 +432,6 @@ Select the saving path where you want to save your screenshots. For this, click 
 
 ![select “Screenshots and recording settings”](https://images.wondershare.com/drfone/drfone/take-screenshots-of-iphone-and-save-on-pc-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You will see the option “Save to.” Guide the path, and all taken screenshots will be stored at the selected location.
 
 ![select “ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -439,10 +439,6 @@ You will see the option “Save to.” Guide the path, and all taken screenshots
 Provide the system with an on-screen confirmation code to continue the process. When that is done, the interface will notify you. By clicking on the 'Try Again' button, you can repeat the process.
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
@@ -486,6 +482,10 @@ iPhone users can even restore their phones to factory settings without losing an
 
 Users can now retrieve all the data that has been backed up on iTunes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone 8 . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
@@ -504,21 +504,22 @@ The article has covered a sufficient portion of knowledge for the user regarding
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-building-a-sports-channel-via-macos-step-by-step-guide/"><u>[New] 2024 Approved Building a Sports Channel via macOS Step by Step Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-your-guide-to-the-top-8-tablets-for-next-level-photo-enhancements/"><u>[New] 2024 Approved Your Guide to the Top 8 Tablets for Next-Level Photo Enhancements</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart/"><u>[Updated] 2024 Approved Capture Life's Movement Integrating Motion Blur Into Face Photography with Picsart</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-masterclass-in-choosing-your-best-live-streamer-for-2024/"><u>[Updated] Masterclass in Choosing Your Best Live Streamer for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-6s-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 6s Plus in Lost Mode</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/call-of-duty-wwii-and-the-windows-blackout-issue-complete-solution-guide/"><u>Call of Duty: WWII and the Windows Blackout Issue – Complete Solution Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-14-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 14 Pro Passcode Easily Video Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/identifying-and-resolving-issues-with-your-computers-hardware-tips-from-yl-software/"><u>Identifying & Resolving Issues with Your Computer's Hardware - Tips From YL Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-feathered-flamenco-flyers/"><u>In 2024, Feathered Flamenco Flyers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-7-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 7 In Different Conditionsin</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-max-5-ways-to-get-into-a-locked-iphone-xs-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS Max? 5 Ways to get into a Locked iPhone XS Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-se-2020-5-ways-to-get-into-a-locked-apple-iphone-se-2020-by-drfone-ios/"><u>Locked Out of Apple iPhone SE (2020)? 5 Ways to get into a Locked Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-safety-in-tech-the-first-of-its-kind-the-google-pixel-9-now-comes-with-life-saving-satellite-sos-messaging-capabilities-insights/"><u>Revolutionizing Safety in Tech: The First of Its Kind, the Google Pixel 9 Now Comes with Life-Saving Satellite SOS Messaging Capabilities | Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-budget-friendly-obs-configuration-guide/"><u>[New] In 2024, Budget-Friendly OBS Configuration Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/pen-source-templates-transform-your-youtube-channel-for-2024/"><u>[New] Open-Source Templates Transform Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-5-superior-ways-to-record-sound-with-windows-11/"><u>[Updated] Explore 5 Superior Ways to Record Sound with Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-the-top-8-collaborative-android-video-tiles-premiumfree/"><u>Discovering the Top 8 Collaborative Android Video Tiles (Premium/Free)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-14-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-get-started-with-pokemon-unite-gaming-on-desktop-pcs/"><u>How to Get Started with Pokémon Unite Gaming on Desktop PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Plus Without a Passcode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-6-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 6 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-13-pro-how-to-unlock-a-disabled-iphone-13-pro-by-drfone-ios/"><u>In 2024, Disabled iPhone 13 Pro How to Unlock a Disabled iPhone 13 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-music-enhanced-whatsapp-expressions/"><u>In 2024, Music-Enhanced WhatsApp Expressions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-11-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 11 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-lossed-renderer-failures-in-overwatch-2-gameplay/"><u>Overcoming Lossed Renderer Failures in Overwatch 2 Gameplay</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-12-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 12 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
 </ul></div>
 

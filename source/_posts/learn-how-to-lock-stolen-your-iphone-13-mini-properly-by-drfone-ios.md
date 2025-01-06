@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone 13 mini Properly
-date: 2024-12-25T02:33:58.056Z
-updated: 2024-12-27T10:35:35.686Z
+date: 2024-12-30T16:07:06.226Z
+updated: 2025-01-05T16:50:59.839Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,10 @@ A lost iPhone can become susceptible to a myriad of threats. It could compromise
 2. **Financial Exploitation:**With access to your Apple iPhone 13 mini, thieves may attempt to get stored payment methods.
 3. **Identity Theft:** Stolen iPhones often contain a wealth of sensitive information. This makes them a prime target for identity theft.
 4. **Compromised Social Media Accounts:** Using social media applications on your smartphone carries potential risks in the event of device loss. Unauthorized access to your social media accounts can lead to many problems, including misinformation and compromised privacy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Use Find My To Locate Stolen iPhone
 
@@ -63,7 +67,7 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 Lost Mode locks the Apple iPhone 13 mini device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Activating Lost Mode Using Your Smartphone
@@ -102,10 +106,6 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![erase device from find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
@@ -142,10 +142,6 @@ After your Apple iPhone 13 mini is stolen, it becomes essential to bolster the s
 
 ![open settings and apple id details](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
 
 ![remove stolen device from account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-17.jpg)
@@ -159,10 +155,6 @@ After your Apple iPhone 13 mini is stolen, it becomes essential to bolster the s
 - **Step 2.** Once logged in, click "Devices" from the left side and select the lost device. To remove this device as a trusted device, click "Remove from Account."
 
 ![remove device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6. Precautions To Take for Avoiding Losing iPhone
 
@@ -274,10 +266,6 @@ Users can customize their iPhones beyond the limitations imposed by Apple after 
 
 ![circleapps launcher tweak for jailbroken iphone](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Unlocking System-wide Features**
 
 Jailbreaking unlocks extra iPhone features. It lets you access advanced settings and functions. These aren't in the regular, non-jailbroken mode. More control means more customization. You can optimize your Apple iPhone 13 mini based on your preferences.
@@ -330,6 +318,10 @@ iCloud Activation Lock is a security feature that ties an Apple iPhone 13 mini t
 
 While jailbreaking grants you deeper access to the system, it can't override or bypass the iCloud Activation Lock directly. However, third-party tools that can bypass iCloud activation lock use this access. These software, such as [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), leverage the jailbreak to access crucial system files and implement their bypass methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Easily Bypass iCloud Activation Lock Without Password
 
 Security risks? Warranty void? These are valid concerns when considering "**What does it mean to jailbreak an iPhone**?"
@@ -366,6 +358,10 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 ![in-app instructions to connect iphone](https://images.wondershare.com/drfone/guide/screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Check your Apple iPhone 13 mini settings for a displayed MEID or ESN number to identify CDMA network support. If an IMEI number is present, the Apple iPhone 13 mini device supports GSM networks. The findings indicate support for both GSM and CDMA networks. Click **Unlock Now** to proceed.
 
 ![dr.fone unlock icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
@@ -381,7 +377,7 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 ![dr.fone bypass icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Other Way To Remove iCloud Activation Lock Without Jailbreak
@@ -434,6 +430,10 @@ Sudden exposure to moisture or water damage can also cause the screen to malfunc
 ## Part 2: 11 Ways To Fix iPhone Swipe up Not Working
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone 13 mini can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1. Fix iOS System Error Without Data Loss: Dr.Fone – System Repair (iOS)
 
@@ -501,10 +501,6 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3. Remove the Cover or Case
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 13 mini could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 13 mini. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
@@ -520,6 +516,10 @@ If your Apple iPhone 13 mini swipe-up gesture isn't working specifically on the 
 **Step 1.** On your iOS device, access the “Settings” app and launch it. Now scroll down to find and tap "Face ID & Passcode."
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
@@ -581,10 +581,6 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 13 mini can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -592,10 +588,6 @@ Resetting all settings on your Apple iPhone 13 mini can help resolve software-re
 **Step 1.** Go to your device's "General" settings and scroll down to tap the second last option, "Transfer or Reset iPhone." On the following screen, press "Reset" from the available two options.
 
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 13 mini is restored to its original settings.
 
@@ -614,6 +606,10 @@ Unlock iPhone/iPad Lock Screen Without Swiping Up.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone 15 / iPhone 14 / iPhone 13 / 12, iPhone 11, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,395,216** people have downloaded it
 
 It allows the removal of various lock screens present on iPhone, iPad, and iPod touch. Additionally, it provides the capability to bypass the iCloud activation lock. Users can also bypass MDM and screen time restrictions without experiencing any data loss.
@@ -623,6 +619,10 @@ It allows the removal of various lock screens present on iPhone, iPad, and iPod 
 1. This software is compatible with the latest iOS 17 and iPadOS 17, including iPhone 15 models.
 2. The unlocking process involves a simple 3-step procedure.
 3. With it, you can remove Apple ID from your device without the password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock iPhone Without Swiping Up via Wondershare Dr.Fone
 
@@ -666,20 +666,18 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-introduction-maker-apps-ios-vs-android-comparison/"><u>[New] In 2024, Best Introduction Maker Apps IOS vs Android Comparison</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-viewers-with-youtubes-visual-polishing/"><u>[New] In 2024, Captivating Viewers with Youtube's Visual Polishing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-seekingsuperiorcameraspost-mycam/"><u>[New] SeekingSuperiorCamerasPost-MyCam</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-setup-for-hosting-online-seminars-on-pcmac/"><u>2024 Approved Quick Setup for Hosting Online Seminars on PC/Mac</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/charting-the-course-for-aspiring-pilots-why-microsoft-flight-simulator-x-gold-still-soars-in-reviews/"><u>Charting the Course for Aspiring Pilots: Why Microsoft Flight Simulator X Gold Still Soars in Reviews</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro When Its Locked Within Seconds</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 15</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Plus Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-7-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 7 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-14-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 14 Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/smooth-gaming-restored-overcoming-fps-and-freezing-in-red-dead-2/"><u>Smooth Gaming Restored: Overcoming FPS and Freezing in Red Dead 2</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s24-ultra-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S24 Ultra Phone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/igital-splendor-on-youtube-the-hue-harmonization-way-for-2024/"><u>[New] Digital Splendor on YouTube The Hue Harmonization Way for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-pathway-to-viral-fame-mastering-instagram-with-these-9-essential-strategies/"><u>[Updated] 2024 Approved The Pathway to Viral Fame Mastering Instagram with These 9 Essential Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easily-remove-the-indigo-addon-from-kodi-and-restore-smooth-functionality-for-other-extensions/"><u>Easily Remove the Indigo Addon From Kodi and Restore Smooth Functionality for Other Extensions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-6s-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Max Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-6-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 6 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-rpg-heritage-clashing-with-new-age-designs/"><u>In 2024, RPG Heritage Clashing with New-Age Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-guide-to-effortless-photo-and-video-file-transfers-in-windows-10/"><u>In-Depth Guide to Effortless Photo & Video File Transfers in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-metaverse-perspectives-a-30-quote-collection-for-2024/"><u>Innovative Metaverse Perspectives A 30-Quote Collection for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-xr-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone XR in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/twelve-south-compass-pro-unveiled-a-masterclass-in-durable-gps-technology/"><u>Twelve South Compass Pro Unveiled: A Masterclass in Durable GPS Technology</u></a></li>
 </ul></div>
 
