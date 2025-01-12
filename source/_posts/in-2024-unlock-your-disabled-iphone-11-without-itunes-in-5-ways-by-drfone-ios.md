@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Your Disabled iPhone 11 Without iTunes in 5 Ways
-date: 2025-01-02T23:42:15.390Z
-updated: 2025-01-05T18:13:20.454Z
+date: 2025-01-08T16:08:21.685Z
+updated: 2025-01-12T16:33:58.240Z
 tags: 
   - unlock
   - remove screen lock
@@ -52,10 +52,6 @@ Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3981454** people have downloaded it
 
 **To learn how to unlock a disabled iPhone without iTunes, you can follow these steps:**
@@ -65,10 +61,6 @@ Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
 To unlock your Disabled Apple iPhone 11 or iPad without iTunes or iCloud, launch the Dr.Fone software on your computer. From the various tools available, select "Screen Unlock." Get your Apple iPhone 11 connected to the PC using a lightning cable, and then click on the "iOS" > "Unlock iOS Screen" option on the program.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2: Boot Your iDevice in Recovery or DFU Mode**
 
@@ -140,10 +132,6 @@ Here's how to unlock your Apple iPhone 11 using Find My App:
 
 ![find my app](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 1.** Open the Find My App on your Apple iPhone 11.
 - **Step 2.** Tap "Devices" from the bottom menu.
 - **Step 3.** Tap your Apple iPhone 11 from the list of devices.
@@ -168,6 +156,10 @@ If you have a Mac computer, you can use Finder to unlock your Disabled Apple iPh
 Here's how to unlock your Apple iPhone 11 via Finder:
 
 ![finder](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Connect your Apple iPhone 11 to your Mac using a cable.
 - **Step 2.** Open the Finder app.
@@ -272,10 +264,6 @@ Unlocking a disabled iPhone without iTunes is becoming a popular choice because 
 
 After following these solutions, you can use your Apple iPhone 11 and surpass its passcode without any trouble. Now that you know **how to unlock a disabled iPhone without iTunes**, you can simply use your device as per your requirements. Go ahead and pick your preferred option to perform iPhone disabled fix without iTunes. Download [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to resolve any unlocking issue related to your Apple iPhone 11 securely and reliably.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Unlocking Apple iPhone 11  Lock Screen: 3 Foolproof Methods that Actually Work
 
 [![drfone](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -331,15 +319,15 @@ Once the system has detected the phone, the user is advised to activate the DFU 
 
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Information for Confirmation**
 
 The next window will ask for some basic information regarding the iOS device and version.
 
 ![ios unlock 3](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5: Firmware Update**
 
@@ -355,13 +343,13 @@ You will see the option “Save to.” Guide the path, and all taken screenshots
 
 ![select “ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Provide the system with an on-screen confirmation code to continue the process. When that is done, the interface will notify you. By clicking on the 'Try Again' button, you can repeat the process.
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
@@ -384,6 +372,10 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 
 6. Doing this will wipe all the data, settings and, also the password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Restore Apple iPhone 11  Apple iPhone 11 to Factory Reset by iTunes
 
 Most iPhone users have synced the Apple device to iTunes. This helps them to recover the data in case it is lost. If the user has created an appropriate backup across iTunes, they can easily carry out the process of bypassing the lock screen. In other words, iPhone users have everything saved without the fear of being lost.
@@ -405,6 +397,10 @@ iPhone users can even restore their phones to factory settings without losing an
 
 Users can now retrieve all the data that has been backed up on iTunes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone 11 . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
@@ -424,7 +420,7 @@ If you have forgotten the passcode of your Apple iPhone 11, then don’t worry! 
 Compatible with every leading iOS device, it runs on all major iOS versions. Since Dr.Fone has an easy-to-use interface, it can simply resolve your issues without much trouble. You can restore your phone and perform an Apple iPhone 11 bypass with Dr.Fone - Screen Unlock by following these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
@@ -484,13 +480,13 @@ If you are an avid user of Apple products, then the chances are that you must ha
 
 ![select input text](https://images.wondershare.com/drfone/article/2017/07/14993666741575.jpg "select input text")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** From all the provided features, select the option of “Share” to continue.
 
 ![share text](https://images.wondershare.com/drfone/article/2017/07/14993667175344.jpg "share text")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5.** Tap on the message icon to draft a new message.
 
@@ -499,6 +495,10 @@ If you are an avid user of Apple products, then the chances are that you must ha
 **Step 6.** A new interface for message draft would be opened. In the “To” field, type something and tap the return button on the keyboard.
 
 ![add new message](https://images.wondershare.com/drfone/article/2017/07/14993668505901.jpg "add new message")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7.** As your text will turn green, tap on the add icon again.
 
@@ -520,6 +520,10 @@ If you are an avid user of Apple products, then the chances are that you must ha
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14993670049869.jpg "iphone home")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to bypass the Apple iPhone 11 passcode with iTunes?
 
 Another popular way to restore your Apple iPhone 11 is by taking the assistance of iTunes. Needless to say, even though you would be able to bypass the Apple iPhone 11 passcode, the technique will wipe the data on your device. Though, if you have already taken a backup of your data, then you can choose to restore it after performing an Apple iPhone 11 bypass. Do it by following these instructions.
@@ -534,21 +538,17 @@ Another popular way to restore your Apple iPhone 11 is by taking the assistance 
 
 ![restore](https://images.wondershare.com/drfone/article/2017/07/14993664805676.jpg "restore")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Furthermore, you can choose to restore content from a previous backup as well. Go to iTunes Summary section and click on the “Restore Backup” button.
 
 ![restore backup](https://images.wondershare.com/drfone/article/2017/07/14993665043433.jpg "restore backup")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Agree with the pop-up message and erase all the previous content on your phone.
 
 ![erase content](https://images.wondershare.com/drfone/article/2017/07/14993665401648.jpg "erase content")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to bypass Apple iPhone 11 passcode with Elcomsoft iOS Forensic Toolkit?
 
@@ -578,21 +578,21 @@ After following these solutions, you would be able to bypass the Apple iPhone 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>[New] Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-the-art-of-360-live-on-facebook/"><u>[New] Navigating the Art of 360 Live on Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-comparative-assessment-youtube-vs-dailymention/"><u>[Updated] 2024 Approved Comparative Assessment YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-tutorial-on-making-an-impact-with-instagram-live/"><u>2024 Approved The Ultimate Tutorial on Making an Impact with Instagram Live</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-12-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 12 Without a Passcode</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/boring-godfall-a-disappointing-debut-for-the-playstation-5/"><u>Boring Godfall - A Disappointing Debut for the PlayStation 5</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-se-2022-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone SE (2022) With or Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone XS Max</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-pinpointing-the-leading-10-invisible-story-enthusiasts/"><u>In 2024, Pinpointing the Leading 10 Invisible Story Enthusiasts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-15-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stream-playstation-5-games-to-connect-and-share-with-friends-online/"><u>Stream PlayStation 5 Games to Connect & Share with Friends Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-audio-design-in-magix-vst-2023/"><u>The Art of Audio Design in Magix VST 2023</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-home-weather-monitors-your-comprehensive-guide/"><u>Top-Rated Home Weather Monitors : Your Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>[New] Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps-for-2024/"><u>[New] Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-captivated-audience-with-strategic-voiceovers/"><u>2024 Approved Crafting a Captivated Audience with Strategic Voiceovers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>2024 Approved Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-worth-of-instagram-video-selfie-authenticity/"><u>2024 Approved The Worth of Instagram Video Selfie Authenticity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-x-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone X Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-14-pro-how-to-unlock-a-disabled-iphone-14-pro-by-drfone-ios/"><u>Disabled iPhone 14 Pro How to Unlock a Disabled iPhone 14 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dispelling-ai-crypto-analyst-fallacies/"><u>Dispelling AI Crypto Analyst Fallacies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-x-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone X After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-7-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 7 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-x6-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco X6 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-11-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 11 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-xs-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone XS Max With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xs-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>In 2024, The Path to Higher Rankings A Podcast SEO Guidebook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-reno-10-pro-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Reno 10 Pro 5G</u></a></li>
 </ul></div>
 
