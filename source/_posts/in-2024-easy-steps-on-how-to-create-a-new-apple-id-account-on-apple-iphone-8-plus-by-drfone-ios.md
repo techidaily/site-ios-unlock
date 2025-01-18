@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8 Plus
-date: 2024-12-24T16:41:36.079Z
-updated: 2024-12-26T22:24:26.210Z
+date: 2025-01-13T21:56:41.590Z
+updated: 2025-01-18T07:11:17.761Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,10 +54,6 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -73,14 +69,10 @@ These are the steps for registering a new Apple ID:
 ![create your apple id step 1](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### B. Verifying Your Identity
 
@@ -92,7 +84,15 @@ The next step is verifying your identity. Check out the steps below:
 
 ![create your apple id step 2](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### C. Setting Up Security Questions
 
@@ -155,12 +155,16 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 ![try dfu mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone 8 Plus device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
 
 ![choose device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
@@ -202,7 +206,7 @@ The second way to have a customized lock screen is to use a Live Photo. To do th
 **Note:** You can only use Live Photos for your lock screen if your Apple iPhone 8 Plus is unlocked.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to manage notifications
@@ -214,10 +218,6 @@ At first, you can go to Settings > Notifications. Here, you can choose how many 
 ![lock screen notification setting](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-3.jpg)
 
 The Do Not Disturb feature is the second way to manage notifications. To do this, go to Settings > Do Not Disturb and enable the feature. You can also schedule when Do Not should turn on and off. This feature work like a charm if you want to silence all notifications at night.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How to set Auto-Lock time
 
@@ -262,7 +262,7 @@ It will take some time, but you can use your Apple iPhone 8 Plus without a passc
 ![recovery mode on itunes](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use Find My in iCloud
@@ -332,7 +332,7 @@ There could be many reasons for the malfunction of the Lock Screen in iOS 17. Th
 You can try resetting your device to factory settings if the problem still exists. But make sure to back up your data before doing so, as it will erase all your data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I fix my iOS 17 lock screen bugs?
@@ -445,7 +445,7 @@ Step 2: Go to Find My, select your Apple iPhone 8 Plus.
 ![icloud find my iphone](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click Erase iPhone and confirm.
@@ -463,6 +463,10 @@ Step 1: Open the Find My app on your other iOS device or Mac
 Step 2: Select your disabled Apple iPhone 8 Plus from the Apple iPhone 8 Plus devices from the left pane, click/ tap your disabled Apple iPhone 8 Plus and click/ tap Erase This Device
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Unlock Disabled Apple iPhone 8 Plus Without A Computer
 
@@ -491,10 +495,6 @@ After all this to get access back, you might think let's go passcode-less and pr
 - 1.3 Never use repeating numbers.
 - 1.4 Do not use your ATM PIN as your phone passcode either. Think of some digits or combination that makes sense to you and only you. And then use it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 2: Use Face ID
 
 Along with Passcode comes the option of Face ID on your Apple iPhone 8 Plus, so use that. That will minimize instances for you to enter your passcode, and may make you forget it again, though. So, make sure that the passcode you set does make sense to you and you can remember it always without effort.
@@ -519,18 +519,16 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-micro-business-video-advertising-insights/"><u>[New] 2024 Approved Micro-Business Video Advertising Insights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-tech-5-must-have-streaming-webcams-for-gamers/"><u>[New] Essential Tech 5 Must-Have Streaming Webcams for Gamers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-share-the-laughter-mastering-kinemaster/"><u>[New] Share the Laughter Mastering KineMaster</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-15-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 15 Pro Max Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/clarity-cutting-edge-expert-recommendations-for-8k-for-2024/"><u>Clarity Cutting-Edge Expert Recommendations for 8K for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-14-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 14? Complete Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max, Apples New iPhone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-elevating-business-and-personal-visibility-with-youtube-mobile-edition/"><u>In 2024, Elevating Business & Personal Visibility with YouTube, Mobile Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-6s-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 6s Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-se-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone SE Properly</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/mastering-the-art-of-removing-drm-from-disney-discs-for-legal-backup-purposes/"><u>Mastering the Art of Removing DRM From Disney Discs for Legal Backup Purposes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-wisdom-warriors-top-11-trivia-videos/"><u>[New] 2024 Approved Wisdom Warriors' Top 11 Trivia Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-surprising-cve-counts-expert-strategies-for-enhancing-linux-security-in-an-evolving-threat-landscape/"><u>Beyond Surprising CVE Counts: Expert Strategies for Enhancing Linux Security in an Evolving Threat Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/emerging-ai-chip-innovator-ceremorphic-unveils-tech-in-stealth-exit/"><u>Emerging AI Chip Innovator Ceremorphic Unveils Tech in Stealth Exit</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-xs-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone XS Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gameboy-advance-mastered-android-emulator-selection/"><u>GameBoy Advance Mastered Android Emulator Selection</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-crisp-live-tv-signals-on-a-budget-using-the-amazonbasics-flat-antenna-our-in-depth-review/"><u>Get Crisp Live TV Signals on a Budget Using the AmazonBasics Flat Antenna - Our In-Depth Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-14-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 14 Pro Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XS Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tech-savvy-approach-to-downloading-apods-content/"><u>Tech-Savvy Approach to Downloading APods Content</u></a></li>
 </ul></div>
 

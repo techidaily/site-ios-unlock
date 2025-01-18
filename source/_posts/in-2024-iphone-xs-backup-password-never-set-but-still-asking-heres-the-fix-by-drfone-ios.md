@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone XS Backup Password Never Set But Still Asking? Heres the Fix
-date: 2025-01-04T01:21:13.636Z
-updated: 2025-01-05T18:55:26.940Z
+date: 2025-01-13T16:34:53.793Z
+updated: 2025-01-18T08:03:54.952Z
 tags: 
   - unlock
   - remove screen lock
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 ## Apple iPhone XS Backup Password Never Set But Still Asking? Here's the Fix
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
@@ -40,10 +40,6 @@ One of the most common issues is that people are asked for their iPhone backup p
 
 There are a few possible ways to fix this problem. Try resetting your password or using a different computer to back up your device. You could also try using a third-party software tool like Dr.Fone - Screen Unlock.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Try all passwords you use on iPhone
 
 When iTunes prompts you for an iPhone backup password never set, what should your initial course of action be?
@@ -65,6 +61,10 @@ The likelihood of success with this approach is relatively low. However, it is s
 3. On this page, choose Show Password to get the password for the Apple iPhone XS backup. However, you will first be prompted to provide the administrator password associated with your iCloud account to recover the password.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. "Reset All Settings"
 
@@ -106,17 +106,9 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** When brought to this screen, please use a USB cord to connect your iOS device to your personal computer. If Dr.Fone can identify this relationship, the following picture will appear for you to see.
 
@@ -137,7 +129,7 @@ Please read the following three notes carefully before clicking the **"Remove No
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Bottom Line
@@ -145,6 +137,10 @@ Please read the following three notes carefully before clicking the **"Remove No
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone XS backup password. The first method is to try all the passwords you use on your Apple iPhone XS. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone XS.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PassFab Apple iPhone XS Backup Unlocker: Top 4 Alternatives
 
@@ -162,10 +158,6 @@ A passcode encrypts your Apple iPhone XS's backups, allowing only you to access 
 
 ![itunes password](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you do not remember your password, you cannot view any data in your backup or restore it.
 
 A few methods allow you to guess or brute-force your way into the password. Still, the most reliable method to unlock your backup is to use a professional tool such as Dr.Fone - Screen Unlock, Passfab iPhone Backup Unlocker, or other iPhone backup unlockers. This group of software employs a sophisticated algorithm to figure out your password for you, and it has a high percentage of success.
@@ -176,10 +168,6 @@ Additionally, it is simple and can be finished in minutes rather than hours.
 
 ![incorrect password](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 An iPhone backup unlocker is software that, if you forget the password for your Apple iPhone XS, may assist you in regaining access to your device.
 
 A brute-force assault is the most popular strategy for accomplishing this goal, while many other approaches may also work. To do this, one must iterate through every conceivable combination of letters and digits until one reaches the proper passcode.
@@ -187,10 +175,6 @@ A brute-force assault is the most popular strategy for accomplishing this goal, 
 If the password for an iPhone has been forgotten, this is often the only option to recover access to the Apple iPhone XS device, even though it may be time-consuming.
 
 We are fortunate to have access to a wide variety of software applications that, when used together, may significantly streamline and simplify the process. So, let's talk about them!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: 5 Useful iPhone Backup Unlockers
 
@@ -204,6 +188,10 @@ Lifetime Licence ($49.95) |
 1-Year License ($39.95)  
 Lifetime License ($49.95) |
 | **Softonic-Free iPhone Backup Unlocker** | Free |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Dr.Fone-Screen Unlock
 
@@ -226,7 +214,7 @@ Before choosing "Remove Now," please read the 3 notes carefully:
 ![connected device](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dr.Fone can automatically verify your iTunes backup and erase it. Once the progress indicator reaches 100 percent, this encryption will be removed. This procedure will not need much time.
@@ -330,10 +318,6 @@ Because of its industry-leading recovery rate, extensive compatibility, and intu
 - Not a very good performance
 - Interface is not user-friendly
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Softonic Free iPhone Backup Unlocker
 
 This free iPhone backup unlocker can be used to recover passwords for iTunes backups that have been forgotten due to a malfunctioning computer or a lost or stolen iPhone.
@@ -365,6 +349,10 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -400,6 +388,10 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
 Fix No.2: Check Screen Time Restrictions
@@ -411,6 +403,10 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 - **Step 3:** Tap **Turn Off Screen Time**.
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.3: Remove MDM Configuration Profile
 
@@ -479,6 +475,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
@@ -538,19 +538,18 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-create-a-playlist-on-youtube/"><u>[New] 2024 Approved How to Create a Playlist on YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-hearing-heroism-essential-online-picks-for-tts-files/"><u>[New] In 2024, Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-boost-your-views-optimal-hashtags-for-video-success/"><u>[Updated] Boost Your Views Optimal Hashtags for Video Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-magic-techniques-to-share-your-computer-screen-online/"><u>2024 Approved Social Media Magic Techniques to Share Your Computer Screen Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-xs-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone XS Max Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-xs-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone XS Max</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Without Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 Pro in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-7-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 7 Plus Lock Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-five-iphone-compatible-podcast-services/"><u>In 2024, Five iPhone-Compatible Podcast Services</u></a></li>
-<li><a href="https://facebook.techidaily.com/in-depth-look-the-functioning-of-fb-oversight/"><u>In-Depth Look: The Functioning of FB Oversight</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-remove-audio-from-mkv-2023-update/"><u>New 2024 Approved How to Remove Audio From MKV-2023 Update</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96316573-9781401921378-the-spontaneous-healing-of-belief/"><u>The Spontaneous Healing of Belief | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-a-detailed-review-of-the-top-10-gopro-protectors/"><u>[New] In 2024, A Detailed Review of the Top 10 GoPro Protectors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-visual-cutting-software-for-windows-editors-choice-list-for-2024/"><u>[New] Prime Visual Cutting Software for Windows - Editor’s Choice List for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-7-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 7 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfecting-the-science-of-instagram-highlight-recovery/"><u>In 2024, Perfecting the Science of Instagram Highlight Recovery</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6 i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://techidaily.com/samsung-cant-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung can't play MP4 video files</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/stunning-joker-movie-2019-wallpaper-collection-and-backgrounds-by-yl-computing-a-comprehensive-visual-guide/"><u>Stunning Joker Movie 2019 Wallpaper Collection & Backgrounds by YL Computing: A Comprehensive Visual Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-guide-to-premium-vr-players-oculus-focus-for-2024/"><u>The Definitive Guide to Premium VR Players - Oculus Focus for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/toshiba-laptop-audio-troubleshooting-top-solutions-for-restoring-sounds/"><u>Toshiba Laptop Audio Troubleshooting: Top Solutions for Restoring Sounds</u></a></li>
 </ul></div>
 

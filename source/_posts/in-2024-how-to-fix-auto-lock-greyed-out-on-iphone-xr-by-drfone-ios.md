@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone XR
-date: 2024-07-15T01:02:00.640Z
-updated: 2024-07-16T01:02:00.640Z
+date: 2025-01-13T03:45:39.328Z
+updated: 2025-01-17T22:55:11.819Z
 tags: 
   - unlock
   - remove screen lock
@@ -68,6 +68,10 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Fix No.3: Remove MDM Configuration Profile
 
 A configuration profile is a file that contains settings and restrictions that can be applied to an iOS device. Organizations, schools, or IT administrators often use it to manage devices remotely and enforce specific configurations. Once installed, the settings within a profile override the Apple iPhone XR device's default settings. It can include restrictions related to security, network access, app usage, and more.
@@ -82,9 +86,6 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
 Fix No.4: Remove Network Settings Installed by MDM
@@ -99,9 +100,6 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -160,9 +158,6 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 - **Step 1:** Within the **Settings** app, scroll down the list on the left-hand side and tap **Display & Brightness**.
 - **Step 2:** On the right-hand side of the **Display & Brightness** screen, tap the **Auto-Lock** option.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
@@ -181,6 +176,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XR or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -197,6 +196,10 @@ Yet, there come moments when users might accidentally lock their Apple Watch. It
 
 ![unlock a locked apple watch](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Is It Possible To Unlock the Apple Watch Without a Passcode or Paired Phone?
 
 When it comes to a locked **Apple Watch, how to unlock** it becomes essential. Unlocking the Apple Watch might seem complicated, especially without a passcode or paired phone. However, rest assured, there are multiple methods available to regain access. These solutions offer diverse perspectives on resolving the issue. It ensures you're not reliant solely on the passcode or a connected phone to unlock your device.
@@ -212,6 +215,10 @@ Do you have the passcode and your Apple Watch paired with an iPhone? It makes th
 - **Step 2.** Within the "General" tab, press "Reset" and choose "Erase Apple Watch Content and Setting" to start the reset process.
 
 ![press reset to erase all settings](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Following this, confirm your action by tapping "Erase All Content and Settings." Continue to select the same option again as it appears on your Apple iPhone XR. If Find My is enabled for your Apple Watch, you will be prompted to enter your Apple ID and password. On adding the required details, select “Erase” to conclude the process.
 
@@ -242,6 +249,10 @@ Nevertheless, external services claim to provide solutions for bypassing the Act
 - **Step 2.** Choose your “Country,” along with the network service provider. Next, enter the [IMEI number](https://drfone.wondershare.com/unlock/unlock-phone-free-with-imei-number.html) of your Apple Watch and click "Unlock for any SIM Card." Afterward, follow the prompts on the screen to complete the process.
 
 ![unlock watch by entering details](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2. Unlock the Apple Watch Lock by Resetting
 
@@ -291,7 +302,6 @@ Upon installing Wondershare Dr.Fone on your computer, launch the program. Access
 
 ![proceed with unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - **Step 2. Entering Recovery Mode and Firmware Preparation**
 
 Follow the on-screen instructions to put your iDevice into Recovery Mode. The platform will automatically detect and display the Apple iPhone XR device Model. Adjust the model or System Version if necessary, and once done, click "Start." Track the iOS firmware download progress on the next screen.
@@ -309,8 +319,6 @@ Ensure the downloaded iOS firmware is validated. Click "Unlock Now" to initiate 
 In summary, this comprehensive guide navigated **how do you unlock an Apple Watch**. It addressed diverse scenarios, such as Activation Locks and [forgotten passcodes](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html). These strategies offer solutions for varied situations, from leveraging third-party services to collaborating with previous owners. Additionally, it recognizes the need for unlocking tools like Wondershare Dr.Fone.
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## A Comprehensive Guide to Apple iPhone XR Blacklist Removal: Tips and Tools
 
@@ -330,12 +338,20 @@ You might have heard the term "blacklisted iPhone" before, but what does it mean
 
 When an iPhone is blacklisted, it's been labeled as "not-so-friendly" in the digital world. It's like when you're not allowed into an establishment because you broke the rules. In this case, the Apple iPhone XR has done something that makes it unwelcome on specific networks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why Does an iPhone Get Blacklisted?
 
 There are a few reasons why an iPhone might end up on this digital naughty list:
 
 - **Reported as Lost or Stolen.**Imagine if someone reported their iPhone as lost or stolen. If someone else tries to use that phone, it could be blacklisted. That's because protecting the original owner's data and privacy is essential.
 - **Unpaid Bills.**Sometimes, an iPhone gets blacklisted because the person who had it didn't pay their bills. Not paying your phone bill can have consequences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Happens When Your Apple iPhone XR Is Blacklisted?
 
@@ -353,9 +369,6 @@ Now that you know what it means for an Apple iPhone XR to be blacklisted and the
 
 ![iphone blacklist removal](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What Is iPhone Blacklisted Removal?
 
 Going through a **blacklist removal service for your Apple iPhone XR** is like giving your device a second chance. It's taking your Apple iPhone XR off the "naughty list" and making it work like it should again. And the best part? You can do it without spending a dime.
@@ -390,6 +403,10 @@ Before you hand over your hard-earned money, check the iPhone's background. Make
 
 Just like you lock your front door, secure your Apple iPhone XR. Use a strong passcode, Face ID, or Touch ID to protect your phone from unauthorized access. This simple step can prevent it from being misused and reported as stolen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pay Your Bills on Time
 
 Your iPhone needs its "phone allowance" paid on time, too. Ensure you pay your monthly bills to your carrier. Unpaid invoices can lead to your Apple iPhone XR getting blacklisted.
@@ -408,15 +425,15 @@ Stay vigilant for scams and sketchy deals. If something sounds too good to be tr
 
 By following these simple preventive measures, you can keep your device clear and avoid the hassle of dealing with the whole **iPhone blacklist removal** process. Remember, a little caution goes a long way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: The Blacklist Problem Resolved, but What To Do if I Have a Locked SIM?
 
 So, this article has talked a lot about **iPhone blacklist removal**, but what about your trusty SIM card? A little chip plays a significant role in keeping you connected. Sometimes, SIM cards encounter issues, too, and they need a helping hand. Enter [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – Sim Unlock, your go-to solution for all SIM-related issues like SIMs not supported, [locked or invalid SIMs](https://drfone.wondershare.com/unlock/free-for-samsung-galaxy-sim-unlock.html), and SIMs without network service.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone v13 home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 ### Key Features
 
@@ -426,6 +443,10 @@ Check out the marvelous features that Dr.Fone – SIM Unlock can do for your App
 - **User Friendly.**You don't need to be a tech wizard to use it. Dr.Fone – SIM Unlock comes with an easy-to-follow interface. It's like having a friendly guide right on your screen.
 - **Quick and Effective.**The best part? It's quick and efficient. You won't wait hours to get your SIM back on track. It's like a fast pass at an amusement park.
 - **Anytime, Anywhere.**Fone – Sim Unlock is available whenever you need it. Whether at home or on the go, you can count on it to rescue your SIM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide
 
@@ -459,7 +480,6 @@ In a world where staying connected is vital, understanding and fixing iPhone bla
 
 Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphone-sim-unlock.html) to rescue you when your SIM card acts up. It's your go-to solution for SIM-related woes, ensuring you stay connected effortlessly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -472,9 +492,22 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-skyward-haven-of-the-pennywise-clouds/"><u>[New] Skyward Haven of the Pennywise Clouds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>2024 Approved Streamline Your iPhone JPEG/PNG to PDF File Processing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-visual-filmmaking-tools-environmentally-friendly/"><u>2024 Approved Visual Filmmaking Tools Environmentally Friendly</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-strategies-to-maximize-your-fps-in-csgo/"><u>7 Strategies to Maximize Your FPS in CS:GO</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/content-creation-showdown-twitch-versus-youtube-explored/"><u>Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xs-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XS Max with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-11-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 11 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-ace-2-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Ace 2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-13-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 13 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-waterproof-smartwatches-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Ranking Waterproof Smartwatches - Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-how-to-link-your-samsung-infrared-remote-control-and-tv-easily/"><u>Ultimate Tutorial: How to Link Your Samsung Infrared Remote Control and TV Easily</u></a></li>
+</ul></div>
 
