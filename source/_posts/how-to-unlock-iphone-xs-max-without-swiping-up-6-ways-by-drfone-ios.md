@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone XS Max Without Swiping Up? 6 Ways
-date: 2024-07-15T00:54:18.559Z
-updated: 2024-07-16T00:54:18.559Z
+date: 2025-01-23T16:52:22.128Z
+updated: 2025-01-24T17:08:13.960Z
 tags: 
   - unlock
   - remove screen lock
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
 ## How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What’s Swipe Up To Unlock on iPhone?
 
 The **Swipe Up Unlock** function has been a fundamental aspect of iPhone functionality for a long time. It enables swift access to your phone by swiping upward from the screen's bottom. This gesture grants entry to all your applications and data on your Apple iPhone XS Max. It was initially introduced to replace the physical Home button. However, it significantly simplified the user experience with iPhones.
@@ -57,6 +54,10 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 ![access touch in accessibility](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** On the following screen, scroll down to the bottom and press "Back Tap." Now, either choose "Double Tap" or "Triple Tap" and select "Lock Screen" from the options under the "System" section.
 
 ![enable back tap to lock screen](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-2.jpg)
@@ -64,8 +65,6 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 ### Method 2: Unlock iPhone Without Swiping Up Using iPhone Screen Unlocker: Dr.Fone - Screen Unlock
 
 If you've forgotten the passcode for your Apple iPhone XS Max and are unable to access it anymore, there is no need to panic. We have the perfect tool for you that can unlock any lock on your screen in a few moments. The tool we are talking about is [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), an industry leader in smartphones. Dr.Fone, a pioneering tool for iOS lock screen removal, assists in unlocking various iPhone/iPad/iPod touch lock screens.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -75,6 +74,10 @@ Unlock iPhone Without Swiping Up!
 - Unlock screen passwords from all iPhones and iPads.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone 15 /iPhone 14 /iPhone 13, iPhone 12, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,218** people have downloaded it
 
@@ -100,9 +103,6 @@ Download and install Wondershare Dr.Fone on your computer. Go to "Toolbox," tap 
 
 After this step, enter Recovery Mode on your iDevice by following the specific on-screen instructions. Once your iDevice is in Recovery Mode, the system automatically identifies and displays the "Device Model." You can make adjustments to the model if necessary and choose the "System Version" as per your needs. When finished, click on "Start" to initiate the unlocking process for your device's screen.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![follow on-screen instructions](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Successfully Unlock Your Locked iPhone**
@@ -110,7 +110,6 @@ After this step, enter Recovery Mode on your iDevice by following the specific o
 The screen will showcase the download progress of the iOS firmware on the platform. Once the iOS firmware download is completed, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will appear, requesting confirmation for the process. Enter the necessary code and tap on "Unlock" to proceed. Upon successful unlocking of the iDevice, click "Done" to complete the process.
 
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ### Method 3: Unlock the Apple iPhone XS Max Without Swiping Up via Touch ID/Face ID
 
@@ -183,15 +182,20 @@ Utilizing Voice Control to unlock your Apple iPhone XS Max offers a hands-free a
 
 ![toggle on voice control option](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Unlock iPhone Without Swiping Up with Switch Control
 
 Utilizing Switch Control is an excellent accessibility feature on iOS devices. It allows users to interact with their iPhones using adaptive switches or the Apple iPhone XS Max device's screen itself. Moreover, it can provide an alternative way to navigate the Apple iPhone XS Max and access the Home screen. You no longer have to rely solely on the conventional swipe gesture. Here is how you can set up switch control to **iPhone swipe to unlock**:
 
 **Step 1.** Access your Apple iPhone XS Max's Settings, then tap on "Accessibility." Now find and select "Switch Control," and within it, navigate to "Switches." Now, tap "Add New Switch" and choose "Camera."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add a new switch](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-8.jpg)
 
 **Step 2.** Set Left Head Movement and Right Head Movement separately to “Home.” This action will lock the screen when tilting your head left or right. Now go back to "Recipes" in Switch Control, select "Edit," and delete all existing recipes.
@@ -251,9 +255,6 @@ Unlocking an iPhone involves a series of attempts, each with distinct consequenc
 - Disabled for 60 minutes.
 - A considerable waiting period is imposed. It increases the frustration for unauthorized users attempting to gain access.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone is disabled 1 hour](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-03.jpg)
 
 **10th Attempt**
@@ -261,6 +262,10 @@ Unlocking an iPhone involves a series of attempts, each with distinct consequenc
 - iPhone is disabled.
 
 ![iphone is disabled connect to itunes](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Two things can happen on the tenth failed attempt to unlock your Apple iPhone XS Max. If you have **Erase Data** enabled, your phone's data gets wiped. If it's disabled, the Apple iPhone XS Max is permanently locked, requiring a connection to iTunes for restoration. It's crucial to [<u>back up your data on iCloud</u>](https://drfone.wondershare.com/icloud/restore-from-icloud-backup.html) or locally to avoid permanent loss.
 
@@ -310,7 +315,6 @@ After **many failed passcode attempts on your Apple iPhone XS Max**,Dr.Fone can 
 
 ![dr.fone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2:** Follow the on-screen instructions. Dr.Fone will automatically detect your Apple iPhone XS Max model. If necessary, choose the **System Version** according to your preference. Next, click **Start** to start the iOS firmware download.
 
 ![ios system version download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -318,6 +322,10 @@ After **many failed passcode attempts on your Apple iPhone XS Max**,Dr.Fone can 
 - **Step 3:** Wait for the iOS firmware to download successfully. Click on **Unlock** **Now** to initiate the unlocking process. Follow the on-screen instructions again and wait for Dr.Fone to unlock your device. If unsuccessful, click on the **Try** **again** option.
 
 ![successful firmware download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Using iTunes To Unlock a Locked or Disabled iPhone
 
@@ -362,6 +370,10 @@ Consider using Dr.Fone Screen Unlock (iOS) for a secure and data-preserving unlo
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Forgot Apple iPhone XS Max Backup Password? Here's What to Do
 
 Forgetting your Apple iPhone XS Max backup password can be a real pain. Not only does it mean you can't access your data, but it also means you can't restore your phone if something goes wrong.
@@ -404,6 +416,10 @@ When prompted in the window, create a password for the account. Make it powerful
 
 After establishing the password, all your previous backups will immediately undergo an automated overwrite and encryption. Make it a priority to ensure that the encryption procedure is finished effectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
 
 ### 1\. Try all passwords you used on your Apple iPhone XS Max
@@ -419,6 +435,10 @@ The typical method that each individual attempts for the first time is to input 
 - Password for the email account
 - Passcode for the administrator
 - Passcode for the iPhone
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. "Reset All Settings" via "Settings"
 
@@ -470,6 +490,10 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** In the Screen Unlock interface, tap **Remove iTunes BackUp Encryption** in the bottom right corner to move forward.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -482,9 +506,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Don't open iTunes while doing this.
 - Your device will reboot
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
@@ -494,7 +515,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -524,9 +544,6 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -539,9 +556,23 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/xploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>[New] Exploring New Horizons Video Resources for Dynamic Learning Spaces</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-companions-for-podcast-lovers-activities-and-tasks/"><u>[Updated] Best Companions for Podcast Lovers Activities and Tasks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>[Updated] In 2024, Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-top-2-directors-cut-downloads/"><u>[Updated] Top 2 Director's Cut Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y100i-power-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y100i Power 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-15-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 15 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-12-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 12 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-x-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone X and iPad</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-xs-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone XS Max Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>In 2024, Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-8-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 8 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-x5-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco X5 | Dr.fone</u></a></li>
+</ul></div>
 

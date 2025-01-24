@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your iPhone 8 Plus Lock Screen with Notifications?
-date: 2025-01-14T06:19:36.438Z
-updated: 2025-01-17T17:01:24.392Z
+date: 2025-01-17T16:33:10.783Z
+updated: 2025-01-24T18:17:30.161Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,11 +28,19 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 ![iphone lock screen with notifications-reply to messages from notification](https://images.wondershare.com/drfone/article/2017/09/15063937846890.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Interact with apps without unlocking your phone**
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
 
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
 
@@ -62,11 +70,11 @@ Sometimes, people can access our private information just by looking at our noti
 
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to turn off notification view on iPhone lock screen?
 
@@ -96,6 +104,10 @@ Some people find it a little tricky to access the lock screen notifications iPho
 
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
 
 Nevertheless, you can swipe from the top to access the cover sheet.
@@ -105,10 +117,6 @@ Nevertheless, you can swipe from the top to access the cover sheet.
 This is undoubtedly one of the most evident new features of the Apple iPhone 8 Plus notification lock screen of iOS 18. Now, you can swipe left or right to access various features. By swiping left, you can access the Camera on your device and by swiping right, you can access your Today View.
 
 ![iphone lock screen with notifications-ios 18 notification new feature](https://images.wondershare.com/drfone/article/2017/09/15063941093235.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you want to click pictures instantly, then simply swipe left the lock screen. This will launch the Camera on your device, letting you click pictures on the go. Similarly, by swiping right, you can access your Today View. This includes vital data from apps and widgets that your smartphone assumes is important for you regarding the day.
 
@@ -130,10 +138,6 @@ A problem commonly faced by all iPhone users is that they forget the password, a
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), the well-known application among most iPhone users, can resolve the problem quickly. This is a very secure platform for iPhone users because it promises to safeguard user's personal information. The application is easy to use, that even a new person can use it without facing any trouble. Let us highlight its features;
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Fix iPhone Lock Screen Password Forgot Issue
@@ -143,7 +147,7 @@ Fix iPhone Lock Screen Password Forgot Issue
 - Remove iPhone carrier restrictions for unlimited usage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - No tech knowledge required, Simple, click-through, process.
@@ -178,10 +182,6 @@ A new window will appear now, on which the application will ask for some informa
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -210,16 +210,8 @@ Let us show you how to unlock Apple iPhone 8 Plus without using a passcode;
 
     ![unlock iphone 12 or 12 pro max](https://images.wondershare.com/drfone/article/2021/04/unlock-iphone-12-or-12-pro-max-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 6. As soon as that is done and iTunes has finished the process, your Apple iPhone 8 Plus 12 will be restored to default settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3. Unlock Disabled iPhone 12 by Erasing iPhone in iCloud**
 
@@ -258,6 +250,10 @@ The known and famous application among iPhone users helps them recover data, unl
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Using iTunes
 
 iPhone users can unlock the phone by using iTunes. Following are its pros and cons;
@@ -285,10 +281,6 @@ Another known platform for iPhone users is iCloud, which allows users to unlock 
 
 1. User requires a strong and stable internet connection to log in to iCloud and in case internet is not available, they cannot unlock the screen.
 2. Another disadvantage is that if 'Find my iPhone' is not enabled on the Apple iPhone 8 Plus device, then the user cannot unlock the screen through iCloud.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -319,6 +311,10 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For more tutorial videos about how to unlock your Apple iPhone 8 Plus, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
 Keep reading to learn more feasible ways to unlock iPhone without passcode in detail!
@@ -345,6 +341,10 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 8 Plus or iPad withou
 
 ![drfone screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Go to "Toolbox" > "Screen Unlock" > "iOS" > "Unlock iOS Screen", then connect your Apple iPhone 8 Plus to your PC.
 
 ![unlock ios](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
@@ -359,15 +359,15 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 8 Plus or iPad withou
 
 _Unlock your Apple iPhone 8 Plus/iPad without a passcode now!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: The TikTok Method to iPhone Unlocking Without Using a Passcode or Face ID
 
 There has been a viral trend on TikTok about how to unlock your Apple iPhone 8 Plus without using a passcode or your face ID, no matter which iPhone model you use. These themes of videos quickly racked up almost 9 million views.
 
 ![unlock iphone without passcode tiktok method](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This method states that it can enter your phone camera or calculator from the control panel, then without face ID unlocks, your phone can be used as normal.
 
@@ -401,6 +401,10 @@ This method may be a better choice for unlocking your Apple iPhone 8 Plus than u
 - **Step 3:** Enter your Apple ID credentials.
 - **Step 4:** Click "Erase" to confirm that you want to erase your Apple iPhone 8 Plus.
 - **Step 5:** Wait for the process to complete, and your Apple iPhone 8 Plus will be unlocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Use the Voice Control to Unlock iPhone (iOS 13 or later)
 
@@ -453,10 +457,6 @@ Before you start, please ensure you have a computer (Mac or PC). If you're using
 - **Step 2:** Get ready by finding the button on your Apple iPhone 8 Plus, as shown in the pictures below. You'll need to hold in the following step.
 
 ![find the button](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Connect your Apple iPhone 8 Plus to the computer where the Finder or iTunes is enabled > Click on iTunes and restore your Apple iPhone 8 Plus.
 
@@ -546,21 +546,16 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-free-and-easy-fb-link-collection-services/"><u>[New] 2024 Approved Free and Easy FB Link Collection Services</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-uncovering-every-shared-element-in-a-chat-on-messenger/"><u>[Updated] In 2024, Uncovering Every Shared Element in a Chat on Messenger</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-strategic-media-mapping-charting-your-course-against-competitors-videos/"><u>[Updated] Strategic Media Mapping Charting Your Course Against Competitors' Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unraveling-image-mysteries-the-triple-tactic-fb-backward-search/"><u>[Updated] Unraveling Image Mysteries The Triple-Tactic FB Backward Search</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-2022-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE (2022) in Lost Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-8-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 8 Plus Lock Screen</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-asus-chromebook-c2easyacademic-ready-device-perfect-for-young-learners/"><u>Comprehensive Asus Chromebook C2easyAcademic-Ready Device Perfect for Young Learners</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xr-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XR</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-70-lite-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 70 Lite 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y200-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y200 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 13</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-2020-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE (2020)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 mini</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-9-methods-to-access-and-tweak-windows-sound-settings/"><u>Learn 9 Methods to Access and Tweak Windows Sound Settings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/step-by-step-guide-to-reestablish-working-airdrop-linkage-for-2024/"><u>Step-by-Step Guide to Reestablish Working Airdrop Linkage for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] In 2024, How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-obs-for-live-skype-recording/"><u>[New] In 2024, Mastering OBS for Live Skype Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-transform-your-broadcasts-5-advanced-recording-methods-web-for-2024/"><u>[Updated] Transform Your Broadcasts 5 Advanced Recording Methods Web for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-wave-goodbye-to-breakups-keep-your-streak-going/"><u>[Updated] Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-humor-with-9gag-your-personal-meme-making-manual/"><u>2024 Approved Tailoring Humor with 9GAG Your Personal Meme Making Manual</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-11-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 11 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/discovering-if-muted-on-snapstreak-for-2024/"><u>Discovering If Muted on Snapstreak for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-se-2022-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone SE (2022)? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-wont-my-ig-story-upload-expert-fixes-and-solutions/"><u>Why Won't My IG Story Upload? Expert Fixes and Solutions</u></a></li>
 </ul></div>
 

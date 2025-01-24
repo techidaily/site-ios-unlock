@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone XS Max Backup Password? Heres What to Do
-date: 2024-07-15T00:53:58.329Z
-updated: 2024-07-16T00:53:58.329Z
+date: 2025-01-17T17:40:37.879Z
+updated: 2025-01-24T17:27:12.412Z
 tags: 
   - unlock
   - remove screen lock
@@ -76,9 +76,6 @@ The typical method that each individual attempts for the first time is to input 
 
 To begin, go to the **Settings** app on your iOS device, then choose **General**, followed by **Reset.**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![reset](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-3.jpg)
 
 You may now go to **Reset All Settings** and confirm by entering the security passcode when prompted. Then, your phone will automatically go through the process of resetting and returning to its default settings.
@@ -86,6 +83,10 @@ You may now go to **Reset All Settings** and confirm by entering the security pa
 You can also get rid of the password for the last backup without deleting any other apps or data.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use a USB cable to link your Apple iPhone XS Max to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
@@ -102,6 +103,10 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone XS Max backup will be shown.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
 
@@ -147,7 +152,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -192,13 +196,18 @@ Face ID is an authentication system that came with iPhone X for the first time, 
 
 Face ID is not a new and advanced version of Touch ID, but a completely different authentication system that utilizes a different component what Apple calls a TrueDepth camera to scan your face metrics. Face ID is not available on phones with Touch ID (iPhone SE 2022 today) and Touch ID is not available on iPhones that come with Face ID as their authentication mechanism.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part II: What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your Apple iPhone XS Max 13/12/11 with Face ID:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### II.I Unlock Your Apple iPhone XS Max
 
 As an authentication mechanism, Face ID enables you to [unlock your Apple iPhone XS Max 13](https://drfone.wondershare.com/unlock/how-to-unlock-an-iphone-13.html)/iPhone 12/iPhone 11 with a look. How to do that? Here are the steps:
@@ -263,6 +272,10 @@ Step 3: Toggle Attention Aware Features On.
 
 That‘s it. Now, when you get a call and your Apple iPhone XS Max 13 is ringing loud, looking at your Apple iPhone XS Max 13/12/11 will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your Apple iPhone XS Max. Additionally, your Apple iPhone XS Max screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.IV Filling Passwords in Safari Automatically Using Face ID
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your Apple iPhone XS Max with Face ID.
@@ -313,9 +326,6 @@ Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Appl
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part IV: How to Set Up Face ID on Your Apple iPhone XS Max
 
 Sometimes, you may just want to disable Face ID temporarily or the issue gets solved, and want to activate Face ID again. Setting up a Face ID on your Apple iPhone XS Max 13 is easy. To set up Face ID, sit in a comfortable spot with adequate lighting and follow these steps:
@@ -344,8 +354,6 @@ If this does not resolve it, you need to take the Apple iPhone XS Max device to 
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone XS Max (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone XS Max can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone XS Max with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -357,11 +365,13 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 **4,395,217** people have downloaded it
 
-
-
 ## How to Unlock Apple iPhone XS Max With an Apple Watch & What to Do if It Doesn't Work
 
 ![man wearing apple watch with Apple iPhone XS Max by him](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are plenty of reasons why Apple devices are in such high demand. The quality of the products is unquestionable – few can argue the superior quality of the Apple iPhone XS Max’s camera, for instance. Almost all devices are long-lasting. They have a great resale value. They offer cutting-edge features.
 
@@ -372,7 +382,6 @@ With a quick little tap, you can have your Apple iPhone XS Max’s camera workin
 Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone XS Max**.
 
 Now, you cannot just **unlock any Apple iPhone XS Max with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
-
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone XS Max?
 
@@ -465,6 +474,10 @@ Make sure that you have:
 
 If all the settings are correct, try one of the following options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Restart Your WiFi/Bluetooth Connection
 
 Your Apple iPhone XS Max and your Apple Watch need to have both WiFi and Bluetooth turned on. If they’re turned on on both devices, try turning them off and back on again to restart the connection.
@@ -485,6 +498,10 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Do a System Repair on Your Apple iPhone XS Max
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -502,9 +519,6 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 4:** Select your device type in the new window that opens;
 - **Step 5:** Select **iOS repair**;
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
 - **Step 6:** Select **Standard Repair Mode**;
@@ -516,6 +530,10 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 
 ![dr.fone finishing ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it was a system mistake preventing you from unlocking your Apple iPhone XS Max with your Apple Watch, the option should be functioning well after the Dr.Fone iOS repair.
 
 ### 5. Reset Network Settings
@@ -526,6 +544,10 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 - **Step 2:** Type in your passcode.
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Reset Your Watch and Pair It Again
 
@@ -539,15 +561,11 @@ It’s all quite simple:
 
 To perform a hard reset, simultaneously press and hold the power button and digital crown.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Using your Apple Watch to unlock your Apple iPhone XS Max is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -561,9 +579,19 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-free-access-worlds-biggest-youtube-short-downloaders/"><u>[New] In 2024, Free Access World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>[Updated] 2024 Approved In-Depth Review Tunefab's Latest in Screen Capture Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-view-comments-on-youtube/"><u>[Updated] In 2024, How to View Comments on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-snack-sensation-tiktoks-viral-culinary-adventures/"><u>2024 Approved Snack Sensation TikTok's Viral Culinary Adventures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-11-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 11 Pro Without a Home Button</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y27-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y27 5G?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-12-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 12 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone SE (2022)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-11-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-zte-nubia-flip-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From ZTE Nubia Flip 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008529620-optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/rapid-video-grabber-and-audible-guide-system-for-2024/"><u>Rapid Video Grabber & Audible Guide System for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Lock Apps on iPhone XS Max and iPad Securely
-date: 2024-07-15T00:56:06.028Z
-updated: 2024-07-16T00:56:06.028Z
+date: 2025-01-18T17:32:30.640Z
+updated: 2025-01-24T17:14:07.042Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,6 +54,10 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
 
 ![search for lock screen option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-6.jpg)
@@ -81,8 +85,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone XS Max passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -113,6 +115,10 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 4.** Now, simply launch the app that you want to restrict and tap the Home button three times. This will start the Guided Access mode.
 
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
 
@@ -170,9 +176,6 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 **Step 2.** After installing the tweak, you can go to Settings > Applocker to access it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone applocker](https://images.wondershare.com/drfone/article/2017/09/15060136509845.jpg)
 
 **Step 3.** To access the feature, make sure that you have “**Enabled**” it (by turning it on).
@@ -205,9 +208,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 **Step 6.** Under the “**Protected Applications**” section, you can see a list of all the major apps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![protected applications](https://images.wondershare.com/drfone/article/2017/09/15060137256044.jpg)
 
 **Step 7.** Simply turn on (or off) the feature of the app that you wish to lock.
@@ -217,6 +217,10 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 **Step 9.** After setting the lock, you would be asked to authenticate using your fingerprint to access the protected app.
 
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wrap it up
 
@@ -253,7 +257,6 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone XS Max device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -293,6 +296,10 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
@@ -304,6 +311,10 @@ Locking notes on your Apple iPhone XS Max provides extra security for your sensi
 - **Step 1.** Open the “Note” you want to lock and tap the “three dots” near the top right corner. From the appearing menu, press the "Lock" icon.
 
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone XS Max device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
 
@@ -325,6 +336,10 @@ This guide will walk you through creating a new account for Apple devices in an 
 
 You might need to create a new Apple ID to enhance your Apple experience. Let's dive into why it's a good idea:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A. Reasons for Creating a New Apple ID Account
 
 Here's a breakdown of the reasons why you should **create a new Apple ID for your Apple iPhone XS Max**:
@@ -335,9 +350,6 @@ Here's a breakdown of the reasons why you should **create a new Apple ID for you
 - **Separation of Accounts.**Sometimes, you may want to keep your work-related apps and data separate from your ones. Creating a new Apple ID helps you achieve this separation.
 - If you're using Apple services for different purposes, such as work and personal use, having separate Apple IDs can help keep everything organized and distinct.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![create a free apple id account](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-02.jpg)
 
 ### B. Scenarios Where a New ID Is Needed
@@ -370,7 +382,15 @@ These are the steps for registering a new Apple ID:
 
 ![create your apple id step 1](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### B. Verifying Your Identity
 
@@ -390,15 +410,16 @@ The next process will be setting up security questions for your account:
 
 - **Step 6:** Apple asks you to choose and answer security questions. These questions provide an additional layer of protection for your account. Select questions that you can easily remember and that others can't guess.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### D. Finalizing the Process
 
 To finalize the creation process, refer to the steps given below:
 
 - **Step 7:** Read through Apple's Terms and Conditions and Privacy Policy. Once you've understood them, tick the box to confirm that you've read and agree to the iCloud and Apple Media Services Terms and Conditions. Then click **Agree** to proceed. Remember that it's essential to be familiar with Apple's policies to ensure a secure and smooth experience.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![create your apple id step 3](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-06.jpg)
 
 - **Step 8:** After completing these steps, Apple will send a confirmation email to the address you provided. Go to your email and open the verification link to confirm your new Apple ID.
@@ -412,6 +433,10 @@ You can embark on an enhanced Apple experience after successfully **creating you
 This step ensures that your new Apple ID takes center stage, granting you full control over your device and its associated services. But if you encounter difficulties when removing the previous Apple ID from your device, Dr.Fone - Screen Unlock (iOS) is a reliable and user-friendly solution.
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
@@ -428,11 +453,7 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 - **Step 1:** Launch Wondershare Dr.Fone on your PC to use the **Screen Unlock** function and then navigate to **Toolbox**. Click the **Screen Unlock** section, then choose **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -470,9 +491,6 @@ This guide has simplified the process of **creating a new Apple ID**, ensuring y
 
 Should you encounter any challenges while managing your Apple ID, such as removing a previous one, consider Dr.Fone - iOS Screen Unlock tool. This user-friendly resource stands ready to assist, ensuring a seamless and secure Apple experience. Explore the possibilities and make the most of your Apple adventure!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -485,9 +503,17 @@ Should you encounter any challenges while managing your Apple ID, such as removi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-master-audio-fusion-a-stepwise-approach-to-incorporating-srt-into-mp4s-for-2024/"><u>[New] Master Audio Fusion A Stepwise Approach to Incorporating SRT Into MP4s for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pro-photos-master-the-art-of-adding-motion-blur-effects/"><u>[New] Pro Photos Master the Art of Adding Motion Blur Effects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-directing-attention-how-to-eradicate-background-from-your-virtual-conferences/"><u>[Updated] 2024 Approved Directing Attention How to Eradicate Background From Your Virtual Conferences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-eyechrome-studio-direct-os-screencap-for-2024/"><u>[Updated] EyeChrome Studio Direct OS Screencap for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-design-unique-outro-videos-without-paying-a-penny/"><u>[Updated] In 2024, Design Unique Outro Videos Without Paying a Penny</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-11-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 11 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-8-plus-5-ways-to-get-into-a-locked-iphone-8-plus-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 8 Plus? 5 Ways to get into a Locked iPhone 8 Plus</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-a70-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from A70</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking Apple iPhone XS Max with a Broken Screen?
-date: 2024-07-15T00:55:13.838Z
-updated: 2024-07-16T00:55:13.838Z
+date: 2025-01-18T18:04:26.640Z
+updated: 2025-01-24T17:11:38.679Z
 tags: 
   - unlock
   - remove screen lock
@@ -75,6 +75,10 @@ Again, iPhone will show the Apple iPhone XS Max locked message. You then need to
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Use iTunes**
 
 You can erase your Apple iPhone XS Max and its password once you synchronize it with iTunes. Follow these steps:
@@ -108,6 +112,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone XS Max device and let you pick a photo.
 
 **Step 8.** When the photo library is open, tap on the home button or return button to get back to the unlock screen to get to the Settings symbol.
@@ -120,7 +128,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 
 ### Dr.Fone-Screen Unlock
 
-
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
 We strongly recommend you install the Wondershare Dr.Fone-Screen Unlock tool. It is a safe and easy-to-use tool with an excellent success rate. With years of service in the unlocking industry, the experts at Wondershare thrive to provide outstanding services to its customers.
@@ -131,9 +138,6 @@ Moreover, Dr.Fone will keep your data from being exposed to threats. It is a fas
 
 Click the "Screen Unlock" option from the main homepage and connect your iDevice to your computer. Then go for the "Unlock iOS Screen" option on the program.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2. Access the Recovery or DFU mode**
@@ -156,12 +160,9 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone XS Max effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
-
 
 ## Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS Max
 
@@ -171,9 +172,17 @@ This guide will walk you through creating a new account for Apple devices in an 
 
 ![create a free apple id](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Create a New Apple ID?
 
 You might need to create a new Apple ID to enhance your Apple experience. Let's dive into why it's a good idea:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A. Reasons for Creating a New Apple ID Account
 
@@ -198,6 +207,10 @@ Below are the common scenarios where a new Apple ID might be needed:
 - **Starting Fresh.**Sometimes, you might want a fresh start with your Apple experience, and creating a new Apple ID provides a clean slate.
 
 **Creating a new Apple ID** isn't just about getting a new email; it's about tailoring your Apple experience to your needs, whether for personalization, privacy, or organization. Now that you know why it's essential, let's explore how to create it in the next section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Step-by-Step Guide: How To Create a New Apple ID Account
 
@@ -231,14 +244,15 @@ The next step is verifying your identity. Check out the steps below:
 
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### C. Setting Up Security Questions
 
 The next process will be setting up security questions for your account:
 
 - **Step 6:** Apple asks you to choose and answer security questions. These questions provide an additional layer of protection for your account. Select questions that you can easily remember and that others can't guess.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### D. Finalizing the Process
 
@@ -277,6 +291,9 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -328,8 +345,6 @@ Most of the users find it hard to unlock their devices by taking the assistance 
 
 It is compatible with all the leading iOS versions and devices. All you need to do is access its user-friendly interface and follow simple click-through steps to unlock your device. To learn how to unlock Apple iPhone XS Max passcode without iTunes (using Dr.Fone toolkit), follow these steps:
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Screen Without Password
@@ -369,14 +384,6 @@ Unlock iPhone Screen Without Password
 
 In the end, you can simply disconnect your Apple iPhone XS Max safely from the system and restart it. It would be restarted without any passcode, letting you access it in a trouble-free manner.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 #### **You may also be interested in:**
@@ -386,9 +393,6 @@ In the end, you can simply disconnect your Apple iPhone XS Max safely from the s
 - [4 Ways to Bypass iPhone Passcode Easily](https://drfone.wondershare.com/unlock/bypass-iphone-passcode.html)
 - [How to Fix It If We've Are Locked Out of iPad?](https://drfone.wondershare.com/unlock/locked-out-of-ipad.html)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to unlock Apple iPhone XS Max passcode with Find My iPhone?
 
 Apple also allows its users to remotely locate, lock, and erase their devices. Though, this feature can also be used to reset a device and remove its passcode. Needless to say, while doing so, you will reset your device. To learn how to unlock Apple iPhone XS Max passcode without iTunes (with the Find My iPhone feature), follow these steps:
@@ -409,6 +413,10 @@ Apple also allows its users to remotely locate, lock, and erase their devices. T
 
 5\. Agree with the pop-up message and choose to restore your device. Once it is done, your phone will be restarted without any lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to unlock Apple iPhone XS Max passcode in Recovery Mode?
 
 If none of the above-mentioned solutions would work, then you can always choose to put your Apple iPhone XS Max in recovery mode and restore it. After when your Apple iPhone XS Max would be restored, you can access it without any lock. It can be done by following these steps:
@@ -416,6 +424,10 @@ If none of the above-mentioned solutions would work, then you can always choose 
 1\. Firstly, you need to put your device in recovery mode. Beforehand, you need to make sure that your device is turned off. If not, press the Power button and slide the screen to turn your Apple iPhone XS Max off.
 
 ![how to unlock Apple iPhone XS Max passcode without itunes-put Apple iPhone XS Max in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15060132012488.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Now, launch iTunes on your Mac or Windows system. Afterward, press and hold the Home button on your Apple iPhone XS Max. While holding the Home button, connect it to your system.
 
@@ -429,6 +441,10 @@ If none of the above-mentioned solutions would work, then you can always choose 
 
 Once your device has been restored, you can access it without any screen lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: About data loss after unlocking Apple iPhone XS Max passcode
 
 As you can see, in all the above-mentioned solutions, your Apple iPhone XS Max data would be lost while unlocking its passcode. This is because, as of now, there is no way to unlock an iPhone without restoring it. Needless to say, while restoring a device, its data is automatically lost. Since Apple is quite concerned about the security of the Apple iPhone XS Max and the sensitivity of its data, it doesn’t let users unlock the Apple iPhone XS Max device without losing their data.
@@ -439,11 +455,7 @@ Even though lots of users have complained about this issue, Apple hasn’t come 
 
 Now when you know how to unlock Apple iPhone XS Max passcode without iTunes, you can easily access your device. Ideally, you can simply take the assistance of [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to unlock your device. It can also be used to resolve any other problem related to your Apple iPhone XS Max/iPad as well. Feel free to give it a try and let us know if you face any problems while using it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -457,9 +469,26 @@ Now when you know how to unlock Apple iPhone XS Max passcode without iTunes, you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-perfecting-audio-the-best-cam-mics/"><u>[New] Perfecting Audio The Best Cam Mics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revenue-realization-strategies-for-successful-monetization-on-youtube-mobile/"><u>[New] Revenue Realization Strategies for Successful Monetization on YouTube Mobile</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>2024 Approved Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016005374-effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-techniques-to-correct-the-valorant-error-graphics-driver-failed/"><u>Expert Techniques to Correct the Valorant Error: Graphics Driver Failed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-6s-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 6s Plus With 7 Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-c55-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme C55 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus Without Passcode?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-tools-for-real-time-video-broadcasting/"><u>In 2024, Best Tools for Real-Time Video Broadcasting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-2020-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE (2020) After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-xs-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone XS Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 12 mini Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-200-free-video-soundtrack-collections-for-2024/"><u>New Top 200 Free Video Soundtrack Collections for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-6-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 6</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-diy-guide-to-requesting-ai-assistance-from-chatgpt-for-tuning-cars/"><u>The DIY Guide to Requesting AI Assistance From ChatGPT for Tuning Cars</u></a></li>
+</ul></div>
 

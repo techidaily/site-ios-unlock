@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone XS Max when Phone is Broken?
-date: 2024-07-15T00:53:39.405Z
-updated: 2024-07-16T00:53:39.405Z
+date: 2025-01-17T17:29:59.200Z
+updated: 2025-01-24T17:04:08.816Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,14 +28,9 @@ Find My iPhone is an application forged by Apple that keeps track of your Apple 
 
 The best part about this application is that it is free of cost. It usually comes built-in your Apple iPhone XS Max already, but if not, you can easily download it from the app store. Sign in with your Apple ID, and it will automatically locate your Apple iPhone XS Max no matter where you go.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -60,6 +55,10 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
@@ -82,9 +81,6 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
 **Step 7: Turn off Find My iPhone**
@@ -107,6 +103,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone XS Max, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
@@ -114,6 +114,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
@@ -135,16 +139,11 @@ Once your Apple iPhone XS Max shows the Apple logo, it means the Recovery Mode i
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone XS Max. Once the process is completed, you can set up your Apple iPhone XS Max as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone XS Max is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone XS Max to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
-
-
 
 ## How to Unlock Apple iPhone XS Max Without Passcode?
 
@@ -188,11 +187,19 @@ All you have to do is follow the steps given below.
 5. Confirm it, and your Apple iPhone XS Max will be restored to the factory settings, and all your data will be removed.
 6. Once the process is completed, you can unlock your Apple iPhone XS Max X lock screen without any passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method #3: Remove Passcode With Tapping Erase Phone (iOS 15.2 only)
 
 If both above-given methods don't work for you, or you don't have access to a computer or MacBook to use those methods, there is a 3rd method for you. But it only works on iPhones with iOS 15.2 versions.
 
 ![erase iphone feature](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With this method, you can follow the steps below to remove the screen lock passcode on Apple iPhone XS Max.
 
@@ -211,7 +218,6 @@ Here are some easy steps that you should take.
 **Step #1: Download Dr.Fone Tool**
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
-
 
 **Step #2: Connect Your Apple iPhone XS Max**
 
@@ -235,6 +241,10 @@ It will download the iOS firmware for your Apple iPhone XS Max.
 
 ![downloading iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #5: Unlock iPhone X or XR Lock Screen**
 
 Once the downloading is completed, you will need to click on **Unlock Now** button, and the process to unlock your Apple iPhone XS Max X lock screen will begin.
@@ -243,10 +253,10 @@ Once the process is completed, you can unlock your Apple iPhone XS Max XR lock s
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQs
 
 Following are 3 frequently asked questions that might come into your mind and their answers to help you understand everything.
@@ -289,6 +299,9 @@ This is the sole reason why Apple focuses so much on privacy through passcodes. 
 
 If you're facing this issue, then you've come to the right place. This article shall cover your queries regarding fixing the Apple iPhone XS Max passcode that is not working and providing full-depth details for your ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why iPhone is Saying Passcode is Wrong?
 
@@ -305,8 +318,6 @@ Everyone in the field of tech is familiar with Wondershare as it is the most inn
 When it comes to fixing your Apple iPhone XS Max passcode, which is not working, Wondershare Dr.Fone - [Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) does wonders.
 
 iTunes is another great way to bypass the activation screen without a SIM card. If you’re new to this, here's a small guide on how to use iTunes to bypass the activation screen.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -325,6 +336,10 @@ The first step is to connect your Apple iPhone XS Max to your computer via cable
 
 ![download and open dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Screen Unlock Tool**
 
 Select the "Screen Unlock" tool from the given tools on the home interface. Another interface will be displayed on the screen in which you've to select "Unlock iOS Screen."
@@ -341,9 +356,6 @@ Before directly unlocking the Apple iPhone XS Max lock screen, you've to set it 
 
 Once your Apple iPhone XS Max is in DFU mode, another window will be displayed on the screen, asking for confirmation regarding the Apple iPhone XS Max device Model and System Version. Now click on the "Download" button placed at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![download iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5: Unlock your Apple iPhone XS Max.**
@@ -428,6 +440,10 @@ When you’re given the option of Restore or Update, choose ‘Restore.' iTunes 
 
 ![restore iphone successfully from itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Set Up your Apple iPhone XS Max**
 
 Once the process has reached completion, set up your Apple iPhone XS Max, if this process takes more than 15 minutes, it will leave the Recovery Mode automatically and repeat the steps again.
@@ -437,7 +453,6 @@ Once the process has reached completion, set up your Apple iPhone XS Max, if thi
 This article has provided you the reasons and best possible ways to fix the issue of the Apple iPhone XS Max passcode not working in detail. You must follow these steps immediately if you've locked your Apple iPhone XS Max to avoid further trouble and anxiety.
 
 We hope we have covered every bit of this article perfectly and you have successfully unlocked your Apple iPhone XS Max without any hassle.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -451,9 +466,24 @@ We hope we have covered every bit of this article perfectly and you have success
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-innovative-strategies-for-maximizing-your-facebook-videos/"><u>[New] 2024 Approved Innovative Strategies for Maximizing Your Facebook Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-complete-introduction-to-advanced-features-in-final-cut-pro/"><u>[New] A Complete Introduction to Advanced Features in Final Cut Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-virtual-horizons-the-future-of-filmmaking-for-2024/"><u>[New] Virtual Horizons The Future of Filmmaking for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-where-to-find-high-quality-copyright-free-game-audio-online-for-2024/"><u>[New] Where to Find High-Quality Copyright-Free Game Audio Online for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-to-enhance-your-epson-xp-640-with-newest-windows-driver-update/"><u>Easy Instructions to Enhance Your Epson XP-640 with Newest Windows Driver Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-staying-with-iphone-14-vs-switching-to-iphone-ex-iphone-16-pro-expert-analysis-by-zdnet/"><u>Evaluating Staying with iPhone 14 Vs. Switching to iPhone eX (iPhone 16 Pro) | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-se-2020-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-laptop-woes-to-perfect-setup-enthusiast-replaces-faulty-keyboard-and-adds-titanium-protection-plus-mechanical-typing-pleasure/"><u>From Lenovo Laptop Woes to Perfect Setup: Enthusiast Replaces Faulty Keyboard & Adds Titanium Protection + Mechanical Typing Pleasure</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-x9b-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor X9b Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-14-pro-how-to-unlock-a-disabled-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 14 Pro How to Unlock a Disabled Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-15-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-15-pro-5-ways-to-get-into-a-locked-apple-iphone-15-pro-by-drfone-ios/"><u>Locked Out of Apple iPhone 15 Pro? 5 Ways to get into a Locked Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-se-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone SE Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-discounts-during-the-hp-cyber-sale-secure-up-to-71-off-on-quality-monitors-and-laptops-shop-smart/"><u>Unbeatable Discounts During the HP Cyber Sale: Secure Up to 71% Off on Quality Monitors & Laptops | Shop Smart</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Apple iPhone XS Max Backup Password? Heres What to Do
-date: 2024-07-15T00:55:24.185Z
-updated: 2024-07-16T00:55:24.185Z
+date: 2025-01-17T17:47:41.981Z
+updated: 2025-01-24T16:50:36.547Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,6 +50,10 @@ Select the Encrypt Local Backup option in the Backups section directly from eith
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Create a Password
 
 When prompted in the window, create a password for the account. Make it powerful yet that is simple for you to remember. You might also save it somewhere secure to help you recall it later.
@@ -57,6 +61,10 @@ When prompted in the window, create a password for the account. Make it powerful
 After establishing the password, all your previous backups will immediately undergo an automated overwrite and encryption. Make it a priority to ensure that the encryption procedure is finished effectively.
 
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Try all passwords you used on your Apple iPhone XS Max
 
@@ -82,9 +90,6 @@ You may now go to **Reset All Settings** and confirm by entering the security pa
 
 You can also get rid of the password for the last backup without deleting any other apps or data.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
 
 Use a USB cable to link your Apple iPhone XS Max to your PC. Look at the small iOS icon in the figure below. Just click on it.
@@ -137,22 +142,23 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Don't open iTunes while doing this.
 - Your device will reboot
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -182,15 +188,10 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
-
 ## How to Make the Most of Your Apple iPhone XS Max Lock Screen with Notifications?
 
 The Apple iPhone XS Max lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone XS Max device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to use iPhone lock screen notifications?
 
 When it comes to iPhone lock screen with notifications, there are so many things that you can do. For instance, here are a handful of things you can do with iPhone lock screen notifications.
@@ -205,9 +206,6 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
@@ -230,6 +228,10 @@ Sometimes, people can access our private information just by looking at our noti
 
 ![iphone lock screen with notifications-turn off iphone lock screen notification](https://images.wondershare.com/drfone/article/2017/09/15063939102971.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Simply tap on the app of your choice (Mail, Message, Photos, iTunes, etc).
 
 4\. From here, turn off the option of “Allow Notification” to completely turn off the notifications for the app.
@@ -247,6 +249,10 @@ The notification view can be used to see previous notifications on the Apple iPh
 1\. Firstly, unlock your device and got to its Settings > Touch ID & Passcode option.
 
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
 
@@ -267,6 +273,10 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone X
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
 
@@ -329,7 +339,6 @@ First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone
 
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2. Advance to Unlocking iOS Screen**
 
 After that, choose “iOS” to run the required process. On the next window, select the "Unlock iOS Screen" option. The tool will take you to the next screen, and there, click the "Start" button to proceed with unlocking the iOS device. Continue to put your iDevice into Recovery Mode as per the provided instructions on-screen.
@@ -341,6 +350,10 @@ After that, choose “iOS” to run the required process. On the next window, se
 Your "Device Model" will be recognized automatically in Wondershare Dr.Fone. Select the "System Version" and hit the "Start" button to download the related iOS firmware. After downloading, click the "Unlock Now" button to execute the screen unlocking process.
 
 ![proceed to unlock after firmware download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4. Verify iOS Firmware To Complete the Process**
 
@@ -360,6 +373,10 @@ Getting your Apple iPhone XS Max out of Security Lockout from the Apple iPhone X
 ### What if I Have Recently Changed My iPhone's Passcode?
 
 If you have recently changed the iDevice password, you can use your old passcode within 72 hours to sign in temporarily. After getting into your Apple iPhone XS Max, set a new passcode immediately to complete the “Passcode Reset” process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How To Get iPhone out of Security Lockout Using iTunes?
 
@@ -389,12 +406,15 @@ iCloud service is another handy method for people having queries about **how to 
 
 ![erase iphone device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Security Lockout or “iPhone Unavailable” is a common issue that appears when you enter an incorrect passcode up to 10 times. Our detailed guide provided authentic ways to fix the **security lockout iPhone** using simple steps. Here, Wondershare Dr.Fone is the most recommended method because it helps recover your Apple iPhone XS Max easily within a few steps.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -408,9 +428,24 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-for-efficient-documentation-of-your-online-collaborations/"><u>[New] 2024 Approved Step-by-Step Guide for Efficient Documentation of Your Online Collaborations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cutting-edge-collection-no-cost-ae-template-suite-for-2024/"><u>[New] Cutting-Edge Collection No-Cost AE Template Suite for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-elevating-your-gopro-videos-to-a-professional-standard/"><u>[New] Elevating Your GoPro Videos to a Professional Standard</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-cutting-edge-memes-top-ten-template-showcase/"><u>[Updated] 2024 Approved Cutting Edge Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-techniques-for-youtube-mpeg-migration/"><u>2024 Approved Leading Techniques for YouTube MPEG Migration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-x-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone X and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-x-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone X Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 15 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-13-pro-max-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 13 Pro Max With 7 Methods</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kootek-laptop-cooling-pad-review-a-strong-all-around-option/"><u>Kootek Laptop Cooling Pad Review: A Strong All-Around Option</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-mvps-of-frugal-filmmaking-tech/"><u>The MVPs of Frugal Filmmaking Tech</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-truth-about-digital-studios-separating-myths-from-daw-reality/"><u>The Truth About Digital Studios Separating Myths From DAW Reality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-fcpx-plugin-collection-free-and-paid-gems-for-2024/"><u>Updated The Ultimate FCPX Plugin Collection Free and Paid Gems for 2024</u></a></li>
+</ul></div>
 
