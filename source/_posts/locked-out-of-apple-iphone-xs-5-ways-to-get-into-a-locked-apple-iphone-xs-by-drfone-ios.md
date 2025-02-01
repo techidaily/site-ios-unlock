@@ -1,7 +1,7 @@
 ---
 title: Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS
-date: 2024-07-15T00:46:50.965Z
-updated: 2024-07-16T00:46:50.965Z
+date: 2025-01-27T20:01:16.074Z
+updated: 2025-01-31T22:24:31.835Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,8 +23,6 @@ Is your Apple iPhone XS locked, and can’t seem to remember its passcode? If yo
 If you are locked out of Apple iPhone XS, you should only use a reliable and secure way to unlock it. The chances are that the above-mentioned technique might not work on your device. Hence, you can use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) for help to unlock your phone. Compatible with almost all iOS devices, its desktop application runs on Mac and Windows. One can learn how to get into a locked Apple iPhone XS by following these instructions.
 
 Attention: All your data all be erased after you get into your locked Apple iPhone XS.Please make sure if you have backed up all your data.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -95,6 +93,10 @@ Apple’s official Find My Apple iPhone XS is a smart and hassle-free way to loc
 
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994494968655.jpg "icloud all devices")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone XS” button to reset the Apple iPhone XS device.
 
 ![erase Apple iPhone XS](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone XS")
@@ -109,9 +111,6 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 **Step 2.** On the world clock interface, add another clock.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994491682149.jpg "world clock")
 
 **Step 3.** The interface will ask you to search for a location of your choice. Type anything on the search tab and select it to get various options. Tap on the “Select all” text.
@@ -126,6 +125,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994492171595.jpg "share on message")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
@@ -133,6 +136,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 7.** Then the text will be highlighted. Tap on the add icon.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
@@ -160,9 +167,6 @@ Have you purchased a carrier-locked iPhone or got into an “iPhone Disabled” 
 
 This well-researched guide will provide facts and cost details of different carrier services and Apple ID or IMEI unlocking tools. Luckily, you will also find a perfect tool that offers multiple unlocking solutions for iPhones at a reasonable price.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![costing an iphone to unlock](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-1.jpg)
 
 ## Part 1. How To Check Whether iPhone Is Locked or Not?
@@ -180,6 +184,10 @@ To check whether your Apple iPhone XS is carrier-locked or unlocked from setting
 - **Step 2.** After that, choose the “Carrier Lock" option to see the restrictions. If your Apple iPhone XS is unlocked, it will not show any SIM restriction. If you see the “SIM Locked” restriction, your Apple iPhone XS is locked.
 
 ![iphone is carrier locked](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check iPhone Got Disabled Issue
 
@@ -362,7 +370,6 @@ Start with connecting the Apple iPhone XS to the computer and select the "Screen
 
 ![access drfone screen unlock function](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Proceed and Put Your Apple iPhone XS in Recovery Mode**
 
 Hit the "Start" button to initiate unlocking the iPhone. After that, you will need to put your Apple iPhone XS in Recovery Mode to avoid data loss. You can follow the on-screen instructions according to your Apple iPhone XS model. On the next window, your "Device Model" will be recognized, and you must add the "System Version" to proceed clicking on the “Start” button.
@@ -396,6 +403,10 @@ Before moving further, you have to confirm that your iDevice has a screen lock a
 After that, you will be prompted to put your iDevice in Recovery Mode by following on-screen instructions according to your Apple iPhone XS model. On the next window, you can see your "Device Model" recognized and then choose the "System Version" and hit the "Start" button.
 
 ![start recovery mode on Apple iPhone XS](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4. Download iOS Firmware and Unlock Apple ID**
 
@@ -452,11 +463,12 @@ If you're a Mac enthusiast, changing your Apple ID email is straightforward:
 
 ![change apple id on mac 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Navigate to the **Name, Phone, Email** section, then click **Edit** next to your email address.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change apple id on mac 3](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-05.jpg)
 
 - **Step 4:** Input your new email address, and Apple will send a verification code to it.
@@ -470,9 +482,17 @@ For those who prefer the convenience of mobile devices:
 
 ![change apple id on iphone 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Tap **Name, Phone Numbers, Email**.
 
 ![change apple id on iphone 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Tap **Edit** next to your email address, enter your new one, then tap **Next**.
 
@@ -492,6 +512,10 @@ If you prefer the simplicity of a web browser:
 
 ![change apple id on browser 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Edit** next to your email address in the **Account** section.
 - **Step 4:** Input your new email address and click **Continue**.
 - **Step 5:** A verification code will be sent to your new email. Enter it to confirm your email change.
@@ -503,9 +527,6 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 - **Step 1:** Tap the **Settings** application on your Apple iPhone XS or iPad.
 - **Step 2:** Go to **Update Apple ID Settings** below your Apple ID settings.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update apple id settings](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-11.jpg)
 
 - **Step 3:** Tap **Continue,** then wait for a few moments. Your Apple ID will then get updated.
@@ -517,7 +538,6 @@ By following these steps, you'll ensure that all your Apple devices are synced w
 What if you find yourself in a situation where you want to change your Apple ID email address on your iOS device, but you're locked out? Don't worry; Dr.Fone - Screen Unlock (iOS) can rescue you. This handy tool is designed to help you [<u>unlock your iOS device</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html), allowing you to change your Apple ID email address smoothly.
 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
@@ -539,6 +559,10 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Following that, place your iDevice in **Recovery Mode**. Follow the on-screen instructions to set your iDevice into mode based on your phone model.
 
 **Note:** If **Recovery Mode** does not work, try hitting the **Try DFU Mode** button at the bottom to access the instructions for [<u>putting the iDevice in DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html).
@@ -555,9 +579,6 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 - **Step 6:** After a successful download, the iOS firmware is checked and shown on the next screen. Select the **Unlock Now** option again to proceed with the unlocking procedure. A confirmation popup displays, requesting you to confirm the action. Enter the unlock code and press the **Unlock** button to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone unlock screen ios unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
 - **Step 7:** You'll see the unlocking status of your iOS device on the following screen. Don't forget that keeping the gadget plugged in is necessary to avoid bricking it.
@@ -575,15 +596,11 @@ By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device
 
 [<u>How to Fix Email Disappeared from iPhone?</u>](https://drfone.wondershare.com/iphone-problems/email-disappeared-from-iphone.html)
 
-
 ## Conclusion
 
 This guide easily explored the process of **changing your Apple ID email address**. It started by understanding why this change might be necessary and provided straightforward methods for Mac, mobile, and browser users to accomplish it seamlessly.
 
 But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen Unlock (iOS) is a user-friendly tool that can help you regain access to your device. It ensures a smooth transition to your new email. Unlock new possibilities with Dr.Fone, a reliable companion in managing your iOS device. Explore its features and simplify your Apple journey today!
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -597,9 +614,26 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/rafting-content-that-captivates-youtube-keyword-mastery-for-2024/"><u>[New] Crafting Content that Captivates YouTube Keyword Mastery for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-success-starts-with-these-strategies/"><u>[New] In 2024, Instagram Success Starts with These Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-streamlined-approach-save-youtube-videos/"><u>[Updated] In 2024, Streamlined Approach Save YouTube Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Max Without iTunes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-huion-pen-tablet-programs-and-drivers-for-windows-operating-system/"><u>Compatible Huion Pen Tablet Programs & Drivers for Windows Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-fixes-for-the-logitech-f710-connectivity-challenge-on-different-windows-platforms/"><u>Effortless Fixes for the Logitech F710 Connectivity Challenge on Different Windows Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone SE (2022) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 mini Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 with a Mask On</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE i Do? Get Answers here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-13-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 13 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-14-plus-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-2020-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE (2020) i Do? Get Answers here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-mic-working-effective-tips-for-resolving-audio-problems/"><u>Why Isn't My Mic Working? Effective Tips for Resolving Audio Problems</u></a></li>
+</ul></div>
 

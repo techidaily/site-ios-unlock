@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XS
-date: 2024-07-15T00:47:12.593Z
-updated: 2024-07-16T00:47:12.593Z
+date: 2025-01-27T01:47:56.113Z
+updated: 2025-01-31T21:43:26.789Z
 tags: 
   - unlock
   - remove screen lock
@@ -43,6 +43,10 @@ MDM Profile Restrictions
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -96,9 +100,6 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -125,6 +126,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
@@ -183,6 +188,10 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does Jailbreaking Apple iPhone XS i Do? Get Answers here
 
 Jailbreaking grants you root access to your smartphone, opening a range of features and functionalities. But **what does jailbreaking an iPhone do**? Jailbreaking your Apple iPhone XS removes the restrictions imposed by Apple on its operating system, iOS. It offers more customization options and access to extra apps.
@@ -193,9 +202,6 @@ To learn more, read on and explore the capabilities of a jailbroken iPhone in th
 
 ![iphone devices back view](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What Does Jailbreaking an iPhone Do?
 
 Before trying to jailbreak your Apple iPhone XS, it's crucial to understand, "**What can you do with a jailbroken iPhone**?" While it opens up exciting possibilities, it also introduces potential drawbacks. In this section, you'll learn both aspects.
@@ -212,9 +218,6 @@ Apple's App Store has strict guidelines limiting the type of apps available. Jai
 
 Users can customize their iPhones beyond the limitations imposed by Apple after Jailbreaking. It includes changing themes, icons, and even the look and feel of the user interface. This level of personalization can enhance your experience while using your iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![circleapps launcher tweak for jailbroken iphone](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-02.jpg)
 
 - **Unlocking System-wide Features**
@@ -243,9 +246,6 @@ Jailbreaking is seen by Apple as a device modification. Doing so can void your d
 
 Jailbreaking may make your system unstable and cause performance problems. When you add unauthorized tweaks or apps, they can clash with iOS. This clash might result in [<u>crashes</u>](https://drfone.wondershare.com/iphone-problems/iphone-apps-crashing-on-ios-13.html), [<u>freezes</u>](https://drfone.wondershare.com/android-issue/fix-samsung-freeze.html), or a general drop in your Apple iPhone XS's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![iphone apps crashing message](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-03.jpg)
 
 - **Difficulty in Updating**
@@ -292,7 +292,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 - **Step 1:** Download Dr.Fone and set up the software on your computer.
 
-
 - **Step 2:** Open the program and select **Screen Unlock** from the available options on the **Toolbox** page.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -305,6 +304,10 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 ![start to bypass activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Use a USB cable to connect your Apple iPhone XS to the computer. Ensure the software detects your device.
 
 ![in-app instructions to connect iphone](https://images.wondershare.com/drfone/guide/screen-unlock-2.png)
@@ -312,6 +315,10 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 - **Step 6:** Check your Apple iPhone XS settings for a displayed MEID or ESN number to identify CDMA network support. If an IMEI number is present, the Apple iPhone XS device supports GSM networks. The findings indicate support for both GSM and CDMA networks. Click **Unlock Now** to proceed.
 
 ![dr.fone unlock icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Note:******For GSM devices, removing the iCloud Activation Lock doesn't disrupt normal functioning. Conversely, for CDMA devices, calling features may be disabled. However, the Apple ID remains usable for essential functions like App Store access.**
 
@@ -344,9 +351,6 @@ Jailbreaking your Apple iPhone XS weakens its iOS security, possibly exposing yo
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Forgot iPhone Passcode Again? Unlock Apple iPhone XS Without Passcode Now
 
 Ever since the introduction of Touch ID in iPhone 5s, people have started using passcodes, and it is an excellent thing that passcodes in smartphones have become mainstream. The introduction of biometric Touch ID made way for using passcodes without the need to enter them every time, making the smartphone experience more secure while adding convenience. It was a game-changer move.
@@ -385,6 +389,10 @@ If you have the older iPhone 7, putting that device in Recovery Mode is slightly
 
 The Apple iPhone XS will be restored to factory settings and restarted. You will have to set it up afresh when all data on the Apple iPhone XS device is erased in this process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### I.II: Unlock Apple iPhone XS Without Passcode Through Wondershare Dr.Fone
 
 Now, if that process does not inspire confidence and you would like a more guided walkthrough experience, there is an app by Wondershare to help you through the unlocking process every step of the way - Wondershare Dr.Fone-Screen Unlock.
@@ -392,7 +400,6 @@ Now, if that process does not inspire confidence and you would like a more guide
 Wondershare Dr.Fone is a collection of tools designed to help you perform various activities on your smartphones and tablets. You can do much with this app, such as operating system repair, secure device erases, or even location spoof during those Pokémon sessions or prank friends and family.
 
 It is a must-have software that supports iOS and Android and works on both macOS and Windows. Download [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) here to begin.
-
 
 **Step 1:** You need to connect your PC with a USB to Your Apple iPhone XS. And open Dr.Fone.
 
@@ -416,7 +423,6 @@ Click Unlock Now and wait until the unlock successful notification pops up.
 
 ![unlock iphone without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ### I.III: Unlock Apple iPhone XS Without Passcode Through The iCloud Website (Find My iPhone)
 
 If the Apple iPhone XS had Find My enabled before it got locked, and you have the iCloud credentials that the Apple iPhone XS is locked to, you can use Find My on the iCloud website to unlock the locked iPhone.
@@ -426,6 +432,10 @@ If the Apple iPhone XS had Find My enabled before it got locked, and you have th
 **Step 2:** Click Find My and select your Apple iPhone XS.
 
 ![unlock iphone with icloud find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Click Erase iPhone and confirm.
 
@@ -441,15 +451,27 @@ This means that it might be easier for you if you have another Apple device sign
 
 ![unlock iphone with find my app](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select the locked iPhone from the list of devices, click or tap it on the map and click or tap Erase This Device.
 
 The unlocked iPhone will be erased, and factory settings restored on the Apple iPhone XS device, requiring a new setup after the restart.
 
 If your locked iPhone is not on the list of devices, and you cannot do anything, feel free to pay a visit to an Apple Store, as they will have all resources required to get your Apple iPhone XS unlocked and working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part II: FAQs
 
 Here are helpful frequently asked questions for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### FAQ 1: Can I unlock iPhone without data loss?
 
@@ -477,9 +499,6 @@ The convenience of Touch ID on the Apple iPhone XS is unparalleled. Yet, with th
 
 So, if you have forgotten your Apple iPhone XS passcode and are looking for how to unlock Apple iPhone XS without passcode, use this guide to pick one of the three easy ways to unlock Apple iPhone XS in case of forgotten passcode.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -492,9 +511,19 @@ So, if you have forgotten your Apple iPhone XS passcode and are looking for how 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-facebook-audience-via-tiktok-sharing/"><u>[Updated] In 2024, Enhancing Facebook Audience via TikTok Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-understanding-youtubes-view-threshold-for-money-for-2024/"><u>[Updated] Understanding Youtube’s View Threshold for Money for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypassing-the-chatgpt-bodystream-error-a-guide-to-7-proven-methods/"><u>Bypassing the ChatGPT BodyStream Error: A Guide to 7 Proven Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-link-disneyplus-to-chromecast-for-hassle-free-viewing/"><u>How To Link Disney+ to Chromecast for Hassle-Free Viewing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-thunderbolt-dock-g2-drivers-120w230w-download/"><u>HP Thunderbolt Dock G2 Drivers (120W/230W) Download</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XS Max</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/no-watermark-guide-quick-conversion-of-mkv-files-to-avi-using-vlc/"><u>No-Watermark Guide: Quick Conversion of MKV Files to AVI Using VLC</u></a></li>
+</ul></div>
 

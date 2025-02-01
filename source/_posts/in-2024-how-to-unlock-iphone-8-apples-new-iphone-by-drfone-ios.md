@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8, Apples New iPhone
-date: 2024-07-15T00:45:40.161Z
-updated: 2024-07-16T00:45:40.161Z
+date: 2025-01-25T20:58:16.777Z
+updated: 2025-01-31T23:20:55.614Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 
 It has happened to all of us at some point in the other. The chances of it happening are notoriously higher when you just started using it. We are talking of passcodes on iPhones. Apple requires setting up a 6-digit passcode to use some features such as Face ID on your Apple iPhone 8. So, you thought it was a great idea to set up your new Apple iPhone 8 with a new passcode, right? The only problem is that the 6 digits you thought are bulletproof and no one will be able to come up with them in relation to you, are not coming to you either. You forgot the newly set passcode, entered the incorrect passcode more times than the software was happy about, and the Apple iPhone 8 is locked now. What to do? Read on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I: Why Is Your Apple iPhone 8 Locked?
 
 There can be a few reasons why your Apple iPhone 8 is locked, the primary ones being that you bought a second-hand Apple iPhone 8 from someone who set it up with a passcode and decided it wasn't for them and was nonchalant enough to sell it to you without removing the passcode from the Apple iPhone 8, or that you forgot the passcode to your new Apple iPhone 8 and entered it incorrectly a few times. In any case, help is at hand.
@@ -25,8 +29,6 @@ There can be a few reasons why your Apple iPhone 8 is locked, the primary ones b
 We understand how frustrating it can be when your newly purchased Apple iPhone 8 does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone 8 passcode screen using Dr.Fone - Screen Unlock (iOS).
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 8
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -59,13 +61,25 @@ Step 6: Dr.Fone will tell you the phone model and the software installed on it. 
 
 ![device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click Download to download the firmware file for your device.
 
 ![download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: Select the firmware package after the download completes. After the download completes, you can click Unlock Now to start unlocking the Apple iPhone 8.
 
 In a short while, your Apple iPhone 8 will be unlocked. It is important to note that unlocking a locked Apple iPhone 8 cannot be done without wiping data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.II How to Unlock Apple iPhone 8 with Find My (iPhone)
 
@@ -109,6 +123,10 @@ Step 5: Enter your passcode one last time.
 
 You're done. Now go ahead and forget the passcode forever. You will not need it again. Do note, however, that not using a passcode on your Apple iPhone 8 leaves not only your data but your Apple iPhone 8 itself in a highly vulnerable state. Anyone with access to your device can do anything on the Apple iPhone 8 device that you could, including setting up a passcode that you will then have to use this guide to unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part IV: More information about Apple iPhone 8/Apple iPhone 8 mini/Apple iPhone 8 Pro
 
 The ways mentioned before should help you get out of the locked Apple iPhone 8 now. Here is a shortlist of the features of the Apple iPhone 8 range. You may learn more information about Apple iPhone 8 range that you may never know before.
@@ -136,6 +154,10 @@ A locked Apple iPhone 8 is never a pretty sight. Fortunately, there are a couple
 The article below guides you through seven methods on **how to change the country of your App Store**.Following the guide ensures access to a world of apps and content tailored to your preferences. Keep reading the page below to achieve this.
 
 ![app store icon](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Pros and Cons of Changing Your App Store Country
 
@@ -165,6 +187,10 @@ It is the most common and straightforward way to change your App Store country. 
 
 ![apple id via settings](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Tap on **Media & Purchases** > **View Account**. Sign in with your Apple ID. Next, Tap **Country/Region** > **Change Country or Region** and choose your desired country. Follow the on-screen prompts.
 
 ![change country on iphone settings](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-03.jpg)
@@ -178,6 +204,10 @@ To change your Apple ID region via Mac/Windows, follow these steps:
 
 ![change country on mac](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Changing Apple ID Region via Web
 
 The steps below are to change your Apple ID region via the web.
@@ -185,9 +215,6 @@ The steps below are to change your Apple ID region via the web.
 - **Step 1:** Open a web browser on your desktop or mobile device. Next, go to appleid.apple.com. Sign in with your Apple ID.
 - **Step 2:** Under **Personal Information**, click the **Country/Region** button. Next, click the **Change country or region** and choose your preferred country.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![change country on web](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-05.jpg)
 
 ### Method 4: Leaving a Family-Sharing Group
@@ -208,6 +235,10 @@ If you have any subscriptions, you must cancel them before **changing your App S
 
 ![cancel all subscriptions on iphone](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Using a VPN
 
 You can also use a VPN to **change your App Store country**. However, this method is not recommended, as it can be unreliable and may result in your account being banned. Here are the steps below.
@@ -224,6 +255,10 @@ Finally, you can create a new Apple ID account with the country you want your Ap
 
 ![create new apple id iphone](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, changing your App Store country can lead to issues. It can lock you out of your Apple ID, or you're [<u>forgetting your password</u>](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html). During these events, it can restrict your App Store access. In such cases, a tool like [<u>Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can come to the rescue.
 
 ## Part 3. Changing Countries Not Going Your Way? Use Wondershare Dr.Fone – Screen Unlock
@@ -231,7 +266,6 @@ Sometimes, changing your App Store country can lead to issues. It can lock you o
 Dr.Fone - Screen Unlock (iOS) helps you regain access to your Apple ID and fix any login-related problems. It ensures that you can continue enjoying your App Store without any hindrance. It's a safe and reliable software tool that is used by millions of people to unlock their devices. It is also easy to use, even if you are not tech-savvy.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 ### Key Features
 
@@ -268,9 +302,6 @@ This app offers a reliable and secure platform for storing personal and confiden
 
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
 Apple allows users to create a separate password for notes or use their iPhone passcode. Many users choose the second option to avoid remembering a new password. Forgetting the Apple iPhone 8 device passcode poses a drawback, making your notes inaccessible. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the most straightforward solutions for addressing this scenario.
@@ -283,9 +314,6 @@ It offers an absolute way to regain access to your notes and device if you **for
 2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone
 
 Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. It incorporates multiple pivotal features necessary for facilitating the unlocking procedure. Here are the steps imperative for unlocking your iOS device:
@@ -297,7 +325,6 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone 8 device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -341,9 +368,6 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
 Locking notes on your Apple iPhone 8 provides extra security for your sensitive information. Regularly reviewing and updating your password settings can enhance the security of your locked notes. Here's a simple and effective method to lock notes on your Apple iPhone 8:
@@ -354,17 +378,11 @@ Locking notes on your Apple iPhone 8 provides extra security for your sensitive 
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone 8 device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -378,9 +396,19 @@ In conclusion, this article addressed methods for **how to recover locked notes 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-nostalgic-snapshots-from-your-camera-roll-on-snapchat/"><u>[New] In 2024, Nostalgic Snapshots From Your Camera Roll on Snapchat</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eview-best-practices-for-youtube-video-trimming-for-2024/"><u>[New] Review Best Practices for YouTube Video Trimming for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-10-volume-upgrade-tools-for-pc-ios-and-android/"><u>[New] Ultimate 10 Volume Upgrade Tools for PC, iOS & Android</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-novices-to-vectors-grasping-the-basics-and-choices/"><u>From Novices to Vectors Grasping the Basics and Choices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-8-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 8 Plus Passcode not Working?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-advantages-of-using-chatgpt-on-your-iphone-or-ipad/"><u>Top 6 Advantages of Using ChatGPT on Your iPhone or iPad</u></a></li>
+<li><a href="https://driver-install.techidaily.com/up-to-date-nvidia-gtx-970-installation-guide-w11/"><u>Up-to-Date Nvidia GTX 970: Installation Guide W11</u></a></li>
+</ul></div>
 

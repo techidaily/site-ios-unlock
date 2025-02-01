@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone 8 Lock Screen with Notifications?
-date: 2024-07-15T00:43:11.752Z
-updated: 2024-07-16T00:43:11.752Z
+date: 2025-01-27T19:18:33.916Z
+updated: 2025-01-31T22:22:54.552Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,9 +32,6 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
@@ -45,9 +42,6 @@ Though, if you want to know more, then just long press the notification. For ins
 
 Besides interacting with widgets and apps, you can also search for something on your device and that too without unlocking it. Simply tap on the search bar to make it work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
@@ -96,9 +90,6 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 8
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -111,11 +102,13 @@ This is undoubtedly one of the most evident new features of the Apple iPhone 8 n
 
 ![iphone lock screen with notifications-ios 18 notification new feature](https://images.wondershare.com/drfone/article/2017/09/15063941093235.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to click pictures instantly, then simply swipe left the lock screen. This will launch the Camera on your device, letting you click pictures on the go. Similarly, by swiping right, you can access your Today View. This includes vital data from apps and widgets that your smartphone assumes is important for you regarding the day.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
-
-
 
 ## How To Remove Flashlight From Apple iPhone 8 Lock Screen
 
@@ -124,6 +117,10 @@ Ever wonder why the flashlight shows up on your Apple iPhone 8 lock screen? Espe
 While you can't remove it, figuring out **how to remove flashlight from iPhone lock screens** is a common question. This guide shares several ways to prevent accidental activations and save your device's battery. Keep reading for easy solutions to take charge of your Apple iPhone 8's lock screen and make it work better for you.
 
 ![iphone lock screen](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How To Remove Flashlight From iPhone Lock Screens?
 
@@ -155,6 +152,10 @@ Here is **how to remove flashlights from iPhone lock screens** when not needed:
 
 ![iphone turn off raise to wake](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Quick Fix No. 3: Remove the Flashlight From the Control Center
 
 The Control Center on iPhones is a quick-access panel. You can access it by swiping down from the top right corner of your screen. There, you can control various settings, like the flashlight. If you remove it, the flashlight becomes less accessible from the lock screen. Follow these steps to remove the flashlight from the control center:
@@ -177,6 +178,10 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 - **Step 3:** Choose **None** instead of the currently assigned action, which might be ****Flashlight****.
 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Turn Off the Flashlight on iPhone?
 
@@ -205,6 +210,10 @@ To go hands-free and avoid accidental taps, you can use Siri to turn off the fla
 
 Remember, even with Siri, ensure your Apple iPhone 8's microphone isn't covered or blocked for successful voice recognition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Part: Easily Unlock Your Apple iPhone 8 Without a Password
 
 Removing the flashlight shortcut avoids accidentally activating the Apple iPhone 8 flashlight. But what if you forget your lock screen passcode and need to access your Apple iPhone 8? That's where [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) Screen Unlock (iOS) comes in, offering a powerful toolkit for regaining access to your locked iOS device.
@@ -224,7 +233,6 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** Select **iOS** as the Apple iPhone 8 device type. Then, within the **Screen Unlock** window, select **Unlock iOS Screen** to begin the process.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
@@ -233,20 +241,25 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![start to remove ios screen lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Get your Apple iPhone 8 and a USB cable. Connect the phone to your computer and wait for Dr.Fone to recognize it. Next, put your Apple iPhone 8 into Recovery Mode using specific button combinations for your model.
 
 ![on screen instructions for recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 5:** Check your **Device Model**, select the **System Version** you need from the dropdown list, then click **Start**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone select system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 6:** Dr.Fone will download and install the latest iOS firmware on your device. Then, click **Unlock Now** once the firmware is ready. Follow the on-screen instructions to continue unlocking your device.
 
 ![dr.fone downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Once the process is complete, Dr.Fone will notify you. Your Apple iPhone 8 should be unlocked and ready for you to set it up again with your preferred settings and Apple ID.
 
@@ -273,8 +286,6 @@ There can be a few reasons why your Apple iPhone 8 is locked, the primary ones b
 We understand how frustrating it can be when your newly purchased Apple iPhone 8 does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone 8 passcode screen using Dr.Fone - Screen Unlock (iOS).
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 8
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -325,7 +336,15 @@ Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), s
 
 ![find my iphone](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it. You will have wiped and unlocked your Apple iPhone 8 and it will start with factory settings. Note that this works only if the Apple iPhone 8 was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.III Put The Apple iPhone 8 in Recovery Mode
 
@@ -338,6 +357,10 @@ Step 2: Press the volume up button and let go. Press the volume down button and 
 ![press volume botton](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-7.jpg)
 
 Step 3: Select Restore to download and reinstall the latest iOS on your Apple iPhone 8 and unlock Apple iPhone 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III: How to Turn Off Passcodes in Apple iPhone 8
 
@@ -357,9 +380,6 @@ Step 5: Enter your passcode one last time.
 
 You're done. Now go ahead and forget the passcode forever. You will not need it again. Do note, however, that not using a passcode on your Apple iPhone 8 leaves not only your data but your Apple iPhone 8 itself in a highly vulnerable state. Anyone with access to your device can do anything on the Apple iPhone 8 device that you could, including setting up a passcode that you will then have to use this guide to unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part IV: More information about Apple iPhone 8/Apple iPhone 8 mini/Apple iPhone 8 Pro
 
 The ways mentioned before should help you get out of the locked Apple iPhone 8 now. Here is a shortlist of the features of the Apple iPhone 8 range. You may learn more information about Apple iPhone 8 range that you may never know before.
@@ -380,7 +400,6 @@ All Apple iPhone 8 models feature the same IP68 water resistance (that is a dept
 
 A locked Apple iPhone 8 is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone 8 and remove the passcode from your Apple iPhone 8. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone 8 for you when you need help removing the passcode from your Apple iPhone 8 and unlocking it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -393,9 +412,22 @@ A locked Apple iPhone 8 is never a pretty sight. Fortunately, there are a couple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-top-10-final-cut-pro-plug-ins/"><u>[New] Top 10 Final Cut Pro Plug-Ins</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-building-a-youtubing-brand-from-scratch-with-these-8-courses/"><u>[Updated] Building a YouTubing Brand From Scratch with These 8 Courses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-video-analysis-top-youtube-infographics-for-2024/"><u>[Updated] Football Video Analysis Top YouTube Infographics for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-in-media-magic-with-magix-video-pro-x/"><u>2024 Approved Masterclass in Media Magic with Magix Video Pro X</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-tags-a-deep-dive-into-assigning-identifiers-to-people-or-things/"><u>Decoding Tags: A Deep Dive Into Assigning Identifiers to People or Things</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-7-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 7 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-7-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 7 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-13-mini-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 13 mini Without a Home Button</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7, Apples New iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-live-game-networks-unveiled/"><u>Leading Live Game Networks Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-itel-p55-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel P55 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-no-cost-ai-video-upgrade-tools-available-on-pc-and-mac/"><u>Top 12 No-Cost AI Video Upgrade Tools Available on PC and Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
+</ul></div>
 

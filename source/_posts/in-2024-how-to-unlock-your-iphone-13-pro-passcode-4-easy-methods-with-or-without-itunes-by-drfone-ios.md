@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Your iPhone 13 Pro Passcode 4 Easy Methods (With or Without iTunes)
-date: 2025-01-20T16:06:59.543Z
-updated: 2025-01-24T17:19:36.984Z
+date: 2025-01-27T02:04:59.786Z
+updated: 2025-01-31T18:27:36.725Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,15 +34,15 @@ If you have already synced your Apple iPhone 13 Pro with iTunes, then you can fo
 
 ![Unlock iPhone Passcode  with iTunes](https://images.wondershare.com/drfone/article/2017/10/15081778657085.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to unlock iPhone passcode with Dr.Fone - Screen Unlock (iOS)?
 
 Too many times, users don’t get the desired results with iTunes. Therefore, we recommend using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool to learn [how to unlock iPhone 6 without a passcode](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html). The tool is compatible with all the leading iOS versions and devices. It provides a seamless solution to fix all the major issues related to an iOS device and that too within minutes. You can learn how to unlock iPhone 5 passcode by following these instructions. Though, the same steps would work with other iOS versions as well.
 
 Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -119,6 +119,10 @@ As you can see, in all the above-stated solutions, your Apple iPhone 13 Pro data
 
 ![Unlock iPhone Passcode by tricking Siri-get the current time](https://images.wondershare.com/drfone/article/2017/10/15081780467773.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Tap on the clock icon to open the world clock interface.
 
 4\. Here, you need to add another clock. Tap on the “+” icon to do it.
@@ -155,6 +159,10 @@ As you can see, in all the above-stated solutions, your Apple iPhone 13 Pro data
 
 ![Unlock iPhone Passcode-Add Photo](https://images.wondershare.com/drfone/article/2017/10/15081782816984.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 13\. The photo library on your phone will be launched. You can simply tap on any album you wish to open.
 
 ![Unlock iPhone Passcode-tap on any album](https://images.wondershare.com/drfone/article/2017/10/15081783271944.jpg)
@@ -162,10 +170,6 @@ As you can see, in all the above-stated solutions, your Apple iPhone 13 Pro data
 14\. After waiting for a while, slightly press the home button. If you are lucky, you will land on the home screen on your Apple iPhone 13 Pro and can access it without any trouble.
 
 ![Unlock iPhone Passcode-press the home button](https://images.wondershare.com/drfone/article/2017/10/15081780874189.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As you can see, there are plenty of ways to learn how to unlock iPhone passcode without much trouble. Ideally, you should go with Dr.Fone - Screen Unlock (iOS) to resolve any kind of issue related to your Apple iPhone 13 Pro. Easy to use, the application provides highly reliable results and will certainly come handy to you on numerous occasions. Now when you know how to unlock iPhone 6 passcode, you can share this guide with your friends and family as well and help them resolve this issue.
 
@@ -182,6 +186,10 @@ So, let's get started.
 Unlocking an iPhone seems challenging, especially when it's not yours, but it's not impossible. You have various ways to unlock a found iPhone, but most are a waste of time. So, to save time and energy, we have compiled 3 efficient ways to unlock a found iPhone.
 
 ![i found an iphone how do i unlock it](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 These methods will be easy to follow because of the detailed step-by-step guide.
 
@@ -201,10 +209,6 @@ If you want to unlock an iPhone 7 or older model in Recovery Mode, follow these 
 
 ![put iphone 7 plus or older in recovery mode](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. First, connect your Apple iPhone 13 Pro to the computer with a lightning cable and launch iTunes.
 2. Now, turn off your Apple iPhone 13 Pro and then press and hold the Home button and Sleep/Wake button simultaneously. Keep holding both buttons until you see the recovery mode screen.
 3. Once you see the recovery mode screen, release both buttons. Now, you will see a message in iTunes saying, "There is a problem with the Apple iPhone 13 Pro that requires it to be updated or restored."
@@ -219,7 +223,7 @@ The process of unlocking an iPhone 8 or newer model differs from the older model
 ![put iphone 8 and newer iphones in recovery mode](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. First, connect your Apple iPhone 13 Pro to the computer with a lightning cable and launch iTunes.
@@ -228,10 +232,6 @@ The process of unlocking an iPhone 8 or newer model differs from the older model
 4. Click on the Update or Restore button, and iTunes will try reinstalling iOS while also erasing your data. Once the process is completed, your Apple iPhone 13 Pro will be unlocked.
 
 Now, set up your Apple iPhone 13 Pro, and you are good to go.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Unlock it via the DNS server
 
@@ -265,6 +265,10 @@ Here are the simple steps that can help you.
 
 ![unlock found iphone via unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now, put your Apple iPhone 13 Pro in DFU mode or Recovery mode according to your Apple iPhone 13 Pro model.
 5. If you have no idea about it, don't worry. The software will provide on-screen instructions to help you put your Apple iPhone 13 Pro in DFU mode or Recovery mode.
 
@@ -274,17 +278,9 @@ Here are the simple steps that can help you.
 
 ![unlock ios screen by drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. After downloading the firmware, click the Unlock Now button to begin the unlocking process.
 
 ![start unlocking found iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Once the process is completed, your Apple iPhone 13 Pro will be unlocked, and you can set it up again.
 
@@ -303,6 +299,10 @@ Following are some of them that work.
 Many iPhone owners habitually put their phone numbers in lost mode. So, you can check if any phone number is available in the lost mode. If a phone number is available, you can contact the owner and return the Apple iPhone 13 Pro to them.
 
 ![contact the owner with the phone number in lost mode](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The rightful owner of the Apple iPhone 13 Pro activates lost mode. You can see the lost mode on the notification panel, where a message will show that the phone is lost. The owner can also remotely lock the phone using this mode.
 
@@ -385,6 +385,10 @@ Additional requirements you’ll need to meet include:
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 13 Pro Face ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Apple iPhone 13 Pro With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
@@ -423,6 +427,10 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 
 ![person wearing face mask unlocking their Apple iPhone 13 Pro](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Generally speaking, unlocking your Apple iPhone 13 Pro with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
 ### 1. Check All Settings & Reconfigure
@@ -446,10 +454,6 @@ Your Apple iPhone 13 Pro and your Apple Watch need to have both WiFi and Bluetoo
 Remember, you only need WiFi and Bluetooth on but don’t need to be connected to a WiFi network.
 
 If the problem persists, you could also restart your devices and try again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. Reset Your Face ID
 
@@ -495,10 +499,6 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 
 ![dr.fone finishing ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it was a system mistake preventing you from unlocking your Apple iPhone 13 Pro with your Apple Watch, the option should be functioning well after the Dr.Fone iOS repair.
 
 ### 5. Reset Network Settings
@@ -542,20 +542,20 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-edit-youtube-videos-by-the-youtube-video-editor/"><u>[Updated] How to Edit Youtube Videos by the YouTube Video Editor</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-insiders-look-at-twitter-ad-performance-metrics/"><u>[Updated] The Insider's Look at Twitter Ad Performance Metrics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-voice-editing-for-instagrams-media-for-2024/"><u>[Updated] The Ultimate Guide to Voice Editing for Instagram's Media for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-14-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 14 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-electronics-hub/"><u>Expert Insights From Tom's Electronics Hub</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-a15-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy A15 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6 Plus/iPad Without Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-6s-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 6s Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-plus-5-ways-to-get-into-a-locked-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s Plus? 5 Ways to get into a Locked Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-apex-of-general-knowledge-trivia-channels-in-24/"><u>In 2024, Navigating the Apex of General Knowledge Trivia Channels in '24</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/permanent-video-preservation-units-for-2024/"><u>Permanent Video Preservation Units for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-se-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone SE Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-atheros-network-hardware-drivers-on-pcs/"><u>Step-by-Step Installation of Atheros Network Hardware Drivers on PCs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-rhythm-reconnaissance-leading-song-recognition-apps-you-must-have-on-your-android-gadget/"><u>Updated 2024 Approved Rhythm Reconnaissance Leading Song Recognition Apps You Must Have on Your Android Gadget</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-setting-up-for-success-on-youtube-from-newbie-to-noteworthy-net-gain/"><u>[New] 2024 Approved Setting Up for Success on Youtube From Newbie to Noteworthy Net Gain</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-advice-on-itunes-video-capturing/"><u>[Updated] Expert Advice on iTunes Video Capturing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-methods-to-transform-and-integrate-mkv-videos-into-your-itunes-library-for-easy-syncing/"><u>Effortless Methods to Transform and Integrate MKV Videos Into Your iTunes Library for Easy Syncing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-intel-graphics-drivers-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing Intel Graphics Drivers on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v16-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.6 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-7-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini Passcode without Computer?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-common-javascript-errors-encountered-in-discord-chat-app/"><u>Quick Fixes for Common JavaScript Errors Encountered in Discord Chat App</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-on-how-to-save-acast-episodes-as-mp3-aac-wav-wma-or-flac-files-for-high-quality-listening-experience/"><u>Step-by-Step Tutorial on How to Save Acast Episodes as MP3, AAC, WAV, WMA, or FLAC Files for High-Quality Listening Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/telechargements-complets-and-gratuits-top-2023-les-plus-performants-extracteurs-de-dvd-pour-windows-11/"><u>Téléchargements Complets & Gratuits: Top 2023 Les Plus Performants Extracteurs De DVD Pour Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-se-2022-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone SE (2022) Passcode without a Computer</u></a></li>
 </ul></div>
 

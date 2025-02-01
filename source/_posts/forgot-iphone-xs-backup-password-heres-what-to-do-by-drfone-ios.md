@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone XS Backup Password? Heres What to Do
-date: 2024-07-15T00:48:24.491Z
-updated: 2024-07-16T00:48:24.491Z
+date: 2025-01-25T00:07:40.015Z
+updated: 2025-01-31T20:35:30.291Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,6 +58,10 @@ After establishing the password, all your previous backups will immediately unde
 
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Try all passwords you used on your Apple iPhone XS
 
 The typical method that each individual attempts for the first time is to input all of the available passcodes. Even if it is the most straightforward technique, there is still a possibility that you miss one of them. Therefore, think about all of the passwords you may input, which are listed below.
@@ -89,6 +93,10 @@ Use a USB cable to link your Apple iPhone XS to your PC. Look at the small iOS i
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Find your password in the macOS keychain
 
@@ -140,10 +148,13 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -173,8 +184,6 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
-
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes
 
 There are a few causes that you might need to factory reset your locked iPhone without iTunes. Perhaps you forgot your passcode and can't seem to remember it, no matter how many times you try. Maybe you're selling your Apple iPhone XS and want to ensure that all your data is wiped from the Apple iPhone XS device before handing it over to someone else.
@@ -185,13 +194,9 @@ Here are some ways to finish the factory reset on a locked iPhone without iTunes
 
 Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easy App to Factory Reset Locked iPhone
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone XS and help you unlock your device within a few minutes.
-
 
 For this, you will need to follow the steps given below.
 
@@ -229,19 +234,24 @@ The process will take a few minutes if you have a strong internet connection bec
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
 Besides the above-given method, other methods can also help you factory reset your locked iPhone without iTunes.
 
 These methods are as follows:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method #1: Factory reset via the Find My feature on your device
 
 Resetting your locked iPhone without iTunes is one of the most effective methods. You can use this method if you have set up the " Find My iPhone " function on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![via the find My Apple iPhone XS feature](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-1.jpg)
 
 To do this, you need to follow these steps:
@@ -255,6 +265,10 @@ To do this, you need to follow these steps:
 **Step 4:** Enter your Apple ID password when prompted, and click the " Erase " button to proceed.
 
 Now that your device has been erased, you can reset it as a new one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
@@ -296,9 +310,6 @@ Your device will now be erased, and it'll become a new device.
 
 Yes. A factory reset will bypass the lock screen passcode on your Apple iPhone XS and allow you to access it without a passcode. However, all your data will disappear, so make sure you have a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Can I Factory Reset my iPhone without Losing the Data?
 
 No. If you want a factory reset, all your data will be erased, so make a backup before proceeding.
@@ -314,6 +325,10 @@ A soft reset is when you restart your device, and a hard reset is when you facto
 To force your Apple iPhone XS to factory reset with buttons, you need to follow these steps:
 
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
 
@@ -345,9 +360,6 @@ In this article, we go through the essence of **unlocking a Total Wireless phone
 
 ![unlock your total wireless phone](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Defining The Total Wireless Phone Terminology
 
 A [Total Wireless](https://www.totalbyverizon.com/) phone refers to a mobile device that operates on the Total Wireless network. It is a prepaid mobile virtual network operator (MVNO) that uses Verizon's network infrastructure. These phones are often sold with Total Wireless plans. Moreover, they are optimized to function within its network coverage area. Unlocking a Total Wireless phone can pose challenges due to the Apple iPhone XS device's association with a specific carrier.
@@ -407,9 +419,6 @@ Unlocking a phone to access various carriers involves understanding the unique p
 
 **Instructions.** Using a browser, open the att.com/deviceunlock website. Here, choose the “Start an unlock request" option and follow the on-screen prompts to complete the process. [AT&T will let you know about the unlock status](https://drfone.wondershare.com/sim-unlock/att-unlock.html) via the provided email.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![requesting at&t to unlock device](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-5.jpg)
 
 #### T-Mobile
@@ -433,9 +442,21 @@ As explained before, Total Wireless requires you to use your device for at least
 
 ![contacting total wireless support](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3. Make the Urgency Fee Payment
 
 While the official Total Wireless device unlocking policy requires you to use the Apple iPhone XS device for at least a year, there are times when it might not be feasible. In such scenarios, you can pay an urgent fee to unlock the Apple iPhone XS device. Remember that even when paying an urgency fee, you need to have used the Apple iPhone XS device for at least 60 days.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 4. Unlock Your Total Wireless Phone Using SafeUnlocks
 
@@ -489,7 +510,6 @@ Ensure that the downloaded iOS firmware is validated before proceeding. To start
 
 In this comprehensive guide, we navigated through **how to unlock Total Wireless phone**. It covered its definition, reasons for unlocking, and a checklist before initiating the process. We explored multiple unlocking methods, including carrier-specific policies and third-party services. Additionally, we discussed Wondershare Dr.Fone as the ultimate choice when users encounter device unlocking.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -502,9 +522,26 @@ In this comprehensive guide, we navigated through **how to unlock Total Wireless
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ideo-marketing-mastery-for-affiliate-success-for-2024/"><u>[New] Video Marketing Mastery for Affiliate Success for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-resolved-inaccessible-full-screen-obs/"><u>[Updated] 2024 Approved Resolved Inaccessible Full Screen OBS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-10-volume-elevators-for-windows-ios-and-android/"><u>[Updated] Best 10 Volume Elevators for Windows, iOS & Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-beneath-the-surface-exploring-the-invisible-aspects-of-viewing-stories/"><u>2024 Approved Beneath the Surface Exploring The Invisible Aspects of Viewing Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-deciphering-wi-fi-calling-features/"><u>A Comprehensive Guide to Deciphering Wi-Fi Calling Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-protective-case-is-it-essential-for-iphones-and-androids/"><u>Choosing the Right Protective Case: Is It Essential for iPhones and Androids?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-11-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 11 Space | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-se-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone SE in Lost Mode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-8-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 8 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-7-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 7 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-se-2020-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone SE (2020) Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-2020-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE (2020) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-5-most-user-friendly-online-tone-creators-for-2024/"><u>The 5 Most User-Friendly Online Tone Creators for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/transfer-von-lumix-aufnahmen-2-optimale-strategien-fur-dein-iphone/"><u>Transfer Von Lumix-Aufnahmen: 2 Optimale Strategien Für Dein iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro Max i Do? Get Answers here</u></a></li>
+</ul></div>
 

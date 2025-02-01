@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Lock Apps on Apple iPhone XS and iPad Securely
-date: 2024-07-15T00:46:31.547Z
-updated: 2024-07-16T00:46:31.547Z
+date: 2025-01-24T20:48:08.187Z
+updated: 2025-01-31T21:36:03.160Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,6 +25,10 @@ Utilizing Screen Time on your Apple iPhone XS offers a versatile way to manage a
 **Step 1.** Begin by accessing the Settings on your iOS device and tapping on the "Screen Time" option. On the ensuing screen, tap "App Limits," followed by "Add Limit."
 
 ![choose the app limits option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
 
@@ -62,6 +66,10 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
 By taking the assistance of Apple’s native Restrictions feature, you can app lock the Apple iPhone XS without any trouble. In this way, you can set up a passcode that needs to be matched before accessing any app. This iPhone app lock is also a great way to restrict your kids from accessing certain apps or making purchases. To learn how to lock apps on iPhone or iPad using Restrictions, follow these steps:
@@ -78,11 +86,13 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone XS passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -102,9 +112,6 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 **Step 1.** To start with, go to your device’s Settings > General > Accessibility and tap on the “Guided Access” option.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable guided access](https://images.wondershare.com/drfone/article/2017/09/15060135337469.jpg)
 
 **Step 2.** Turn on the “Guided Access” feature and tap on the “Passcode Settings”.
@@ -116,6 +123,10 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 4.** Now, simply launch the app that you want to restrict and tap the Home button three times. This will start the Guided Access mode.
 
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
 
@@ -130,6 +141,10 @@ On the Apple iPhone XS 8 Series and iPhone SE, Apple offers Touch ID for securit
 **Instructions:** To start, open the Settings application. Now scroll down to locate and select the "Touch ID & Passcode" option. On the following screen, you can deactivate or activate Touch ID for apps.
 
 ![proceed into touch id settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: How to Lock Apps on iPhone Using Third-Party Apps?
 
@@ -157,6 +172,10 @@ To do that, access "Safari" in "Settings" and move to"Content Blockers" to enabl
 
 ![select the app blocker feature](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Block Any App Using the App Blocker Feature**
 
 Establish the connection between your kids' iOS devices and your PC by pairing them with your phone. From there, effortlessly choose and block any unwanted apps on your kids' phones. Additionally, you have the option to block apps based on their App Store ratings for added control and security.
@@ -182,6 +201,10 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 **Step 5.** To app lock, the iPhone, visit the “**Application Locking**” feature on your device.
 
 ![application locking](https://images.wondershare.com/drfone/article/2017/09/15060136826933.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** From here, you can turn on (or off) the locking feature for apps of your choice.
 
@@ -223,9 +246,6 @@ By following these solutions, you would be able to learn how to lock apps on the
 
 The Apple iPhone XS lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone XS device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to use iPhone lock screen notifications?
 
 When it comes to iPhone lock screen with notifications, there are so many things that you can do. For instance, here are a handful of things you can do with iPhone lock screen notifications.
@@ -278,9 +298,6 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 1\. Firstly, unlock your device and got to its Settings > Touch ID & Passcode option.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
 
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
@@ -302,6 +319,10 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone X
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
 
@@ -393,12 +414,17 @@ Jailbreaking an iPhone won't remove the iCloud Activation Lock, contrary to a co
 
 iCloud Activation Lock is a security feature that ties an Apple iPhone XS to the Apple ID used to set it up. If lost or stolen, it prevents unauthorized use even after a factory reset.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud activation lock on an iphone](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 While jailbreaking grants you deeper access to the system, it can't override or bypass the iCloud Activation Lock directly. However, third-party tools that can bypass iCloud activation lock use this access. These software, such as [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), leverage the jailbreak to access crucial system files and implement their bypass methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Easily Bypass iCloud Activation Lock Without Password
 
@@ -419,7 +445,6 @@ Here are some things Dr.Fone - Screen Unlock tool can offer:
 Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you back control. Now, let's walk through a step-by-step guide on how to bypass the iCloud Activation Lock using Dr.Fone - Screen Unlock (iOS):
 
 - **Step 1:** Download Dr.Fone and set up the software on your computer.
-
 
 - **Step 2:** Open the program and select **Screen Unlock** from the available options on the **Toolbox** page.
 
@@ -449,9 +474,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 - **Step 8:** Allow the software to complete the bypass process. Once done, your Apple iPhone XS will be successfully unlocked from the iCloud Activation Lock without a password.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![dr.fone bypass icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 ## Part 4: Other Way To Remove iCloud Activation Lock Without Jailbreak
@@ -475,9 +497,6 @@ Jailbreaking your Apple iPhone XS weakens its iOS security, possibly exposing yo
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -490,9 +509,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-superior-free-lut-options/"><u>[New] The Ultimate Guide to Superior, Free LUT Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-facebooks-memory-lane-with-ease/"><u>[Updated] 2024 Approved Navigating Facebook's Memory Lane with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-dramatic-lighting-in-hdr-portrait-photography/"><u>[Updated] In 2024, Dramatic Lighting in HDR Portrait Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-peeksnapper-a-critical-examination-of-micro-recording-tools/"><u>2024 Approved PeekSnapper A Critical Examination of Micro-Recording Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-15-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 15 Pro with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xs-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XS Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-14-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 14 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 with a Mask On</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-note-50-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme Note 50 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-iomap64-bsod-a-comprehensive-guide-for-pcs/"><u>Overcoming the IOMap64 BSOD: A Comprehensive Guide for PCs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210499633-9781524878306-spells-for-change/"><u>Spells for Change | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-differences-apple-pencil-pro-vs-apple-pencil-2-showdown-finding-the-perfect-match-for-your-ipad-with-expertise/"><u>Unveiling the Differences: Apple Pencil Pro Vs. Apple Pencil 2 Showdown | Finding the Perfect Match for Your iPad with Expertise</u></a></li>
+</ul></div>
 

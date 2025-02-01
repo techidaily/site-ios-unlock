@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-07-15T00:46:28.085Z
-updated: 2024-07-16T00:46:28.085Z
+date: 2025-01-29T18:01:30.793Z
+updated: 2025-01-31T22:12:12.152Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,7 +27,6 @@ With a quick little tap, you can have your Apple iPhone 8’s camera working as 
 Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone 8**.
 
 Now, you cannot just **unlock any Apple iPhone 8 with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
-
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 8?
 
@@ -66,6 +65,10 @@ Additional requirements you’ll need to meet include:
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 8 Face ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Apple iPhone 8 With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
@@ -88,6 +91,10 @@ You can turn on wrist detection on your watch by following these steps:
 - **Step 6:** Toggle **Wrist Detection**
 
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that you’ve enabled the option to unlock your Apple iPhone 8 using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
 
@@ -140,18 +147,6 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Do a System Repair on Your Apple iPhone 8
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -164,6 +159,10 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 2:** From the **Toolbox**on your left-hand side, select **System Repair**;
 
 ![unlock-iphone-with-watch-8.jpg](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Connect your Apple iPhone 8 to your PC using a cable connection;
 - **Step 4:** Select your device type in the new window that opens;
@@ -219,11 +218,6 @@ If you are locked out of Apple iPhone 8, you should only use a reliable and secu
 
 Attention: All your data all be erased after you get into your locked Apple iPhone 8.Please make sure if you have backed up all your data.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 8 In 5 Minutes!
@@ -242,6 +236,10 @@ You can watch the video below about how to unlock your Apple iPhone 8 without Pa
 **Step 1.** Download Dr.Fone - Screen Unlock, install it on the computer, and launch it whenever you need to unlock your phone. Choose the option of "Screen Unlock" from the main screen.
 
 ![get into locked Apple iPhone 8 with drfone for ios](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Connect your device with a computer. Afterward, choose the “Unlock iOS Screen”  to get started.
 
@@ -263,13 +261,18 @@ You can watch the video below about how to unlock your Apple iPhone 8 without Pa
 
 ![confirmation code to get into locked Apple iPhone 8](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone 8 successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to get into a locked Apple iPhone 8 with iTunes?
 
 This is another popular way to resolve the locked out of the Apple iPhone 8 problem. It can get a little complicated to start with, but in the end, your data would be erased. On Mac with macOS Catalina, you need to open Finder. On Windows PC and Mac with other macOS, you can use iTunes. Implement the following steps to restore your Apple iPhone 8.
@@ -324,9 +327,17 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994492171595.jpg "share on message")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7.** Then the text will be highlighted. Tap on the add icon.
 
@@ -348,6 +359,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994493369614.jpg "iphone home")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope that after learning how to get in a locked Apple iPhone 8 in different ways, you would be able to resolve the issue on your iOS device. Choose the way you prefer and fix the locked out of the Apple iPhone 8 problem. We recommend using Dr.Fone - Screen Unlock to get an easy fix to your issue without much trouble.
@@ -368,9 +383,6 @@ The primary reason Apple requires verification for App Store purchases is to ens
 
 What does this verification usually involve? It could be entering your Apple ID password or using Face ID or [<u>Touch ID</u>](https://drfone.wondershare.com/iphone-11/iphone-11-touch-id-not-working.html) if your device supports these features. These methods are designed to confirm your identity quickly and securely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verification required notification](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-02.jpg)
 
 ### Reasons Why the Verification Required Message Might Appear
@@ -419,15 +431,11 @@ If you need to learn **how to bypass the ‘Verification Required’ prompt in t
 
 Dr.Fone - Screen Unlock (iOS) function includes an Apple ID remover tool. This feature is handy when you cannot remember your Apple ID or password but need to download apps from the App Store. Here’s a step-by-step guide on how to use this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step-by-Step Guide To Bypass Verification Without Apple ID With Dr.Fone
 
 Here’s a complete guide on bypassing **the verification required on the App Store**.
 
 - **Step 1:** Install and open Wondershare Dr.Fone on your computer.
-
 
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
@@ -444,6 +452,10 @@ Here’s a complete guide on bypassing **the verification required on the App St
 - **Step 5:** Confirm if your iOS device has a screen lock and two-factor authentication enabled. This is crucial for the process to continue smoothly.
 
 ![screen lock verify](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Follow the on-screen instructions to put your iOS device in Recovery Mode. If necessary, you can also opt for [<u>DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) by following the provided instructions. Once in Recovery Mode, the tool will recognize your device model. You’ll need to select the correct system version to proceed.
 
@@ -471,9 +483,6 @@ While it’s an effective solution, always consider it a secondary option to saf
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -486,9 +495,26 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-complete-screen-recorders-playbook-for-2024/"><u>[Updated] The Complete Screen Recorder's Playbook for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-our-favorite-pickup-imessage-games-of-2024-to-stay-connected/"><u>Discover Our Favorite Pickup iMessage Games of 2024 to Stay Connected</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-fusing-inboxes-linking-your-gmail-with-outlook-on-windows/"><u>Efficiently Fusing Inboxes: Linking Your Gmail with Outlook on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-windows-and-macos-screen-capture-tools/"><u>Expert Windows & macOS Screen Capture Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-x-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone X Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-ubisoft-connect-issues-encountered-in-224/"><u>How to Overcome Ubisoft Connect Issues Encountered in 2#!!24</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-correct-a-rejected-payment-method-on-apple-services/"><u>How to Troubleshoot and Correct a Rejected Payment Method on Apple Services</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 15 without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-14-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 14 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-14-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 14 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-13-mini-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 13 mini</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-mini-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 mini Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xs-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone XS Max/iPad Without Computer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/secure-and-enhance-slack-communications-with-top-10-free-audio-apps-for-2024/"><u>Secure & Enhance Slack Communications with Top 10 Free Audio Apps for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unveiling-the-reasons-behind-screen-video-artifacts-insights-from-yl-computing/"><u>Unveiling the Reasons Behind Screen Video Artifacts: Insights From YL Computing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-powerdirector-competitors-best-mobile-video-editors-for-android-and-ios-for-2024/"><u>Updated PowerDirector Competitors Best Mobile Video Editors for Android & iOS for 2024</u></a></li>
+</ul></div>
 

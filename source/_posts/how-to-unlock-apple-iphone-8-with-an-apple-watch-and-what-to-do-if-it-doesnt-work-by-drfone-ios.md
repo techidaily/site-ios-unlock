@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-07-15T00:42:23.973Z
-updated: 2024-07-16T00:42:23.973Z
+date: 2025-01-31T02:36:09.309Z
+updated: 2025-01-31T22:19:41.164Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,10 +28,10 @@ Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone
 
 Now, you cannot just **unlock any Apple iPhone 8 with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
 
-
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 8?
 
 ![phone, earphones, and apple watch on a table](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-2.jpg)
@@ -45,6 +45,10 @@ The problem is that neither face ID nor traditional passcodes aren’t always th
 What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone 8 model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Requirements for Unlocking Apple iPhone 8 With Apple Watch
 
@@ -78,6 +82,10 @@ If you meet all the aforementioned criteria, setting up the feature to unlock yo
 - **Step 1:** Go to **Settings > Face ID & Passcode**on your Apple iPhone 8;
 
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Type in your passcode;
 - **Step 3:** Find and enable **Unlock with Apple Watch**.
@@ -143,9 +151,6 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Do a System Repair on Your Apple iPhone 8
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -185,6 +190,10 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6. Reset Your Watch and Pair It Again
 
 Finally, if you’re still experiencing issues, you might need to reset your Apple Watch and pair it with your Apple iPhone 8 again.
@@ -203,8 +212,6 @@ Using your Apple Watch to unlock your Apple iPhone 8 is convenient when you cann
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
 
-
-
 ## How to Fix Apple iPhone 8 Passcode not Working?
 
 Apple has always been one of the top successful companies. The reason for its success can be clearly seen through its efforts in pioneering top-notch products. It not only puts its efforts into ensuring the perfect working of the Apple iPhone 8 device but also provides the user with essential security measures to protect the data of the Apple iPhone 8 device from unauthorized access.
@@ -212,7 +219,6 @@ Apple has always been one of the top successful companies. The reason for its su
 This is the sole reason why Apple focuses so much on privacy through passcodes. But sometimes, these passcodes can be a hurdle in the working of the iPhone.
 
 If you're facing this issue, then you've come to the right place. This article shall cover your queries regarding fixing the Apple iPhone 8 passcode that is not working and providing full-depth details for your ease.
-
 
 ## Part 1: Why iPhone is Saying Passcode is Wrong?
 
@@ -222,6 +228,10 @@ Sometimes the problem is trivial, like you may have entered the wrong keys in a 
 
 However, occasionally the problem is technical. Sometimes, your Apple iPhone 8 may be corrupted. This can cause trouble for your device to detect the security file where your passcode is stored. Other times, the operating system may not be installed properly after updating to the new version of iOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Remove iPhone Passcode with Dr.Fone Without Losing Data
 
 Everyone in the field of tech is familiar with Wondershare as it is the most innovative and versatile software in the market. Dr.Fone is a toolkit containing data recovery, phone manager software, etc., introduced by Wondershare. One of the many reasons for its success is the intuitive interface that has made it convenient for professionals as well as amateurs.
@@ -229,8 +239,6 @@ Everyone in the field of tech is familiar with Wondershare as it is the most inn
 When it comes to fixing your Apple iPhone 8 passcode, which is not working, Wondershare Dr.Fone - [Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) does wonders.
 
 iTunes is another great way to bypass the activation screen without a SIM card. If you’re new to this, here's a small guide on how to use iTunes to bypass the activation screen.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -265,9 +273,6 @@ Before directly unlocking the Apple iPhone 8 lock screen, you've to set it up in
 
 Once your Apple iPhone 8 is in DFU mode, another window will be displayed on the screen, asking for confirmation regarding the Apple iPhone 8 device Model and System Version. Now click on the "Download" button placed at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5: Unlock your Apple iPhone 8.**
@@ -279,6 +284,10 @@ After downloading the firmware, select “Unlock Now” to unlock your Apple iPh
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
 This part shall assert its focus on the effective ways of resolving the issue involving the Apple iPhone 8 password not working on your device. It revolves around the methods involving iTunes, iCloud, and iPhone Recovery Mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.1 By using iTunes and iPhone Cables
 
@@ -326,10 +335,11 @@ Click on "Find My iPhone" and select "All devices," and a list of devices will c
 
 Now click on the option of “Erase iPhone” to erase all your data and even your passcode. You have the autonomy to set up your Apple iPhone 8 from a previous backup or set it up as a new device.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.3 Using iPhone Recovery Mode
 
@@ -414,6 +424,10 @@ The user is now supposed to make the connection between iPhone and the system an
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Activate DFU Mode**
 
 Once the system has detected the phone, the user is advised to activate the DFU mode by turning off the phone and connecting it to the computer.
@@ -445,8 +459,9 @@ Provide the system with an on-screen confirmation code to continue the process. 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
 People keep on switching between Android and iOS. Not everyone sticks to one thing, and so do passionate mobile users do. But suppose someone is changing their phone and they want to delete the Apple iPhone 8 from iCloud, both the Apple ID and its password; what should be done in such a scenario?
@@ -489,10 +504,13 @@ iPhone users can even restore their phones to factory settings without losing an
 
 Users can now retrieve all the data that has been backed up on iTunes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone 8 . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -506,9 +524,22 @@ The article has covered a sufficient portion of knowledge for the user regarding
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-economical-wide-angle-camcorders-for-visual-storytelling/"><u>[New] Economical Wide Angle Camcorders for Visual Storytelling</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-the-top-free-tools-for-youtube-image-downloads/"><u>[Updated] 2024 Approved Discover the Top Free Tools for YouTube Image Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-deactivation-done-right-the-ultimate-instagram-guide-for-2024/"><u>[Updated] Deactivation Done Right The Ultimate Instagram Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-become-a-zoom-maestro-host-with-ease/"><u>[Updated] In 2024, Become a Zoom Maestro Host with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>2024 Approved The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-solving-the-problem-of-dysfunctional-usb-mouse-and-keyboard-under-windows-vistawindows-7/"><u>Guide: Solving the Problem of Dysfunctional USB Mouse and Keyboard Under Windows Vista/Windows 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 13 Passcode Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-note-12-pro-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi Note 12 Pro 4G without App | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-se-2020-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone SE (2020) Properly</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-taking-apart-an-xbox-360-slim/"><u>Step-by-Step Guide to Taking Apart an Xbox 360 Slim</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-xr-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone XR Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+</ul></div>
 

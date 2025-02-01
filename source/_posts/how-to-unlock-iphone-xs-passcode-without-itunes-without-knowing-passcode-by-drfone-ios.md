@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XS Passcode without iTunes without Knowing Passcode?
-date: 2024-07-15T00:48:49.942Z
-updated: 2024-07-16T00:48:49.942Z
+date: 2025-01-27T20:51:59.803Z
+updated: 2025-02-01T00:47:55.995Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,8 +27,6 @@ If you have been locked out of your iOS device and would like to know how to unl
 Most of the users find it hard to unlock their devices by taking the assistance of iTunes. After all, it is a more complicated and time-consuming process. Ideally, you can take the assistance of a third-party tool like [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to [bypass the Apple iPhone XS passcode.](https://drfone.wondershare.com/unlock/bypass-iphone-passcode.html) This tool will wipe out all the data after unlocking iPhone. It provides extremely reliable and easy solutions regarding the removal of the Apple iPhone XS screen lock. Besides that, the tool can also be used to recover any kind of problem related to your iOS device.
 
 It is compatible with all the leading iOS versions and devices. All you need to do is access its user-friendly interface and follow simple click-through steps to unlock your device. To learn how to unlock Apple iPhone XS passcode without iTunes (using Dr.Fone toolkit), follow these steps:
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -96,7 +94,15 @@ Apple also allows its users to remotely locate, lock, and erase their devices. T
 
 ![how to unlock Apple iPhone XS passcode without itunes-erase Apple iPhone XS](https://images.wondershare.com/drfone/article/2017/09/15060131746196.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. Agree with the pop-up message and choose to restore your device. Once it is done, your phone will be restarted without any lock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to unlock Apple iPhone XS passcode in Recovery Mode?
 
@@ -130,20 +136,26 @@ Now when you know how to unlock Apple iPhone XS passcode without iTunes, you can
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Remove Flashlight From Apple iPhone XS Lock Screen
 
 Ever wonder why the flashlight shows up on your Apple iPhone XS lock screen? Especially when it happens in your pocket or while you're holding it. If you, like many, accidentally turn it on and drain your battery, no need to worry.
 
 While you can't remove it, figuring out **how to remove flashlight from iPhone lock screens** is a common question. This guide shares several ways to prevent accidental activations and save your device's battery. Keep reading for easy solutions to take charge of your Apple iPhone XS's lock screen and make it work better for you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How To Remove Flashlight From iPhone Lock Screens?
 
 You can't remove the shortcuts like the flashlight icon from an iPhone lock screen. These are built-in features, and Apple doesn't currently offer an option to disable them. However, there are some workarounds to make the flashlights less accessible and avoid turning them on accidentally. You can turn off Tap to Wake, Raise to Wake, remove the flashlight icon from the control center, and turn off the Back Tap shortcut.
@@ -183,9 +195,6 @@ The Control Center on iPhones is a quick-access panel. You can access it by swip
 - **Step 3:** Tap the red minus (**\-**) sign next to the **Flashlight** icon.
 - **Step 4:** Tap **Remove** to confirm deleting the **Flashlight** icon from the **Control Center**.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove flashlight from iphone control center](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-04.jpg)
 
 Quick Fix No. 4: Turn Off Back Tap Shortcut
@@ -199,6 +208,10 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 - **Step 3:** Choose **None** instead of the currently assigned action, which might be ****Flashlight****.
 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Turn Off the Flashlight on iPhone?
 
@@ -223,9 +236,6 @@ To go hands-free and avoid accidental taps, you can use Siri to turn off the fla
 - **Step 2:** Give the commands saying, **"Turn off the flashlight."**
 - **Step 3:** Siri will confirm your request and turn off the flashlight. You'll hear a voice cue and see the flashlight icon on your screen dim.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use siri to turn off flashlight](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-07.jpg)
 
 Remember, even with Siri, ensure your Apple iPhone XS's microphone isn't covered or blocked for successful voice recognition.
@@ -248,7 +258,6 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 - **Step 1:** Download and install Dr. Fone's desktop app on your computer. Make sure you get the latest version for optimal compatibility. Launch the app and select the **Screen Unlock** option from the **Toolbox** homepage.
 
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** Select **iOS** as the Apple iPhone XS device type. Then, within the **Screen Unlock** window, select **Unlock iOS Screen** to begin the process.
 
@@ -284,8 +293,6 @@ And if ever locked out with the flashlight on, consider Dr.Fone Screen Unlock. T
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## Apple iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do?
 
 If you’ve recently updated your iOS iPhone and iPad to the iOS 17/14 operating system, you may notice a bit of a bug where the Apple iPhone XS displays the passcode lock, even if you haven’t got a security code in place.
@@ -320,9 +327,17 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Click the Unlock iOS Screen option.
 
 ![android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
@@ -338,9 +353,6 @@ That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Restore an old backup from iTunes
 
 Another key way that some users have found to unlock their device after an update is to restore their device to an older version, aiming to put your device back into a position where it didn’t have a lock screen.
@@ -354,6 +366,10 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 **Step 3.** Follow the onscreen instructions where you’ll choose which backup file you want to use before iTunes, then restores your device. When the software has completed the process, you’ll be able to disconnect your Apple iPhone XS and use it without a lock screen!
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Restore in recovery mode
 
@@ -389,10 +405,13 @@ Of course, this will only work if the Find My iPhone features have been enabled 
 
 Leave the Apple iPhone XS device to erase, and once completed, you’ll be able to pick up and use your phone as normal without a lock screen. You should also now be able to update to iOS 17/14 without any problems!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 And there you go, the five key ways you need to know when it comes to removing an unwanted lock screen from your iOS device after an iOS 17/14 update. We highly recommend the Dr.Fone - Screen Unlock (iOS) since the software makes the whole process incredibly easy, especially when managing any problems you may have on your iOS device!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -406,9 +425,22 @@ And there you go, the five key ways you need to know when it comes to removing a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-ride-the-waves-with-top-tier-surf-cameras/"><u>[New] Ride the Waves with Top-Tier Surf Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-a-brand-through-expertly-planned-onestream-broadcasts/"><u>[Updated] Building a Brand Through Expertly Planned OneStream Broadcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-network-and-be-friendly-top-5-apps-for-new-acquaintances/"><u>Connect, Network, and Be Friendly: Top 5 Apps for New Acquaintances</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-canons-sx530-a-simple-start-for-budding-photographers/"><u>Discover Canon’s SX530: A Simple Start for Budding Photographers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-15-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 15 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-websites-to-find-3d-gold-text-effects/"><u>In 2024, Best Websites to Find 3D Gold Text Effects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone X? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-7-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 7 Plus Lock Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-voices-that-sell-why-client-produced-videos-thrive/"><u>In 2024, Voices that Sell Why Client-Produced Videos Thrive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-8-cameras-that-make-live-streaming-shine/"><u>Leading 8 Cameras That Make Live Streaming Shine</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/premium-collection-of-alfa-romeo-rival-concept-cars-backgrounds-and-photos-in-ultra-hd-yl-computing/"><u>Premium Collection of Alfa Romeo Rival Concept Cars Backgrounds and Photos in Ultra HD – YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-6s-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 6s Without Passcode Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-13-mini-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 13 mini Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+</ul></div>
 

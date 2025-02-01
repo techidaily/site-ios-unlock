@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with Apple iPhone XS Swipe-Up? Try These 11 Solutions
-date: 2024-07-15T00:49:56.172Z
-updated: 2024-07-16T00:49:56.172Z
+date: 2025-01-25T02:15:52.104Z
+updated: 2025-01-31T20:28:12.579Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,10 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
@@ -50,9 +54,6 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XS can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
@@ -61,10 +62,11 @@ Repair iOS System Errors Without data loss.
 - Fix various iOS system issues [stuck in recovery mode](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html), [white Apple logo](https://drfone.wondershare.com/iphone-problems/white-apple-logo-screen-of-death.html), [black screen](https://drfone.wondershare.com/iphone-problems/fix-iphone-black-screen.html), looping on start, etc.
 - Downgrade iOS without iTunes at all.
 - Works for all models of iPhone, iPad, and iPod touch.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - Fully compatible with the latest iOS version.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3981454** people have downloaded it
 
@@ -92,12 +94,15 @@ Select the Apple iPhone XS device type from the available options and select "iP
 
 ![choose to repair ios](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Select iOS Firmware to Initiate the Repair Process**
 
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
 
 ### Fix 2. Force Restart iPhone
 
@@ -116,6 +121,10 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 **Instructions:** To restart your Apple iPhone XS 6, press the "Wake/Sleep" button on the top edge of the phone. Hold the other "Home" button at the bottom center screen of the phone. Continue holding the buttons until the Apple logo becomes visible on the display. Then, press the "Wake/Sleep" button and the "Home" button.
 
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3. Remove the Cover or Case
 
@@ -169,6 +178,14 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone XS 12 won't swipe up to unlock**:
@@ -208,8 +225,6 @@ Resetting all settings on your Apple iPhone XS can help resolve software-related
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone XS device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone XS without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -252,14 +267,11 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone XS and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone XS. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone XS even when gestures aren't working properly.
-
-
 
 ## How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
 
@@ -309,8 +321,6 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 If you've forgotten the passcode for your Apple iPhone XS and are unable to access it anymore, there is no need to panic. We have the perfect tool for you that can unlock any lock on your screen in a few moments. The tool we are talking about is [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), an industry leader in smartphones. Dr.Fone, a pioneering tool for iOS lock screen removal, assists in unlocking various iPhone/iPad/iPod touch lock screens.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
@@ -340,13 +350,14 @@ Download and install Wondershare Dr.Fone on your computer. Go to "Toolbox," tap 
 
 ![access screen unlock within toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Initiate the iDevice into Recovery Mode**
 
 After this step, enter Recovery Mode on your iDevice by following the specific on-screen instructions. Once your iDevice is in Recovery Mode, the system automatically identifies and displays the "Device Model." You can make adjustments to the model if necessary and choose the "System Version" as per your needs. When finished, click on "Start" to initiate the unlocking process for your device's screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![follow on-screen instructions](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Successfully Unlock Your Locked iPhone**
@@ -354,7 +365,6 @@ After this step, enter Recovery Mode on your iDevice by following the specific o
 The screen will showcase the download progress of the iOS firmware on the platform. Once the iOS firmware download is completed, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will appear, requesting confirmation for the process. Enter the necessary code and tap on "Unlock" to proceed. Upon successful unlocking of the iDevice, click "Done" to complete the process.
 
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ### Method 3: Unlock the Apple iPhone XS Without Swiping Up via Touch ID/Face ID
 
@@ -427,9 +437,6 @@ Utilizing Voice Control to unlock your Apple iPhone XS offers a hands-free appro
 
 ![toggle on voice control option](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 6: Unlock iPhone Without Swiping Up with Switch Control
 
 Utilizing Switch Control is an excellent accessibility feature on iOS devices. It allows users to interact with their iPhones using adaptive switches or the Apple iPhone XS device's screen itself. Moreover, it can provide an alternative way to navigate the Apple iPhone XS and access the Home screen. You no longer have to rely solely on the conventional swipe gesture. Here is how you can set up switch control to **iPhone swipe to unlock**:
@@ -438,6 +445,10 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 ![add a new switch](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Set Left Head Movement and Right Head Movement separately to “Home.” This action will lock the screen when tilting your head left or right. Now go back to "Recipes" in Switch Control, select "Edit," and delete all existing recipes.
 
 ![remove existing recipes](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-9.jpg)
@@ -445,6 +456,10 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 **Step 3.** Set "Scanning Style" to "Single Switch Step Scanning" and adjust "Dwell Time" to the shortest duration. Then, turn off the remaining settings under Switch Control.
 
 ![reduce dwell time as needed](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Save your switch, return to Accessibility Settings, and locate “Accessibility Shortcut.” Now, set triple-clicking the side button to activate “Switch Control.” On the home screen, triple-click the Side button, as previously set, to activate the switch on your Apple iPhone XS. Now, lock the Apple iPhone XS screen and then wake the Apple iPhone XS device without looking at it.
 
@@ -469,6 +484,10 @@ So, let's get straight to the different methods to unlock the Apple iPhone XS lo
 ## 4 Easy Methods to Unlock Apple iPhone XS without Passcode
 
 Following are the four different methods to unlock Apple iPhone XS without a passcode:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #1: Unlock iPhone Screen Passcode With iTunes
 
@@ -522,7 +541,6 @@ Here are some easy steps that you should take.
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
 
-
 **Step #2: Connect Your Apple iPhone XS**
 
 After installing Dr.Fone on your computer, you will need to launch the Software and connect your Apple iPhone XS using the original iPhone's cable.
@@ -552,7 +570,6 @@ Once the downloading is completed, you will need to click on **Unlock Now** butt
 Once the process is completed, you can unlock your Apple iPhone XS XR lock screen without the passcode.
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## FAQs
 
@@ -584,13 +601,9 @@ Another possibility is that someone tried to break into your phone using an ille
 
 Finally, if you have an Apple iPhone XS with Face ID, it's possible that your phone was locked because it didn't recognize your face. You ought to enter your passcode to unlock your phone if this is the case.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 So, these are some most effective methods to follow and unlock the Apple iPhone XS XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone XS lock screen without a passcode.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -604,9 +617,20 @@ So, these are some most effective methods to follow and unlock the Apple iPhone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-in-depth-guide-to-2023s-leading-web-capture-applications/"><u>[New] 2024 Approved In-Depth Guide to 2023’S Leading Web Capture Applications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-proven-youtube-seo-methods-for-video-rankings/"><u>[New] Proven YouTube SEO Methods for Video Rankings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-building-a-brand-building-income-youtube-edition/"><u>[Updated] 2024 Approved Building a Brand, Building Income YouTube Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-ultimate-free-space-solutions-trustworthy-platforms-up-to-1tb-for-2024/"><u>[Updated] Discover Ultimate Free Space Solutions - Trustworthy Platforms (Up To 1TB) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-review-of-the-outer-worlds-a-fun-and-quirky-sci-fi-shooter-experience/"><u>A Review of 'The Outer Worlds': A Fun and Quirky Sci-Fi Shooter Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/asus-rt-ac68u-review/"><u>Asus RT-AC68U Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/defeat-the-crash-bug-in-star-wars-battlefront-ii-a-comprehensive-fix/"><u>Defeat the Crash Bug in Star Wars Battlefront II - A Comprehensive Fix</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/dont-panic-over-data-loss-resurrect-your-missing-iphone-photos-and-notes-using-stellar/"><u>Don't Panic Over Data Loss! Resurrect Your Missing iPhone Photos & Notes Using Stellar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-resolve-iphones-refusal-of-creditdebit-cards-a-step-by-step-guide/"><u>How to Resolve iPhone's Refusal of Credit/Debit Cards – A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-15-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/large-studiofx-lighting-kit-reliability-and-brilliance/"><u>Large StudioFX Lighting Kit: Reliability & Brilliance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/overcoming-dell-audio-malfunctions-expert-solutions-for-windows-7-users/"><u>Overcoming Dell Audio Malfunctions: Expert Solutions for Windows 7 Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/v-joshis-blueprint-for-youtube-2024-income/"><u>Sourav Joshi's Blueprint for YouTube 2024 Income</u></a></li>
+</ul></div>
 

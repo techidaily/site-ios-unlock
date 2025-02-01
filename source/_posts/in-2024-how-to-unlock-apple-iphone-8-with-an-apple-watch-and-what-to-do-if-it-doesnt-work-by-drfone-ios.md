@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-07-15T00:45:04.803Z
-updated: 2024-07-16T00:45:04.803Z
+date: 2025-01-30T04:26:21.627Z
+updated: 2025-01-31T23:39:31.151Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,7 +27,6 @@ With a quick little tap, you can have your Apple iPhone 8’s camera working as 
 Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone 8**.
 
 Now, you cannot just **unlock any Apple iPhone 8 with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
-
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 8?
 
@@ -66,17 +65,22 @@ Additional requirements you’ll need to meet include:
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 8 Face ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Apple iPhone 8 With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you meet all the aforementioned criteria, setting up the feature to unlock your Apple iPhone 8 using an Apple Watch is easy. You’ll just have to follow a few steps:
 
 - **Step 1:** Go to **Settings > Face ID & Passcode**on your Apple iPhone 8;
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
 
 - **Step 2:** Type in your passcode;
@@ -102,6 +106,10 @@ Now that you’ve enabled the option to unlock your Apple iPhone 8 using your Ap
 Your Apple Watch will send an alert when you’ve used it to unlock your Apple iPhone 8. If you accidentally unlock your phone, simply tap on the **Lock Apple iPhone 8** on the screen of your watch to lock it.
 
 However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone 8, you’ll first need to type in your passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 8 With a Watch
 
@@ -160,9 +168,6 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 4:** Select your device type in the new window that opens;
 - **Step 5:** Select **iOS repair**;
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
 - **Step 6:** Select **Standard Repair Mode**;
@@ -176,6 +181,10 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 
 If it was a system mistake preventing you from unlocking your Apple iPhone 8 with your Apple Watch, the option should be functioning well after the Dr.Fone iOS repair.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5. Reset Network Settings
 
 If the problem wasn’t due to a system glitch, you should try resetting your Apple iPhone 8’s network settings. The process is simple, just:
@@ -184,6 +193,10 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 - **Step 2:** Type in your passcode.
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Reset Your Watch and Pair It Again
 
@@ -197,14 +210,15 @@ It’s all quite simple:
 
 To perform a hard reset, simultaneously press and hold the power button and digital crown.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Using your Apple Watch to unlock your Apple iPhone 8 is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Change Your Apple ID on Apple iPhone 8 With or Without Password
 
@@ -234,6 +248,10 @@ Moving abroad? Your Apple ID may need an update to match your new location. It e
 
 ![apple id account information](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Changing your Apple ID can be smart, ensuring your digital life stays up-to-date, secure, and tailored to your needs. It's not complicated, and it's all about making your Apple experience better suited to you. So, go ahead and learn **how to change your Apple ID on your iPad** in the following sections.
 
 ## Part 2: How To Change Apple ID on iPad Without Losing Data?
@@ -255,6 +273,10 @@ If you are worried about losing data such as purchases and contacts, don't worry
 - **Step 1:** Visit the [<u>Apple ID</u>](https://appleid.apple.com/) official website and log in to your account credentials.
 
 ![apple id website interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Once logged in, select **Apple ID** in the **Sign-In and Security** section.
 
@@ -287,9 +309,6 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
 **Changing your Apple ID on an iPad** is usually easy. However, there can be setbacks during the process. Now, here's what to do if you find yourself unable to do it and why it might be happening:
@@ -323,7 +342,6 @@ Step-by-Step Guide to Removing Apple ID on iPad Using Dr.Fone
 Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID from your iPad, iPhone, or iPod Touch. Follow the steps below to learn how to use this feature on your iOS device.
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
-
 
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
@@ -401,8 +419,6 @@ If not already enabled, turn on 2FA for an extra layer of security. It's simple 
 
 And if you need to remove your Apple ID without a password, Dr.Fone is a good option. Dr.Fone is a powerful iOS toolkit that can help you with various phone solutions. It's easy to use and can help you solve mobile problems in just a few minutes.
 
-
-
 ## How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications?
 
 The Apple iPhone 8 lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone 8 device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
@@ -461,13 +477,14 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
 
 3\. This will provide a list of features related to your passcode. Go to the section of “Allow Access When Locked”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
 
 4\. From here, make sure that the option of “Notification View” is turned off.
@@ -494,10 +511,13 @@ This is undoubtedly one of the most evident new features of the Apple iPhone 8 n
 
 ![iphone lock screen with notifications-ios 18 notification new feature](https://images.wondershare.com/drfone/article/2017/09/15063941093235.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to click pictures instantly, then simply swipe left the lock screen. This will launch the Camera on your device, letting you click pictures on the go. Similarly, by swiping right, you can access your Today View. This includes vital data from apps and widgets that your smartphone assumes is important for you regarding the day.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -511,9 +531,26 @@ We hope that after following this guide, you would be able to gain in-depth info
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-mimicking-marvels-how-to-create-comedic-videos/"><u>[New] 2024 Approved Mimicking Marvels How to Create Comedic Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-real-time-recording-faceoff-obs-vs-shadowplay/"><u>[New] 2024 Approved Real-Time Recording Faceoff OBS Vs ShadowPlay</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-9-fitness-trends-to-captivate-your-online-audience-with-action/"><u>[New] 9 Fitness Trends to Captivate Your Online Audience with Action</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effortless-timelapse-on-ipad-capturing/"><u>[New] Effortless Timelapse on iPad Capturing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-fundamentals-of-hosting-zoom-meetings/"><u>[New] The Fundamentals of Hosting Zoom Meetings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-detailed-guide-to-add-transitions-in-kinemaster/"><u>[Updated] In 2024, Detailed Guide to Add Transitions in Kinemaster</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-animated-text-in-video-landscapes/"><u>[Updated] The Art of Animated Text in Video Landscapes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-pc-performance-upgrade-dell-g5-graphics-drivers-for-optimal-playing/"><u>Boost Your PC Performance - Upgrade Dell G5 Graphics Drivers for Optimal Playing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-6s-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 6s Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-7-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 7 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Passcode Screen?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-x-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone X With 7 Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-6s-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 6s in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Properly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mobile-youtube-watching-iphone-and-android-edition-for-2024/"><u>Mobile YouTube Watching IPhone & Android Edition for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s Plus i Do? Get Answers here</u></a></li>
+</ul></div>
 

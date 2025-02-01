@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-07-15T00:50:21.253Z
-updated: 2024-07-16T00:50:21.253Z
+date: 2025-01-26T21:29:35.266Z
+updated: 2025-02-01T04:18:58.587Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,9 @@ Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone
 
 Now, you cannot just **unlock any Apple iPhone XS with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone XS?
 
@@ -46,6 +49,10 @@ Depending on the Apple Watch version you own and your Apple iPhone XS model, you
 ## Part 2. Requirements for Unlocking Apple iPhone XS With Apple Watch
 
 ![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unfortunately, not every Apple iPhone XS can be unlocked with your Apple Watch, and not every Apple Watch can unlock your Apple iPhone XS. Both devices must meet some requirements before you can adjust your settings to enable this option.
 
@@ -87,9 +94,6 @@ You can turn on wrist detection on your watch by following these steps:
 - **Step 5:** Tap on the **Passcode**;
 - **Step 6:** Toggle **Wrist Detection**
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
 
 Now that you’ve enabled the option to unlock your Apple iPhone XS using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
@@ -109,6 +113,10 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 
 Generally speaking, unlocking your Apple iPhone XS with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1. Check All Settings & Reconfigure
 
 As mentioned earlier, there are a few requirements that your devices need to meet to unlock your Apple iPhone XS with your Apple Watch.
@@ -123,6 +131,10 @@ Make sure that you have:
 
 If all the settings are correct, try one of the following options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Restart Your WiFi/Bluetooth Connection
 
 Your Apple iPhone XS and your Apple Watch need to have both WiFi and Bluetooth turned on. If they’re turned on on both devices, try turning them off and back on again to restart the connection.
@@ -130,6 +142,10 @@ Your Apple iPhone XS and your Apple Watch need to have both WiFi and Bluetooth t
 Remember, you only need WiFi and Bluetooth on but don’t need to be connected to a WiFi network.
 
 If the problem persists, you could also restart your devices and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Reset Your Face ID
 
@@ -210,9 +226,11 @@ There can be a few reasons why your Apple iPhone XS is locked, the primary ones 
 
 We understand how frustrating it can be when your newly purchased Apple iPhone XS does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone XS passcode screen using Dr.Fone - Screen Unlock (iOS).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone XS
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -221,9 +239,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Simple, click-through, process.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge is required, everybody can handle it.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Supports iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,217** people have downloaded it
@@ -246,9 +261,6 @@ Step 5: Follow the on-screen instructions to boot the Apple iPhone XS in Recover
 
 Step 6: Dr.Fone will tell you the phone model and the software installed on it. If it is incorrect, use the dropdown lists to select the correct information.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 Click Download to download the firmware file for your device.
@@ -295,14 +307,15 @@ Step 3: Enter your passcode.
 
 Step 4: Scroll down and select Turn Passcode Off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn passcode off](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-8.jpg)
 
 Step 5: Enter your passcode one last time.
 
 You're done. Now go ahead and forget the passcode forever. You will not need it again. Do note, however, that not using a passcode on your Apple iPhone XS leaves not only your data but your Apple iPhone XS itself in a highly vulnerable state. Anyone with access to your device can do anything on the Apple iPhone XS device that you could, including setting up a passcode that you will then have to use this guide to unlock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV: More information about Apple iPhone XS/Apple iPhone XS mini/Apple iPhone XS Pro
 
@@ -323,8 +336,6 @@ All Apple iPhone XS models feature the same IP68 water resistance (that is a dep
 ## Part V: The Bottom Line
 
 A locked Apple iPhone XS is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone XS and remove the passcode from your Apple iPhone XS. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone XS for you when you need help removing the passcode from your Apple iPhone XS and unlocking it.
-
-
 
 ## How to Unlock Apple iPhone XS Passcode without Computer?
 
@@ -352,9 +363,6 @@ If you remember your iCloud credentials, then you can easily learn how to unlock
 
 6\. Simply click on “Erase iPhone” and confirm your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iPhone](https://images.wondershare.com/drfone/article/2017/10/15075515673365.jpg)
 
 7\. Wait for a while as it will reset your Apple iPhone XS remotely.
@@ -362,8 +370,6 @@ If you remember your iCloud credentials, then you can easily learn how to unlock
 As you can see, the Find my iPhone service was majorly introduced to discover the location of a lost iOS device. Though, you can use it to ring your device or erase it remotely as well. In this way, you can learn how to unlock iPhone 5 passcode without computer. The technique can also be implemented in other iPhone versions like Apple iPhone XS, 6 Plus, 7, 7 Plus, and more.
 
 Attention: All your data will be erased while you are unlocking with this tool.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -373,6 +379,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Removes the iPhone's lock screen whenever it is disabled.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS 11.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3981454** people have downloaded it
 
@@ -393,6 +403,10 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 4\. This will let you access the World clock feature on your device. From here, you can view the clock interface. Tap on the “+” icon to add another clock.
 
 ![add world clock](https://images.wondershare.com/drfone/article/2017/10/15075516291472.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5\. The interface will provide a search bar from where you can look for a city. Just write anything to provide a textual entry.
 
@@ -432,10 +446,13 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![iphone unlocked](https://images.wondershare.com/drfone/article/2017/10/15075518174199.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By following these simple steps, you can learn how to unlock iPhone 5 passcode without computer. The same procedure can also be applied to other versions of iPhone as well to unlock it without any data loss.
 
 You can follow either of these solutions to learn how to unlock iPhone 5 passcode without computer. Since iCloud will erase your iOS device, you can take advantage of Siri’s vulnerability. This will let you unlock your device without losing your data. Go ahead and give these solutions a try and let us know about your experience in the comments below.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -449,9 +466,22 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-video-file-management-movs-on-windows-10/"><u>[New] Mastering Video File Management MOVs on Windows 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-directly-connect-tweeting-with-videos-on-whatsapp/"><u>[Updated] Directly Connect Tweeting with Videos on WhatsApp</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unmasked-photos-simple-blur-solutions-with-piscart/"><u>[Updated] In 2024, Unmasked Photos Simple Blur Solutions with PiscArt</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac-for-2024/"><u>Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-mini-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 mini</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17e-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6s-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6s Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-15-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 15 Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6s-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6s Plus Lock Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a1-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A1 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-15-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 15 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-unfreezing-issues-in-path-of-exile/"><u>Quick Solutions for Unfreezing Issues in Path of Exile</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-online-stability-issues-heres-what-you-need-to-know/"><u>Red Dead Online Stability Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-mastery-the-best-mobile-apps-for-creating-breathtaking-videos/"><u>Time-Lapse Mastery The Best Mobile Apps for Creating Breathtaking Videos</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-07-15T00:47:47.059Z
-updated: 2024-07-16T00:47:47.059Z
+date: 2025-01-29T00:35:46.025Z
+updated: 2025-01-31T18:27:25.003Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,7 +27,6 @@ With a quick little tap, you can have your Apple iPhone XS’s camera working as
 Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone XS**.
 
 Now, you cannot just **unlock any Apple iPhone XS with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
-
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone XS?
 
@@ -68,9 +67,6 @@ You’ll also need to wear items such as sunglasses, face coverings, ski masks, 
 
 ## Part 3. How To Unlock Apple iPhone XS With an Apple Watch
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
 
 If you meet all the aforementioned criteria, setting up the feature to unlock your Apple iPhone XS using an Apple Watch is easy. You’ll just have to follow a few steps:
@@ -107,6 +103,10 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 
 ![person wearing face mask unlocking their Apple iPhone XS](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Generally speaking, unlocking your Apple iPhone XS with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
 ### 1. Check All Settings & Reconfigure
@@ -142,6 +142,10 @@ In some instances, it’s the Face ID feature that’s causing trouble, so you m
 When you tap on this, you’ll need to go through the process of setting your Face ID as usual. You’ll need to type in your passcode, hold your Apple iPhone XS in front of you (in portrait orientation), tap to get started, and put your face in the provided frame.
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4. Do a System Repair on Your Apple iPhone XS
 
@@ -181,6 +185,10 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 - **Step 2:** Type in your passcode.
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Reset Your Watch and Pair It Again
 
@@ -248,9 +256,6 @@ Sometimes, unpaid subscriptions can trigger the verification prompt. Tap the App
 
 For less frequent purchases, you should change the settings so you don’t always have to enter your password. Go to Settings, then to **Screen Time**. Under **Content & Privacy Restrictions**, select **iTunes & App Store Purchases**. Here, you can change the settings to **Don’t Require** for purchases. However, be cautious with this method as it reduces security.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen time app store purchases](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-04.jpg)
 
 ### Sign Out of Apple ID and Re-Sign In
@@ -267,12 +272,15 @@ If you need to learn **how to bypass the ‘Verification Required’ prompt in t
 
 Dr.Fone - Screen Unlock (iOS) function includes an Apple ID remover tool. This feature is handy when you cannot remember your Apple ID or password but need to download apps from the App Store. Here’s a step-by-step guide on how to use this feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide To Bypass Verification Without Apple ID With Dr.Fone
 
 Here’s a complete guide on bypassing **the verification required on the App Store**.
 
 - **Step 1:** Install and open Wondershare Dr.Fone on your computer.
-
 
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
@@ -288,9 +296,6 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 5:** Confirm if your iOS device has a screen lock and two-factor authentication enabled. This is crucial for the process to continue smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen lock verify](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
 - **Step 6:** Follow the on-screen instructions to put your iOS device in Recovery Mode. If necessary, you can also opt for [<u>DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) by following the provided instructions. Once in Recovery Mode, the tool will recognize your device model. You’ll need to select the correct system version to proceed.
@@ -307,12 +312,13 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 9:** You’ll receive a notification once the process is complete. You may try again if the process fails to succeed the first time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone complete screen unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 **Note:** After Apple ID removal, you must re-enter a new Apple ID to access the App Store. Take note of the password now if you forgot your previous one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -322,6 +328,10 @@ While it’s an effective solution, always consider it a secondary option to saf
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do You Remove Restricted Mode on Apple iPhone XS
 
 Restricted Mode on iPhone is useful for controlling access to certain content. If you need to remove these restrictions, learn **how to disable Restricted Mode on your Apple iPhone XS** by reading the article. The feature provides a layer of security and content filtering. However, it can limit functionality in some apps.
@@ -329,6 +339,10 @@ Restricted Mode on iPhone is useful for controlling access to certain content. I
 Follow the steps outlined in the page's latter part to learn **how to turn off Restricted Mode on your Apple iPhone XS**. This will grant you unrestricted access to all apps and content, ensuring a smoother and more flexible user experience. To know more, let's get started.
 
 ![turn off restricted mode iphone banner](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What Is the iPhone's Restricted Mode?
 
@@ -381,10 +395,11 @@ For users on iOS 12 and above, turning off Restricted Mode is straightforward:
 
 - **Step 1**: Open the **Settings** app on your Apple iPhone XS and scroll down to find **Screen** **Time** > **Content** **& Privacy Restrictions**. Enter your passcode when prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning off restrictions mode ios 12](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2**: Toggle off the switch next to **Content & Privacy Restrictions**. This action turns off Restricted Mode on your Apple iPhone XS.
 
@@ -396,6 +411,10 @@ For those using iOS 11 and below, the steps are a bit different:
 
 ![turning off restrictions mode ios 11](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Toggle off the switch next to **Restrictions**. The action turns off Restricted Mode on iOS 11 and below.
 
 ### Method 3: Turn Off Restricted Mode Using Dr.Fone - Screen Unlock (iOS)
@@ -403,7 +422,6 @@ For those using iOS 11 and below, the steps are a bit different:
 There may be situations where removing Restricted Mode on your Apple iPhone XS becomes challenging. If you can't unlock your Apple iPhone XS screen time, then you need a specialized tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)<u>.</u> The platform's Unlock Screen Time Passcode feature can assist in its removal in quick and easy steps.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 **Key features**
 
@@ -431,6 +449,10 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 ![unlocking finished window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus. How To Turn Restricted Mode On or Off on YouTube
 
@@ -474,9 +496,6 @@ Managing **how to disable Restricted Mode on iPhone** and YouTube ensures a safe
 
 Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. These versatile solutions grant you control over content accessibility and privacy, enhancing your digital experience. You can easily navigate and customize your device's restrictions by mastering these techniques.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,9 +508,23 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-craft-magical-reels-on-instagram-using-top-6-tools/"><u>[New] Craft Magical Reels on Instagram Using Top 6 Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/lashglimpse-crafter/"><u>[New] FlashGlimpse Crafter</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-techniques-for-screen-capturing-on-various-os-and-gadgets/"><u>[Updated] 2024 Approved Essential Techniques for Screen Capturing on Various OS & Gadgets</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-13t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi 13T by Name | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/error-the-content-youre-looking-for-cannot-be-located/"><u>Error: The Content You're Looking For Cannot Be Located</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-6-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 14 Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 7 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budget-deals-on-high-quality-gopros/"><u>In 2024, Budget Deals on High-Quality GoPros</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xs-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Plus Prevention & Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-13-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 13 mini Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sales-of-apples-latest-series-watch-9-and-ultra-continue-amidst-legal-hold-on-prohibition-insights-from-zdnet/"><u>Sales of Apple's Latest Series: Watch 9 & Ultra Continue Amidst Legal Hold on Prohibition - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-oled-laptop-picks-comprehensive-analysis-and-comparisons-by-tech-experts-guide/"><u>Top-Ranking OLED Laptop Picks : Comprehensive Analysis & Comparisons by Tech Experts Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/turbo-charging-your-vimeo-views/"><u>Turbo-Charging Your Vimeo Views</u></a></li>
+</ul></div>
 

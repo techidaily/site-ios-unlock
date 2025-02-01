@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone XS
-date: 2024-07-15T00:48:07.753Z
-updated: 2024-07-16T00:48:07.753Z
+date: 2025-01-24T17:35:52.792Z
+updated: 2025-02-01T03:04:46.548Z
 tags: 
   - unlock
   - remove screen lock
@@ -99,8 +99,9 @@ Step 3: Toggle Attention Aware Features On.
 That‘s it. Now, when you get a call and your Apple iPhone XS 13 is ringing loud, looking at your Apple iPhone XS 13/12/11 will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your Apple iPhone XS. Additionally, your Apple iPhone XS screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### II.IV Filling Passwords in Safari Automatically Using Face ID
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your Apple iPhone XS with Face ID.
@@ -135,6 +136,10 @@ Step 4: When done, the Record button changes to Send:
 
 Tap Send to send your first Memoji/ Animoji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III: How to Remove Face ID on Apple iPhone XS
 
 For all the hardware and software that make for a great experience for nearly all users around the world, Face ID can have its fair share of issues. Sometimes, your face might not get recognized, sometimes it might not work altogether.
@@ -151,9 +156,6 @@ Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Appl
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part IV: How to Set Up Face ID on Your Apple iPhone XS
 
 Sometimes, you may just want to disable Face ID temporarily or the issue gets solved, and want to activate Face ID again. Setting up a Face ID on your Apple iPhone XS 13 is easy. To set up Face ID, sit in a comfortable spot with adequate lighting and follow these steps:
@@ -174,15 +176,25 @@ In case you are getting the following error:
 
 ![face id error](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are a few things you can try to resolve this, you can try to update your Apple iPhone XS 13/12/11 to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
 
 If this does not resolve it, you need to take the Apple iPhone XS device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part V: The Bottom Line
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone XS (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone XS can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone XS with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -193,9 +205,11 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,395,217** people have downloaded it
-
-
 
 ## How to Bypass Apple iPhone XS Passcode Easily [Video Inside]
 
@@ -210,8 +224,6 @@ If you have forgotten the passcode of your Apple iPhone XS, then don’t worry! 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 Compatible with every leading iOS device, it runs on all major iOS versions. Since Dr.Fone has an easy-to-use interface, it can simply resolve your issues without much trouble. You can restore your phone and perform an Apple iPhone XS bypass with Dr.Fone - Screen Unlock by following these steps.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -230,9 +242,6 @@ Bypass Apple iPhone XS Passcode at Ease
 
 **Step 2**. Connect your Apple iPhone XS to the system and let the application detect it automatically. Click on the “**Unlock iOS Screen**” button whenever you need to initiate the operation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![connect Apple iPhone XS to bypass Apple iPhone XS passcode](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3**. After your phone is detected, you need to activate the DFU mode as instructed by the on-screen steps.
@@ -263,9 +272,6 @@ If you are an avid user of Apple products, then the chances are that you must ha
 
 **Step 1**. Firstly, hold the Home button on our phone to activate Siri. Speak a command like “Siri, what time is it?” to ask the present time. Now, tap on the clock icon.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ask siri the time](https://images.wondershare.com/drfone/article/2017/07/14993665847305.jpg "ask siri the time")
 
 **Step 2.** It will open an interface for the world clock feature. From here, add another clock.
@@ -288,6 +294,10 @@ If you are an avid user of Apple products, then the chances are that you must ha
 
 ![add new message](https://images.wondershare.com/drfone/article/2017/07/14993668505901.jpg "add new message")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** As your text will turn green, tap on the add icon again.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14993668977221.jpg "add contact")
@@ -295,6 +305,10 @@ If you are an avid user of Apple products, then the chances are that you must ha
 **Step 8.** From the next interface, select the option of “Create New Contact”.
 
 ![Create new Contact](https://images.wondershare.com/drfone/article/2017/07/14993669187170.jpg "Create new Contact")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 9.** While adding a new contact, tap on the contact photo icon and choose “Add Photo”.
 
@@ -330,15 +344,16 @@ Another popular way to restore your Apple iPhone XS is by taking the assistance 
 
 ![erase content](https://images.wondershare.com/drfone/article/2017/07/14993665401648.jpg "erase content")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to bypass Apple iPhone XS passcode with Elcomsoft iOS Forensic Toolkit?
 
 This might be new to you, but there are a few forensic toolkits in the market that can help you perform Apple iPhone XS bypass without much trouble. One of the most reliable options is the Elcomsoft iOS Forensic Toolkit. Though, in order to use it, you need to download [its licensed version](https://www.elcomsoft.com/) from its website right.
 
 Later, you can simply connect your phone to the system and run the forensic tool. From the welcome screen, select the option of “Get Passcode”. This will run an encrypted command and provide a passcode to your phone that can be used to unlock it.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![elcomsoft iso toolkit](https://images.wondershare.com/drfone/article/2017/07/14993665593982.jpg "drfone toolkit")
 
 ### Wrap it up
@@ -412,7 +427,6 @@ There is no doubt that you may worry about losing all your data while bypassing 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
-
 ## Part 4: How to Unlock Apple iPhone XS to Use USB Accessories without Passcode via iCloud?
 
 With iCloud, you can quickly clean up your Apple iPhone XS, remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone XS has the "Find My iPhone" function enabled, otherwise your device will be offline.
@@ -468,6 +482,10 @@ Now, you'll get an iPhone which is like being factory reset. And you could unloc
 
 From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q2: Why does My iPhone Think My Charger is a USB Accessory?
 
 It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
@@ -486,7 +504,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -499,9 +516,24 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-maximizing-your-iphones-creative-capabilities/"><u>[Updated] 2024 Approved Maximizing Your iPhone's Creative Capabilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-zdsoft-video-recording/"><u>[Updated] 2024 Approved The Ultimate Guide to ZDSoft Video Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-the-functionality-of-m1-max-clips/"><u>[Updated] Understanding the Functionality of M1 Max Clips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138558834-9780880500920-3-steps-to-awakening/"><u>3 Steps to Awakening | Free Book</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/diy-asus-zenbook-ssd-upgrade-handbook-boost-your-systems-performance-today/"><u>DIY ASUS ZenBook SSD Upgrade Handbook - Boost Your System's Performance Today!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-turn-off-a-discord-server-device-wise/"><u>How to Turn Off a Discord Server Device-Wise</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-xs-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone XS with iTunes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6-plus-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 8 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Without Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-15-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 15 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-social-media-trends-for-2024/"><u>Infographic - Social Media Trends for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-mic-testing-in-minutes/"><u>Master the Art of Mic Testing in Minutes</u></a></li>
+</ul></div>
 

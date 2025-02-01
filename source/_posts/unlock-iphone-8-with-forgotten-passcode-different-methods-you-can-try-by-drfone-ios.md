@@ -1,7 +1,7 @@
 ---
 title: Unlock iPhone 8 With Forgotten Passcode Different Methods You Can Try
-date: 2024-07-15T00:42:44.472Z
-updated: 2024-07-16T00:42:44.472Z
+date: 2025-01-28T17:32:28.403Z
+updated: 2025-01-31T22:17:55.104Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,16 +24,10 @@ So let's get started.
 
 Your iPhone passcode can be reset in a variety of ways, depending on whether you have a backup. Below, we'll go over the three most common methods for resetting an iPhone passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Use Find My iPhone
 
 If you've activated Find My iPhone, you can use it to reset your passcode. Resetting your passcode this way is probably the simplest method, as it doesn't require any technical knowledge or special tools.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find My Apple iPhone 8](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-1.jpg)
 
 Just follow the steps below and get started.
@@ -44,14 +38,15 @@ Just follow the steps below and get started.
 
 Once your Apple iPhone 8 has been erased, it can be set up as a new device and you can choose a new passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Unlock it via Recovery mode with iTunes
 
 You can use Recovery mode to reset your device if you've synced your Apple iPhone 8 with iTunes. This method will erase all of the data on your Apple iPhone 8, so confirm you have a backup before proceeding.
 
 ![with itunes](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Just go with the steps below.
 
@@ -79,8 +74,6 @@ While this method doesn't give you direct access to the home screen, it does all
 ## Bonus Tips: Easy Tool to Unlock iPhone 6 without Passcode
 
 If none of the above-mentioned methods works for you, or you don't want to use them, there is another method that will surely work for you. Dr.Fone - Screen Unlock is a powerful software that can unlock your Apple iPhone 8 without a passcode. The software is extremely easy to use and supports all iOS devices.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -115,7 +108,6 @@ You need to wait as the process may take several minutes. So be patient and don'
 
 ![unlock iphone successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
 This is a very easy-to-use way to reset your Apple iPhone 8 passcode. So, if you're looking for a hassle-free solution, this is the one you should obtain.
 
 As we told you earlier, any method you follow will lose your data, as there is no way to unlock your Apple iPhone 8 6 without losing the data. So, how can you back up your Apple iPhone 8 to avoid forgetting the passcode? Let's find out.
@@ -124,12 +116,15 @@ As we told you earlier, any method you follow will lose your data, as there is n
 
 [Wondershare Dr.Fone](https://drfone.wondershare.com/iphone-backup-and-restore.html) is an excellent tool that can help you keep your Apple iPhone 8 data to avoid losing it. The software is extremely easy to use and supports all iOS devices.
 
-
 **Step #1: Launch Dr.Fone App on Your Computer**
 
 Firstly, you need to download and install Dr.Fone on your computer. Once it's installed, launch the program and select "Backup Device" from the main interface.
 
 ![forgot passcode iphone 6](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #2: Connect your Apple iPhone 8 6**
 
@@ -167,7 +162,9 @@ We hope this article helped you reset your Apple iPhone 8 if you forgot the pass
 
 Also, if you're looking for an easy and effective way to unlock your device, we recommend you try [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) software. It's extremely easy to use and supports all iOS devices. Plus, it won't erase your data as long as you have a backup.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Fix Apple iPhone 8 Unavailable Issue With Ease
 
@@ -209,7 +206,6 @@ After installing Wondershare Dr.Fone onto your computer, launch it. Proceed by a
 
 ![select unlock ios screen option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - **Step 2. iDevice Recovery Mode and Firmware Download**
 
 Afterward, place your iDevice into Recovery Mode by following the on-screen instructions. Then, the platform will detect the “Device Model” and showcase it. If necessary, change the model and choose the “System Version.” Once these adjustments are made, click on "Start "to continue. The next screen will display the download progress of the iOS firmware.
@@ -246,9 +242,6 @@ One potential solution to resolve the Apple iPhone 8 Unavailable issue is the �
 
 - **Step 2.** A prompt will appear on the screen, warning you about the data loss or trying again in 15 minutes. Here, tap “ Erase iPhone” again, and on the following screen, enter the Apple ID “Password.” This will kickstart the process of erasing your Apple iPhone 8, and it will become available.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![erase start process via apple id](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-8.jpg)
 
 ## Part 5. How To Unlock iPhone Unavailable Using Other Device
@@ -269,6 +262,14 @@ Moreover, it will result in deleting all data on the locked device. These are th
 
 ![provide apple id password for erasing](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6. How To Unlock iPhone Unavailable Using iTunes
 
 Consider utilizing iTunes as a solution for the "iPhone Unavailable" issue. It involves the restoration of your device to its factory settings. While effective, note that it leads to complete data loss. Unlocking your Apple iPhone 8 Unavailable via iTunes is detailed in the following step-by-step guide:
@@ -288,6 +289,10 @@ Consider utilizing iTunes as a solution for the "iPhone Unavailable" issue. It i
 
 In conclusion, several helpful methods exist for **how to unlock unavailable iPhone**. Various techniques offer solutions, including iTunes, Find My, and other device removal methods. Dr.Fone distinguishes itself as the most effective choice. This is due to its user-friendly interface and capability to bypass the lock, making it the optimal solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reset iTunes Backup Password Of Apple iPhone 8: Prevention & Solution
 
 When you back up the data from your Apple iPhone 8, iPad, or iPod touch, you will have a copy of the information stored on those devices. It's free to use iTunes, iCloud, or both to back up your device.
@@ -296,9 +301,6 @@ If you have forgotten the password to your backup, you may reset your Apple iPho
 
 To get started, please follow the instructions that are listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![itunes](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-1.jpg)
 
 ## Part 1: iPhone Backup Encryption Specifications
@@ -314,6 +316,10 @@ Resetting your password may be done in different methods, depending on whether o
 Connecting your device to a computer and using the iTunes program will allow you to reset your password even if you do not have an iCloud account. After successfully changing your password, you can access your backups the same way as before.
 
 ![password security](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To improve the safety of your Apple iPhone 8 backup, you should first change the password for your iTunes backup. This will guarantee that no one else can see your backup file and that only you can access it. No one else will have chance to get it.
 
@@ -363,6 +369,10 @@ Double-click **Show Password**, and choose it from the drop-down menu. The passw
 
 ![macos keychain](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Best App to Remove iTunes Backup Password
 
 Do you have a loved one's locked iPhone and don't know the passcode?
@@ -373,12 +383,15 @@ So, whether your loved one has forgotten their screen lock code, had their phone
 
 The process is simple -download the software, connect your Apple iPhone 8 to your computer, click a few buttons, and voila! Your device is unlocked with no data loss. And there's no need to jailbreak your device or enter any passwords - it's all done with just a few clicks.
 
-
 With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes backup password.
 
 **Step 1:** Install Dr.Fone, launch it and select the red button **"Screen Unlock."**
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Go to the Screen Unlock interface, tap on **"Remove iTunes BackUp Encryption"** on the bottom right to reset the encryption password iPhone.
 
@@ -401,7 +414,6 @@ Click **"Remove Now"**
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 4: Tips to Keep Your Apple iPhone 8 Backup Password
 
@@ -429,12 +441,15 @@ Launch Notes and make a new note to do this. After that, you may protect the mes
 
 You may now easily access your backup password by referring to the note. Though it's not ideal, it's better than losing track of your password and starting over from scratch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 The process to reset iPhone's backup password is not as complicated as you think and can be completed in a matter of minutes. You may quickly and reset your password and go back to using your phone by following the steps outlined above.
 
 Dr.Fone - Screen Unlock is the easiest method to delete the password from your iTunes backup. This program makes regaining access to your phone and its contents as simple as tapping a screen. If you want to avoid going through this procedure again, be sure to implement the suggestions provided in Section 3.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -448,9 +463,26 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-gear-for-youtube-content-makers/"><u>[New] 2024 Approved Ultimate Gear for YouTube Content Makers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-replay-movies-in-android-a-step-by-step-guide/"><u>[New] Replay Movies in Android A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-vr-shopping-interface-prototyping/"><u>[Updated] In 2024, VR Shopping Interface Prototyping</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-power-of-zoom-in-kinemaster-editing-for-2024/"><u>[Updated] Unveiling the Power of Zoom in Kinemaster Editing for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/clonezilla-windows-118-7/"><u>「利用 Clonezilla 在 Windows 11、8 或 7 系统下进行高效的磁碟拷贝功能」</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-mp4-edits-on-apple-devices/"><u>2024 Approved Navigating the World of MP4 Edits on Apple Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-seamless-time-logging-on-youtube-desktopmobile/"><u>2024 Approved Seamless Time Logging on YouTube (Desktop/Mobile)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-forcing-a-reboot-on-your-apple-device-to-access-recovery-settings/"><u>Expert Advice: Forcing a Reboot on Your Apple Device to Access Recovery Settings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 With or Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-14-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-6-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 6 Plus Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro Max Without Passcode Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477637783-iphone-silentring-mode-vibration-issue-try-these-8-proven-methods-to-resolve-it-now/"><u>IPhone Silent/Ring Mode Vibration Issue? Try These 8 Proven Methods to Resolve It Now!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/live-streaming-mastery-professional-grade-video-solutions-with-manycam/"><u>Live Streaming Mastery: Professional-Grade Video Solutions with ManyCam</u></a></li>
+</ul></div>
 
