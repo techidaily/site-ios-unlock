@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work
-date: 2024-07-15T00:38:26.350Z
-updated: 2024-07-16T00:38:26.350Z
+date: 2025-02-08T04:15:44.440Z
+updated: 2025-02-14T17:58:30.477Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,7 +27,6 @@ With a quick little tap, you can have your Apple iPhone 8 Plus’s camera workin
 Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone 8 Plus**.
 
 Now, you cannot just **unlock any Apple iPhone 8 Plus with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
-
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 8 Plus?
 
@@ -67,8 +66,9 @@ Additional requirements you’ll need to meet include:
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 8 Plus Face ID.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Apple iPhone 8 Plus With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
@@ -102,6 +102,10 @@ Now that you’ve enabled the option to unlock your Apple iPhone 8 Plus using yo
 Your Apple Watch will send an alert when you’ve used it to unlock your Apple iPhone 8 Plus. If you accidentally unlock your phone, simply tap on the **Lock Apple iPhone 8 Plus** on the screen of your watch to lock it.
 
 However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone 8 Plus, you’ll first need to type in your passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 8 Plus With a Watch
 
@@ -143,9 +147,6 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Do a System Repair on Your Apple iPhone 8 Plus
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -163,9 +164,6 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 4:** Select your device type in the new window that opens;
 - **Step 5:** Select **iOS repair**;
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
 - **Step 6:** Select **Standard Repair Mode**;
@@ -200,13 +198,15 @@ It’s all quite simple:
 
 To perform a hard reset, simultaneously press and hold the power button and digital crown.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Using your Apple Watch to unlock your Apple iPhone 8 Plus is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
-
-
 
 ## Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 Plus
 
@@ -246,6 +246,10 @@ The tool provides users with the convenience of checking if their device is blac
 
 ![select your device type](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** On the following screen, scroll down to choose your smartphone model, followed by your country and network carrier. Next, choose the "Service" you want to use, provide an IMEI number, agree to the terms, and click "Next."
 
 ![choose country and carrier](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-3.jpg)
@@ -253,6 +257,10 @@ The tool provides users with the convenience of checking if their device is blac
 - **Step 3.** This will take you to the next screen, where you can view the "Summary" of your order. If everything is all right, press “Next” to move to payments to pay the charges via Credit Card or Crypto. Afterward, wait for the process to complete, which can take days.
 
 ![review order summary](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Is the Entire doctorSIM System Legit?
 
@@ -272,17 +280,29 @@ Specializing in unlocking iPhones by IMEI, IMEIDoctor is a trusted service. It o
 
 ![imeidoctor imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. CellUnlocker
 
 CellUnlocker stands out as a reputable IMEI unlocking service, catering to many types of smartphones. Known for its reliability, the service facilitates unlocking for numerous carriers globally. This provides flexibility for users requiring international use of their devices. The user-friendly interface further enhances the overall experience.
 
 ![cellunlocker imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. IMEIUnlockSIM
 
 IMEIUnlockSIM is a specialized service focusing on unlocking iPhones through IMEI. Known for its straightforward process, it aims to provide users with a hassle-free experience. This service also offers iCloud unlock and IMEI checks. The service supports a variety of iPhone and Android models and provides timely customer support.
 
 ![imeiunlocksim imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. iUnlockBase
 
@@ -295,6 +315,10 @@ This IMEI unlocking service is a comprehensive service renowned for its expansiv
 Although IMEI Unlocking turns out to be quite an exceptional service, it generally is not the only thing that becomes a barrier for iPhone users. The iCloud Activation binds an Apple device to a user's Apple ID, making itself a great security measure. It presents a unique circumstance where services such as **doctorSIM legit** are inapplicable. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) specializes in bypassing the iCloud Activation Lock.
 
 It allows users to circumvent it without needing the Apple ID. This unique capability sets Dr.Fone apart from other solutions. Once the activation lock is removed, it grants full access to users' devices. Dr.Fone also extends its capabilities to remove an Apple ID in cases where the password is forgotten. Its remarkable performance includes the permanent bypass of the Apple ID lock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Notable Characteristics of Wondershare Dr.Fone
 
@@ -314,7 +338,6 @@ Install and launch the most recent version of Wondershare Dr.Fone onto your comp
 
 ![proceed with icloud activation lock removal](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
-
 - **Step 2. Device Identification and Unlock Initiation**
 
 Now, decide whether your device is GSM or CDMA, as it is an important aspect. Bypassing iCloud Activation Lock on a GSM device won't affect the Apple iPhone 8 Plus device. However, running this process on a CDMA device will result in a loss of cellular activities. Click "Unlock Now" to proceed further, and if your device is CDMA type, you'll encounter a series of pointers. Go through them and click "Got It!" after agreeing with all the mentioned points.
@@ -325,9 +348,6 @@ Now, decide whether your device is GSM or CDMA, as it is an important aspect. By
 
 After this, if your iDevice isn't jailbroken, you will be required to jailbreak your device. For that, you can follow the step-by-step textual instructions or watch a video. Once the Apple iPhone 8 Plus device is jailbroken, the process will commence automatically to bypass the Activation Lock. A completion message will pop up on the window when the process finishes. Afterward, tap the “Done” button to finalize the process successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud activation lock successfully removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 #### 2\. For Devices Running iOS/iPadOS 15.0 to 16.3
@@ -380,6 +400,10 @@ While we said, you shouldn’t type in random numbers to try and guess the passw
 
 ![iphone random passcodes](https://images.wondershare.com/drfone/iphone-random-passcodes-.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
 
 ### 2.2 Unlock iPhone with an unlock tool
@@ -424,18 +448,6 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 
 **Step 3.** Follow the onscreen instructions where you’ll choose which backup file you want to use before iTunes, then restores your device. When the software has completed the process, you’ll be able to disconnect your Apple iPhone 8 Plus and use it without a lock screen!
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
 
 ### 2.4 Restore in recovery mode
@@ -476,7 +488,6 @@ Leave the Apple iPhone 8 Plus device to erase, and once completed, you’ll be a
 
 And there you go, the five key ways you need to know when it comes to removing an unwanted lock screen from your iOS device after an iOS 17/14 update. We highly recommend the Dr.Fone - Screen Unlock (iOS) since the software makes the whole process incredibly easy, especially when managing any problems you may have on your iOS device!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,9 +500,23 @@ And there you go, the five key ways you need to know when it comes to removing a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-boost-your-posts-top-3-instagram-highlight-methods/"><u>[New] In 2024, Boost Your Posts Top 3 Instagram Highlight Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-video-frame-changer/"><u>[New] In 2024, Twitter Video Frame Changer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-inexpensive-sky-explorers-the-least-expensive-drones/"><u>[Updated] 2024 Approved Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-instagrams-updated-feed-dynamics/"><u>[Updated] 2024 Approved Navigating Instagram’s Updated Feed Dynamics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-youtube-presence-11-must-know-seo-strategies-for-success-for-2024/"><u>[Updated] Maximize YouTube Presence 11 Must-Know SEO Strategies for Success for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-an-engaging-film-teaser/"><u>Crafting an Engaging Film Teaser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/five-leading-e-learning-platforms-to-excel-in-artificial-intelligence-ai-prompt-design/"><u>Five Leading E-Learning Platforms to Excel in Artificial Intelligence (AI) Prompt Design</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6s-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xr-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XR Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-se-2020-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone SE (2020) Lock Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-edge-40-pro-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Motorola Edge 40 Pro.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-5-ways-to-get-into-a-locked-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s? 5 Ways to get into a Locked Apple iPhone 6s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-11-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 11 Pro Max Without iTunes in 5 Ways</u></a></li>
+</ul></div>
 

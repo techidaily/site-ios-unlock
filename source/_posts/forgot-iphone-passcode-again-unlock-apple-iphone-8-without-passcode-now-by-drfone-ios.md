@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Without Passcode Now
-date: 2024-07-15T00:41:43.765Z
-updated: 2024-07-16T00:41:43.765Z
+date: 2025-02-14T03:45:35.873Z
+updated: 2025-02-14T20:08:13.883Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,6 +25,10 @@ However, that move also presented an issue. As passcode was only required some o
 We present you with three easy ways to unlock iPhone without passcode.
 
 ![forget passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I.I: Unlock Apple iPhone 8 Without Passcode Through iTunes/ macOS Finder
 
@@ -60,7 +64,6 @@ Wondershare Dr.Fone is a collection of tools designed to help you perform variou
 
 It is a must-have software that supports iOS and Android and works on both macOS and Windows. Download [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) here to begin.
 
-
 **Step 1:** You need to connect your PC with a USB to Your Apple iPhone 8. And open Dr.Fone.
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -75,9 +78,6 @@ It is a must-have software that supports iOS and Android and works on both macOS
 
 **Step 4:** Dr.Fone detects the software version and device model automatically. If the detected information is incorrect, adjust it correctly and click Start.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![automatic detection device and software drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5:** When the downloaded software is verified, and the Apple iPhone 8 is ready to be unlocked, Dr.Fone will prompt with the below screen:
@@ -85,7 +85,6 @@ It is a must-have software that supports iOS and Android and works on both macOS
 Click Unlock Now and wait until the unlock successful notification pops up.
 
 ![unlock iphone without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ### I.III: Unlock Apple iPhone 8 Without Passcode Through The iCloud Website (Find My iPhone)
 
@@ -110,6 +109,10 @@ This means that it might be easier for you if you have another Apple device sign
 **Step 1:** Launch Find My app on your macOS or iOS device.
 
 ![unlock iphone with find my app](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Select the locked iPhone from the list of devices, click or tap it on the map and click or tap Erase This Device.
 
@@ -155,9 +158,6 @@ These restrictions highlight the need to learn **how many attempts for iPhone pa
 
 ![iphone unavailable notification after many attempts](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. How Many Times Until the Apple iPhone 8 Is Permanently Disabled?
 
 Unlocking an iPhone involves a series of attempts, each with distinct consequences. Here's a breakdown of **how many failed passcode attempts on an iPhone** you can do before it locks you out:
@@ -191,11 +191,19 @@ Unlocking an iPhone involves a series of attempts, each with distinct consequenc
 
 ![iphone is disabled 1 hour](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **10th Attempt**
 
 - iPhone is disabled.
 
 ![iphone is disabled connect to itunes](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Two things can happen on the tenth failed attempt to unlock your Apple iPhone 8. If you have **Erase Data** enabled, your phone's data gets wiped. If it's disabled, the Apple iPhone 8 is permanently locked, requiring a connection to iTunes for restoration. It's crucial to [<u>back up your data on iCloud</u>](https://drfone.wondershare.com/icloud/restore-from-icloud-backup.html) or locally to avoid permanent loss.
 
@@ -213,11 +221,16 @@ Safeguard your personal information with these simple steps to remotely wipe you
 
 ![iphone erase data feature](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Scroll down and find the Erase Data option. Toggle the button to activate the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How To Disable Erase Data Mode
 
 Here are the steps to disable Erase Data Mode on your Apple iPhone 8, ensuring controlled access to your device.
@@ -233,9 +246,6 @@ When wondering **how many tries to unlock an iPhone**, consider the following me
 
 When facing a disabled iPhone, [<u>Wondershare Dr.Fone - Screen Unlock (iOS) </u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) stands out as a reliable solution. It's a comprehensive platform that unlocks iOS devices without a passcode. Here are some of the tool's key features to help you get started:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Removes all types of lock screens.** Fone Screen Unlock tackles various lock screen types, like [<u>pattern lock</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), etc. It offers a comprehensive solution for different scenarios.
@@ -251,6 +261,9 @@ After **many failed passcode attempts on your Apple iPhone 8**,Dr.Fone can help 
 
 ![dr.fone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Follow the on-screen instructions. Dr.Fone will automatically detect your Apple iPhone 8 model. If necessary, choose the **System Version** according to your preference. Next, click **Start** to start the iOS firmware download.
 
@@ -266,9 +279,6 @@ An alternative method to unlock your Apple iPhone 8 when locked or disabled invo
 
 - **Step 1**: Launch iTunes on your computer. Connect your locked iPhone using a cable and let iTunes identify the Apple iPhone 8 device. Next, navigate to the **Summary** section and select the **Restore iPhone** option.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![itunes main window](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-10.jpg)
 
 - **Step 2:** Allow iTunes to identify your device. Start the restoration of previous data by selecting **Restore Backup**. Your Apple iPhone 8 will be unlocked with all the associated data if you have backed up your information on iTunes. Otherwise, you will need to set it up as a new iPhone.
@@ -283,6 +293,10 @@ Activating Recovery mode is another useful method for accessing a locked phone. 
 ![iphone hard reset](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-11.jpg)
 
 - **Step 3:** iTunes will prompt you to either restore or update your Apple iPhone 8. Choose the **Restore iPhone** option to reset your device to its factory settings. If the restoration process extends beyond 15 minutes and your Apple iPhone 8 exits recovery mode, you'll need to repeat the steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Using iCloud To Unlock a Lock or Disabled iPhone
 
@@ -306,9 +320,11 @@ Consider using Dr.Fone Screen Unlock (iOS) for a secure and data-preserving unlo
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## Apple iPhone 8 Backup Password Never Set But Still Asking? Here's the Fix
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
 
@@ -317,6 +333,10 @@ When you use iTunes to create a backup, the backup will probably have a password
 In most cases, this occurs when the Encrypt Backup option is activated. As an official iOS feature, its purpose is to provide iOS users with the iTunes backup encryption for further security.
 
 ![encrypt local backup](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone 8 backup unlocking never set by you.
 
@@ -414,13 +434,11 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 8 backup password. The first method is to try all the passwords you use on your Apple iPhone 8. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 8.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -434,9 +452,26 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enable-quiet-youtube-bgplay-for-iphone-and-android/"><u>[New] 2024 Approved Enable Quiet YouTube BGPlay for iPhone & Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dynamic-typography-adding-layers-to-your-illustration/"><u>[New] Dynamic Typography Adding Layers to Your Illustration</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-ultimate-list-of-prime-video-favorites-on-twittersphere/"><u>[New] In 2024, The Ultimate List of Prime Video Favorites on Twittersphere</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-miniature-harmonies-character-music-journey/"><u>[Updated] 2024 Approved Miniature Harmonies Character Music Journey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-iphone-voice-memo/"><u>[Updated] In 2024, The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-resource-for-advanced-periscope-techniques-for-2024/"><u>[Updated] The Ultimate Resource for Advanced Periscope Techniques for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-x-audio-studio-pro-for-computer-users-for-2024/"><u>[Updated] X-Audio Studio Pro for Computer Users for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-classic-to-curvy-embracing-distorted-photography-styles/"><u>2024 Approved From Classic to Curvy Embracing Distorted Photography Styles</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-x6-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco X6 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-microsofts-bluetooth-driver-update-for-win-11-win-10-and-previous-os-versions/"><u>Easy Guide to Microsoft's Bluetooth Driver Update for Win 11, Win 10, and Previous OS Versions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-6s-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-by-drfone-ios/"><u>How to Unlock iPhone 7?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 6 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-pro-max-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Max Without Passcode Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-15-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 15 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 15 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-12-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 12 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Plus Passcode without a Computer</u></a></li>
+</ul></div>
 
