@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 with a Mask On
-date: 2025-02-07T17:12:13.791Z
-updated: 2025-02-15T02:21:55.909Z
+date: 2025-02-27T07:41:55.114Z
+updated: 2025-03-03T22:27:53.418Z
 tags: 
   - unlock
   - remove screen lock
@@ -47,10 +47,6 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
 
 ![enable face id with mask option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-2.jpg)
@@ -62,10 +58,6 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
 
@@ -91,17 +83,9 @@ To enable the feature of unlocking the Apple iPhone 8 with an Apple Watch, the s
 
 After enabling this feature, you can unlock your Apple iPhone 8 with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 8 has been unlocked.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -129,10 +113,6 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 _Apple iPhone 8 Disabled?_
 
 Because of using face masks, [Face ID](https://drfone.wondershare.com/unlock/how-to-remove-face-id-on-iphone-13.html) on iPhone does not always work correctly, and we are entering our passcodes more than before. If we enter it incorrectly a few times in succession, the phone will disable itself to prevent unauthorized access. It can seem like the end of the world because in so many ways smartphones have become our world. Here are ways you can unlock your Apple iPhone 8 disabled due to too many incorrect passcode attempts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Unlock Disabled Apple iPhone 8 Without iTunes/ iCloud Using Dr.Fone - Screen Unlock (iOS)
 
@@ -167,10 +147,6 @@ Do note that all methods that unlock your Apple iPhone 8 will necessarily wipe y
 
 ![download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** After the download completes, please click Unlock Now to start unlocking the disabled Apple iPhone 8.
 
 ![start unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -195,10 +171,6 @@ Step 2: Pick your Apple iPhone 8 and do the following:
 
 ![restore iphone to factory settings](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Choose Restore to download and reinstall the latest iOS on your Apple iPhone 8 and unlock your Apple iPhone 8.
 
 When the Apple iPhone 8 reboots, it will be reset to factory settings, and you can set it up again as you did when brand new.
@@ -219,10 +191,6 @@ Step 3: Click Erase iPhone and confirm.
 
 This will start the wipe process on your Apple iPhone 8 remotely and your Apple iPhone 8 will be reset to factory settings. You can now proceed to setup your Apple iPhone 8 once again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Unlock Disabled Apple iPhone 8 Using Find My iPhone App
 
 There are times you have another iOS device in the family or just lying around, you can use that device to unlock your disabled Apple iPhone 8. This method is particularly useful if you're traveling with family or alone, and only have family members with their own iOS devices or, say, your iPad with you. As always, note that all these methods will wipe your data from your Apple iPhone 8.
@@ -230,10 +198,6 @@ There are times you have another iOS device in the family or just lying around, 
 Step 1: Open the Find My app on your other iOS device or Mac
 
 ![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Select your disabled Apple iPhone 8 from the Apple iPhone 8 devices from the left pane, click/ tap your disabled Apple iPhone 8 and click/ tap Erase This Device
 
@@ -265,10 +229,6 @@ After all this to get access back, you might think let's go passcode-less and pr
 - 1.2 Never use birthdates, years, vehicle numbers or any such numbers that may be easily tried by others.
 - 1.3 Never use repeating numbers.
 - 1.4 Do not use your ATM PIN as your phone passcode either. Think of some digits or combination that makes sense to you and only you. And then use it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 2: Use Face ID
 
@@ -412,16 +372,21 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-iconic-logos-for-podcasts-standout-strategies/"><u>[Updated] Iconic Logos for Podcasts Standout Strategies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-social-media-sync-integrating-multiple-photographsvideos-into-your-ig-feed/"><u>[Updated] In 2024, Social Media Sync Integrating Multiple Photographs/Videos Into Your IG Feed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/elevate-your-gaming-experience-nintendo-switch-and-steam-synergy/"><u>Elevate Your Gaming Experience Nintendo Switch and Steam Synergy</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-your-windows-7-audience-with-nvidia-update/"><u>Elevate Your Windows 7 Audience with Nvidia Update</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-c51-by-fonelab-android-recover-video/"><u>How to recover old videos from your C51</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone X Lock Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11 Pro Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-11-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 11 Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-8-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-8-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 8 in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-by-toms-electronics-review-site/"><u>The Ultimate Guide by Tom's Electronics Review Site</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-data-in-the-cloud-select-five-titans-of-storage-and-safety/"><u>[Updated] 2024 Approved Data in the Cloud Select Five Titans of Storage & Safety</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-best-value-camcorders-for-sports-and-stunts/"><u>[Updated] Top 5 Best Value Camcorders for Sports and Stunts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-13-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 13 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/algorithmic-insights-understanding-gpts-interpretation-engine/"><u>Algorithmic Insights: Understanding GPT's Interpretation Engine</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-and-compact-the-ultimate-samsung-galaxy-s10e-assessment/"><u>Budget-Friendly and Compact: The Ultimate Samsung Galaxy S10e Assessment</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-13-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-13-mini-how-to-unlock-a-disabled-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 13 mini How to Unlock a Disabled Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-xs-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone XS With 7 Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-13-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 13 5G Users</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/movavi-mkvmpeg/"><u>Movavi 기술을 사용한 인터넷에서의 MKV/MPEG 영상 변환: 아무것도 주는 세금 없이!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams-for-2024/"><u>Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-mac-devices-comprehensive-review-by-zdnet/"><u>Top-Rated Mac Devices : Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-pro-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 12 Pro Passcode without a Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Persona 4 Golden's Stability Problems
-date: 2025-02-13T18:43:56.351Z
-updated: 2025-02-15T04:17:58.795Z
+date: 2025-03-01T22:01:39.046Z
+updated: 2025-03-04T05:17:22.470Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 
  There’s one tip before you try the fixes:**keep P5S on Window mode.** This is required, the game won’t run in full screen for some reason.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +27,6 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 2. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Edit P5S file](https://tools.techidaily.com/drivereasy/download/)
 4. [Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Change game properties
 
@@ -66,19 +58,11 @@ There are two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Edit P5S file
 
@@ -89,10 +73,6 @@ There are two ways you can update your graphics drivers:
 3. Open**config.xml** .
 4. Edit the file by replacing **<DisplaySetting>1</DisplaySetting>** to **<DisplaySetting>3</DisplaySetting>** (1 to 3) .
 5. Save the change.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Change NVIDIA settings
 
@@ -124,22 +104,22 @@ There are two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-iconic-imagery-transforming-audio-into-visual-podcast-identity/"><u>[Updated] 2024 Approved Iconic Imagery Transforming Audio Into Visual Podcast Identity</u></a></li>
-<li><a href="https://games-able.techidaily.com/11-must-try-free-word-game-apps-for-both-sides/"><u>11 Must-Try Free Word Game Apps for Both Sides</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Without iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-8-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 8</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/guide-to-converting-aac-files-into-m4r-format-offline-or-online/"><u>Guide to Converting AAC Files Into M4R Format Offline or Online</u></a></li>
-<li><a href="https://fox-making.techidaily.com/haunting-woodland-panorama-high-definition-nature-scenes-by-yl-computing/"><u>Haunting Woodland Panorama - High-Definition Nature Scenes by YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Without Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone X Without Passcode?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-discord-dialogue-perfecting-your-replies/"><u>In 2024, Discord Dialogue Perfecting Your Replies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-8-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 8 Plus Without Passcode Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976335840-obtain-ft232-direct-rs-232rs-485-driver-in-a-flash/"><u>Obtain FT232 Direct RS-232/RS-485 Driver in a Flash</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-7-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 7 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-xr-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone XR Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/windows-10-hddssd/"><u>Windows 10向け HDDをSSDにスムーズ移行のコツ</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728492360262-windows-1011ssd/"><u>スムーズな移行：Windows 10/11で大容量SSDへクローンするための専門的アプローチ</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-pathway-to-professional-looking-animated-gifs-online/"><u>[New] Your Pathway to Professional-Looking Animated GIFs Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-curated-selection-of-best-ps3-simulators-pc-edition/"><u>[Updated] Expert-Curated Selection of Best PS3 Simulators (PC Edition)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-reimagining-action-recording-with-intova-edge-x/"><u>[Updated] In 2024, Reimagining Action Recording with Intova Edge X</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-streamlined-online-gif-conversion-for-videos-top-5/"><u>[Updated] In 2024, Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-se-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone SE</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-xs-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6s Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-mini-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 mini and iPad Securely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-mechanics-behind-anime-translations-insights-into-adaptation-and-localization-for-2024/"><u>New The Mechanics Behind Anime Translations Insights Into Adaptation and Localization for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-successfully-installing-your-epson-xp-830-printer-driver/"><u>Step-by-Step Guide: Successfully Installing Your Epson XP-830 Printer Driver</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/wipe-your-hard-drive-clean-using-hp-secure-erase-learn-both-techniques-here/"><u>Wipe Your Hard Drive Clean Using HP Secure Erase: Learn Both Techniques Here!</u></a></li>
 </ul></div>
 

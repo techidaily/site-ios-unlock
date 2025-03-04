@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 Passcode without iTunes without Knowing Passcode?
-date: 2025-02-12T01:58:43.947Z
-updated: 2025-02-14T20:55:10.237Z
+date: 2025-02-25T00:40:25.689Z
+updated: 2025-03-04T10:37:03.816Z
 tags: 
   - unlock
   - remove screen lock
@@ -60,10 +60,6 @@ Unlock iPhone Screen Without Password
 
 ![how to unlock Apple iPhone 8 passcode without itunes-unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7\. You would be asked to confirm your choice, as the process will reset your device. After providing the on-screen confirmation code, click on the “Unlock” button and let the application unlock your device.
 
 8\. In a matter of a few seconds, your device will be reset, and its passcode would also be removed. You will get the following message once the process is completed.
@@ -88,10 +84,6 @@ Apple also allows its users to remotely locate, lock, and erase their devices. T
 1\. To start with, open the iCloud website on your system and login using your Apple ID and password.
 
 ![how to unlock Apple iPhone 8 passcode without itunes-log in icloud.com](https://images.wondershare.com/drfone/article/2017/09/15060131172457.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. From the home screen, you can access several features. Select “Find my iPhone” to proceed.
 
@@ -137,29 +129,17 @@ Now when you know how to unlock Apple iPhone 8 passcode without iTunes, you can 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Without Passcode Now
 
 Ever since the introduction of Touch ID in iPhone 5s, people have started using passcodes, and it is an excellent thing that passcodes in smartphones have become mainstream. The introduction of biometric Touch ID made way for using passcodes without the need to enter them every time, making the smartphone experience more secure while adding convenience. It was a game-changer move.
 
 However, that move also presented an issue. As passcode was only required some of the time, people started forgetting their passcodes. So, if you have an Apple iPhone 8 and want to know how to unlock Apple iPhone 8 without passcode since you have forgotten it, continue reading to find out what to do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part I: 4 Easy Ways To Unlock iPhone Without Passcode
 
 We present you with three easy ways to unlock iPhone without passcode.
 
 ![forget passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### I.I: Unlock Apple iPhone 8 Without Passcode Through iTunes/ macOS Finder
 
@@ -182,10 +162,6 @@ If you have the older iPhone 7, putting that device in Recovery Mode is slightly
 **Step 2:** Press the volume down and the power keys together until iTunes or Finder show the Apple iPhone 8 in Recovery Mode.
 
 ![iphone recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Once in Recovery Mode, click Restore to unlock Apple iPhone 8 without passcode.
 
@@ -211,17 +187,9 @@ It is a must-have software that supports iOS and Android and works on both macOS
 
 ![recovery mode instructions in drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Dr.Fone detects the software version and device model automatically. If the detected information is incorrect, adjust it correctly and click Start.
 
 ![automatic detection device and software drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** When the downloaded software is verified, and the Apple iPhone 8 is ready to be unlocked, Dr.Fone will prompt with the below screen:
 
@@ -381,10 +349,6 @@ Once your device is in Recovery Mode, you can see its details on the next screen
 
 ![Select system version according to your device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** Download iOS Firmware
 
 The software will start downloading the corresponding iOS firmware. If the firmware download is slow, you can copy the link and download the iOS firmware.
@@ -422,10 +386,6 @@ Turning off iCloud Keychain and then turning it back on can help refresh the dat
 Make sure that your Apple iPhone 8 has a reliable internet connection. Weak or unstable networks can trigger password prompts. Try to switch between different Wi-Fi networks or use cellular data.
 
 ![Check your network connection](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Method 8: Contact Apple Support**
 
@@ -475,22 +435,17 @@ It’s essential to use secure and unique passwords for your accounts. Then, con
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-infuse-your-snap-with-japanese-pop-culture-the-anime-filter-tutorial/"><u>[New] In 2024, Infuse Your Snap with Japanese Pop Culture The Anime Filter Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-m1-computation-face-off-lightweight-vs-robust-designs/"><u>[New] In 2024, M1 Computation Face-Off Lightweight vs Robust Designs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-ads-performance-animation-strategies-for-success-for-2024/"><u>[Updated] Elevate Your Ad's Performance Animation Strategies for Success for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-your-ultimate-youtube-video-gear-top-rated-cameras-and-lenses/"><u>2024 Approved Your Ultimate YouTube Video Gear Top-Rated Cameras and Lenses</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-8-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-itel-p55-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Itel P55? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-15-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 15 Plus with a Broken Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-15-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 15 Plus in Lost Mode</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-8-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Google Pixel 8 Pro FRP Locks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12 mini</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-prominent-personalities-on-snapchat/"><u>In 2024, Strategies for Prominent Personalities on Snapchat</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-g2-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from G2</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-effective-real-youtube-promotion-for-2024/"><u>The Ultimate Guide to Effective, Real Youtube Promotion for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-7-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 7 Passcode without a Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-discover-top-30-steadicam-choices-for-superior-dslr-footage-for-2024/"><u>[New] Discover Top 30 Steadicam Choices for Superior DSLR Footage for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-metaversal-journey-versus-omniverse-quest/"><u>[Updated] 2024 Approved Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-zero-to-hero-rising-in-popularity-with-vimeo-experts/"><u>[Updated] In 2024, From Zero to Hero Rising in Popularity with Vimeo Experts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-15-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-13-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 13 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-7-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 7 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-igtv-status-strategies-for-viewership-surge/"><u>In 2024, Elevate Your IGTV Status Strategies for Viewership Surge</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-12-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 12 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Plus Properly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-cutter-and-joiner-software-for-beginners/"><u>The Ultimate List of Free Video Cutter and Joiner Software for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-websites-streamlining-your-apartment-hunting-journey/"><u>Top 10 Websites Streamlining Your Apartment Hunting Journey</u></a></li>
 </ul></div>
 
